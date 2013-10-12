@@ -28,6 +28,7 @@ class ALLRis:
 
     def getantraege(self,bezirk,at):  
 	"""Retrieve the Bezirk's HTML page for the Antragsteller and extract the data""" 
+	
 	url = 'http://www.berlin.de/ba-%s/bvv-online/vo040.asp?ATLFDNRM=%s&showall=true' % (self.conformspelling(bezirk.name),at)
 	page = urllib2.urlopen(url).read().decode('latin-1') 
 	s = self.sanitize(page, bezirk)
@@ -35,6 +36,7 @@ class ALLRis:
 	    
     def extractantraege(self,scrapedpage):
 	"""extract the Antrag data from an ALLRis page"""
+	
 	parser = ET.XMLParser()
 	parser.parser.UseForeignDTD(True)
 	parser.entity.update((x, unichr(i)) for x, i in name2codepoint.iteritems())
