@@ -1,0 +1,77 @@
+#**
+ *  Render a hit representing a Product
+ *  assumed to have a field called "name"
+ *#
+
+<div class="result-title"><b>$doc.getFieldValue('titel')</b>
+<span class="mlt">  
+#if($params.getBool('mlt', false) == false)
+<a href="#lensNoQ&q=id:$docId&mlt=true">More Like This</a>
+#end
+</span>
+</div>
+##do we have a physical store for this product
+#set($store = $doc.getFieldValue('location'))
+## #if($store)
+## <div class="map">
+## <img src="http://maps.google.com/maps/api/staticmap?&zoom=9&size=200x150&maptype=roadmap&markers=$doc.getFieldValue('location')&sensor=false" />
+## <div>
+## <small><a target="_map" href="http://maps.google.com/?q=$store&amp;source=embed">Larger Map</a></small>
+## </div></div>
+## #end
+<div>Id: #field('id')</div>
+<div>Typ: #field('typ')</div>
+<div>Titel: #field('titel')</div> 
+<div>Bezirk: #field('bezirk')</div>
+<div>Partei: #field('partei')</div>
+<div>ALLRis: <a href="#field('url')"> #field('url') </a></div>
+
+
+<div class="mlt">
+  #set($mlt = $mltResults.get($docId))
+  #set($mltOn = $params.getBool('mlt'))
+  #if($mltOn == true)<div class="field-name">Similar Items</div>#end
+  #if ($mltOn && $mlt && $mlt.size() > 0)
+  <ul>
+    #foreach($mltHit in $mlt)
+      #set($mltId = $mltHit.getFieldValue('id')) 
+      <li>
+	<div>
+	<a href="#url_for_home?q=id:$mltId">$mltHit.getFieldValue('name')</a>
+	</div>
+	<div>
+	<span class="field-name">Bezirk:</span> $mltHit.getFieldValue('bezirk')
+	</div>
+##         <div>
+## 	<span class="field-name">Price:</span> $!number.currency($mltHit.getFieldValue('price')) 
+## 	<span class="field-name">In Stock:</span> $mltHit.getFieldValue('inStock')
+## 	</div>
+
+      </li>
+    #end
+  </ul>
+  #elseif($mltOn && $mlt.size() == 0)
+    <div>No Similar Items Found</div>
+  #end
+</div>
+  <a href="#" onclick='jQuery(this).siblings("pre2").toggle(); return false;'>
+    Antragstext</a>
+
+  <pre2 style="display:none">
+##     #foreach($fieldname in $doc.fieldNames)
+##       <br>
+##         <span class="field-name">$fieldname :</span>
+##         <span>
+##           #foreach($value in $doc.getFieldValues($fieldname))
+##             $esc.html($value)
+##           #end
+##         </span>
+##       </br>
+##     #end
+    <br> 
+    <div class="antragstext"> $doc.getFieldValues("text_de")
+        </div>
+      </br>
+  </pre2>
+
+## #parse('debug.vm')
