@@ -1,0 +1,48 @@
+<add><doc>
+  <field name="id">SP_0401/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">FahrRat auch in Spandau einrichten</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">radverkehrsentwicklung</field>
+<field name="word">bezirke</field>
+<field name="word">fassung</field>
+<field name="word">radverkehrs</field>
+<field name="word">neben</field>
+<field name="word">anderer</field>
+<field name="word">vorbild</field>
+<field name="word">fahrrat</field>
+<field name="word">jahr</field>
+<field name="word">zweimal</field>
+<field name="word">schwerpunkte</field>
+<field name="word">hinsichtlich</field>
+<field name="word">radroutennetzes</field>
+<field name="word">spandau</field>
+<field name="word">tagt</field>
+<field name="word">berät</field>
+<field name="word">angenommen</field>
+<field name="word">folgender</field>
+<field name="word">radverkehr</field>
+<field name="word">förderung</field>
+<field name="word">einzurichten</field>
+<field name="word">werbung</field>
+<field name="word">mindestens</field>
+<field name="word">bezirklichen</field>
+<field name="word">weiterentwicklung</field>
+<field name="word">optimierung</field>
+<field name="word">radfahrern</field>
+<field name="word">öffentlichkeitsarbeit</field>
+<field name="word">radfahrerinnen</field>
+<field name="word">alltagsproblemen</field>
+<field name="word">somit</field>
+  <field name="text_de">Der Antrag wird in folgender Fassung angenommen
+ 
+Das Bezirksamt Spandau wird ersucht, nach dem Vorbild anderer Berliner Bezirke einen bezirklichen "FahrRat" einzurichten, der mindestens zweimal im Jahr tagt und den Bezirk hinsichtlich der Radverkehrsentwicklung berät. Schwerpunkte sollen neben Alltagsproblemen von Radfahrerinnen und Radfahrern, Öffentlichkeitsarbeit und damit Werbung für mehr Radverkehr sowie die Optimierung und Weiterentwicklung des Radroutennetzes und somit die Förderung d
+es Radverkehrs in Spandau sein.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7005&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">529</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,63 @@
+<add><doc>
+  <field name="id">LI_DS/0568/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Zwb.)</field>  
+  <field name="titel">Sanierung der Roedernstraße in Alt-Hohenschönhausen</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beantragt</field>
+<field name="word">zuge</field>
+<field name="word">mittel</field>
+<field name="word">setzen</field>
+<field name="word">wiederhergestellt</field>
+<field name="word">konrad</field>
+<field name="word">fertigstellung</field>
+<field name="word">genehmigt</field>
+<field name="word">november</field>
+<field name="word">voraussichtlich</field>
+<field name="word">baugraben</field>
+<field name="word">kenntnis</field>
+<field name="word">schachtbauwerke</field>
+<field name="word">rechnen</field>
+<field name="word">fahrbahn</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">geplant</field>
+<field name="word">straßenschäden</field>
+<field name="word">wolf</field>
+<field name="word">bittet</field>
+<field name="word">angesprochene</field>
+<field name="word">zumindest</field>
+<field name="word">sondermittel</field>
+<field name="word">nehmen</field>
+<field name="word">teilabschnitt</field>
+<field name="word">dafür</field>
+<field name="word">straße</field>
+<field name="word">folgendes</field>
+<field name="word">etwa</field>
+<field name="word">einzelstellen</field>
+<field name="word">belaufen</field>
+<field name="word">euro</field>
+<field name="word">gropiusstraße</field>
+<field name="word">ersten</field>
+<field name="word">sonderprogramms</field>
+<field name="word">wasserbetriebe</field>
+<field name="word">endgültig</field>
+<field name="word">vorgesehenen</field>
+<field name="word">instand</field>
+<field name="word">roedernstraße</field>
+<field name="word">instandsetzung</field>
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
+Folgendes zur Kenntnis zu nehmen:
+ 
+Für die Instandsetzung der Fahrbahn in der Roedernstraße wurden im Rahmen des Sonderprogramms "Straßenschäden" der Senatsverwaltung Sondermittel beantragt und auch genehmigt.
+ 
+Es ist noch 2013 geplant, zumindest einen ersten Teilabschnitt der Fahrbahn in der Roedernstraße instand zu setzen. Die dafür vorgesehenen Mittel belaufen sich auf etwa 150.000,- Euro. Im Zuge der Instandsetzung werden auch der angesprochene Baugraben sowie die Einzelstellen um Schachtbauwerke der Berliner Wasserbetriebe zwischen Konrad-Wolf-Straße und Gropiusstraße endgültig wiederhergestellt.
+ 
+Mit der Fertigstellung ist voraussichtlich nicht vor November zu rechnen.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5230&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">746</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,54 @@
+<add><doc>
+  <field name="id">RD_0016/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Bezirksverordnetenversammlung im Internet</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">bürger</field>
+<field name="word">kosten</field>
+<field name="word">angebot</field>
+<field name="word">geschätzten</field>
+<field name="word">stream</field>
+<field name="word">internet</field>
+<field name="word">bereit</field>
+<field name="word">sachverhalt</field>
+<field name="word">würden</field>
+<field name="word">live</field>
+<field name="word">öffentlichen</field>
+<field name="word">diesen</field>
+<field name="word">technisch</field>
+<field name="word">möglich</field>
+<field name="word">solches</field>
+<field name="word">auskunft</field>
+<field name="word">bezirkswebsite</field>
+<field name="word">hoch</field>
+<field name="word">stehen</field>
+  <field name="text_de">Sachverhalt:
+ 
+Das Bezirksamt wird um Auskunft gebeten:
+ 
+1.
+       
+Ist es dem Bezirksamt technisch möglich
+,
+ einen Live-Stream der öffentlichen BVV-Sitzung im Internet bereit zu stellen?
+2.
+       
+Ist es möglich
+,
+ diesen Live-Stream dem Bürger auf der Bezirkswebsite von berlin.de bereit zu stellen?
+3.
+       
+Wie hoch sind die geschätzten Kosten
+,
+ die dem Bezirk durch ein solches Angebot en
+t
+stehen würden?
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3065&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">418</field>  
+  <field name="parteien">1</field>  
+</doc></add>

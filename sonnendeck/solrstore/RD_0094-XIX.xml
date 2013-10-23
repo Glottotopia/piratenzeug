@@ -1,0 +1,41 @@
+<add><doc>
+  <field name="id">RD_0094/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Bürgerhaushalt in Reinickendorf einführen</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">anderer</field>
+<field name="word">erfahrungswerte</field>
+<field name="word">jahre</field>
+<field name="word">könnte</field>
+<field name="word">reinickendorf</field>
+<field name="word">aufzunehmen</field>
+<field name="word">bürgerhaushalt</field>
+<field name="word">einzuführen</field>
+<field name="word">sachverhalt</field>
+<field name="word">haushalt</field>
+<field name="word">möglich</field>
+<field name="word">auskunft</field>
+<field name="word">vorstellen</field>
+<field name="word">bezirke</field>
+  <field name="text_de">Sachverhalt:
+ 
+Das Bezirksamt wird um Auskunft gebeten:
+ 
+1.
+              
+Ist es dem Bezirksamt möglich, einen Bürgerhaushalt in Reinickendorf für die Haushalt
+s
+              
+jahre 2012 / 2013 einzuführen?
+ 
+2.
+              
+Könnte sich der Bezirk vorstellen, die Erfahrungswerte anderer Bezirke aufzunehmen?</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3149&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">313</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,39 @@
+<add><doc>
+  <field name="id">NK_0623/XIX</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">Marktverbot für Blumenhändlerin</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">überhaupt</field>
+<field name="word">unternommen</field>
+<field name="word">handlungsmöglichkeiten</field>
+<field name="word">beziehungsweise</field>
+<field name="word">marktbetreiber</field>
+<field name="word">märkten</field>
+<field name="word">verfügung</field>
+<field name="word">reuter</field>
+<field name="word">frage</field>
+<field name="word">allee</field>
+<field name="word">blumenhändlerin</field>
+<field name="word">fritz</field>
+<field name="word">bekannt</field>
+<field name="word">fall</field>
+<field name="word">differenzen</field>
+<field name="word">britz</field>
+<field name="word">stehen</field>
+  <field name="text_de">Ich frage das Bezirksamt:
+ 
+1) Was ist dem Bezirksamt zu den Differenzen zwischen dem Marktbetreiber und der  Blumenhändlerin auf den Märkten Britz-Süd und Fritz-Reuter-Allee bekannt?
+ 
+2) Was hat das Bezirksamt in diesem Fall unternommen, beziehungsweise welche Handlungsmöglichkeiten stehen dem Bezirksamt in diesem Fall überhaupt zur Verfügung?
+ 
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4246&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">355</field>  
+  <field name="parteien">1</field>  
+</doc></add>

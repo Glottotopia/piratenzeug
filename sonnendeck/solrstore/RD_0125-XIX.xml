@@ -1,0 +1,39 @@
+<add><doc>
+  <field name="id">RD_0125/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Lärmschutz auf der Hennigsdorfer Straße und Heiligenseestraße umsetzen</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">betrachten</field>
+<field name="word">chaussee</field>
+<field name="word">zeit</field>
+<field name="word">baumaßnahmen</field>
+<field name="word">enversammlung</field>
+<field name="word">straße</field>
+<field name="word">bezirksverordnet</field>
+<field name="word">sachverhalt</field>
+<field name="word">während</field>
+<field name="word">hennigsdorfer</field>
+<field name="word">empfiehlt</field>
+<field name="word">geschwindigkeit</field>
+<field name="word">ersuchen</field>
+<field name="word">heiligenseestraße</field>
+<field name="word">verkehrsausschuss</field>
+<field name="word">herabzusetzen</field>
+<field name="word">ruppiner</field>
+  <field name="text_de">Sachverhalt:
+ 
+Der Verkehrsausschuss empfiehlt der
+ Bezirksverordnet
+enversammlung, das Ersuchen - Drucksache Nr. 0125/XIX - 
+ 
+Das Bezirksamt wird ersucht, während der Baumaßnahmen auf der Ruppiner Chaussee, die Geschwindigkeit auf der Hennigsdorfer Straße sowie auf der Heiligenseestraße, in der Zeit von 22:00 Uhr bis 06:00 Uhr, auf 30 km/h herabzusetzen.
+ 
+als erledigt zu betrachten.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3186&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">388</field>  
+  <field name="parteien">1</field>  
+</doc></add>

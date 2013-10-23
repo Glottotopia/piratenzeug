@@ -1,0 +1,44 @@
+<add><doc>
+  <field name="id">SP_0123/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">"eMail-Verteiler der BVV Spandau"</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">elektronische</field>
+<field name="word">teilnehmende</field>
+<field name="word">interessierte</field>
+<field name="word">einsetzen</field>
+<field name="word">eingerichtet</field>
+<field name="word">bürger</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">leserecht</field>
+<field name="word">zuständigen</field>
+<field name="word">mail</field>
+<field name="word">automatischer</field>
+<field name="word">möge</field>
+<field name="word">mitlesen</field>
+<field name="word">nachricht</field>
+<field name="word">hierdurch</field>
+<field name="word">dafür</field>
+<field name="word">adresse</field>
+<field name="word">verteiler</field>
+<field name="word">erreichbaren</field>
+<field name="word">schreib</field>
+<field name="word">jeder</field>
+<field name="word">dürfen</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">könnte</field>
+<field name="word">verschicken</field>
+<field name="word">zentrale</field>
+  <field name="text_de">Das Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass ein automatischer E-Mail-Verteiler für alle per E-Mail erreichbaren Bezirksverordneten eingerichtet wird. Jeder teilnehmende Bezirksverordnete könnte hierdurch per E
+-
+mail an eine zentrale E-Mail-Adresse eine elektronische Nachricht an alle anderen Bezirksverordneten verschicken (Schreib/Leserecht). Jeder interessierte Bürger mit einer E
+-
+Mail-Adresse soll auf diesem E-Mail-Verteiler mitlesen dürfen (Nur-Leserecht).</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6727&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">496</field>  
+  <field name="parteien">1</field>  
+</doc></add>

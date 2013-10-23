@@ -1,0 +1,64 @@
+<add><doc>
+  <field name="id">CW_0352/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Leichte Sprache II</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">leichter</field>
+<field name="word">hinaus</field>
+<field name="word">dtetages</field>
+<field name="word">publikationen</field>
+<field name="word">deutschen</field>
+<field name="word">gerversammlung</field>
+<field name="word">hinzuweisen</field>
+<field name="word">hrung</field>
+<field name="word">sprache</field>
+<field name="word">defizit</field>
+<field name="word">informationen</field>
+<field name="word">beschlie</field>
+<field name="word">einf</field>
+<field name="word">antr</field>
+<field name="word">schrittweise</field>
+<field name="word">jobcenters</field>
+  <field name="text_de"> 
+Die BVV beschlie
+ß
+t:
+ 
+Das
+ 
+ Bezirksamt wird ersucht, sich im Rahmen der Tr
+ä
+gerversammlung f
+ü
+r die
+ 
+ schrittweise Einf
+ü
+hrung von Informationen, Antr
+ä
+gen und Publikationen
+ 
+des Jobcenters in leichter Sprache [1] einzusetzen. Dar
+ü
+ber hinaus wird das Bezirksamt ersucht, im Rahmen des Deutschen St
+ä
+dtetages auf dieses
+ 
+ Defizit hinzuweisen.
+ 
+Der BVV ist bis zum 
+28.02.2013
+ zu berichten.
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4616&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">409</field>  
+  <field name="parteien">4</field>  
+</doc></add>

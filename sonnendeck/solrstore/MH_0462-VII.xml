@@ -1,0 +1,15 @@
+<add><doc>
+  <field name="id">MH_0462/VII</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Zur schriftlichen Beantwortung der Drucksache 0414/VII - Kosten für externe Mitarbeiter, Bereich Bauleitung</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  
+  <field name="text_de"> </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4743&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,119 @@
+<add><doc>
+  <field name="id">SP_0427/XIX</field>  
+  <field name="typ">Vorlage_-_zur_Kenntnisnahme_-</field>  
+  <field name="titel">WLAN in der BVV</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">genutzt</field>
+<field name="word">einmalige</field>
+<field name="word">wlan</field>
+<field name="word">providers</field>
+<field name="word">kleebank</field>
+<field name="word">zugangs</field>
+<field name="word">bürgeramtes</field>
+<field name="word">berei</field>
+<field name="word">sollte</field>
+<field name="word">konfiguration</field>
+<field name="word">monatliche</field>
+<field name="word">angebotes</field>
+<field name="word">sicheren</field>
+<field name="word">registrieren</field>
+<field name="word">verantwortung</field>
+<field name="word">wartebereich</field>
+<field name="word">ohne</field>
+<field name="word">zugänge</field>
+<field name="word">accesspoint</field>
+<field name="word">verkabelung</field>
+<field name="word">zugang</field>
+<field name="word">providerleistung</field>
+<field name="word">internetzugangs</field>
+<field name="word">können</field>
+<field name="word">ermitteln</field>
+<field name="word">folgende</field>
+<field name="word">saal</field>
+<field name="word">https</field>
+<field name="word">zusät</field>
+<field name="word">stellung</field>
+<field name="word">rechtliche</field>
+<field name="word">hotspots</field>
+<field name="word">über</field>
+<field name="word">erstellung</field>
+<field name="word">müssen</field>
+<field name="word">bereitstellung</field>
+<field name="word">punkt</field>
+<field name="word">hinzu</field>
+<field name="word">telemediengesetz</field>
+<field name="word">drei</field>
+<field name="word">helmut</field>
+<field name="word">zusätzlich</field>
+<field name="word">firmen</field>
+<field name="word">inkl</field>
+<field name="word">allrisnet</field>
+<field name="word">mwst</field>
+<field name="word">optional</field>
+<field name="word">gesichert</field>
+<field name="word">ausgegangen</field>
+<field name="word">ergeben</field>
+<field name="word">deren</field>
+<field name="word">könnten</field>
+<field name="word">installation</field>
+<field name="word">zusätzliche</field>
+<field name="word">beim</field>
+<field name="word">ausreicht</field>
+<field name="word">höhe</field>
+<field name="word">liche</field>
+<field name="word">provider</field>
+<field name="word">kommen</field>
+<field name="word">einmalig</field>
+<field name="word">entstehen</field>
+<field name="word">spandau</field>
+<field name="word">ausreichen</field>
+<field name="word">router</field>
+<field name="word">übernimmt</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">davon</field>
+  <field name="text_de">2
+ 
+Um die Kosten für die Bereitstellung eines sicheren Internetzugangs über WLAN zu ermitteln, wurden drei Firmen um Erstellung eines Angebotes gebeten. Für die Berei
+t
+stellung der 
+Providerleistung
+ ergeben sich folgende Kosten: 
+Einmalige Kosten: 333,20 
+ inkl. MwSt für Installation und Konfiguration
+Monatliche Kosten: 64,20 
+ inkl. MwSt. für DSL, Router und Accesspoint (Zugang
+s
+punkt), wenn davon ausgegangen wird, dass ein Accesspoint zusätzlich zum WLAN-Router ausreicht (sollte ein Accesspoint nicht ausreichen, könnten zusät
+z
+liche Kosten entstehen).
+Hinzu kommen einmalige Kosten für die 
+Verkabelung
+ zwischen Wartebereich des Bürgeramtes und dem BVV-Saal in Höhe von 
+ca. 5.000 
+. 
+Die rechtliche Verantwortung übernimmt der Provider (Telemediengesetz § 8). Die Nu
+t
+zer des WLAN-Zugangs müssen sich einmalig beim Provider registrieren (damit kö
+n
+nen auch alle a
+n
+deren HotSpots des Providers genutzt werden).
+Die Zugänge können optional ohne zusätzliche Kosten durch VPN gesichert werden. Der Zugang zu AllrisNet ist per https gesichert.
+ 
+Berlin  Spandau, den
+ 10.02.
+2013
+ 
+ 
+Helmut Kleebank
+Bezirksbürgermeister
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7031&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1140</field>  
+  <field name="parteien">1</field>  
+</doc></add>

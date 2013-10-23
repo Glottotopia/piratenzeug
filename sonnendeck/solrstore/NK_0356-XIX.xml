@@ -1,0 +1,40 @@
+<add><doc>
+  <field name="id">NK_0356/XIX</field>  
+  <field name="typ">Beschlussempfehlung_-_2._Lesung</field>  
+  <field name="titel">Gestaltungsmöglichkeiten für Neuköllner Politik bewahren</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field> 
+  <field name="word">liegenschaftsfonds</field>
+<field name="word">gebäude</field>
+<field name="word">übertragen</field>
+<field name="word">ablehnung</field>
+<field name="word">fassung</field>
+<field name="word">antrages</field>
+<field name="word">verwertung</field>
+<field name="word">grundstücke</field>
+<field name="word">künftig</field>
+<field name="word">bezirklichen</field>
+<field name="word">folgender</field>
+<field name="word">empfiehlt</field>
+<field name="word">erbpachtverträgen</field>
+<field name="word">vergeben</field>
+<field name="word">abschluss</field>
+<field name="word">liegenschaften</field>
+<field name="word">selbst</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
+Ablehnung
+ des Antrages in folgender Fassung:
+ 
+Das Bezirksamt wird aufgefordert, keine bezirklichen Grundstücke oder Gebäude mehr zur Verwertung an den Liegenschaftsfonds zu übertragen und diese Liegenschaften künftig selbst zu vergeben, z.
+ 
+B. durch den Abschluss von Erbpachtverträgen
+.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3979&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">355</field>  
+  <field name="parteien">2</field>  
+</doc></add>

@@ -1,0 +1,71 @@
+<add><doc>
+  <field name="id">MI_0971/IV</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Verwaiste Fahrräder im öffentlichen Straßenraum, Verschrottung von Fördermitteln?</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gewährleistet</field>
+<field name="word">geringen</field>
+<field name="word">freien</field>
+<field name="word">träger</field>
+<field name="word">festgestellt</field>
+<field name="word">welcher</field>
+<field name="word">gestellt</field>
+<field name="word">entfernten</field>
+<field name="word">passiert</field>
+<field name="word">verfahren</field>
+<field name="word">verwertet</field>
+<field name="word">fahrrädern</field>
+<field name="word">inzwischen</field>
+<field name="word">betrag</field>
+<field name="word">kriterien</field>
+<field name="word">räder</field>
+<field name="word">verwaiste</field>
+<field name="word">deren</field>
+<field name="word">üblichen</field>
+<field name="word">kurzem</field>
+<field name="word">konnte</field>
+<field name="word">bedürftigen</field>
+<field name="word">verfahrensweise</field>
+<field name="word">sondern</field>
+<field name="word">schutz</field>
+<field name="word">stellte</field>
+<field name="word">halter</field>
+<field name="word">aufarbeitung</field>
+<field name="word">fahrräder</field>
+<field name="word">bedürftige</field>
+<field name="word">derzeit</field>
+<field name="word">fragen</field>
+<field name="word">gemeinnützigen</field>
+<field name="word">evtl</field>
+<field name="word">strengen</field>
+<field name="word">entfernt</field>
+<field name="word">goldnetz</field>
+<field name="word">einrichtungen</field>
+<field name="word">straßenraum</field>
+<field name="word">arbeitete</field>
+<field name="word">eigentumsrechte</field>
+<field name="word">scheint</field>
+<field name="word">öffentlichen</field>
+<field name="word">finanziellen</field>
+<field name="word">verfügung</field>
+<field name="word">sozialen</field>
+<field name="word">entsorgt</field>
+<field name="word">praxis</field>
+  <field name="text_de">Wir fragen das Bezirksamt:
+ 
+ 
+Bis vor kurzem wurden verwaiste Fahrräder, deren Halter nach dem üblichen Verfahren nicht festgestellt werden konnte, gemeinnützigen freien Träger zur Aufarbeitung zur Verfügung gestellt. 
+Diese Träger z.B. Goldnetz e.V. arbeitete die Räder auf, und stellte sie Bedürftigen nach strengen Kriterien für einen geringen finanziellen Betrag zur Verfügung. 
+Inzwischen scheint es Praxis zu sein, dass sozialen Einrichtungen keine Fahrräder mehr für Bedürftige zur Verfügung gestellt werden, sondern durch die BSR entsorgt oder evtl. verwertet werden. 
+ 
+1. Nach welcher Verfahrensweise werden derzeit verwaiste Fahrräder aus dem öffentlichen Straßenraum entfernt? 
+2. Wie wird der Schutz der Eigentumsrechte dabei gewährleistet? 
+3. Was passiert mit den entfernten Fahrrädern?</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5604&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">802</field>  
+  <field name="parteien">1</field>  
+</doc></add>

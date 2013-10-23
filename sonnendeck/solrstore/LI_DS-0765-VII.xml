@@ -1,0 +1,51 @@
+<add><doc>
+  <field name="id">LI_DS/0765/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Linksabbiegen an der Nöldnerstraße/Ecke Marktstraße ermöglichen</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">marktstraß</field>
+<field name="word">begrü</field>
+<field name="word">bauarbeiten</field>
+<field name="word">wieder</field>
+<field name="word">beschließ</field>
+<field name="word">richtung</field>
+<field name="word">glicht</field>
+<field name="word">abgeschlossen</field>
+<field name="word">wolle</field>
+<field name="word">glich</field>
+<field name="word">linksabbiegen</field>
+<field name="word">aufgrund</field>
+<field name="word">geschrä</field>
+<field name="word">stelle</field>
+<field name="word">sollte</field>
+<field name="word">kommend</field>
+<field name="word">ndung</field>
+<field name="word">ermö</field>
+<field name="word">ldnerstraß</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließ
+en:
+ 
+Das Bezirksamt wird ersucht
+ zu prü
+fen, ob aus Richtung Nö
+ldnerstraß
+e kommend ein Linksabbiegen in die Marktstraß
+e wieder ermö
+glicht werden kann.
+ 
+Begrü
+ndung:
+Das Linksabbiegen wurde an dieser Stelle aufgrund von Bauarbeiten ei
+n
+geschrä
+nkt. Die Bauarbeiten sind abgeschlossen, so dass Linksabbiegen wieder mö
+glich sein sollte.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5427&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">394</field>  
+  <field name="parteien">1</field>  
+</doc></add>

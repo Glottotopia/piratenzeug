@@ -1,0 +1,50 @@
+<add><doc>
+  <field name="id">NK_0624/XIX</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">Hermanntraße 208</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">weiß</field>
+<field name="word">bezü</field>
+<field name="word">glich</field>
+<field name="word">getroffen</field>
+<field name="word">inzwischen</field>
+<field name="word">seit</field>
+<field name="word">eingewirkt</field>
+<field name="word">enter</field>
+<field name="word">frage</field>
+<field name="word">deswegen</field>
+<field name="word">gsrä</field>
+<field name="word">jobc</field>
+<field name="word">umung</field>
+<field name="word">hermannstraß</field>
+<field name="word">zwan</field>
+<field name="word">wann</field>
+<field name="word">abgesagten</field>
+<field name="word">zwangsrä</field>
+<field name="word">nahmen</field>
+  <field name="text_de">Ich frage das Bezirksamt,
+1) Hat das Bezirksamt bezü
+glich der (inzwischen abgesagten) Zwangsrä
+umung am 
+29.4.2013
+ in der
+ Hermannstraß
+e  208 auf das JobC
+enter eingewirkt und wenn ja, wie? 
+2) Seit wann weiß
+ das Bezirksamt von der (inzwischen abgesagten) Zwan
+gsrä
+umung am 
+29.4.2013
+ in der  Hermannstraß
+e 208 und welche Maß
+nahmen wurden deswegen getroffen?
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4247&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">368</field>  
+  <field name="parteien">1</field>  
+</doc></add>

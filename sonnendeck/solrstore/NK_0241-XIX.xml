@@ -1,0 +1,69 @@
+<add><doc>
+  <field name="id">NK_0241/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Ethnisch getrennte Klassen</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field> 
+  <field name="word">solcher</field>
+<field name="word">aller</field>
+<field name="word">meinung</field>
+<field name="word">auskunft</field>
+<field name="word">recht</field>
+<field name="word">bedingungen</field>
+<field name="word">bildung</field>
+<field name="word">bekannt</field>
+<field name="word">folgende</field>
+<field name="word">getren</field>
+<field name="word">klassen</field>
+<field name="word">gezielt</field>
+<field name="word">gleichwertige</field>
+<field name="word">anrecht</field>
+<field name="word">ethnisch</field>
+<field name="word">gewährleisten</field>
+<field name="word">wirkt</field>
+<field name="word">neuköllner</field>
+<field name="word">falls</field>
+<field name="word">schulen</field>
+<field name="word">jeder</field>
+<field name="word">eingeschränkt</field>
+<field name="word">förderung</field>
+<field name="word">diesen</field>
+<field name="word">unternommen</field>
+<field name="word">schulgemeinschaft</field>
+<field name="word">diskriminierungsfreie</field>
+<field name="word">schüler</field>
+<field name="word">schulklima</field>
+<field name="word">dadurch</field>
+<field name="word">seitens</field>
+<field name="word">gymnasien</field>
+<field name="word">eingerichtet</field>
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+1.
+         
+Ist dem Bezirksamt bekannt, dass an Neuköllner Gymnasien gezielt ethnisch getren
+nte Klassen eingerichtet werden,
+ wenn jeder Schüler ein Anrecht auf diskriminierungsfreie Bildung hat?
+2.
+         
+Falls ja, wird dadurch nach Meinung des Bezirksamt
+e
+s das Recht auf diskriminierungsfreie Bildung eingeschränkt?
+3.
+         
+Wie wirkt sich das auf das Schulklima und die Schulgemeinschaft aus?
+4.
+         
+Was wird seitens solcher Schulen unternommen, um unter diesen Bedingungen die gleichwertige Förderung aller Schüler zu gewährleisten?
+ 
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3864&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">613</field>  
+  <field name="parteien">2</field>  
+</doc></add>

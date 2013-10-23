@@ -1,0 +1,970 @@
+<add><doc>
+  <field name="id">CW_0013/4</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Ein etwas besonderer Weihnachtsmarkt</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">chinese</field>
+<field name="word">fraktionslos</field>
+<field name="word">auszug</field>
+<field name="word">dolfdnr</field>
+<field name="word">themen</field>
+<field name="word">fcgi</field>
+<field name="word">toggle</field>
+<field name="word">centers</field>
+<field name="word">jährliche</field>
+<field name="word">turkish</field>
+<field name="word">immobilien</field>
+<field name="word">marginalienspalte</field>
+<field name="word">ggmbh</field>
+<field name="word">elias</field>
+<field name="word">nord</field>
+<field name="word">bezirksaemter</field>
+<field name="word">vers</field>
+<field name="word">suche</field>
+<field name="word">gerade</field>
+<field name="word">risnavi</field>
+<field name="word">verschiedenen</field>
+<field name="word">zielgruppe</field>
+<field name="word">facebook</field>
+<field name="word">zukünftig</field>
+<field name="word">realisierung</field>
+<field name="word">rbmskzl</field>
+<field name="word">tickets</field>
+<field name="word">fvolfdnr</field>
+<field name="word">zeit</field>
+<field name="word">betreff</field>
+<field name="word">button</field>
+<field name="word">jobcenter</field>
+<field name="word">weihnachtsmarkt</field>
+<field name="word">ticketshop</field>
+<field name="word">charlottenburg</field>
+<field name="word">rendorffplatz</field>
+<field name="word">talten</field>
+<field name="word">anfang</field>
+<field name="word">blocklinks</field>
+<field name="word">aktenmappe</field>
+<field name="word">bola</field>
+<field name="word">deutsch</field>
+<field name="word">verwaltung</field>
+<field name="word">vorgenommen</field>
+<field name="word">index</field>
+<field name="word">ohne</field>
+<field name="word">directive</field>
+<field name="word">wohnt</field>
+<field name="word">dazugeh</field>
+<field name="word">version</field>
+<field name="word">trinken</field>
+<field name="word">template</field>
+<field name="word">method</field>
+<field name="word">regierende</field>
+<field name="word">arbeitsgel</field>
+<field name="word">zusammenarbeit</field>
+<field name="word">kulturorte</field>
+<field name="word">adressen</field>
+<field name="word">menschen</field>
+<field name="word">drei</field>
+<field name="word">beschwerden</field>
+<field name="word">active</field>
+<field name="word">clicked</field>
+<field name="word">strong</field>
+<field name="word">placeholder</field>
+<field name="word">sitzungskalender</field>
+<field name="word">search</field>
+<field name="word">stellv</field>
+<field name="word">fenster</field>
+<field name="word">angebot</field>
+<field name="word">ersten</field>
+<field name="word">offizielle</field>
+<field name="word">survey</field>
+<field name="word">action</field>
+<field name="word">navigation</field>
+<field name="word">options</field>
+<field name="word">tillinger</field>
+<field name="word">wohnen</field>
+<field name="word">apple</field>
+<field name="word">family</field>
+<field name="word">beschl</field>
+<field name="word">sogenannten</field>
+<field name="word">italiano</field>
+<field name="word">href</field>
+<field name="word">motor</field>
+<field name="word">nowrap</field>
+<field name="word">ansprechend</field>
+<field name="word">select</field>
+<field name="word">hotels</field>
+<field name="word">unterstützung</field>
+<field name="word">aussch</field>
+<field name="word">tafel</field>
+<field name="word">verhandeln</field>
+<field name="word">live</field>
+<field name="word">iphone</field>
+<field name="word">https</field>
+<field name="word">zitadellenweg</field>
+<field name="word">einkommen</field>
+<field name="word">rubriken</field>
+<field name="word">wilmersdorf</field>
+<field name="word">type</field>
+<field name="word">start</field>
+<field name="word">club</field>
+<field name="word">occurred</field>
+<field name="word">uuml</field>
+<field name="word">flag</field>
+<field name="word">unterkunft</field>
+<field name="word">dartivwkategorie</field>
+<field name="word">anbietern</field>
+<field name="word">einrichtungen</field>
+<field name="word">none</field>
+<field name="word">language</field>
+<field name="word">this</field>
+<field name="word">szmvars</field>
+<field name="word">doctype</field>
+<field name="word">pressemitteilungen</field>
+<field name="word">eingaben</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">springen</field>
+<field name="word">claim</field>
+<field name="word">beberlin</field>
+<field name="word">dartactive</field>
+<field name="word">hreflang</field>
+<field name="word">linke</field>
+<field name="word">weihnachtsmarktangebot</field>
+<field name="word">schiffstouren</field>
+<field name="word">absolute</field>
+<field name="word">arbeitsmarkt</field>
+<field name="word">buergerkontakt</field>
+<field name="word">entschädigung</field>
+<field name="word">veranstaltungen</field>
+<field name="word">charset</field>
+<field name="word">googleapis</field>
+<field name="word">write</field>
+<field name="word">xhtml</field>
+<field name="word">cellspacing</field>
+<field name="word">sprachen</field>
+<field name="word">unbelievable</field>
+<field name="word">beauty</field>
+<field name="word">fran</field>
+<field name="word">weitestgehend</field>
+<field name="word">teilt</field>
+<field name="word">wappen</field>
+<field name="word">änderungen</field>
+<field name="word">date</field>
+<field name="word">horizontal</field>
+<field name="word">aktualisierung</field>
+<field name="word">fortlaufenden</field>
+<field name="word">xmlns</field>
+<field name="word">bezirksbürgerm</field>
+<field name="word">eher</field>
+<field name="word">preisgünstiges</field>
+<field name="word">element</field>
+<field name="word">abteilungen</field>
+<field name="word">hrungen</field>
+<field name="word">bereichen</field>
+<field name="word">attraktives</field>
+<field name="word">deco</field>
+<field name="word">feedback</field>
+<field name="word">symbole</field>
+<field name="word">beratungsfolge</field>
+<field name="word">stichwort</field>
+<field name="word">öffnet</field>
+<field name="word">disabled</field>
+<field name="word">einwohnerfragen</field>
+<field name="word">bündelung</field>
+<field name="word">nbsp</field>
+<field name="word">großer</field>
+<field name="word">equiv</field>
+<field name="word">organisierte</field>
+<field name="word">style</field>
+<field name="word">nodeco</field>
+<field name="word">auml</field>
+<field name="word">dargestellt</field>
+<field name="word">organisation</field>
+<field name="word">standorten</field>
+<field name="word">metanavigation</field>
+<field name="word">diskussion</field>
+<field name="word">hidden</field>
+<field name="word">main</field>
+<field name="word">pixel</field>
+<field name="word">return</field>
+<field name="word">auto</field>
+<field name="word">aufgrund</field>
+<field name="word">beit</field>
+<field name="word">branchenbuch</field>
+<field name="word">aspose</field>
+<field name="word">false</field>
+<field name="word">landeslayout</field>
+<field name="word">imperia</field>
+<field name="word">beratung</field>
+<field name="word">name</field>
+<field name="word">referrer</field>
+<field name="word">arrow</field>
+<field name="word">fitness</field>
+<field name="word">containerbereich</field>
+<field name="word">weight</field>
+<field name="word">navi</field>
+<field name="word">buergeranfragen</field>
+<field name="word">szlig</field>
+<field name="word">meta</field>
+<field name="word">piraten</field>
+<field name="word">logo</field>
+<field name="word">schlosser</field>
+<field name="word">transitional</field>
+<field name="word">special</field>
+<field name="word">dahingehend</field>
+<field name="word">container</field>
+<field name="word">weihnachtsmarktes</field>
+<field name="word">ouml</field>
+<field name="word">content</field>
+<field name="word">selfaction</field>
+<field name="word">ferienwohnungen</field>
+<field name="word">print</field>
+<field name="word">onfocus</field>
+<field name="word">bereich</field>
+<field name="word">math</field>
+<field name="word">rter</field>
+<field name="word">einsparungen</field>
+<field name="word">wirtschaftsstandort</field>
+<field name="word">vandrey</field>
+<field name="word">kontaktformular</field>
+<field name="word">arial</field>
+<field name="word">ajax</field>
+<field name="word">durchgeführt</field>
+<field name="word">aktuelles</field>
+<field name="word">kuchen</field>
+<field name="word">stadtfuehrungen</field>
+<field name="word">vorjahren</field>
+<field name="word">anzeigen</field>
+<field name="word">kontingent</field>
+<field name="word">first</field>
+<field name="word">encoding</field>
+<field name="word">accesskey</field>
+<field name="word">fraktionen</field>
+<field name="word">impressum</field>
+<field name="word">museen</field>
+<field name="word">size</field>
+<field name="word">ausgehen</field>
+<field name="word">goldnetz</field>
+<field name="word">service</field>
+<field name="word">script</field>
+<field name="word">bookmark</field>
+<field name="word">system</field>
+<field name="word">wrapper</field>
+<field name="word">rige</field>
+<field name="word">kinder</field>
+<field name="word">turnusgemäß</field>
+<field name="word">ausfl</field>
+<field name="word">white</field>
+<field name="word">bosch</field>
+<field name="word">angeboten</field>
+<field name="word">erreichen</field>
+<field name="word">gröhler</field>
+<field name="word">cdata</field>
+<field name="word">öffentliche</field>
+<field name="word">copy</field>
+<field name="word">bittet</field>
+<field name="word">center</field>
+<field name="word">jquery</field>
+<field name="word">statt</field>
+<field name="word">target</field>
+<field name="word">öffentlich</field>
+<field name="word">dartbelegung</field>
+<field name="word">kino</field>
+<field name="word">summary</field>
+<field name="word">nikolaus</field>
+<field name="word">geringem</field>
+<field name="word">botein</field>
+<field name="word">noprint</field>
+<field name="word">vieles</field>
+<field name="word">finanziell</field>
+<field name="word">volfdnr</field>
+<field name="word">alles</field>
+<field name="word">lottenburg</field>
+<field name="word">würstchen</field>
+<field name="word">reise</field>
+<field name="word">mitte</field>
+<field name="word">tidy</field>
+<field name="word">favicon</field>
+<field name="word">chen</field>
+<field name="word">tourismus</field>
+<field name="word">linken</field>
+<field name="word">dieter</field>
+<field name="word">border</field>
+<field name="word">bundesweiten</field>
+<field name="word">sicherzustellen</field>
+<field name="word">jahr</field>
+<field name="word">self</field>
+<field name="word">während</field>
+<field name="word">finden</field>
+<field name="word">online</field>
+<field name="word">drucksachenlebenslauf</field>
+<field name="word">formular</field>
+<field name="word">klose</field>
+<field name="word">normal</field>
+<field name="word">rgerdienste</field>
+<field name="word">kundenumfrage</field>
+<field name="word">dezember</field>
+<field name="word">buergerservice</field>
+<field name="word">diesjährige</field>
+<field name="word">wittke</field>
+<field name="word">scripts</field>
+<field name="word">device</field>
+<field name="word">class</field>
+<field name="word">icon</field>
+<field name="word">drucksachen</field>
+<field name="word">lesezeichen</field>
+<field name="word">mobile</field>
+<field name="word">kleine</field>
+<field name="word">ursprung</field>
+<field name="word">sozialmarkt</field>
+<field name="word">anker</field>
+<field name="word">organigramm</field>
+<field name="word">eister</field>
+<field name="word">shop</field>
+<field name="word">führen</field>
+<field name="word">text</field>
+<field name="word">random</field>
+<field name="word">aussenwirtschaft</field>
+<field name="word">anfragen</field>
+<field name="word">font</field>
+<field name="word">rubrik</field>
+<field name="word">gelingen</field>
+<field name="word">betrachten</field>
+<field name="word">layout</field>
+<field name="word">copyright</field>
+<field name="word">title</field>
+<field name="word">true</field>
+<field name="word">urde</field>
+<field name="word">druckansicht</field>
+<field name="word">presse</field>
+<field name="word">uterung</field>
+<field name="word">letzte</field>
+<field name="word">wechsel</field>
+<field name="word">boundefined</field>
+<field name="word">risdeco</field>
+<field name="word">niederschrift</field>
+<field name="word">gaestebuch</field>
+<field name="word">rger</field>
+<field name="word">words</field>
+<field name="word">banner</field>
+<field name="word">direkt</field>
+<field name="word">adlwallpaperleft</field>
+<field name="word">ausbildung</field>
+<field name="word">public</field>
+<field name="word">engelmann</field>
+<field name="word">kulturloge</field>
+<field name="word">ivwbox</field>
+<field name="word">bezirksamts</field>
+<field name="word">rgerservice</field>
+<field name="word">satmpl</field>
+<field name="word">carsten</field>
+<field name="word">restaurants</field>
+<field name="word">body</field>
+<field name="word">seite</field>
+<field name="word">geringerem</field>
+<field name="word">freier</field>
+<field name="word">neben</field>
+<field name="word">versenden</field>
+<field name="word">jobs</field>
+<field name="word">sport</field>
+<field name="word">risname</field>
+<field name="word">teil</field>
+<field name="word">subject</field>
+<field name="word">sehr</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">wirtschaft</field>
+<field name="word">umfrage</field>
+<field name="word">email</field>
+<field name="word">rgermeister</field>
+<field name="word">wissenswertes</field>
+<field name="word">vertical</field>
+<field name="word">javascript</field>
+<field name="word">starke</field>
+<field name="word">boss</field>
+<field name="word">verfasser</field>
+<field name="word">ende</field>
+<field name="word">adserv</field>
+<field name="word">article</field>
+<field name="word">lexikon</field>
+<field name="word">grüne</field>
+<field name="word">both</field>
+<field name="word">bezirksstadtrat</field>
+<field name="word">gebündelt</field>
+<field name="word">messestandort</field>
+<field name="word">datei</field>
+<field name="word">orte</field>
+<field name="word">bühnenprogramm</field>
+<field name="word">topselected</field>
+<field name="word">aktuell</field>
+<field name="word">mter</field>
+<field name="word">parlament</field>
+<field name="word">colspan</field>
+<field name="word">height</field>
+<field name="word">header</field>
+<field name="word">wissenschaft</field>
+<field name="word">linux</field>
+<field name="word">table</field>
+<field name="word">mailto</field>
+<field name="word">sicht</field>
+<field name="word">allris</field>
+<field name="word">endif</field>
+<field name="word">dartdcopt</field>
+<field name="word">vorlage</field>
+<field name="word">bgcolor</field>
+<field name="word">inhalt</field>
+<field name="word">vergleichbaren</field>
+<field name="word">tolfdnr</field>
+<field name="word">kultur</field>
+<field name="word">onblur</field>
+<field name="word">shopping</field>
+<field name="word">onmouseout</field>
+<field name="word">besonderer</field>
+<field name="word">sprache</field>
+<field name="word">spalte</field>
+<field name="word">arbeitsgelegenheiten</field>
+<field name="word">maßnahmen</field>
+<field name="word">ident</field>
+<field name="word">arbeitsmarktinstrumente</field>
+<field name="word">ccedil</field>
+<field name="word">align</field>
+<field name="word">value</field>
+<field name="word">möge</field>
+<field name="word">while</field>
+<field name="word">typeof</field>
+<field name="word">behavior</field>
+<field name="word">error</field>
+<field name="word">situation</field>
+<field name="word">property</field>
+<field name="word">margin</field>
+<field name="word">stadtf</field>
+<field name="word">anlage</field>
+<field name="word">ehemaligen</field>
+<field name="word">dokument</field>
+<field name="word">conf</field>
+<field name="word">szmfrabo</field>
+<field name="word">ratsinformation</field>
+<field name="word">angebote</field>
+<field name="word">html</field>
+<field name="word">textrecherche</field>
+<field name="word">tagesordnung</field>
+<field name="word">folgenummer</field>
+<field name="word">document</field>
+<field name="word">events</field>
+<field name="word">status</field>
+<field name="word">http</field>
+<field name="word">senatsverwaltungen</field>
+<field name="word">reisen</field>
+<field name="word">schen</field>
+<field name="word">extern</field>
+<field name="word">neuem</field>
+<field name="word">berlinonline</field>
+<field name="word">undefined</field>
+<field name="word">skzl</field>
+<field name="word">kaas</field>
+<field name="word">english</field>
+<field name="word">position</field>
+<field name="word">silfdnr</field>
+<field name="word">justify</field>
+<field name="word">kontakt</field>
+<field name="word">protocol</field>
+<field name="word">denen</field>
+<field name="word">gelungen</field>
+<field name="word">sourcen</field>
+<field name="word">stattfindende</field>
+<field name="word">einpix</field>
+<field name="word">stärker</field>
+<field name="word">touch</field>
+<field name="word">polish</field>
+<field name="word">secure</field>
+<field name="word">noscript</field>
+<field name="word">wuttig</field>
+<field name="word">glühwein</field>
+<field name="word">generator</field>
+<field name="word">shortcut</field>
+<field name="word">kommunalpolitiker</field>
+<field name="word">hauptnavigation</field>
+<field name="word">location</field>
+<field name="word">rismain</field>
+<field name="word">valign</field>
+<field name="word">input</field>
+<field name="word">ffffff</field>
+<field name="word">hover</field>
+<field name="word">seitenende</field>
+<field name="word">dart</field>
+<field name="word">buergerdienste</field>
+<field name="word">folgendes</field>
+<field name="word">onmouseover</field>
+<field name="word">background</field>
+<field name="word">libs</field>
+<field name="word">reits</field>
+<field name="word">bohspace</field>
+<field name="word">rechten</field>
+<field name="word">openmainnav</field>
+<field name="word">mehraufwand</field>
+<field name="word">attraktiv</field>
+<field name="word">page</field>
+<field name="word">uebersicht</field>
+<field name="word">plät</field>
+<field name="word">right</field>
+<field name="word">grundlage</field>
+<field name="word">beschließen</field>
+<field name="word">posouterlocator</field>
+<field name="word">clubs</field>
+<field name="word">bürgera</field>
+<field name="word">dartdomain</field>
+<field name="word">escape</field>
+<field name="word">images</field>
+<field name="word">home</field>
+<field name="word">gross</field>
+<field name="word">klausenerplatz</field>
+<field name="word">machine</field>
+<field name="word">ausgestattet</field>
+<field name="word">innovation</field>
+<field name="word">kenntnisnahme</field>
+<field name="word">unse</field>
+<field name="word">bold</field>
+<field name="word">business</field>
+<field name="word">stichw</field>
+<field name="word">processing</field>
+<field name="word">fördermöglichkeiten</field>
+<field name="word">anlagen</field>
+<field name="word">post</field>
+<field name="word">beanstanden</field>
+<field name="word">noconflict</field>
+<field name="word">stadtplan</field>
+<field name="word">dampferfahrten</field>
+<field name="word">spandau</field>
+<field name="word">cellpadding</field>
+<field name="word">block</field>
+<field name="word">eventvorschau</field>
+<field name="word">allriscontainer</field>
+<field name="word">image</field>
+<field name="word">neuausrichtung</field>
+<field name="word">organigramme</field>
+<field name="word">essen</field>
+<field name="word">sightseeing</field>
+<field name="word">span</field>
+<field name="word">museum</field>
+<field name="word">grundsätzlichen</field>
+<field name="word">stylesheet</field>
+<field name="word">submit</field>
+<field name="word">stände</field>
+<field name="word">width</field>
+<field name="word">legende</field>
+<field name="word">beitsmarkt</field>
+<field name="word">besonders</field>
+<field name="word">function</field>
+<field name="word">head</field>
+<field name="word">form</field>
+<field name="word">anwesenheit</field>
+<field name="word">initiator</field>
+<field name="word">berlinfinder</field>
+<field name="word">ffnen</field>
+<field name="word">link</field>
+<field name="word">russian</field>
+<field name="word">topline</field>
+<field name="word">viewport</field>
+<field name="word">info</field>
+<field name="word">october</field>
+<field name="word">default</field>
+<field name="word">musik</field>
+<field name="word">gesundheit</field>
+<field name="word">polski</field>
+<field name="word">supernavigation</field>
+<field name="word">windows</field>
+<field name="word">reiten</field>
+<field name="word">gelände</field>
+<field name="word">politik</field>
+<field name="word">clear</field>
+<field name="word">sozialmärkte</field>
+<field name="word">freizeit</field>
+<field name="word">bomain</field>
+<field name="word">accessibility</field>
+<field name="word">noimgborder</field>
+<field name="word">char</field>
+<field name="word">gestaltet</field>
+<field name="word">klaus</field>
+<field name="word">hauptstadtportal</field>
+<field name="word">checkclickresult</field>
+<field name="word">organisiert</field>
+<field name="word">plätzen</field>
+<field name="word">individuelle</field>
+<field name="word">stat</field>
+<field name="word">repeat</field>
+<field name="word">turnus</field>
+<field name="word">versammlung</field>
+<field name="word">etwas</field>
+<field name="word">else</field>
+<field name="word">lang</field>
+<field name="word">land</field>
+<field name="word">bacharlottenburg</field>
+<field name="word">enwirtschaft</field>
+<field name="word">gebot</field>
+<field name="word">genheiten</field>
+<field name="word">alkohol</field>
+<field name="word">businesslocationcenter</field>
+  <field name="text_de"><?xml version="1.0" encoding="utf8" ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="HTML Tidy for Linux (vers 31 October 2006), see www.w3.org" />
+<meta name="GENERATOR" content="IMPERIA 7.5.1" />
+<title>Drucksache - 0013/4 - Ein etwas besonderer Weihnachtsmarkt
+</title>
+<meta name="DC.Title" content="BVV-Online via ALLRIS Bezirksamt Charlottenburg-Wilmersdorf" />
+<meta name="DC.Date" content="2013-03-19" />
+<meta name="satmpl" content="_template.html" />
+<meta name="X-Imperia-Live-Info" content="imperia7/2/10/11536/11728/11730/14686/1069718" /><meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Language" content="de" />
+<link href="/_bde/css/bde_2010_land.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/ba-charlottenburg-wilmersdorf/style.css" />
+<script type="text/javascript" src="/imperia/bde/ni_scripts.js">
+</script>
+<link rel="stylesheet" type="text/css" href="/ba-charlottenburg-wilmersdorf/bvv-online/conf/_berlin.de.css" />
+<meta name="viewport" content="width=device-width"/>
+<!--[if (gte IE 6)|!(IE)]><!-->
+<link rel="stylesheet" type="text/css" href="/_bde/css/bde_2010.css"/>
+
+
+
+
+<!--<![endif]-->
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="/_bde/css/iphone.png" type="image/png"/>
+
+<meta property="og:image" content="http://www.berlin.de/_bde/css/facebook_default_icon_land.png"/>
+<meta property="og:image:secure_url" content="https://www.berlin.de/_bde/css/facebook_default_icon_land.png"/>
+
+<script type="text/javascript">/*<![CDATA[*/
+var DartActive = false;
+var DartDomain = 'oms.berlin.de';
+var DartIvwKategorie = 'boUndefined';
+
+var DartDcopt = '';
+var DartBelegung = 'beberlin';
+
+
+var adlWallPaperLeft = 1050;
+
+/*]]>*/</script>
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/document.write('<'+'script src="/.adserv/_bin/dart.fcgi?mobile=&u='+escape(document.location.href)+'"></'+'script>');/*]]>*/</script>
+
+
+
+
+
+
+
+
+
+
+<!--[if gte IE 7]><!-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+
+<script type="text/javascript" src="/_bde/js/behavior.js"></script>
+<!--<![endif]-->
+
+<!-- gaq disabled -->
+
+
+<link rel="stylesheet" type="text/css" href="/_bde/css/bde_2010_land.css"/>
+
+
+
+
+</head>
+<body class="landeslayout">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="cp">
+<script type="text/javascript">/*<![CDATA[*/
+if (typeof(DartIvwKategorie) == 'undefined') var DartIvwKategorie = 'boUndefined';
+
+var CP = location.protocol+"//boss.berlinonline.de/cp.php?a=berlin&amp;r="+escape(document.referrer)+"&amp;cat="+DartIvwKategorie+"&amp;d="+(Math.random()*100000);
+document.write("<img src=\""+CP+"\" width=\"1\" height=\"1\" alt=\"\" id=\"cp_pixel\" style=\"position:absolute;width:1px;height:1px;\"/>");
+/*]]>*/</script>
+<noscript><img src="http://boss.berlinonline.de/cp.php?a=berlin&amp;r=(none)" alt=""/></noscript>
+
+<div id="ivw">
+
+<!-- SZM VERSION="1.5" -->
+<script type="text/javascript">/*<![CDATA[*/
+var IVW = location.protocol+"//berlin.ivwbox.de/cgi-bin/ivw/CP/"+DartIvwKategorie+";";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&amp;d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"\" id=\"ivw_pixel\" style=\"position:absolute;width:1px;height:1px;\"/>");
+/*]]>*/</script>
+<noscript>
+<img src="http://berlin.ivwbox.de/cgi-bin/ivw/CP/NOSCRIPT;?r=(none)" width="1" height="1" alt=""/>
+</noscript>
+<!-- /SZM -->
+
+
+
+
+
+
+<!-- SZMFRABO VERSION="1.1" -->
+<script type="text/javascript">
+var szmvars="berlin//CP//"+DartIvwKategorie;
+</script>
+<script src="http://berlin.ivwbox.de/2004/01/survey.js" type="text/javascript"></script>
+<!-- /SZMFRABO -->
+
+
+
+
+
+</div>
+
+</div>
+
+<!-- Layout: bde_2010_old_land -->
+
+
+
+<div id="banner_placeholder">
+
+</div>
+
+<!--[if IE 7]>
+<div id="bo_page" class="ie7 lang-de">
+<![endif]-->
+<!--[if IE 8]>
+<div id="bo_page" class="ie8 lang-de">
+<![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!-->
+<div id="bo_page" class="non-ie lang-de">
+<!--<![endif]-->
+
+
+<div id="bo_container">
+
+<a href="#bo_box" accesskey="0" class="accessibility" title="Direkt zum Inhalt der Seite springen">Direkt zum Inhalt der Seite springen</a>
+<div id="bo_header" class="blocklinks noimgborder">
+<p class="topline"/><ul id="meta_navigation" class="horizontal"><li class="link_branchenbuch"><a href="http://www.berlin.de/adressen/" class="lang lang_de">BerlinFinder</a></li><li><a class="link_map" hreflang="de" href="http://www.berlin.de/stadtplan/">
+Stadtplan
+</a></li><li class="toggle_hover"><a class="link_lang bo-de" href="#">Sprache</a><ul class="lang-sel"><li><a hreflang="de" href="http://www.berlin.de/"><span class="bo-de">&nbsp;</span>Deutsch</a></li><li><a hreflang="en" href="http://www.berlin.de/en/"><span class="bo-en">&nbsp;</span>English</a></li><li><a hreflang="fr" href="http://www.berlin.de/fr/"><span class="bo-fr">&nbsp;</span>Fran&ccedil;ais</a></li><li><a hreflang="it" href="http://www.berlin.de/it/"><span class="bo-it">&nbsp;</span>Italiano</a></li><li><a hreflang="zh" class="bo-extern"  href="http://www.businesslocationcenter.de/cn/business-location"><span class="bo-cn">&nbsp;</span>&#20013;&#25991;<!-- Chinese --></a></li><li><a hreflang="pl" class="bo-extern"  href="http://www.businesslocationcenter.de/pl/business-location"><span class="bo-po">&nbsp;</span>Polski<!-- Polish --></a></li><li><a hreflang="ru" class="bo-extern"  href="http://www.businesslocationcenter.de/ru/business-location"><span class="bo-ru">&nbsp;</span>&#x440;&#x443;&#x441;&#x441;&#x43a;&#x438;&#x439;<!-- Russian --></a></li><!--<li><a hreflang="tr" class="bo-extern"  href="http://www.berlin-turkish.com/"><span class="bo-tr">&nbsp;</span>T&#xfc;rk&#xe7;e --><!-- Turkish --><!--</a></li>--></ul><p class="lang_top_arrow"/></li></ul>
+<a href="http://www.berlin.de/" rel="home" id="home" hreflang="de"><img src="/_bde/css/berlin_de.png" alt="Berlin.de"/></a>
+<a href="http://www.berlin.de/" rel="claim" id="claim"><img src="/_bde/css/hauptstadtportal.png" alt="Das offizielle Hauptstadtportal"/></a>
+
+<div id="search"><form action="http://www.berlin.de/suche/" method="get">
+<div class="form-element-wrapper"><input type="text" name="q" value="Suche" onblur="if(this.value=='') this.value='Suche'" onfocus="if(this.value=='Suche' || this.value=='Berlin.de Suche') this.value=''; else this.select()"/></div><button type="submit" class="search_all">Suche</button>
+</form>
+</div>
+
+<div id="mobile_main_navigation"><ul><li class="first"><a class="openmainnav" href="#" target="_top">Alle Rubriken</a></li></ul></div>
+<div id="main_navigation"><ul class="horizontal navigation"><li class="active">
+<a href="http://www.berlin.de/rubrik/politik-und-verwaltung/">Politik, Verwaltung, B&uuml;rger</a><ul class="horizontal sub"><li><a href="http://www.berlin.de/rbmskzl">Der Regierende B&uuml;rgermeister</a></li><li><a href="http://www.berlin.de/politik-und-verwaltung/senatsverwaltungen/">Senatsverwaltungen</a></li><li><a href="http://www.berlin.de/politik-und-verwaltung/bezirksaemter/">Bezirks&auml;mter</a></li><li><a href="http://www.berlin.de/pressemitteilungen">Presse</a></li><li><a href="http://www.berlin.de/politik-und-verwaltung/buergerservice/">B&uuml;rgerservice</a></li></ul></li><li>
+<a href="http://www.berlin.de/kultur-und-tickets/">Kultur &amp; Ausgehen</a><ul class="horizontal sub"><li><a href="http://www.berlin.de/tickets/" target="_top">Veranstaltungen</a></li><li><a href="http://www.berlin.de/events/" target="_top">Eventvorschau</a></li><li><a href="http://www.berlin.de/tickets/shop/" target="_top">Ticketshop</a></li><li><a href="http://www.berlin.de/kino/_bin/index.php" target="_top">Kino</a></li><li><a href="http://www.berlin.de/orte/museum/" target="_top">Museen</a></li><li><a href="http://www.berlin.de/orte/club/" target="_top">Clubs</a></li><li><a href="http://www.berlin.de/orte/kultur/" target="_top">Kulturorte</a></li><li><a href="http://www.berlin.de/restaurants/" target="_top">Essen &amp; Trinken</a></li><li><a href="http://www.berlin.de/orte/" target="_top">Adressen</a></li></ul></li><li>
+<a href="http://www.berlin.de/tourismus/">Tourismus</a><ul class="horizontal sub"><li><a href="http://www.berlin.de/tourismus/unterkunft/hotels/">Hotels</a></li><li><a href="http://www.berlin.de/ferienwohnungen/">Ferienwohnungen</a></li><li><a href="http://www.berlin.de/tourismus/sightseeing/">Sightseeing</a></li><li><a href="http://www.berlin.de/tourismus/dampferfahrten/">Schiffstouren</a></li><li><a href="http://www.berlin.de/tourismus/stadtfuehrungen/">Stadtf&uuml;hrungen</a></li><li><a href="http://www.berlin.de/special/shopping/">Shopping</a></li><li><a href="http://www.berlin.de/restaurants/">Restaurants</a></li></ul></li><li>
+<a href="http://www.berlin.de/wirtschaft/">Wirtschaft</a><ul class="horizontal sub"><li><a href="http://www.berlin.de/wirtschaft/wirtschaftsstandort/" target="_top">Wirtschaftsstandort</a></li><li><a href="http://www.berlin.de/wirtschaft/arbeitsmarkt/" target="_top">Arbeitsmarkt</a></li><li><a href="http://www.berlin.de/wirtschaft/messestandort/" target="_top">Messestandort</a></li><li><a href="http://www.berlin.de/wirtschaft/wissenschaft-und-innovation/" target="_top">Wissenschaft und Innovation</a></li><li><a href="http://www.berlin.de/wirtschaft/aussenwirtschaft/" target="_top">Au&szlig;enwirtschaft</a></li><li><a href="http://www.berlin.de/wirtschaft/service/" target="_top">Service</a></li></ul></li><li>
+<a href="http://www.berlin.de/special/">Themen</a><ul class="horizontal sub"><li><a href="http://www.berlin.de/special/auto-und-motor/" target="_top">Auto &amp; Motor</a></li><li><a href="http://www.berlin.de/special/gesundheit-und-beauty/" target="_top">Gesundheit &amp; Beauty</a></li><li><a href="http://www.berlin.de/special/immobilien-und-wohnen/" target="_top">Immobilien &amp; Wohnen</a></li><li><a href="http://www.berlin.de/special/jobs-und-ausbildung/" target="_top">Jobs &amp; Ausbildung</a></li><li><a href="http://www.berlin.de/special/reise/" target="_top">Reisen &amp; Ausfl&uuml;ge</a></li><li><a href="http://www.berlin.de/special/shopping/" target="_top">Shopping</a></li><li><a href="http://www.berlin.de/special/sport-und-fitness/" target="_top">Sport &amp; Freizeit</a></li></ul></li></ul><div id="bo_supernavigation"><!-- --></div>
+</div>
+
+</div>
+
+<div id="alles"><!-- Anfang Hauptnavigation -->
+<div id="navigation">
+<div id="logo"><a href="/ba-charlottenburg-wilmersdorf/" rel="start"><img src="/imperia/md/images/bacharlottenburg-wilmersdorf/system/ident_bezirk_178x122.gif" alt="Wappen von Charlottenburg-Wilmersdorf" title="Wappen von Charlottenburg-Wilmersdorf"/></a></div><ul><li><strong><a href="/ba-charlottenburg-wilmersdorf/bvv-online/allris.net.asp">Bezirksverordneten- versammlung</a></strong><ul><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/si010.asp">Sitzungskalender</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/vo040.asp">Drucksachen</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/ka040.asp">Kleine Anfragen</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/pa021.asp">Bezirksverordnete</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/au010.asp">Aussch&uuml;sse</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/fr010.asp">Fraktionen</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv-online/yw010.asp">Textrecherche</a></li><li><a href="https://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv/formular_eingaben_und_beschwerden.php">Eingaben und Beschwerden</a></li><li><a href="https://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv/buergeranfragen/formular_buergeranfragen.php">Einwohnerfragen</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bvv/wissenswertes.html">Wissenswertes</a></li></ul></li><li><a href="/ba-charlottenburg-wilmersdorf/ba/bezirksamt.html">Bezirksamt</a></li><li><a href="/ba-charlottenburg-wilmersdorf/ba/organigramme.html">Organigramm</a></li><li><a href="https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/buergerkontakt_feedback.php">Kontaktformular</a></li><li><a href="https://www.berlin.de/ba-charlottenburg-wilmersdorf/aktuelles/umfrage/index.html">Kundenumfrage</a></li></ul><div id="abteilungen"><ul><li class="icon"><a href="/ba-charlottenburg-wilmersdorf/aktuelles/">Aktuelles</a></li><li class="icon"><a href="/ba-charlottenburg-wilmersdorf/verwaltung/uebersicht_buergerdienste.html">B&uuml;rgerdienste</a></li><li class="icon"><a href="/ba-charlottenburg-wilmersdorf/verwaltung/uebersicht_wirtschaft.html">Wirtschaft</a></li><li class="icon"><a href="/ba-charlottenburg-wilmersdorf/org/">Verwaltung</a></li><li class="icon"><a href="/ba-charlottenburg-wilmersdorf/bezirk/">Der Bezirk</a></li></ul></div>
+</div>
+
+<!-- Ende Hauptnavigation -->
+<!-- Anfang Metanavigation -->
+<div id="metanavigation"><ul><li><a href="/ba-charlottenburg-wilmersdorf/bezirk/stichwort.html">Stichw&ouml;rter A-Z</a></li><li><a href="/ba-charlottenburg-wilmersdorf/aktuelles/gaestebuch.html">Diskussion</a></li><li><a href="/ba-charlottenburg-wilmersdorf/impressum.html">Impressum</a></li><li><a href="/ba-charlottenburg-wilmersdorf/bezirk/lexikon/sprachen.html"><img src="/imperia/md/images/rbm-skzl/system/icon_flag_english.png" style="width:34px;height:21px;border:none;vertical-align:-0.9em;" alt="English"/></a></li></ul></div> 
+<!-- Ende Metanavigation -->
+<!--article-->
+<div id="bomain">
+<div id="bomain_content"><!--anker:allris-->
+<div id="allriscontainer">
+     <!-- -->
+<div id="risnavi"><ul id="navi_right">
+<li><!-- BOOKMARK_LINK --><a href="/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4277" title="Lesezeichen für Drucksache - 0013/4" target="_self"><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/bookmark.gif" alt="Lesezeichen für Drucksache - 0013/4"  /></a><!-- BOOKMARK_LINK --></li>
+<li><a href="mailto:?subject=Ratsinformation:%20Drucksache%20-%200013/4&amp;body=Online-Version%20der%20Seite:%20http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp%3FVOLFDNR=4277%0D%0A" title="Seite versenden"><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/email_gross.gif" alt="Seite versenden"  /></a></li>
+<li><form action="vo020.asp"  method="post" title="Druckansicht für diese Seite"><input type="image" src="/ba-charlottenburg-wilmersdorf/bvv-online/images/print.gif" alt="Druckansicht für diese Seite"  /><input type="hidden" name="VOLFDNR" value="4277"  /><input type="hidden" name="selfAction" value="Druckansicht für diese Seite"  /></form></li>
+</ul></div>
+<div id="risname_raw"><h1>Drucksache - 0013/4&nbsp;&nbsp;</h1></div>
+<div id="rismain_raw"><div id="posOuterLocator"></div><table class="risdeco" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/nw.gif" alt=""  /></td>
+		<td width="100%" style="background: URL(/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/n.gif) repeat-x">&nbsp;</td>
+		<td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/ne.gif" alt=""  /></td>
+	</tr>
+	<tr>
+		<td style="background: URL(/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/w.gif) repeat-y">&nbsp;</td>
+		<td bgcolor="white"><table class="tk1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td class="ko1" valign="top"><table class="tk1" cellspacing="0" cellpadding="3" border="0">
+	<tr>
+		<td class="kb1">Betreff:</td>
+		<td class="text1" colspan="4">
+<script language="Javascript" type="text/javascript"><!--
+//<![CDATA[
+	function checkClickResult(id, clicked, value) {
+	}
+
+
+//]]>
+--></script>
+Ein etwas besonderer Weihnachtsmarkt</td>
+	</tr>
+<tr><td class="kb1">Status:</td><td class="text3">öffentlich</td><td class="kb1">&nbsp;</td><td class="text4">&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td class="kb1">Ursprung</td><td class="kb1" colspan="2">aktuell</td></tr>
+<tr><td class="kb1">Initiator:</td><td class="text4">SPD/CDU/Linke(fraktionslos)/Piraten/Grüne</td><td class="text4" colspan="2">&nbsp;</td></tr>
+<tr><td class="kb1">Verfasser:</td><td class="text4">Wuttig/Wittke/Klose/Tillinger/Schlosser/Dr.Vandrey/Kaas Elias</td><td class="text4" colspan="2">&nbsp;</td></tr>
+<tr><td class="kb1">Drucksache-Art:</td><td class="text4">Antrag</td><td class="text4" colspan="2">Vorlage zur Kenntnisnahme</td></tr>
+	<tr>
+		<td class="kb1" colspan="5">Beratungsfolge:</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="5">
+			<table cellspacing="0" cellpadding="3" border="0">
+				<tr>
+					<td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" alt="" width="1" height="1" border="0"  /></td>
+					<td colspan="6"><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" alt="" width="1" height="1" border="0"  /></td>
+				</tr>
+				<tr valign="top" class="zl12" title="Folgenummer 0">
+					<td bgcolor="#ffffff" title="Erledigt"></td>
+					<td class="text1" colspan="3">Bezirksverordnetenversammlung</td>
+					<td class="text1" colspan="3" nowrap="nowrap">Beratung</td>
+				</tr>
+				<tr valign="top" class="zl12">
+					<td bgcolor="#ffffff" title="Erledigt"></td>
+					<td class="text2"><a href="/ba-charlottenburg-wilmersdorf/bvv-online/si010.asp?YY=2011&amp;MM=11&amp;DD=17" title="Sitzungskalender 11/2011 anzeigen">17.11.2011</a>&nbsp;</td>
+td><form action="/ba-charlottenburg-wilmersdorf/bvv-online/to010.asp?topSelected=26581" method="post" style="margin:0"><input type="hidden" name="SILFDNR" value="2315"  /><input type="hidden" name="options" value="8"  /><input type="submit" class="il1_to" value="TO" title="Tagesordnung"  /></form></td>
+<td><a href="/ba-charlottenburg-wilmersdorf/bvv-online/to010.asp?SILFDNR=2315&amp;options=4">2. Öffentliche Sitzung der Bezirksverordnetenversammlung Charlottenburg-Wilmersdorf von Berlin</a></td>
+					<td class="text3">ohne Änderungen in der BVV beschlossen&nbsp;</td>
+					<td>&nbsp;</td>
+<td><form action="/ba-charlottenburg-wilmersdorf/bvv-online/to020.asp" method="post" style="margin:0"><input type="hidden" name="TOLFDNR" value="26581"  /><input type="hidden" name="options" value="8"  /><input type="submit" class="il1_naz" value="NA" title="Auszug"  /></form></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+<tr><td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" width="1" height="1" alt="" border="0"  /></td><td width="45%"><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" width="1" height="1" alt="" border="0"  /></td><td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" width="1" height="1" alt="" border="0"  /></td><td width="45%"><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" width="1" height="1" alt="" border="0"  /></td></tr>
+<</table>
+</td>
+		<td class="ko2"></td>
+		<td class="me1">
+			<table class="tk1" cellspacing="0" cellpadding="0" border="0">
+				<tr><td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" alt="" width="165" height="1" border="0"  /></td></tr>
+				<tr>
+					<td class="me1" align="center"> <form action="/ba-charlottenburg-wilmersdorf/bvv-online/do027.asp" method="post" style="margin:0" ><input type="hidden" name="DOLFDNR" value="49684"  /><input type="hidden" name="options" value="64"  /><input type="submit" class="il2_p" value="Drucksache" title="Drucksache (Öffnet PDF-Datei in neuem Fenster)"  /></form> <form action="/ba-charlottenburg-wilmersdorf/bvv-online/vo021.asp" method="post" style="margin:0"><input type="hidden" name="VOLFDNR" value="4277"  /><input type="hidden" name="options" value="16"  /><input type="submit" class="il2_s" value="Beschl&uuml;sse" title="Beschl&uuml;sse"  /></form> 
+					</td>				</tr>
+				<tr>
+					<td class="me1" align="center"><table class="tk1" cellspacing="0" cellpadding="3" border="0">
+	<tr><td colspan="1"><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/einpix.gif" alt="" width="1" height="1" /></td></tr>
+	<tr valign="top">
+		<td class="kb1" colspan="1">Anlagen:</td>
+	</tr>
+	<tr valign="top">
+		<td class="text3"><a href="___tmp/tmp/45-181-136979756953/979756953/00049685/85-Anlagen/02/2_Version_vom_09_11_2011.pdf"   title="Anlage 1 &ouml;ffnen (Öffnet Dokument in neuem Fenster)" onmouseover="status='Antrag'; return true;" onmouseout="status=''; return true;">Antrag</a></td>
+	</tr>
+	<tr valign="top">
+		<td class="text3"><a href="___tmp/tmp/45-181-136979756953/979756953/00049685/85-Anlagen/01/3_Version_vom_18_11_2011.pdf"   title="Anlage 2 &ouml;ffnen (Öffnet Dokument in neuem Fenster)" onmouseover="status='Beschluss'; return true;" onmouseout="status=''; return true;">Beschluss</a></td>
+	</tr>
+	<tr valign="top">
+		<td class="text3"><a href="___tmp/tmp/45-181-136979756953/979756953/00049685/85-Anlagen/03/4_Version_vom_13_12_2011.pdf"   title="Anlage 3 &ouml;ffnen (Öffnet Dokument in neuem Fenster)" onmouseover="status='Vorlage zur Kenntnisnahme'; return true;" onmouseout="status=''; return true;">Vorlage zur Kenntnisnahme</a></td>
+	</tr>
+</table>
+					</td>				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<hr  />
+<!-- ### SV49683.rtf -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta name="generator" content="Aspose.Words for .NET 9.3.0.0" /><title>Die BVV möge beschließen:</title></head><body ><div><div><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:bold">Ein etwas besonderer Weihnachtsmarkt</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:bold">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Die BVV hat</span><span style="font-family:Arial; font-size:11pt"> in ihrer Sitzung am <a href="/ba-charlottenburg-wilmersdorf/bvv-online/si010.asp?YY=2011&amp;MM=11&amp;DD=17" title="Sitzungskalender 11/2011 anzeigen">17.11.2011</a> </span><span style="font-family:Arial; font-size:11pt">Folgendes beschlossen:</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:normal">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:normal">Das Bezirksamt Charlottenburg-Wilmersdorf wird aufgefordert, dahingehend mit Goldnetz gGmbH Sozialmarkt Berlin oder mit vergleichbaren Einrichtungen/Anbietern zu verhandeln, um ein preisgünstiges Weihnachtsmarktangebot für Menschen mit geringerem Einkommen weitestgehend sicherzustellen.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:normal">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:normal">Der BVV ist bis zum <a href="/ba-charlottenburg-wilmersdorf/bvv-online/si010.asp?YY=2011&amp;MM=12&amp;DD=05" title="Sitzungskalender 12/2011 anzeigen">05.12.2011</a> zu berichten.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:normal">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-weight:normal">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt; font-style:normal">Das Bezirksamt teilt dazu mit: </span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Der am Klausenerplatz stattfindende Sozialmarkt und der jährliche Weihnachtsmarkt werden durch die Goldnetz gGmbH auf der Grundlage von Arbeitsgelegenheiten mit Mehraufwand</span><span style="font-family:Arial; font-size:11pt">&#xad;</span><span style="font-family:Arial; font-size:11pt">entschädigung (AGH-MAE) des Jo</span><span style="font-family:Arial; font-size:11pt">b</span><span style="font-family:Arial; font-size:11pt">centers organisiert. </span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Aufgrund einer bundesweiten grundsätzlichen Neuausrichtung der Arbeitsmarktinstrumente der Jobcenter werden zukünftig individuelle Fördermöglichkeiten, die auf den ersten Ar</span><span style="font-family:Arial; font-size:11pt">&#xad;</span><span style="font-family:Arial; font-size:11pt">beitsmarkt führen, finanziell stärker ausgestattet, während bei den sogenannten Arbeitsgel</span><span style="font-family:Arial; font-size:11pt">e</span><span style="font-family:Arial; font-size:11pt">&#xad;</span><span style="font-family:Arial; font-size:11pt">genheiten starke Einsparungen vorgenommen werden. Dem Bezirksamt ist es gelungen, den Sozialmarkt auf dem Klausenerplatz mit 40 Plätzen aus dem Kontingent der Bürgera</span><span style="font-family:Arial; font-size:11pt">r</span><span style="font-family:Arial; font-size:11pt">beit zu erhalten.</span></p><p style="margin:0pt"><span style="font-family:Arial; font-size:12pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Das Angebot des Weihnachtsmarktes </span><span style="font-family:Arial; font-size:11pt">für Menschen mit geringem Einkommen </span><span style="font-family:Arial; font-size:11pt">w</span><span style="font-family:Arial; font-size:11pt">urde</span><span style="font-family:Arial; font-size:11pt"> b</span><span style="font-family:Arial; font-size:11pt">e</span><span style="font-family:Arial; font-size:11pt">reits in den Vorjahren im Turnus zwischen den drei Standorten </span><span style="font-family:Arial; font-size:11pt">der Sozialmärkte in Berlin in </span><span style="font-family:Arial; font-size:11pt">Mitte, Spandau und Charlottenburg durchgeführt. Die Organisation kann so gebündelt </span><span style="font-family:Arial; font-size:11pt">u</span><span style="font-family:Arial; font-size:11pt">nd das Angebot besonders attraktiv gestaltet we</span><span style="font-family:Arial; font-size:11pt">r</span><span style="font-family:Arial; font-size:11pt">den.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Der diesjährige Weihnachtsmarkt f</span><span style="font-family:Arial; font-size:11pt">a</span><span style="font-family:Arial; font-size:11pt">nd am 03.</span><span style="font-family:Arial; font-size:11pt"> </span><span style="font-family:Arial; font-size:11pt">Dezember </span><span style="font-family:Arial; font-size:11pt">in der Zeit </span><span style="font-family:Arial; font-size:11pt">von 14:00  20:00 Uhr auf dem ehemaligen Bosch-Gelände, Zitadellenweg 34 in Spandau </span><span style="font-family:Arial; font-size:11pt"> </span><span style="font-family:Arial; font-size:11pt">auch für Menschen mit geringem Einkommen aus Charlottenburg-Wilmersdorf- statt. Er ist durch die U 7 von unse</span><span style="font-family:Arial; font-size:11pt">&#xad;</span><span style="font-family:Arial; font-size:11pt">rem Bezirk gerade aus den Bereichen Mi</span><span style="font-family:Arial; font-size:11pt">e</span><span style="font-family:Arial; font-size:11pt">rendorffplatz und Charlottenburg-Nord</span><span style="font-family:Arial; font-size:11pt">, in denen ein großer Teil der Zielgruppe im Bezirk wohnt, sehr </span><span style="font-family:Arial; font-size:11pt">gut zu erreichen.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Es </span><span style="font-family:Arial; font-size:11pt">gab </span><span style="font-family:Arial; font-size:11pt">23 Stände mit </span><span style="font-family:Arial; font-size:11pt">verschiedenen Angeboten, dazu Angebote für Kinder, wie z.B. </span><span style="font-family:Arial; font-size:11pt">Pon</span><span style="font-family:Arial; font-size:11pt">y</span><span style="font-family:Arial; font-size:11pt">reiten </span><span style="font-family:Arial; font-size:11pt">und einen Nikolaus. </span><span style="font-family:Arial; font-size:11pt">Neben </span><span style="font-family:Arial; font-size:11pt">einem </span><span style="font-family:Arial; font-size:11pt">Bühnenprogramm mit Musik </span><span style="font-family:Arial; font-size:11pt">gibt es ei</span><span style="font-family:Arial; font-size:11pt">ne To</span><span style="font-family:Arial; font-size:11pt">m</span><span style="font-family:Arial; font-size:11pt">bola</span><span style="font-family:Arial; font-size:11pt"> in Zusammenarbeit mit der </span><span style="font-family:Arial; font-size:11pt">Kulturloge e.V.</span><span style="font-family:Arial; font-size:11pt">. Mit Unterstützung der </span><span style="font-family:Arial; font-size:11pt">Berliner Tafel e.V. </span><span style="font-family:Arial; font-size:11pt">werden </span><span style="font-family:Arial; font-size:11pt">Plät</span><span style="font-family:Arial; font-size:11pt">z</span><span style="font-family:Arial; font-size:11pt">chen, Kuchen, Würstchen, alkohol</span><span style="font-family:Arial; font-size:11pt">freier Glühwein und vieles mehr angeboten.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Es ist aus Sicht des Bezirksamts nicht zu beanstanden, dass ein besonders attraktives An</span><span style="font-family:Arial; font-size:11pt">&#xad;</span><span style="font-family:Arial; font-size:11pt">gebot im Wechsel zw</span><span style="font-family:Arial; font-size:11pt">i</span><span style="font-family:Arial; font-size:11pt">schen den Standorten organisiert wird. Gerade durch die Bündelung der Re</span><span style="font-family:Arial; font-size:11pt">s</span><span style="font-family:Arial; font-size:11pt">sourcen wird es in der Situation der fortlaufenden Einsparungen im Bereich der Maßnahmen eher gelingen, ein preisgünstiges Weihnachtsmarktangebot für Menschen mit geringem Einkommen zu erhalten und ansprechend zu ge</span><span style="font-family:Arial; font-size:11pt">s</span><span style="font-family:Arial; font-size:11pt">talten.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Im Jahr 2012 wird der durch Goldnetz organisierte Weihnachtsmarkt turnusgemäß in Char</span><span style="font-family:Arial; font-size:11pt">&#xad;</span><span style="font-family:Arial; font-size:11pt">lottenburg stat</span><span style="font-family:Arial; font-size:11pt">t</span><span style="font-family:Arial; font-size:11pt">finden. </span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Das Bezirksamt bittet, den Beschluss als erledigt zu betrachten.</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">&#xa0;</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Klaus Dieter Gröhler</span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">          </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">Carsten Engelmann</span></p><p style="margin:0pt; text-align:justify"><span style="font-family:Arial; font-size:11pt">Stellv. </span><span style="font-family:Arial; font-size:11pt">Bezirksbürgerm</span><span style="font-family:Arial; font-size:11pt">eister </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">              </span><span style="font-family:Arial; font-size:11pt">Bezirksstadtrat</span></p><p style="margin:0pt"><span style="font-family:Arial; font-size:12pt">&#xa0;</span></p></div></div></body></html><!-- ### AN49685.rtf -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta name="generator" content="Aspose.Words for .NET 9.3.0.0" /><title></title></head><body ><div> <hr /><div><p style="margin:0pt"><span style="font-family:Arial; font-size:12pt">&#xa0;</span></p></div></div></body></html></td>
+<td style="background: URL(/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/e.gif) repeat-y">&nbsp;</td>
+	</tr>
+	<tr>
+		<td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/sw.gif" alt=""  /></td>
+		<td width="100%" style="background: URL(/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/s.gif) repeat-x">&nbsp;</td>
+		<td><img src="/ba-charlottenburg-wilmersdorf/bvv-online/images/deco/nodeco/se.gif" alt=""  /></td>
+	</tr>
+</table>
+</div>
+<div class="container"><h3>Legende</h3>
+<div>
+<table class="ta1" summary="Erl&auml;uterung der Allris-Symbole. In der linken Spalte sind die Symbole dargestellt. In der rechten Spalte die dazugeh&ouml;rige Erl&auml;uterung">
+			<tr>
+				<td><input type="submit" class="il1_au" value="AU" title="Ausschuss" /></td><td>Ausschuss</td>
+				<td><input type="submit" class="il1_to" value="TO" title="Tagesordnung" /></td><td>Tagesordnung</td>
+				<td><input type="submit" class="il1_vo" value="DRS" title="Drucksache" /></td><td>Drucksache</td>
+			</tr>
+			<tr>
+				<td><input type="submit" class="il1_pa" value="BVV" title="Parlament" /></td><td>Parlament</td>
+				<td><input type="submit" class="il1_dr" value="AM" title="Aktenmappe" /></td><td>Aktenmappe</td>
+				<td><input type="submit" class="il1_vle" value="DLE" title="Drucksachenlebenslauf" /></td><td>Drucksachenlebenslauf</td>
+			</tr>
+			<tr>
+				<td><input type="submit" class="il1_fr" value="FR" title="Fraktion" /></td><td>Fraktion</td>
+				<td><input type="submit" class="il1_ns" value="NIE" title="Niederschrift" /></td><td>Niederschrift</td>
+				<td><input type="submit" class="il1_bes" value="BES" title="Beschl&uuml;sse" /></td><td>Beschl&uuml;sse</td>
+			</tr>
+			<tr>
+				<td><input type="submit" class="il1_kp" value="KP" title="Kommunalpolitiker" /></td><td>Kommunalpolitiker</td>
+				<td><input type="submit" class="il1_naz" value="NA" title="Auszug" /></td><td>Auszug</td>
+				<td><input type="submit" class="il1_rea" value="REA" title="Realisierung" /></td><td>Realisierung</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td><td>&nbsp;</td>
+				<td><input type="submit" class="il1_sn" value="AN" title="Anwesenheit" /></td><td>Anwesenheit</td>
+				<td><input type="submit" class="il1_ka" value="KA" title="Kleine Anfragen" /></td><td>Kleine Anfragen</td>
+				<td>&nbsp;</td><td>&nbsp;</td>
+			</tr>
+
+</table>
+</div>
+</div>
+</div>
+
+
+
+
+<!--noprint-->
+<div id="seitenende"><!--block-->
+<div id="copyright">&copy; Bezirksamt Charlottenburg-Wilmersdorf von Berlin</div>
+</div> 
+<!--/noprint--></div>
+</div>
+<!-- Anfang Container- bzw. Marginalienspalte -->
+<div id="containerbereich">
+<div class="container">
+<h3><a href="/ba-charlottenburg-wilmersdorf/bvv-online/allris.net.asp">Kontakt</a></h3>
+</div>
+<!-- Ende Container- bzw. Marginalienspalte -->
+<div class="bohspace">&nbsp;<!-- clear both -->&nbsp;</div>
+<!--/article--></div>
+<!-- Letzte Aktualisierung am 19.MÃ¤rz 2013 12:05 -->
+[an error occurred while processing this directive]<!-- T:23/Oct/2013:15:20:01
+ S:botein.unbelievable-machine.net H:www.berlin.de R:/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4277&amp;options=4 -->
+</div></div></div>
+</body>
+	</html></field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4277&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">37395</field>  
+  <field name="parteien">5</field>  
+</doc></add>

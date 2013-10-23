@@ -1,0 +1,441 @@
+<add><doc>
+  <field name="id">SZ_0125/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bezirkshaushalt transparent für alle Bürger</field>  
+  <field name="bezirk">Steglitz_Zehlendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">andere</field>
+<field name="word">gemäß</field>
+<field name="word">struktur</field>
+<field name="word">miteinander</field>
+<field name="word">nachfragen</field>
+<field name="word">wohldefinierten</field>
+<field name="word">rgeranfrage</field>
+<field name="word">graphische</field>
+<field name="word">projekte</field>
+<field name="word">glichkeiten</field>
+<field name="word">verlinkung</field>
+<field name="word">ffentlichten</field>
+<field name="word">selbst</field>
+<field name="word">sinnvoll</field>
+<field name="word">gestellt</field>
+<field name="word">weitere</field>
+<field name="word">sung</field>
+<field name="word">nscht</field>
+<field name="word">finden</field>
+<field name="word">abstimmung</field>
+<field name="word">haushaltsberatungen</field>
+<field name="word">dargestellt</field>
+<field name="word">rigem</field>
+<field name="word">groben</field>
+<field name="word">signalisiert</field>
+<field name="word">vorbereitung</field>
+<field name="word">interessant</field>
+<field name="word">empfohlen</field>
+<field name="word">source</field>
+<field name="word">erlaubt</field>
+<field name="word">unterstü</field>
+<field name="word">billiger</field>
+<field name="word">strategie</field>
+<field name="word">sonst</field>
+<field name="word">anforderungskatalog</field>
+<field name="word">unterschiede</field>
+<field name="word">gezeigt</field>
+<field name="word">geschaffe</field>
+<field name="word">ndigen</field>
+<field name="word">bereitstellung</field>
+<field name="word">internet</field>
+<field name="word">haushaltsdaten</field>
+<field name="word">markierung</field>
+<field name="word">rger</field>
+<field name="word">erwarten</field>
+<field name="word">transparent</field>
+<field name="word">schienen</field>
+<field name="word">bezirken</field>
+<field name="word">keiner</field>
+<field name="word">zeit</field>
+<field name="word">stimmen</field>
+<field name="word">unerwü</field>
+<field name="word">informationen</field>
+<field name="word">tzung</field>
+<field name="word">keinen</field>
+<field name="word">technologie</field>
+<field name="word">dafü</field>
+<field name="word">wiki</field>
+<field name="word">vorherigen</field>
+<field name="word">nein</field>
+<field name="word">zugehö</field>
+<field name="word">fassung</field>
+<field name="word">nger</field>
+<field name="word">verlinken</field>
+<field name="word">bezirksverordnetenvorsteher</field>
+<field name="word">ngende</field>
+<field name="word">piraten</field>
+<field name="word">rgern</field>
+<field name="word">solchen</field>
+<field name="word">senats</field>
+<field name="word">annahme</field>
+<field name="word">anschauungsmö</field>
+<field name="word">maschinenlesbar</field>
+<field name="word">rten</field>
+<field name="word">heuhaufen</field>
+<field name="word">haushaltstitel</field>
+<field name="word">nnte</field>
+<field name="word">seitens</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">entwicklung</field>
+<field name="word">nnen</field>
+<field name="word">anschaulich</field>
+<field name="word">dynamisch</field>
+<field name="word">stellv</field>
+<field name="word">bereich</field>
+<field name="word">dort</field>
+<field name="word">direkten</field>
+<field name="word">aufklappen</field>
+<field name="word">verö</field>
+<field name="word">arbeiten</field>
+<field name="word">enthalten</field>
+<field name="word">ndert</field>
+<field name="word">tatsä</field>
+<field name="word">angenommen</field>
+<field name="word">fragen</field>
+<field name="word">beeinflussbar</field>
+<field name="word">erwü</field>
+<field name="word">kompliziert</field>
+<field name="word">sortierung</field>
+<field name="word">ausgabe</field>
+<field name="word">dann</field>
+<field name="word">nderen</field>
+<field name="word">darstellungstool</field>
+<field name="word">zusammenhä</field>
+<field name="word">ntrags</field>
+<field name="word">ezirkshaushalt</field>
+<field name="word">senatsvorgabe</field>
+<field name="word">kooperationen</field>
+<field name="word">stochern</field>
+<field name="word">unterpunkten</field>
+<field name="word">rgerbeteiligung</field>
+<field name="word">stimme</field>
+<field name="word">schaffen</field>
+<field name="word">bezirkshaushalt</field>
+<field name="word">navigation</field>
+<field name="word">software</field>
+<field name="word">einnahme</field>
+<field name="word">aber</field>
+<field name="word">unklaren</field>
+<field name="word">weder</field>
+<field name="word">unterschiedliche</field>
+<field name="word">erkennen</field>
+<field name="word">finanzflü</field>
+<field name="word">aushaltsdaten</field>
+<field name="word">jeder</field>
+<field name="word">getrennt</field>
+<field name="word">open</field>
+<field name="word">gemeinsamen</field>
+<field name="word">bezirke</field>
+<field name="word">klare</field>
+<field name="word">gner</field>
+<field name="word">hinzufü</field>
+<field name="word">nnten</field>
+<field name="word">zunä</field>
+<field name="word">folgt</field>
+<field name="word">zustä</field>
+<field name="word">haushaltsausschusses</field>
+<field name="word">besonders</field>
+<field name="word">einfluss</field>
+<field name="word">schema</field>
+<field name="word">verfü</field>
+<field name="word">gesamte</field>
+<field name="word">erarbeitet</field>
+<field name="word">form</field>
+<field name="word">beschließ</field>
+<field name="word">hochgradig</field>
+<field name="word">bezirksbilanz</field>
+<field name="word">zeigt</field>
+<field name="word">piratenpartei</field>
+<field name="word">nderten</field>
+<field name="word">wichtige</field>
+<field name="word">francke</field>
+<field name="word">beigefü</field>
+<field name="word">ndung</field>
+<field name="word">dateisystembrowser</field>
+<field name="word">gestellten</field>
+<field name="word">feine</field>
+<field name="word">erarbeiten</field>
+<field name="word">komplette</field>
+<field name="word">direkt</field>
+<field name="word">projekt</field>
+<field name="word">maschinenlesbarer</field>
+<field name="word">titelnummer</field>
+<field name="word">haushalt</field>
+<field name="word">cksichtigt</field>
+<field name="word">teilweise</field>
+<field name="word">vieles</field>
+<field name="word">zehlendorf</field>
+<field name="word">moderner</field>
+<field name="word">interessierten</field>
+<field name="word">perspektiven</field>
+<field name="word">hnliche</field>
+<field name="word">chlich</field>
+<field name="word">wieder</field>
+<field name="word">titel</field>
+<field name="word">ausschussvorsitzender</field>
+<field name="word">bcrger</field>
+<field name="word">zurü</field>
+<field name="word">beraten</field>
+<field name="word">hintergrundinformationen</field>
+<field name="word">anschauliche</field>
+<field name="word">gegenargumente</field>
+<field name="word">mitglieder</field>
+<field name="word">rzlich</field>
+<field name="word">menzel</field>
+<field name="word">argumente</field>
+<field name="word">unverä</field>
+<field name="word">format</field>
+<field name="word">fließ</field>
+<field name="word">chsten</field>
+<field name="word">entwickelt</field>
+<field name="word">anforderungen</field>
+<field name="word">angewiesen</field>
+<field name="word">beschlü</field>
+<field name="word">borovicz</field>
+<field name="word">darstellungstools</field>
+<field name="word">interessieren</field>
+<field name="word">lediglich</field>
+<field name="word">http</field>
+<field name="word">haushaltsplan</field>
+<field name="word">berü</field>
+<field name="word">begrü</field>
+<field name="word">politisch</field>
+<field name="word">enthaltung</field>
+<field name="word">portal</field>
+<field name="word">verbesserte</field>
+<field name="word">probleme</field>
+<field name="word">data</field>
+<field name="word">steglitz</field>
+<field name="word">ller</field>
+<field name="word">kapitel</field>
+<field name="word">wandeln</field>
+<field name="word">bersichtlich</field>
+<field name="word">darstellung</field>
+<field name="word">vereinfacht</field>
+<field name="word">rden</field>
+<field name="word">machen</field>
+<field name="word">gung</field>
+<field name="word">solche</field>
+<field name="word">daten</field>
+<field name="word">ineffizient</field>
+<field name="word">baumartiges</field>
+  <field name="text_de"> 
+Die BVV mö
+ge beschließ
+en: 
+ 
+Das Bezirksamt wird ersucht
+,
+ als Vorbereitung fü
+r den nä
+chsten Haushaltsplan zu erarbeiten, wie der gesamte Bezirkshaushalt mit moderner Technologie ü
+bersichtlich und transparent dargestellt werden kann. Die Bereitstellung der H
+aushaltsdaten in maschinenlesbarer Form soll dabei besonders berü
+cksichtigt werden. Kooperationen dazu mit anderen Bezirken sind erwü
+nscht. 
+ 
+Begrü
+ndung:
+ 
+Die Haushaltsberatungen haben gezeigt, dass der Haushaltsplan vieles im
+ Unklaren lä
+sst und wichtige Informationen nur durch Nachfragen zu erhalten sind. Teilweise schienen die gestellten Fragen wie das Stochern im Heuhaufen. Das ist hochgradig ineffizient. 
+Wie eine Bü
+rgeranfrage zeigt, gibt es auch Bü
+rger, die sich fü
+r den B
+ezirkshaushalt interessieren. Ein Haushalt
+,
+ bei dem aber selbst BVV-Mitglieder nicht erkennen kö
+nnen, welche Haushaltstitel tatsä
+chlich politisch interessant sind, signalisiert interessierten Bü
+rgern lediglich, dass Bü
+rgerbeteiligung unerwü
+nscht ist. 
+Da e
+in Haushaltsplan in dieser Form aber Senatsvorgabe ist, soll erarbeitet werden, wie getrennt von dem Haushaltsplan der komplette Haushalt anschaulich dargestellt werden kann. Eine solche anschauliche Darstellung kö
+nnte z.B. enthalten: 
+?
+   
+Eine Navigation vom Groben ins Feine (z.B. durch Baumartiges Aufklappen von Unterpunkten, wie in einem Dateisystembrowser) 
+?
+   
+In einer solchen Struktur kö
+nnten auch noch mehr Hintergrundinformationen beigefü
+gt werden, die sonst den Haushaltsplan nur noch l
+ä
+nger und unü
+bersichtlich machen wü
+rden. 
+?
+   
+Unterschiedliche Perspektiven auf Haushaltstitel (z.B. Sortierung nach Kapitel, Sortierung nach Titelnummer) 
+?
+   
+Zusammenhä
+ngende Haushaltstitel direkt miteinander verlinken 
+?
+   
+Graphische Darstellung der Finanzflü
+sse (z.B. wo fließ
+t die Einnahme aus Titel X hin? Fließ
+t Ausgabe Y wieder als Einnahme in den Haushalt zurü
+ck?) 
+?
+   
+Verlinkung der BVV-Beschlü
+sse, die Einfluss auf Haushaltstitel haben 
+?
+   
+Klare Markierung der Haushaltstitel, die weder durch BVV noch Bezirks
+amt beeinflussbar sind 
+?
+   
+Markierung der Haushaltstitel, die keinen direkten Einfluss auf die Bezirksbilanz haben 
+?
+   
+Unterschiede zum Vorherigen Haushaltsplan. 
+Da eine Software, die eine solche Darstellung erlaubt
+,
+ noch entwickelt werden muss, soll zunä
+ch
+st ein Anforderungskatalog erarbeitet werden. 
+Da insbesondere die graphische Darstellung besonders kompliziert ist und zu erwarten ist, dass die Anforderungen in dem Bereich mit der Zeit sich auch wandeln werden, ist es sinnvoll, dass ein Portal geschaffe
+n wird, wo die Daten in einem wohldefinierten Format maschinenlesbar zur Verfü
+gung gestellt werden (z.B. in XML mit zugehö
+rigem XML Schema). Das ist dann zum einen billiger und zum anderen sind die Bü
+rger dann nicht auf ein Darstellungstool angewiesen. Op
+e
+n-Source Projekte kö
+nnten dann z.B. dynamisch verbesserte Anschauungsmö
+glichkeiten schaffen. 
+Da andere Bezirke ä
+hnliche Probleme haben, ist es sinnvoll an einer gemeinsamen Lö
+sung zu arbeiten, was dann die Entwicklung eines Darstellungstools vereinfacht. 
+Gemäß
+ der kü
+rzlich von der Senatsverwaltung verö
+ffentlichten Berliner Open-Data Strategie ist bei einem solchen Projekt auch Unterstü
+tzung seitens des Senats zu erwarten. 
+Weitere Fü
+r- und Gegenargumente finden sich im Internet auf 
+http://wiki.piratenpartei.de/BE
+:Steglitz-Zehlendorf/BVV/Bezirkshaushalt_transparent_f%C3%BCr_alle_B%C3%BCrger
+. Dort kann jeder auch weitere Argumente hinzufü
+gen. 
+ 
+Berlin Steglitz-Zehlendorf, den 
+21.02.2012
+ 
+Fü
+r die Piraten-Fraktion
+ 
+ 
+Boroviczé
+ny
+              
+              
+Mü
+ller
+ 
+-----------------------------------------------------------------------------------------------------------------
+ 
+Der Antrag 
+wurde am 
+07.06.2012
+ in der 13. Sitzung
+ des Haushaltsausschusses beraten und 
+wie folgt geä
+nde
+r
+t:
+ 
+
+Die BVV mö
+ge beschließ
+en: 
+ 
+Das Bezirksamt wird ersucht
+,
+ 
+sich bei den zustä
+ndigen Stellen dafü
+r einzusetzen, dass diese 
+als Vorbereitung fü
+r den
+ nä
+chsten Haushaltsplan
+ erarbeiten, wie der 
+gesamte Bezirkshaushalt mit moderner Technologie ü
+bersichtlich und transparent dargestellt werden kann. Die Bereitstellung der Haushaltsdaten in maschinenlesbarer Form soll dabei besonders berü
+cksichtigt werden. Kooperationen dazu mit a
+nderen Bezirken sind
+ erwü
+nscht.
+ 
+Begrü
+ndung:
+Unverä
+ndert.
+ 
+B
+ei einer Abstimmung 
+wurde der Antrag in der geä
+nderten Fassung 
+mit 14 Ja-Stimmen und keiner Nein-Stimme bei keiner Enthaltung angenommen.
+ 
+Der Bezirksverordnetenversammlung wird die Annahme des A
+ntrags in der geä
+nde
+rten Fassung
+ empfohlen.
+ 
+ 
+Menzel
+Stellv. Ausschussvorsitzender
+ 
+-
+-------------------------------------------------------------------------
+------
+ 
+Die BVV hat in ihrer 9. Sitzung am 
+20.06.2012
+ beschlossen:
+ 
+Das Bezirksamt wird ersucht
+,
+ 
+sich bei den zustä
+ndigen Stellen dafü
+r einzusetzen, dass diese 
+als Vorbereitung fü
+r den
+ nä
+chsten Haushaltsplan
+ erarbeiten, wie der 
+gesamte Bezirkshaushalt mit moderner Technologie ü
+bersichtlich und transparent dargestellt werden kann. Die Bereitstellung der Haushaltsdaten in maschinenlesbarer Form soll dabei besonders berü
+cksichtigt werden. Kooperationen dazu mit a
+nderen Bezirken sind
+ erwü
+nscht.
+ 
+ 
+Rö
+gner-Francke
+Bezirksverordnetenvorsteher
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4161&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">5329</field>  
+  <field name="parteien">1</field>  
+</doc></add>

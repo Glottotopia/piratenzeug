@@ -1,0 +1,45 @@
+<add><doc>
+  <field name="id">Pa_VII-0222</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Buchungsdefizit im Sozialamt, Fachbereich Hilfen in besonderen Lebenslagen</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">auswirkungen</field>
+<field name="word">buchungsdefizit</field>
+<field name="word">aufgearbeitet</field>
+<field name="word">seit</field>
+<field name="word">sozialamt</field>
+<field name="word">jahresende</field>
+<field name="word">wann</field>
+<field name="word">wusste</field>
+<field name="word">nachfolgender</field>
+<field name="word">buchungsdefizite</field>
+<field name="word">fragen</field>
+<field name="word">sende</field>
+<field name="word">stadträtin</field>
+<field name="word">jahre</field>
+<field name="word">worden</field>
+<field name="word">hätte</field>
+<field name="word">abgebaut</field>
+<field name="word">beantwortung</field>
+  <field name="text_de">Das Bezirksamt wird um Beantwortung nachfolgender Fragen gebeten:
+ 
+1. Seit wann wusste das Bezirksamt und die Stadträtin von d
+em Buchungsdefizit im Sozialamt
+?
+ 
+2. Wie sollen die Buchungsdefizite bis zum 
+Jahresende aufgearbeitet werden
+?
+ 
+3. Was für Auswirkungen hätte es, wenn das Buchungsdefizit bis zum Jahre
+sende nicht abgebaut worden ist
+?
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3301&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">352</field>  
+  <field name="parteien">1</field>  
+</doc></add>

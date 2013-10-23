@@ -1,0 +1,48 @@
+<add><doc>
+  <field name="id">NK_0684/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Betrieb der Flüchtlingsunterkunft in der Späthstraße</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">pewobe</field>
+<field name="word">betrieben</field>
+<field name="word">betriebenen</field>
+<field name="word">zuständen</field>
+<field name="word">unternehmen</field>
+<field name="word">auskunft</field>
+<field name="word">folgende</field>
+<field name="word">einrichtungen</field>
+<field name="word">flüchtlingsunterkunft</field>
+<field name="word">vergeben</field>
+<field name="word">obdachlosenunterkunft</field>
+<field name="word">ausschreibung</field>
+<field name="word">müssen</field>
+<field name="word">menschen</field>
+<field name="word">unterbringung</field>
+<field name="word">tätig</field>
+<field name="word">geworden</field>
+<field name="word">späthstraße</field>
+<field name="word">gemacht</field>
+<field name="word">bedürftigen</field>
+<field name="word">erfahrungen</field>
+<field name="word">kommt</field>
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+1)
+     
+Welche Erfahrungen hat das Bezirksamt mit Einrichtungen für die Unterbringung von bedürftigen Menschen gemacht die von PeWoBe betrieben werden?
+2)
+     
+Ist das Bezirksamt tätig geworden, um die Ausschreibung nicht an die PeWoBe vergeben zu müssen und wenn ja wie?
+3)
+     
+Was wird das Bezirksamt unternehmen damit es in der Flüchtlingsunterkunft in der Späthstraße nicht zu Zuständen kommt wie in der von der PeWoBe betriebenen Obdachlosenunterkunft?
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4307&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">517</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,62 @@
+<add><doc>
+  <field name="id">NK_0733/XIX</field>  
+  <field name="typ">Entschließung</field>  
+  <field name="titel">Teilnahme am Energievolksentscheid am 03. November</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">direkte</field>
+<field name="word">handelt</field>
+<field name="word">teilzunehmen</field>
+<field name="word">november</field>
+<field name="word">ruft</field>
+<field name="word">bürger</field>
+<field name="word">zukünfti</field>
+<field name="word">wahlrecht</field>
+<field name="word">aktiv</field>
+<field name="word">neukölln</field>
+<field name="word">gebrauch</field>
+<field name="word">entscheid</field>
+<field name="word">energieversorgung</field>
+<field name="word">begrüßt</field>
+<field name="word">abstimmung</field>
+<field name="word">entscheidung</field>
+<field name="word">weichenstellung</field>
+<field name="word">ihren</field>
+<field name="word">volks</field>
+<field name="word">bürgerinnen</field>
+<field name="word">machen</field>
+<field name="word">zentrale</field>
+  <field name="text_de"> 
+Die Bezirksverordnetenversammlung
+ ruft
+ die Bürgerinnen und Bürger von Neukölln auf, von ihren
+ 
+Wahlrecht aktiv Gebrauch zu machen und am Volks
+entscheid
+ am 3. November 2013  teilzunehmen.
+Da es sich bei dieser Entscheidung
+ 
+um eine zentrale Weichenstellung 
+für die 
+ zukünfti
+ge
+ Berliner Energieversorgung handelt, begrüßt
+ 
+die Bezirksverordnetenversammlung von Neukölln die Entscheidung durch direkte Abstimmung.
+ 
+ 
+ 
+ 
+ 
+ 
+              
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4356&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">452</field>  
+  <field name="parteien">3</field>  
+</doc></add>

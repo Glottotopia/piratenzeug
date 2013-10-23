@@ -1,0 +1,322 @@
+<add><doc>
+  <field name="id">MI_0600/IV</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Ortsbezogene Bürgerbenachrichtigung und -beteiligung</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">dezentral</field>
+<field name="word">benachrichtigungen</field>
+<field name="word">siehe</field>
+<field name="word">mittel</field>
+<field name="word">karten</field>
+<field name="word">text</field>
+<field name="word">wohnort</field>
+<field name="word">datum</field>
+<field name="word">erfolgen</field>
+<field name="word">sollte</field>
+<field name="word">aussehen</field>
+<field name="word">bezirksverordnetenversam</field>
+<field name="word">gebiet</field>
+<field name="word">weitere</field>
+<field name="word">stehen</field>
+<field name="word">ortsbezogene</field>
+<field name="word">bringen</field>
+<field name="word">absehbar</field>
+<field name="word">personal</field>
+<field name="word">zwischenbericht</field>
+<field name="word">hanke</field>
+<field name="word">apls</field>
+<field name="word">zahlreichen</field>
+<field name="word">mail</field>
+<field name="word">stadtentwicklung</field>
+<field name="word">über</field>
+<field name="word">müssen</field>
+<field name="word">umwelt</field>
+<field name="word">folgendes</field>
+<field name="word">bauen</field>
+<field name="word">entscheidungen</field>
+<field name="word">könnten</field>
+<field name="word">soziales</field>
+<field name="word">haushaltplan</field>
+<field name="word">bezvg</field>
+<field name="word">bezirklichen</field>
+<field name="word">informationen</field>
+<field name="word">unklar</field>
+<field name="word">bezirksamts</field>
+<field name="word">jedoch</field>
+<field name="word">markieren</field>
+<field name="word">einschätzung</field>
+<field name="word">ordnung</field>
+<field name="word">erstellen</field>
+<field name="word">anstehende</field>
+<field name="word">folgendermaßen</field>
+<field name="word">zielgerichtet</field>
+<field name="word">sport</field>
+<field name="word">einfach</field>
+<field name="word">kenntnis</field>
+<field name="word">vermutungen</field>
+<field name="word">betreffenden</field>
+<field name="word">bezirksmitteln</field>
+<field name="word">wirtschaft</field>
+<field name="word">betreffend</field>
+<field name="word">dassel</field>
+<field name="word">entwicklung</field>
+<field name="word">verweis</field>
+<field name="word">internet</field>
+<field name="word">verfügung</field>
+<field name="word">kenntnisnahme</field>
+<field name="word">bürger</field>
+<field name="word">frei</field>
+<field name="word">derzeitigem</field>
+<field name="word">finanziert</field>
+<field name="word">auswirkungen</field>
+<field name="word">stadtrat</field>
+<field name="word">kommt</field>
+<field name="word">entscheidung</field>
+<field name="word">rechtsgrundlage</field>
+<field name="word">anregung</field>
+<field name="word">fachleute</field>
+<field name="word">beinhalten</field>
+<field name="word">genug</field>
+<field name="word">könnte</field>
+<field name="word">wäre</field>
+<field name="word">solch</field>
+<field name="word">deshalb</field>
+<field name="word">software</field>
+<field name="word">genannten</field>
+<field name="word">orientieren</field>
+<field name="word">facility</field>
+<field name="word">nachfolgendes</field>
+<field name="word">lung</field>
+<field name="word">eingerichtet</field>
+<field name="word">arbeitsweg</field>
+<field name="word">weiterbildung</field>
+<field name="word">dritte</field>
+<field name="word">vorgehen</field>
+<field name="word">bitten</field>
+<field name="word">management</field>
+<field name="word">bezirkliche</field>
+<field name="word">interaktiven</field>
+<field name="word">rückseite</field>
+<field name="word">finanzplanung</field>
+<field name="word">beschlo</field>
+<field name="word">system</field>
+<field name="word">vorlage</field>
+<field name="word">anstehenden</field>
+<field name="word">kinder</field>
+<field name="word">folgende</field>
+<field name="word">gezielt</field>
+<field name="word">bezirksebene</field>
+<field name="word">sondern</field>
+<field name="word">kultur</field>
+<field name="word">nehmen</field>
+<field name="word">koordinierten</field>
+<field name="word">interessensgebiet</field>
+<field name="word">davids</field>
+<field name="word">schlussbericht</field>
+<field name="word">einnahmen</field>
+<field name="word">land</field>
+<field name="word">sicher</field>
+<field name="word">voraussetzungen</field>
+<field name="word">erst</field>
+<field name="word">realisierung</field>
+<field name="word">beziehen</field>
+<field name="word">karte</field>
+<field name="word">geschaffen</field>
+<field name="word">bürgerdienste</field>
+<field name="word">gesundheit</field>
+<field name="word">finanzen</field>
+<field name="word">finanzielle</field>
+<field name="word">dank</field>
+<field name="word">naturschutz</field>
+<field name="word">maschinenlesbaren</field>
+<field name="word">möchten</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">mögliche</field>
+<field name="word">prüfen</field>
+<field name="word">openstreetmap</field>
+<field name="word">jugend</field>
+<field name="word">einzellösungen</field>
+<field name="word">mitte</field>
+<field name="word">koordiniert</field>
+<field name="word">geotags</field>
+<field name="word">gestaltet</field>
+<field name="word">recht</field>
+<field name="word">später</field>
+<field name="word">solchen</field>
+<field name="word">können</field>
+<field name="word">wohnumfeld</field>
+<field name="word">realisieren</field>
+<field name="word">benachrichtigungssystem</field>
+<field name="word">einsehbaren</field>
+<field name="word">plattform</field>
+<field name="word">beteiligung</field>
+<field name="word">personalwirtschaftliche</field>
+<field name="word">informieren</field>
+<field name="word">dafür</field>
+<field name="word">nötige</field>
+<field name="word">falls</field>
+<field name="word">bürgerbenachrichtigung</field>
+<field name="word">ortsbezeichnungen</field>
+<field name="word">kenntnisstand</field>
+<field name="word">versehen</field>
+<field name="word">ausgaben</field>
+<field name="word">auskunftsverlangen</field>
+<field name="word">zwangsläufig</field>
+<field name="word">ihrem</field>
+<field name="word">vorarbeiten</field>
+<field name="word">schule</field>
+<field name="word">ansteht</field>
+<field name="word">verfügbarer</field>
+<field name="word">gestellt</field>
+<field name="word">anvisierte</field>
+<field name="word">öffentlich</field>
+<field name="word">einmal</field>
+<field name="word">solche</field>
+<field name="word">umfeld</field>
+  <field name="text_de">Wir bitten zur Kenntnis zu nehmen:
+ 
+ 
+(Text siehe Rückseite)
+ 
+ 
+ 
+Bezirksamt Mitte von Berlin
+              
+Datum: 
+              
+    .3.2013
+Abt. 
+Gesundheit, Personal und Finanzen
+Soziales und Bürgerdienste
+Stadtentwicklung, Bauen, Wirtschaft und Ordnung
+Jugend, Schule, Sport und Facility Management
+Weiterbildung, Kultur, Umwelt und Naturschutz
+              
+     Tel.:
+              
+              
+    23700
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezirksverordnetenversammlung
+              
+Drucksache Nr.
+Mitte von Berlin
+              
+0600 / IV
+ 
+ 
+ 
+Vorlage - zur Kenntnisnahme -
+ 
+über 
+Ortsbezogene Bürgerbenachrichtigung und -beteiligung
+ 
+ 
+ 
+Wir bitten, zur Kenntnis zu nehmen:
+ 
+Die Bezirksverordnetenversammlung hat in ihrer Sitzung am 
+21.02.2013
+ 
+folgende Anregung
+folgendes Auskunftsverlangen
+ an das Bezirksamt beschlo
+s
+sen (Drucksache Nr
+. 
+0600/IV)
+ 
+Das Bezirksamt wird ersucht zu prüfen, ob alle öffentlich einsehbaren anstehenden Entscheidungen der BW und des Bezirksamts mit maschinenlesbaren Ortsbezeichnungen (so genannten 'Geotags') versehen werden könnten. Die Ortsbezeichnungen müssen so gestaltet sein, dass ein Benachrichtigungssystem im Internet eingerichtet werden kann, dank dem Bürger sich gezielt über anstehende bezirkliche Entscheidungen in ihrem Wohnumfeld und Interessensgebiet informieren können. Eine mögliche Realisierung könnte folgendermaßen aussehen:
+ 
+-
+          
+Bürger können auf einer interaktiven Karte ein Gebiet markieren, für das sie Benachrichtigungen erhalten möchten.
+ 
+-
+          
+Dieses Gebiet muss nicht zwangsläufig der Wohnort sein, sondern kann auch den Arbeitsweg oder die Schule der Kinder sowie ihr Umfeld beinhalten.
+ 
+-
+          
+Falls eine Entscheidung betreffend dieses Gebiet ansteht (z.B. durch einen BVV-Antrag), erhalten die betreffenden Bürger eine E-Mail mit Verweis auf weitere Informationen.
+ 
+Die dafür nötige Software ist dank frei verfügbarer Karten-APls (z.B. Openstreetmap) recht einfach zu realisieren. Es ist jedoch absehbar, dass nicht genug finanzielle Mittel zur Verfügung stehen, um solch eine Plattform aus Bezirksmitteln zu erstellen. Es sollen deshalb erst einmal die Voraussetzungen geschaffen werden, damit Dritte eine solche Plattform realisieren können.
+ 
+ 
+Das Bezirksamt hat am 
+16.04.2013
+ beschlossen, der Bezirksverordnetenversam
+m
+lung dazu Nachfolgendes als 
+Schlussbericht
+Zwischenbericht
+ zur Kenntnis zu bringen:
+ 
+Nach Einschätzung der bezirklichen Fachleute kann und sollte eine solche Entwicklung nicht dezentral auf Bezirksebene erfolgen, sondern koordiniert und finanziert durch das Land erfolgen. Nur damit kann sicher gestellt werden, dass es später nicht zu zahlreichen bezirklichen Einzellösungen kommt.
+Bei einem solchen koordinierten Vorgehen wäre auch sicher gestellt, dass sich die Vorarbeiten zielgerichtet auf das anvisierte System beziehen - und sich nicht an Vermutungen orientieren. Nach derzeitigem Kenntnisstand ist unklar, welche "Voraussetzungen" geschaffen werden könnten.
+ 
+ 
+A) 
+Rechtsgrundlage: 
+ 
+              
+§13 BezVG
+ 
+B) 
+Auswirkungen auf den Haushaltplan und die Finanzplanung:
+ 
+              
+a. 
+              
+Auswirkungen auf Einnahmen und Ausgaben: 
+              
+              
+              
+keine
+ 
+              
+b. Personalwirtschaftliche Auswirkungen: 
+ 
+              
+              
+keine
+ 
+ 
+ 
+ 
+Berlin, den 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezirksbürgermeister Dr. Hanke
+Bezirksbürgermeister i.V. von Dassel
+              
+              
+              
+              
+Bezirk
+s
+stadtrat Davids
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5234&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">3530</field>  
+  <field name="parteien">1</field>  
+</doc></add>

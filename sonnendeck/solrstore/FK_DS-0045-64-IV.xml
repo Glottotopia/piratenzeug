@@ -1,0 +1,27 @@
+<add><doc>
+  <field name="id">FK_DS/0045-64/IV</field>  
+  <field name="typ">Wahlvorlage</field>  
+  <field name="titel">Wahl eines stellv. Bürgerdeputierten</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gleichstellung</field>
+<field name="word">gewählt</field>
+<field name="word">medler</field>
+<field name="word">stellv</field>
+<field name="word">beschließen</field>
+<field name="word">queer</field>
+<field name="word">michael</field>
+<field name="word">frauen</field>
+<field name="word">bürgerdeputierten</field>
+<field name="word">herr</field>
+<field name="word">möge</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Herr Michael Medler wird zum stellv. Bürgerdeputierten im Ausschuss für Frauen, Gleichstellung und Queer gewählt.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4736&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">167</field>  
+  <field name="parteien">1</field>  
+</doc></add>

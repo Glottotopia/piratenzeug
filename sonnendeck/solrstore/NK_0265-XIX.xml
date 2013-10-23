@@ -1,0 +1,49 @@
+<add><doc>
+  <field name="id">NK_0265/XIX</field>  
+  <field name="typ">Beschlussempfehlung_-_2._Lesung</field>  
+  <field name="titel">Ausweisung von Kosten in Schlussberichten</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">auszuweisen</field>
+<field name="word">geeigneten</field>
+<field name="word">zwischenberichten</field>
+<field name="word">anfragen</field>
+<field name="word">worden</field>
+<field name="word">fassung</field>
+<field name="word">tätigkeiten</field>
+<field name="word">antrages</field>
+<field name="word">ablehung</field>
+<field name="word">haushaltspositionen</field>
+<field name="word">umsetzung</field>
+<field name="word">ausgaben</field>
+<field name="word">entstandenen</field>
+<field name="word">folgender</field>
+<field name="word">empfiehlt</field>
+<field name="word">weiteren</field>
+<field name="word">allen</field>
+<field name="word">aufwendungen</field>
+<field name="word">getätigt</field>
+<field name="word">schlussberichten</field>
+<field name="word">schriftlichen</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
+Ablehung
+ 
+des Antrages
+ in folgender Fassung:
+ 
+Das 
+Bezirksamt wird ersucht, b
+ei schriftlichen Anfragen, bei 
+Schlussberichten sowie - wenn Ausgaben bereits getätigt worden sind - bei Zwischenberichten und allen weiteren 
+geeigneten Tätigkeiten für die 
+BVV, die für die Umsetzung entstandenen Aufwendungen mit  Haushaltspositionen auszuweisen.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3888&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">412</field>  
+  <field name="parteien">3</field>  
+</doc></add>

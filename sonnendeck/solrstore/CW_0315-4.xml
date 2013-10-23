@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">CW_0315/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">OpenData für die BVV</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field> 
+  <field name="word">bürger</field>
+<field name="word">elektronische</field>
+<field name="word">drucksachen</field>
+<field name="word">systeme</field>
+<field name="word">stückler</field>
+<field name="word">schnittstellen</field>
+<field name="word">beschließ</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">zuständigen</field>
+<field name="word">abrufbar</field>
+<field name="word">dokumentierten</field>
+<field name="word">veröffentlichten</field>
+<field name="word">künftig</field>
+<field name="word">ratsinformationssystem</field>
+<field name="word">sondern</field>
+<field name="word">online</field>
+<field name="word">offenen</field>
+<field name="word">allris</field>
+<field name="word">judith</field>
+<field name="word">dafür</field>
+<field name="word">verfahren</field>
+  <field name="text_de">D
+ie BVV beschließ
+t
+:
+ 
+Das Bezirksamt wird beauftragt, sich bei den zuständigen Stellen dafür einzusetzen, dass die durch das Bezirksamt im Ratsinformationssystem ALLRIS online veröffentlichten Drucksachen künftig nach einem dokumentierten und offenen Verfahren (Schnittstellen) nicht nur für Bürger sondern auch für elektronische Systeme abrufbar sind.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4579&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">407</field>  
+  <field name="parteien">2</field>  
+</doc></add>

@@ -1,0 +1,67 @@
+<add><doc>
+  <field name="id">NK_0633/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Schnüffeln in sozialen Netzwerken</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">nein</field>
+<field name="word">verwaltung</field>
+<field name="word">zurü</field>
+<field name="word">accounts</field>
+<field name="word">hierü</field>
+<field name="word">auszubildenden</field>
+<field name="word">datenerhebung</field>
+<field name="word">auskunft</field>
+<field name="word">solchen</field>
+<field name="word">zukunft</field>
+<field name="word">vergehen</field>
+<field name="word">innen</field>
+<field name="word">informiert</field>
+<field name="word">folgende</field>
+<field name="word">personalangelegenheiten</field>
+<field name="word">privaten</field>
+<field name="word">welchen</field>
+<field name="word">tzlich</field>
+<field name="word">bewerber</field>
+<field name="word">werd</field>
+<field name="word">einstellung</field>
+<field name="word">verf</field>
+<field name="word">sanktionen</field>
+<field name="word">betroffenen</field>
+<field name="word">bspw</field>
+<field name="word">vergangenheit</field>
+<field name="word">davon</field>
+<field name="word">mitarbeiter</field>
+<field name="word">grundsä</field>
+<field name="word">ckgegriffen</field>
+<field name="word">olgung</field>
+<field name="word">abgesehen</field>
+<field name="word">rderung</field>
+<field name="word">sozialen</field>
+<field name="word">netzwerken</field>
+<field name="word">llen</field>
+<field name="word">daten</field>
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+Wurde in der Vergangenheit bei Personalangelegenheiten auf Daten aus privaten Accounts von Mitarbeiter*innen der Verwaltung, Auszubildenden oder Bewerber*innen in sozialen Netzwerken zurü
+ckgegriffen?
+Wenn ja, in welchen Fä
+llen (bspw. Einstellung, Bef
+ö
+rderung, Verf
+olgung von Vergehen, Sanktionen
+ etc.)?
+Wenn ja, wurden die Betroffenen hierü
+ber informiert?
+Wird von einer solchen Datenerhebung in Zukunft grundsä
+tzlich abgesehen werden?
+Wenn nein, in welchen Fä
+llen soll davon nicht abgesehen werd
+en?</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4256&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">561</field>  
+  <field name="parteien">1</field>  
+</doc></add>

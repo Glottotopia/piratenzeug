@@ -1,0 +1,44 @@
+<add><doc>
+  <field name="id">Pa_VII-0423</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Marthashof für Alle</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">abstimmungsergebnis</field>
+<field name="word">nein</field>
+<field name="word">durchgesetzt</field>
+<field name="word">verwaltungsgesellschaft</field>
+<field name="word">gegenüber</field>
+<field name="word">zugänglichkeit</field>
+<field name="word">grünanlagen</field>
+<field name="word">beraten</field>
+<field name="word">marthashof</field>
+<field name="word">enthaltung</field>
+<field name="word">spielplatz</field>
+<field name="word">eigentümern</field>
+<field name="word">öffentliche</field>
+<field name="word">prüfen</field>
+<field name="word">seiner</field>
+<field name="word">stadtentwicklung</field>
+  <field name="text_de">Der Ausschuss für Stadtentwicklung und Grünanlagen hat die Drucksache auf seiner Sitzung am 
+05.09.2013
+ beraten.
+ 
+Abstimmungsergebnis Ausschuss für Stadtentwicklung und Grünanlagen:
+ 
+JA 14  /  NEIN 0  /  ENTHALTUNG 0
+ 
+ 
+ 
+ 
+Das Bezirksamt wird ersucht, zu prüfen, wie die öffentliche Zugänglichkeit zum Marthashof und zum Spielplatz gegenüber den Eigentümern und der Verwaltungsgesellschaft durchgesetzt werden kann.
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3507&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">426</field>  
+  <field name="parteien">1</field>  
+</doc></add>

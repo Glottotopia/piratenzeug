@@ -1,0 +1,54 @@
+<add><doc>
+  <field name="id">Pa_VII-0422</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Aktivierung von Mitarbeiter*innen die sich im Vorruhestand befinden</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">mitzuteilen</field>
+<field name="word">angeschrieben</field>
+<field name="word">gegen</field>
+<field name="word">bereit</field>
+<field name="word">sollte</field>
+<field name="word">öffentlichen</field>
+<field name="word">bezahlung</field>
+<field name="word">bitte</field>
+<field name="word">gewünschten</field>
+<field name="word">benannt</field>
+<field name="word">innen</field>
+<field name="word">stunden</field>
+<field name="word">befinden</field>
+<field name="word">dienst</field>
+<field name="word">frei</field>
+<field name="word">wählende</field>
+<field name="word">leisten</field>
+<field name="word">arbeitsbe</field>
+<field name="word">ntwortung</field>
+<field name="word">mitarbeiter</field>
+<field name="word">reiche</field>
+<field name="word">anzahl</field>
+<field name="word">vorruhestand</field>
+<field name="word">bezüge</field>
+  <field name="text_de">Alle 
+Mitarbeiter
+*innen
+,
+ die sich im Vorruhestand befinden und Bezüge erhalten, werden angeschrieben mit der Bitte mitzuteilen
+,
+ ob
+ s
+ie bereit sind
+,
+ eine frei zu wählende Anzahl von Stunden 
+gegen Bezahlung im öffentlichen
+ Dienst zu leisten. Bei der Bea
+ntwortung sollte die Anzahl der
+ gewünschten Stunden sowie die gewünschten Arbeitsbe
+reiche benannt
+ werden.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3506&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">371</field>  
+  <field name="parteien">1</field>  
+</doc></add>

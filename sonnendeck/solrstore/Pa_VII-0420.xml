@@ -1,0 +1,42 @@
+<add><doc>
+  <field name="id">Pa_VII-0420</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Ombudsleute für das JobCenter Pankow</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">pankow</field>
+<field name="word">bezirke</field>
+<field name="word">gemachten</field>
+<field name="word">mitte</field>
+<field name="word">berücksichtigt</field>
+<field name="word">eingerichtet</field>
+<field name="word">zuständigen</field>
+<field name="word">beauftragten</field>
+<field name="word">ehrenamtlichen</field>
+<field name="word">dafür</field>
+<field name="word">frau</field>
+<field name="word">einrichtung</field>
+<field name="word">ombudsmann</field>
+<field name="word">wilmersdorf</field>
+<field name="word">empfängerinnen</field>
+<field name="word">empfänger</field>
+<field name="word">jobcenter</field>
+<field name="word">sollten</field>
+<field name="word">charlottenburg</field>
+<field name="word">stelle</field>
+<field name="word">erfahrungen</field>
+<field name="word">steglitz</field>
+<field name="word">zehlendorf</field>
+<field name="word">arbeitslosengeld</field>
+  <field name="text_de">Das
+ Bezirksamt Pankow wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass im Jobcenter Pankow die Stelle einer/s ehrenamtlichen Beauftragten (Ombudsmann/-frau) für die Empfängerinnen und Empfänger von Arbeitslosengeld II eingerichtet wird.
+ 
+Bei der Einrichtung der Stelle sollten auch die gemachten Erfahrungen der Bezirke Mitte, Zehlendorf-Steglitz und Charlottenburg-Wilmersdorf berücksichtigt werden.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3504&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">426</field>  
+  <field name="parteien">1</field>  
+</doc></add>

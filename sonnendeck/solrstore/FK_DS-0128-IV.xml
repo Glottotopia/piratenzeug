@@ -1,0 +1,233 @@
+<add><doc>
+  <field name="id">FK_DS/0128/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Einrichtung einer Webseite zur Eintragung von Emailadressen für Information zur Auslegung von Planungsunterlagen</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">wochen</field>
+<field name="word">versendet</field>
+<field name="word">öffentlicher</field>
+<field name="word">großen</field>
+<field name="word">hierzu</field>
+<field name="word">veröffentlichen</field>
+<field name="word">sollte</field>
+<field name="word">früh</field>
+<field name="word">amtsblatt</field>
+<field name="word">könnte</field>
+<field name="word">rechtsprechung</field>
+<field name="word">verse</field>
+<field name="word">bürgerfreundlicher</field>
+<field name="word">thema</field>
+<field name="word">mittels</field>
+<field name="word">mail</field>
+<field name="word">veröffentlichung</field>
+<field name="word">vorab</field>
+<field name="word">benachrichtigung</field>
+<field name="word">info</field>
+<field name="word">über</field>
+<field name="word">friedrichshain</field>
+<field name="word">elektronischem</field>
+<field name="word">beim</field>
+<field name="word">frühzeitig</field>
+<field name="word">rmationsportal</field>
+<field name="word">transparenz</field>
+<field name="word">wege</field>
+<field name="word">begründung</field>
+<field name="word">ankündigung</field>
+<field name="word">amtblatt</field>
+<field name="word">spielen</field>
+<field name="word">teil</field>
+<field name="word">überweisung</field>
+<field name="word">stadtqm</field>
+<field name="word">vier</field>
+<field name="word">emailadresse</field>
+<field name="word">beschließen</field>
+<field name="word">eintragen</field>
+<field name="word">verwaltung</field>
+<field name="word">eignet</field>
+<field name="word">möglichst</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">erfolgen</field>
+<field name="word">eingehalten</field>
+<field name="word">zwei</field>
+<field name="word">soziale</field>
+<field name="word">webpräsenz</field>
+<field name="word">rmationsportals</field>
+<field name="word">selbstverständlichkeit</field>
+<field name="word">internet</field>
+<field name="word">geregelt</field>
+<field name="word">dort</field>
+<field name="word">auslegungen</field>
+<field name="word">förmlichen</field>
+<field name="word">baugesetzbuch</field>
+<field name="word">eweils</field>
+<field name="word">zeiten</field>
+<field name="word">emailadressen</field>
+<field name="word">heutzutage</field>
+<field name="word">auslegungstermine</field>
+<field name="word">orte</field>
+<field name="word">ndet</field>
+<field name="word">genannten</field>
+<field name="word">aber</field>
+<field name="word">kreuzberg</field>
+<field name="word">unterseite</field>
+<field name="word">eingetragenen</field>
+<field name="word">beschließt</field>
+<field name="word">plänen</field>
+<field name="word">zusammen</field>
+<field name="word">mindestfristen</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">verfahren</field>
+<field name="word">bürger</field>
+<field name="word">personen</field>
+<field name="word">knappe</field>
+<field name="word">frist</field>
+<field name="word">internets</field>
+<field name="word">bütra</field>
+<field name="word">geschieht</field>
+<field name="word">einzurichten</field>
+<field name="word">besonders</field>
+<field name="word">auslegung</field>
+<field name="word">beantwortung</field>
+<field name="word">website</field>
+<field name="word">formen</field>
+<field name="word">quartiermanagement</field>
+<field name="word">verteiler</field>
+<field name="word">tageszeitung</field>
+<field name="word">angemessen</field>
+<field name="word">frühzeitigen</field>
+<field name="word">spätestens</field>
+<field name="word">modernen</field>
+<field name="word">medien</field>
+<field name="word">bürgerfreundlich</field>
+<field name="word">bekanntmachung</field>
+<field name="word">double</field>
+<field name="word">webseite</field>
+<field name="word">möge</field>
+<field name="word">bürgerinnen</field>
+<field name="word">stadt</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">stadtentwicklung</field>
+<field name="word">woche</field>
+<field name="word">moderne</field>
+<field name="word">interessierte</field>
+<field name="word">vorreiterrolle</field>
+<field name="word">ebenfalls</field>
+<field name="word">jeweils</field>
+<field name="word">innerhalb</field>
+<field name="word">ansonsten</field>
+<field name="word">vorgesehen</field>
+<field name="word">recht</field>
+<field name="word">beauftragten</field>
+<field name="word">können</field>
+<field name="word">möglich</field>
+<field name="word">städten</field>
+<field name="word">erfolgt</field>
+<field name="word">ansieht</field>
+<field name="word">mieten</field>
+<field name="word">informieren</field>
+<field name="word">etwas</field>
+<field name="word">zusätzlich</field>
+<field name="word">ausreichend</field>
+<field name="word">planungsauslegung</field>
+<field name="word">planungen</field>
+<field name="word">präsenz</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, auf der Webpräsenz des Bezirks eine Webseite einzurichten, auf der interessierte Bürger ihre Emailadresse in einen Verteiler eintragen können. An die dort eingetragenen Emailadressen wird im Vorab öffentlicher Auslegungen von Plänen im Rahmen der frühzeitigen und förmlichen Bürgerbeteiligung eine Benachrichtigung über die Auslegung versendet. Dies geschieht zwei Mal, Jeweils vier und eine Woche vor der Auslegung. Spätestens 4 Wochen vor Auslegung sind die Auslegungen auf einer 2. Webseite ebenfalls zu veröffentlichen.
+ 
+ 
+Begründung
+ 
+Im Baugesetzbuch sind zum Teil recht knappe Mindestfristen für die Benachrichtigung zur Bürgerbeteiligung vorgesehen, auch ist die Rechtsprechung, die bei großen Städten eine Bekanntmachung im Amtsblatt als ausreichend ansieht, nicht besonders bürgerfreundlich.
+Berlin hat geregelt, dass zusätzlich zum Amtblatt die Ankündigung in einer Tageszeitung erfolgen soll. Das ist etwas bürgerfreundlicher, aber den Zeiten der modernen elektronischem Medien und des Internets nicht mehr angemessen.
+ 
+Es sollte heutzutage eine Selbstverständlichkeit sein, den Bürger zusätzlich möglichst frühzeitig auf elektronischem Wege zu informieren. Hierzu eignet sich e-mail, und hierzu eignet sich eine Präsenz mittels Website im Internet.
+ 
+Friedrichshain-Kreuzberg könnte hier eine Vorreiterrolle spielen beim Thema moderne Verwaltung wie auch beim Thema moderne Formen der Bürgerbeteiligung.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: Ausschuss für Bürgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschäftsordnung, Ausschuss für Stadtentwicklung, Soziale Stadt und Quartiermanagement, Mieten ff.
+ 
+BüTra 
+10.05.2012
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, 
+innerhalb des in der DS/0174/IV beauftragten 
+Info
+rmationsportal zur Bürgerbeteiligung einen E-Mail-Verteiler einzurichten, in den sich Planungsauslegung interessierte Bürgerinnen und Bürger im Double-Opt-In Verfahren eintragen können. 
+An die dort eingetragenen Emailadressen wird im Vorab öffentlicher Auslegungen von Plänen im Rahmen der frühzeitigen und förmlichen Bürgerbeteiligung eine Benachrichtigung über die Auslegung verse
+ndet. Dies geschieht zwei Mal, j
+eweils vier
+, ansonsten so früh wie möglich,
+ und eine Woche vor der Auslegung. Spätestens 4 Wochen vor Auslegung
+. Spätestens 4 Wochen vor der Auslegung sind die Auslegungstermine und orte auf 
+einer 2. 
+Unterseite des genannten 
+Info
+rmationsportals
+ ebenfalls zu veröffentlichen.
+ 
+StadtQM 
+16.05.2012
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, 
+innerhalb des in der DS/0174/IV beauftragten 
+Info
+rmationsportal zur Bürgerbeteiligung einen E-Mail-Verteiler einzurichten, in den sich an der Planungsauslegung interessierte Personen im Double-Opt-In Verfahren eintragen können. 
+An die dort eingetragenen Emailadressen wird im Vorab öffentlicher Auslegungen von 
+Planungen
+ im Rahmen der frühzeitigen und förmlichen Bürgerbeteiligung eine Benachrichtigung über die Auslegung verse
+ndet.
+Dies geschieht zwei Mal, j
+eweils vier
+ Wochen 
+und eine Woche vor der Auslegung.
+ Spätestens 4 Wochen vor der Auslegung sind die Auslegungstermine und orte auf 
+einer 2. 
+Unterseite des genannten 
+Info
+rmationsportals
+ ebenfalls zu veröffentlichen.
+Kann die 4-Wochen-Frist nicht eingehalten werden, erfolgt die Benachrichtigung und Veröffentlichung so früh wie möglich.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Das Bezirksamt wird aufgefordert, 
+innerhalb des in der DS/0174/IV beauftragten 
+Info
+rmationsportal zur Bürgerbeteiligung einen E-Mail-Verteiler einzurichten, in den sich an der Planungsauslegung interessierte Personen im Double-Opt-In Verfahren eintragen können. 
+An die dort eingetragenen Emailadressen wird im Vorab öffentlicher Auslegungen von 
+Planungen
+ im Rahmen der frühzeitigen und förmlichen Bürgerbeteiligung eine Benachrichtigung über die Auslegung verse
+ndet.
+Dies geschieht zwei Mal, j
+eweils vier
+ Wochen 
+und eine Woche vor der Auslegung.
+ Spätestens 4 Wochen vor der Auslegung sind die Auslegungstermine und orte auf 
+einer 2. 
+Unterseite des genannten 
+Info
+rmationsportals
+ ebenfalls zu veröffentlichen.
+Kann die 4-Wochen-Frist nicht eingehalten werden, erfolgt die Benachrichtigung und Veröffentlichung so früh wie möglich.
+ 
+ 
+11.03.2013
+ 
+Beantwortung erfolgt zusammen mit der DS/0174/IV in der VzK zur DS/0174/IV.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4853&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">4541</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,26 @@
+<add><doc>
+  <field name="id">TS_0243/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Rücknahme der Baugenehmigungen Nr. 2011-2014 und 2012-2096</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließen</field>
+<field name="word">weiter</field>
+<field name="word">mehrheit</field>
+<field name="word">wolle</field>
+<field name="word">empfiehlt</field>
+<field name="word">verfolgt</field>
+  <field name="text_de"> 
+ 
+Der Ausschuss empfiehlt der BVV:
+ 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Der Antrag wird nicht weiter verfolgt, da er im Ausschuss keine Mehrheit erhalten hat.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4039&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">180</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,56 @@
+<add><doc>
+  <field name="id">MI_0829/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Informationen über die Barrierefreiheit im Bezirk</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">vermerkt</field>
+<field name="word">einbindung</field>
+<field name="word">über</field>
+<field name="word">bezirksimmobilien</field>
+<field name="word">informieren</field>
+<field name="word">seite</field>
+<field name="word">erstellen</field>
+<field name="word">erledigungsfrist</field>
+<field name="word">wheelmap</field>
+<field name="word">übermitteln</field>
+<field name="word">liste</field>
+<field name="word">welcher</field>
+<field name="word">zugang</field>
+<field name="word">mittels</field>
+<field name="word">internetauftritt</field>
+<field name="word">zugänglich</field>
+<field name="word">eingeschränkt</field>
+<field name="word">bezirksgebäuden</field>
+<field name="word">verantwortlichen</field>
+<field name="word">lstuhlfahrer</field>
+<field name="word">rollstuhlgerechten</field>
+  <field name="text_de"> 
+ 
+(1) Das Bezirksamt wird beauftragt, über rollstuhlgerechten
+Zugang zu Bezirksgebäuden mittels Einbindung der Seite
+wheelmap.org in den Internetauftritt des Bezirks zu
+ 
+informieren.
+(2) Das Bezirksamt wird beauftragt, eine Liste der
+ 
+Bezirksimmobilien zu erstellen, auf welcher vermerkt ist,
+ 
+ob Bezirksimmobilien gut/eingeschränkt/nicht für
+ 
+Rol
+lstuhlfahrer zugänglich sind und diese Liste an die
+ 
+Verantwortlichen von wheelmap.org zu übermitteln.
+ 
+ 
+Erledigungsfrist: 
+13.06.2013
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5462&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">493</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,67 @@
+<add><doc>
+  <field name="id">CW_0655/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Soorstraße - Angemessenes Wohnen für alle!</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field> 
+  <field name="word">sorgen</field>
+<field name="word">räume</field>
+<field name="word">müllentsorgung</field>
+<field name="word">entsprechenden</field>
+<field name="word">soorstraße</field>
+<field name="word">träger</field>
+<field name="word">beschließt</field>
+<field name="word">hergestellt</field>
+<field name="word">containern</field>
+<field name="word">nutzung</field>
+<field name="word">geregelt</field>
+<field name="word">entsprechend</field>
+<field name="word">gewährleistet</field>
+<field name="word">abwasser</field>
+<field name="word">toiletten</field>
+<field name="word">stattdessen</field>
+<field name="word">strom</field>
+<field name="word">juli</field>
+<field name="word">chemie</field>
+<field name="word">sanitärräume</field>
+<field name="word">dafür</field>
+<field name="word">zusammenarbeit</field>
+<field name="word">versorgungsanlagen</field>
+<field name="word">ursprungstext</field>
+<field name="word">küchen</field>
+<field name="word">unterkunft</field>
+<field name="word">vorschriften</field>
+<field name="word">wasser</field>
+<field name="word">anschluss</field>
+<field name="word">verzichtet</field>
+<field name="word">fernwärme</field>
+<field name="word">schnellstmöglich</field>
+<field name="word">umfassende</field>
+<field name="word">sanitär</field>
+<field name="word">geltenden</field>
+<field name="word">verwaltungshandeln</field>
+<field name="word">zentrale</field>
+<field name="word">umgebaut</field>
+<field name="word">notaufnahme</field>
+  <field name="text_de"> 
+Die BVV beschließt:
+ 
+Die Drucksache ist durch Verwaltungshandeln erledigt.
+ 
+ 
+Ursprungstext:
+Das Bezirksamt wird beauftragt dafür zu sorgen, dass die Notaufnahme-Unterkunft Soorstraße in Zusammenarbeit mit dem Träger schnellstmöglich umgebaut wird, damit auf die Nutzung von Chemie-Toiletten und Sanitär-Containern verzichtet werden kann.
+Stattdessen soll der umfassende Anschluss an zentrale Versorgungsanlagen (Wasser, Abwasser, Strom,  Fernwärme bzw.Gas) gewährleistet und die entsprechenden Räume (Sanitärräume, Küchen, etc) hergestellt werden.
+Auch die Müllentsorgung muss entsprechend der geltenden Vorschriften geregelt werden.
+ 
+Der BVV ist bis 31. Juli 2013 zu berichten.
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4921&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">688</field>  
+  <field name="parteien">2</field>  
+</doc></add>

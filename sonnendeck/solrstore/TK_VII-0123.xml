@@ -1,0 +1,85 @@
+<add><doc>
+  <field name="id">TK_VII/0123</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Maschinenlesbare Haushaltsunterlagen zur Weiterverarbeitung</field>  
+  <field name="bezirk">Treptow_Köpenick</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließen</field>
+<field name="word">köpenick</field>
+<field name="word">frankfurt</field>
+<field name="word">geeignet</field>
+<field name="word">bevorzugen</field>
+<field name="word">entsprechenden</field>
+<field name="word">nutzbare</field>
+<field name="word">ratsinformationssystem</field>
+<field name="word">zahlenwerke</field>
+<field name="word">städte</field>
+<field name="word">offenerhaushalt</field>
+<field name="word">veröffentlicht</field>
+<field name="word">gängige</field>
+<field name="word">jeweiligen</field>
+<field name="word">können</field>
+<field name="word">fassung</field>
+<field name="word">beispiele</field>
+<field name="word">auswertungsmöglichkeiten</field>
+<field name="word">main</field>
+<field name="word">möge</field>
+<field name="word">anhang</field>
+<field name="word">treptow</field>
+<field name="word">bieten</field>
+<field name="word">http</field>
+<field name="word">form</field>
+<field name="word">maschinenlesbare</field>
+<field name="word">dafür</field>
+<field name="word">jedermann</field>
+<field name="word">bereitzustellen</field>
+<field name="word">offener</field>
+<field name="word">begründung</field>
+<field name="word">budget</field>
+<field name="word">gestellten</field>
+<field name="word">haushaltsrelevanten</field>
+<field name="word">ausgewertet</field>
+<field name="word">zeigen</field>
+<field name="word">formate</field>
+<field name="word">drucksachen</field>
+<field name="word">openspending</field>
+<field name="word">projekt</field>
+<field name="word">bund</field>
+<field name="word">strukturierte</field>
+<field name="word">beispielhaft</field>
+<field name="word">deutsche</field>
+<field name="word">mehrere</field>
+<field name="word">haushalt</field>
+<field name="word">weiterverarbeitung</field>
+<field name="word">bundeshaushalt</field>
+<field name="word">verfügung</field>
+<field name="word">maschinenlesbaren</field>
+<field name="word">datenformate</field>
+<field name="word">schaffen</field>
+<field name="word">notwendig</field>
+<field name="word">dokumente</field>
+<field name="word">daten</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
+ 
+Das Bezirksamt wird ersucht, die haushaltsrelevanten Drucksachen und Dokumente in einer maschinenlesbaren Fassung bereitzustellen, die zur Weiterverarbeitung der jeweiligen Daten geeignet ist. Die maschinenlesbare Fassung soll als Anhang zur entsprechenden Drucksache im Ratsinformationssystem veröffentlicht werden.
+ 
+ 
+ 
+Begründung:
+Die zur Verfügung gestellten Daten können und sollen von jedermann ausgewertet werden können. Beispiele dafür, welche Auswertungsmöglichkeiten sich bieten, zeigen z. B. das Projekt "Offener Haushalt" für den Bundeshaushalt [1] und das Projekt "openspending.org"
+für mehrere deutsche Städte [2].
+ 
+Insbesondere für Zahlenwerke sind dazu strukturierte Formate notwendig.
+Um eine für alle nutzbare Form zu schaffen, sind dabei gängige Datenformate wie XML oder CSV zu bevorzugen.
+ 
+[1] 
+http://bund.offenerhaushalt.de/
+[2] beispielhaft Frankfurt/Main: 
+http://openspending.org/frankfurt-budget</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4222&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1007</field>  
+  <field name="parteien">1</field>  
+</doc></add>

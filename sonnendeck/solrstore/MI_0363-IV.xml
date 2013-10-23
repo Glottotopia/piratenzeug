@@ -1,0 +1,391 @@
+<add><doc>
+  <field name="id">MI_0363/IV</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Vermietung von Räumen in Schulen des Bezirkes</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">andere</field>
+<field name="word">einnahmen</field>
+<field name="word">haushaltplan</field>
+<field name="word">zwischenbericht</field>
+<field name="word">text</field>
+<field name="word">unterrichtszeiten</field>
+<field name="word">datum</field>
+<field name="word">vereine</field>
+<field name="word">selbst</field>
+<field name="word">unterrichtsbedürfnissen</field>
+<field name="word">schulzeit</field>
+<field name="word">verteilungsschlüssel</field>
+<field name="word">bringen</field>
+<field name="word">existiert</field>
+<field name="word">gemeinnützige</field>
+<field name="word">personal</field>
+<field name="word">entsprechend</field>
+<field name="word">hanke</field>
+<field name="word">üblichen</field>
+<field name="word">verwaltet</field>
+<field name="word">nutzungsentgelt</field>
+<field name="word">stadtentwicklung</field>
+<field name="word">einzelnen</field>
+<field name="word">kostenneutral</field>
+<field name="word">über</field>
+<field name="word">müssen</field>
+<field name="word">umwelt</field>
+<field name="word">verschiedenen</field>
+<field name="word">folgendes</field>
+<field name="word">vorschriften</field>
+<field name="word">nutzungsvorschriften</field>
+<field name="word">übersicht</field>
+<field name="word">schulsporthallen</field>
+<field name="word">außerhalb</field>
+<field name="word">dassel</field>
+<field name="word">festgel</field>
+<field name="word">raumnutzungen</field>
+<field name="word">zitäten</field>
+<field name="word">dennoch</field>
+<field name="word">ordnung</field>
+<field name="word">wandel</field>
+<field name="word">bezirke</field>
+<field name="word">fair</field>
+<field name="word">stetigen</field>
+<field name="word">räumen</field>
+<field name="word">raumvermietungskapa</field>
+<field name="word">sport</field>
+<field name="word">unternehmen</field>
+<field name="word">kenntnis</field>
+<field name="word">vordergrund</field>
+<field name="word">schülergruppen</field>
+<field name="word">nutzung</field>
+<field name="word">wirtschaft</field>
+<field name="word">jeweiligen</field>
+<field name="word">bezirksstadträtin</field>
+<field name="word">ausf</field>
+<field name="word">kostenminimiert</field>
+<field name="word">zentral</field>
+<field name="word">bereich</field>
+<field name="word">schulamtes</field>
+<field name="word">kenntnisnahme</field>
+<field name="word">aktuellen</field>
+<field name="word">raumkapa</field>
+<field name="word">gruppen</field>
+<field name="word">zeiten</field>
+<field name="word">entgeltfrei</field>
+<field name="word">auswirkungen</field>
+<field name="word">schulen</field>
+<field name="word">span</field>
+<field name="word">vermietung</field>
+<field name="word">einzurichten</field>
+<field name="word">rechtsgrundlage</field>
+<field name="word">anregung</field>
+<field name="word">bezirksstadtrat</field>
+<field name="word">schulgebundene</field>
+<field name="word">sportförderungsgesetzes</field>
+<field name="word">räume</field>
+<field name="word">bezirkes</field>
+<field name="word">stelle</field>
+<field name="word">vereinen</field>
+<field name="word">anlaufstelle</field>
+<field name="word">zentrale</field>
+<field name="word">bescheid</field>
+<field name="word">entrichten</field>
+<field name="word">genannten</field>
+<field name="word">facility</field>
+<field name="word">nachfolgendes</field>
+<field name="word">institutionen</field>
+<field name="word">weiterbildung</field>
+<field name="word">freianlagen</field>
+<field name="word">bitten</field>
+<field name="word">management</field>
+<field name="word">sportvereine</field>
+<field name="word">nutzer</field>
+<field name="word">sportamt</field>
+<field name="word">finanzplanung</field>
+<field name="word">liegt</field>
+<field name="word">vorlage</field>
+<field name="word">folgende</field>
+<field name="word">regel</field>
+<field name="word">abschnitt</field>
+<field name="word">potentielle</field>
+<field name="word">naturschutz</field>
+<field name="word">mietinteressenten</field>
+<field name="word">nehmen</field>
+<field name="word">davids</field>
+<field name="word">besonderes</field>
+<field name="word">auskunftsverlangen</field>
+<field name="word">schuspo</field>
+<field name="word">ührungsvorschriften</field>
+<field name="word">angemessen</field>
+<field name="word">einrichtun</field>
+<field name="word">weißler</field>
+<field name="word">spallek</field>
+<field name="word">einrichtungen</field>
+<field name="word">richten</field>
+<field name="word">hallen</field>
+<field name="word">bauen</field>
+<field name="word">ausgaben</field>
+<field name="word">bürgerdienste</field>
+<field name="word">gesundheit</field>
+<field name="word">finanzen</field>
+<field name="word">möglichkeiten</field>
+<field name="word">verfügung</field>
+<field name="word">entgeltordnung</field>
+<field name="word">bezirksverwaltungsgesetz</field>
+<field name="word">kultur</field>
+<field name="word">eimatet</field>
+<field name="word">mögliche</field>
+<field name="word">prüfen</field>
+<field name="word">raumbedarf</field>
+<field name="word">jugend</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">mitte</field>
+<field name="word">angepasst</field>
+<field name="word">raumvergabe</field>
+<field name="word">vergabe</field>
+<field name="word">leerstand</field>
+<field name="word">steht</field>
+<field name="word">anderer</field>
+<field name="word">tgeltfrei</field>
+<field name="word">wenden</field>
+<field name="word">können</field>
+<field name="word">egten</field>
+<field name="word">sporthallenvergabe</field>
+<field name="word">schulfreie</field>
+<field name="word">sportplätze</field>
+<field name="word">erfolgt</field>
+<field name="word">sportanlagen</field>
+<field name="word">personalwirtschaftliche</field>
+<field name="word">klar</field>
+<field name="word">kommerzielle</field>
+<field name="word">überlassen</field>
+<field name="word">existieren</field>
+<field name="word">soziales</field>
+<field name="word">eingetragene</field>
+<field name="word">sporthallen</field>
+<field name="word">schlussbericht</field>
+<field name="word">schule</field>
+<field name="word">augenmerk</field>
+<field name="word">hierbei</field>
+<field name="word">schulräumen</field>
+<field name="word">objektmanagement</field>
+  <field name="text_de">Wir bitten zur Kenntnis zu nehmen:
+ 
+ 
+(Text liegt vor
+)
+ 
+ 
+ 
+ 
+ 
+Bezirksamt Mitte von Berlin
+              
+Datum: 
+              
+     .07.2013
+Abt.
+ 
+Gesundheit, Personal und Finanzen
+Soziales und Bürgerdienste
+Stadtentwicklung, Bauen, Wirtschaft und Ordnung
+Jugend, Schule, Sport und Facility Management
+Weiterbildung, Kultur, Umwelt und Naturschutz
+              
+     
+Tel.:
+              
+23700
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezirksverordnetenversammlung
+              
+Drucksache Nr.
+Mitte von Berlin
+              
+0363 / IV
+              
+              
+              
+              
+ 
+ 
+ 
+Vorlage - zur Kenntnisnahme -
+ 
+über 
+Vermietung von Räumen in Schulen des Bezirks
+ 
+ 
+Wir bitten, zur Kenntnis zu nehmen:
+ 
+Die Bezirksverordnetenversammlung hat in ihrer Sitzung am 
+24.01.2013
+ 
+folgende Anregung
+folgendes Auskunftsverlangen
+ an das Bezirksamt beschlossen (Drucksache Nr
+. 
+0363/IV)
+ 
+ 
+"Das Bezirksamt wird gebeten zu prüfen,
+1. welche Möglichkeiten zur Vermietung von Räumen in Schulen existieren. 
+2. hier ist besonderes Augenmerk auf Leerstand und schulfreie Zeiten zu richten.
+3. welche Möglichkeiten es gibt, eine zentrale Anlaufstelle einzurichten, an die sich
+    Schulen 
+und Mietinteressenten wenden können.
+.
+4. welche Möglichkeiten sie
+.
+t das BA, Schülergruppen und Vereinen Sporthallen und 
+    Räume außerhalb der Schulzeit dennoch fair und kostenneutral zur Verfügung zu 
+    stellen. 
+Ist ein Verteilungsschlüssel hier ggf. angemessen? 
+"
+ 
+ 
+Das Bezirksamt hat am   
+09.07.2013
+ beschlossen, der Bezirksverordnetenversammlung dazu Nachfolgendes als 
+Schlussbericht
+Zwischenbericht
+ zur Kenntnis zu bringen.
+ 
+ 
+Die Raumkapa
+zitäten der einzelnen Schulen we
+rd
+en
+ von den jeweiligen Einrichtun
+-
+gen selbst verwaltet.
+ 
+Eine zentrale Übersicht über mögliche Raumvermietungskapa
+-
+zitäten an Schulräumen in den verschiedenen Einrichtungen existiert nicht, d
+a Raumnutzungen entsprechend den
+ aktuellen Unterrichtsbedürfnissen der Schulen einem stetigen Wandel angepasst 
+werden müssen
+. Der Raumbedarf der Schulen steht hierbei klar im Vordergrund.
+ 
+Bei Raumbedarf von Schulräumen wenden sich potentielle Nutzer über die Schule an die 
+sog. 
+zentrale Anlaufstelle im Bereich Objektmanagement (
+SchuSpo 400 ff.
+). Die Raumvergabe erfolgt nach dem vom Bezirksamt Mitte von Berlin am 
+27.07.2010
+ festgel
+egten Beschluss Nr. 1053 zur BA-
+Vorlage Nr. 1119 im Rahmen der "Nutzung und Entgeltordnung für Räume und Freianlagen" per Bescheid durch die
+ o.g.
+ Stelle des Schulamtes.
+              
+              
+              
+              
+              
+              
+- 2 -
+ 
+Vereine und Sportvereine
+,
+ die im Bezirk Mitte "beh
+eimatet" sind
+ sowie gemeinnützige Institutionen auch anderer Bezirke
+,
+ erhalten die Räume in der Regel en
+tgeltfrei bzw. kostenminimiert 
+zur Nutzung überlassen. Kommerzielle Unternehmen und andere Gruppen haben entsprechend der genannten Entgeltordnung ein Nutzungsentgelt zu entrichten
+.
+ 
+Die Sporthallenvergabe der Schulsporthallen, 
+der 
+nicht schulgebundene
+n
+ Sport
+-
+hallen sowie 
+der 
+Sportplätze erfolgt außerhalb d
+er üblichen Unterrichtszeiten (in der Regel ca. 
+16:00
+ Uhr bis 
+22:00
+ Uhr
+) zentral durch das Sportamt
+ (SchuSpo 2100 ff.
+) nach den aktuellen Vorschriften des Sportförderungsgesetzes 
+(
+Abschnitt III § 14
+)
+ und den Ausf
+ührungsvorschriften zum § 14 der
+ Sportanlagen-Nutzungsvorschriften (SPAN). Die Vergabe an eingetragene Sportvereine des Bezirkes Mitte erfolgt auch hier in der Regel entgeltfrei.
+ 
+ 
+A. 
+Rechtsgrundlage:
+ 
+ 
+              
+§ 36 i.V.m. § 12 Bezirksverwaltungsgesetz
+ 
+ 
+B) 
+Auswirkungen auf den Haushaltplan und die Finanzplanung:
+ 
+              
+a. Auswirkungen auf Einnahmen und Ausgaben: 
+ 
+              
+              
+keine
+ 
+              
+b. Personalwirtschaftliche Ausgaben: 
+ 
+              
+              
+keine
+ 
+ 
+Berlin, den 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezirksbürgermeister Dr. Hanke
+Bezirksbürgermeister i.V. von Dassel
+              
+              
+              
+              
+Bezirksstadtrat von Dassel
+Bezirksstadtrat Spallek
+Bezirksstadtrat Davids
+Bezirksstadträtin Weißler
+ 
+ 
+ 
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4998&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">4103</field>  
+  <field name="parteien">1</field>  
+</doc></add>

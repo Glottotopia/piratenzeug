@@ -1,0 +1,24 @@
+<add><doc>
+  <field name="id">RD_0185/XIX</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Keine Aufweichung des Nachtflugverbotes TXL</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field>
+<field name="partei">CDU</field>
+<field name="partei">SPD</field> 
+  <field name="word">anlage</field>
+<field name="word">text</field>
+<field name="word">siehe</field>
+<field name="word">sachverhalt</field>
+  <field name="text_de">Sachverhalt:
+ 
+ 
+Text siehe Anlage</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3285&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">34</field>  
+  <field name="parteien">4</field>  
+</doc></add>

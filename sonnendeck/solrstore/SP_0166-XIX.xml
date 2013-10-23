@@ -1,0 +1,132 @@
+<add><doc>
+  <field name="id">SP_0166/XIX</field>  
+  <field name="typ">Vorlage_-_zur_Kenntnisnahme_-</field>  
+  <field name="titel">Bürgernaher Haushalt</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">Gruene</field> 
+  <field name="word">getroffen</field>
+<field name="word">spandau</field>
+<field name="word">unterlagen</field>
+<field name="word">übersicht</field>
+<field name="word">vorzulegen</field>
+<field name="word">modul</field>
+<field name="word">zahlen</field>
+<field name="word">veröffentlichungen</field>
+<field name="word">zeitgleich</field>
+<field name="word">geschäftsbereiche</field>
+<field name="word">kleebank</field>
+<field name="word">einheitlicher</field>
+<field name="word">erläuterungen</field>
+<field name="word">mitgeteilt</field>
+<field name="word">stellten</field>
+<field name="word">aller</field>
+<field name="word">bürger</field>
+<field name="word">information</field>
+<field name="word">haushaltsjahre</field>
+<field name="word">haushaltsberatungen</field>
+<field name="word">bittet</field>
+<field name="word">künftigen</field>
+<field name="word">vorbereitungen</field>
+<field name="word">entsprechend</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">folgejahre</field>
+<field name="word">folgende</field>
+<field name="word">digital</field>
+<field name="word">planaufstellung</field>
+<field name="word">anhand</field>
+<field name="word">bürgerinnen</field>
+<field name="word">beteiligung</field>
+<field name="word">über</field>
+<field name="word">halt</field>
+<field name="word">form</field>
+<field name="word">haushaltsplan</field>
+<field name="word">konvertierung</field>
+<field name="word">punkt</field>
+<field name="word">darzulegen</field>
+<field name="word">anzusehen</field>
+<field name="word">jetzt</field>
+<field name="word">daher</field>
+<field name="word">letzten</field>
+<field name="word">ansatz</field>
+<field name="word">eingestellten</field>
+<field name="word">haushaltsausschusses</field>
+<field name="word">dazugehörigen</field>
+<field name="word">vorzugehen</field>
+<field name="word">beschlussfassung</field>
+<field name="word">kontextbezogener</field>
+<field name="word">abweichungen</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">gültigen</field>
+<field name="word">gehört</field>
+<field name="word">maschinenlesbarer</field>
+<field name="word">finanzen</field>
+<field name="word">ersten</field>
+<field name="word">haushaltsplanentwurfs</field>
+<field name="word">haushaltsplanentwurf</field>
+<field name="word">profiskal</field>
+<field name="word">mehrbedarfsmeldungen</field>
+<field name="word">verfügung</field>
+<field name="word">april</field>
+<field name="word">datei</field>
+<field name="word">landeshau</field>
+<field name="word">eckwertebeschluss</field>
+<field name="word">verfahrens</field>
+  <field name="text_de">Das Bezirksamt war gem. o.g. BVV-Beschluss beauftragt "bei künftigen Haushaltsberatungen im Bezirk entsprechend des Verfahrens der Senatsverwaltung für Finanzen zum Landeshau
+s
+halt vorzugehen und folgende Unterlagen zeitgleich auch in maschinenlesbarer Form (.ods, .xls,
+ 
+...) zur Verfügung zu stellen:
+ 
+a) 
+              
+Den Eckwertebeschluss, den Haushaltsplanentwurf und eine Übersicht der im
+              
+Haushaltsplanentwurf eingestellten Abweichungen der Geschäftsbereiche vom
+              
+Eckwertebeschluss mit den dazugehörigen Erläuterungen.
+ 
+b) 
+              
+Mehrbedarfsmeldungen aller Geschäftsbereiche mit den dazugehörigen Erläuterungen.
+ 
+c) 
+              
+Veröffentlichungen im Rahmen der Beteiligung und der Information der Bürgerinnen und
+              
+Bürger zum Haushaltsplanentwurf für die Folgejahre bzw. zum gültigen Haushaltsplan.
+ 
+d) 
+              
+Die Erläuterungen zu Punkt a) und b) sind vor der ersten Sitzung des
+              
+Haushaltsausschusses zur Beschlussfassung über den Haushaltsplanentwurf in
+              
+einheitlicher und kontextbezogener Form digital darzulegen und anhand der Zahlen der
+              
+letzten 2 Haushaltsjahre (Ansatz/Ist) darzulegen."
+ 
+Dazu wird mitgeteilt, dass das Bezirksamt bereits jetzt alle Vorbereitungen getroffen hat, um bei den künftigen Haushaltsberatungen die Unterlagen in maschinenlesbarer Form vorzulegen. Dazu gehört insbesondere die Konvertierung des im ProFiskal-Modul Planaufstellung (DAV) e
+r
+stellten Haushaltsplanentwurfs in eine xls-Datei.
+ 
+Das Bezirksamt bittet daher, den Beschluss als erledigt anzusehen.
+ 
+ 
+Berlin - Spandau, den  
+23. April 2012
+ 
+Das Bezirksamt
+ 
+ 
+Kleebank
+Bezirksbürgermeister
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6770&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">1706</field>  
+  <field name="parteien">3</field>  
+</doc></add>

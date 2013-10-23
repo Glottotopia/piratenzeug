@@ -1,0 +1,47 @@
+<add><doc>
+  <field name="id">Pa_VII-0516</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Empfangsbestätigung für Antragsteller</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">antrags</field>
+<field name="word">wogg</field>
+<field name="word">antragsabgabe</field>
+<field name="word">jugendamtes</field>
+<field name="word">vollständigke</field>
+<field name="word">verpflichtet</field>
+<field name="word">fang</field>
+<field name="word">möglich</field>
+<field name="word">warum</field>
+<field name="word">müssen</field>
+<field name="word">antrages</field>
+<field name="word">bestätigen</field>
+<field name="word">auszustellen</field>
+<field name="word">antragstellern</field>
+<field name="word">schon</field>
+<field name="word">fangsbestätigungen</field>
+<field name="word">richtigkeit</field>
+<field name="word">leistungen</field>
+<field name="word">beantragen</field>
+<field name="word">antragsempfang</field>
+<field name="word">meint</field>
+<field name="word">prüfen</field>
+  <field name="text_de">Warum ist es dem Bezirksamt nicht möglich, Antragstellern, die Leistungen nach dem WoGG beantragen, oder auch Leistungen des Jugendamtes beantragen, bei Antragsabgabe, den Emp
+fang des Antrages zu bestätigen
+?
+ 
+Ist das Bezirksamt nicht verpflichtet, Emp
+fangsbestätigungen auszustellen
+?
+ 
+Warum meint das Bezirksamt bei Antragsempfang schon die Richtigkeit und Vollständigke
+it des Antrags prüfen zu müssen
+? 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3600&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">413</field>  
+  <field name="parteien">1</field>  
+</doc></add>

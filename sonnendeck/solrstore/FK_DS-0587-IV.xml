@@ -1,0 +1,279 @@
+<add><doc>
+  <field name="id">FK_DS/0587/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Richtlinien zu Open Data</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">tagged</field>
+<field name="word">wahl</field>
+<field name="word">siehe</field>
+<field name="word">individuellen</field>
+<field name="word">text</field>
+<field name="word">verf</field>
+<field name="word">bitmap</field>
+<field name="word">sollte</field>
+<field name="word">comma</field>
+<field name="word">unicode</field>
+<field name="word">file</field>
+<field name="word">wisses</field>
+<field name="word">finden</field>
+<field name="word">group</field>
+<field name="word">ffentlichung</field>
+<field name="word">dateiformate</field>
+<field name="word">tiff</field>
+<field name="word">fachwissen</field>
+<field name="word">möge</field>
+<field name="word">docx</field>
+<field name="word">bebauungsplä</field>
+<field name="word">format</field>
+<field name="word">folgenden</field>
+<field name="word">joint</field>
+<field name="word">transparenz</field>
+<field name="word">fall</field>
+<field name="word">begegnen</field>
+<field name="word">geschä</field>
+<field name="word">vermeiden</field>
+<field name="word">erfü</field>
+<field name="word">eben</field>
+<field name="word">vector</field>
+<field name="word">datensä</field>
+<field name="word">rbasiert</field>
+<field name="word">gegeben</field>
+<field name="word">portable</field>
+<field name="word">beschließen</field>
+<field name="word">eingeschrä</field>
+<field name="word">fachverwaltung</field>
+<field name="word">ziele</field>
+<field name="word">berweisung</field>
+<field name="word">drawing</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">einfach</field>
+<field name="word">kriterien</field>
+<field name="word">antragsteller</field>
+<field name="word">network</field>
+<field name="word">expert</field>
+<field name="word">zwei</field>
+<field name="word">zeichensatz</field>
+<field name="word">rasterbasiert</field>
+<field name="word">beispiele</field>
+<field name="word">ngsten</field>
+<field name="word">jedem</field>
+<field name="word">verö</field>
+<field name="word">forma</field>
+<field name="word">nachzuvollziehende</field>
+<field name="word">tabellenkalkulationen</field>
+<field name="word">hand</field>
+<field name="word">interc</field>
+<field name="word">recherche</field>
+<field name="word">bermittlung</field>
+<field name="word">fotografien</field>
+<field name="word">darauf</field>
+<field name="word">tzen</field>
+<field name="word">rgerbeteiligung</field>
+<field name="word">verwaltungsmitarbeitern</field>
+<field name="word">daten</field>
+<field name="word">vektorbasier</field>
+<field name="word">voll</field>
+<field name="word">image</field>
+<field name="word">geeignet</field>
+<field name="word">open</field>
+<field name="word">empfohlen</field>
+<field name="word">klare</field>
+<field name="word">interchange</field>
+<field name="word">sicht</field>
+<field name="word">bezug</field>
+<field name="word">fohlen</field>
+<field name="word">achten</field>
+<field name="word">handlungsanweisungen</field>
+<field name="word">hange</field>
+<field name="word">zwangsweise</field>
+<field name="word">separated</field>
+<field name="word">zeitsparende</field>
+<field name="word">beschließ</field>
+<field name="word">erfordert</field>
+<field name="word">ftsordnung</field>
+<field name="word">graphics</field>
+<field name="word">ndung</field>
+<field name="word">formate</field>
+<field name="word">photograph</field>
+<field name="word">falsch</field>
+<field name="word">richt</field>
+<field name="word">proprietä</field>
+<field name="word">values</field>
+<field name="word">richtlinie</field>
+<field name="word">anlage</field>
+<field name="word">dokumentiert</field>
+<field name="word">raste</field>
+<field name="word">scalabale</field>
+<field name="word">geben</field>
+<field name="word">fachverwaltungen</field>
+<field name="word">vektorbasiert</field>
+<field name="word">anderes</field>
+<field name="word">excel</field>
+<field name="word">spreadsheet</field>
+<field name="word">vorhanden</field>
+<field name="word">document</field>
+<field name="word">graphiken</field>
+<field name="word">dateiformaten</field>
+<field name="word">etwas</field>
+<field name="word">begrü</field>
+<field name="word">richtlinien</field>
+<field name="word">windows</field>
+<field name="word">llen</field>
+<field name="word">microsoft</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, den Fachverwaltungen Richtlinien zur Wahl von Dateiformaten bei der Ü
+bermittlung von Datensä
+tzen an daten.berlin.de an die Hand zu geben. 
+Bei der Wahl der Formate ist darauf zu achten, dass die Formate a) voll dokumentiert und b) nicht-proprietä
+r sind. In der Anlage finden sich Formate, die aus Sicht der Antragsteller geeignet sind. 
+BEGRÜ
+NDUNG Die Verö
+ffentlichung von Daten erfordert ein ge
+wisses Fachwissen in Bezug auf Dateiformate. Dieses ist bei der Fachverwaltung nicht zwangsweise vorhanden. Mit der Richtlinie sollen individuellen Verwaltungsmitarbeitern klare und einfach nachzuvollziehende Handlungsanweisungen gegeben werden. Dies verf
+o
+lgt zwei Ziele: a) zeitsparende Recherche vermeiden; b) Ä
+ngsten, etwas falsch zu begegnen. 
+ANLAGE: Die folgenden Formate erfü
+llen aus Sicht der Antragsteller diese Kriterien. In jedem Fall sollte der Zeichensatz UTF-8 oder ein anderes Unicode-Format sein
+TEXT empfohlen: odt Open Document Text rtf Richt Text Format txt Text
+eingeschrä
+nkt empfohlen: docx Microsoft Windows
+nicht empfohlen: doc Microsoft Windows
+TABELLENKALKULATIONEN empfohlen: csv Comma Separated Values ods Open Document Spreadsheet
+nicht emp
+fohlen: xls Excel 
+FOTOGRAFIEN empfohlen: jpg Joint Photograph Expert Group
+GRAPHIKEN (rasterbasiert) empfohlen: png Portable Network Graphics tiff Tagged Image File Format
+nicht empfohlen: gif Graphics Interchange Format bmp Bitmap
+GRAPHIKEN (vektorbasier
+t) empfohlen: svg Scalabale Vector Graphics
+BEBAUUNGSPLÄ
+NE empfohlen: dxf Drawing Interchange Format
+ 
+BVV 
+27.02.2013
+ 
+Die Bezirksverordnetenversammlung beschließ
+t:
+Ü
+berweisung: Ausschuss fü
+r Bü
+rgerbeteiligung und Transparenz, Verwaltungsmodernisierung und 
+IT, Geschä
+ftsordnung
+ 
+Bü
+Tra 
+14.03.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, den Fachverwaltungen Richtlinien zur Wahl von Dateiformaten bei der Ü
+bermittlung von Datensä
+tzen an daten.berlin.de an die Hand zu g
+eben. 
+Bei der Wahl der Formate ist darauf zu achten, dass die Formate 
+a)
+      
+voll dokumentiert (siehe Anlage fü
+r Beispiele) und 
+b)
+      
+nicht-proprietä
+r sind. 
+In der Anlage finden sich Formate, die aus Sicht der Antragsteller geeignet sind. 
+ 
+ANLAGE:
+ 
+Die folgenden Formate erfü
+llen aus Sicht der Antragsteller diese Kriterien. In jedem Fall sollte der Zeichensatz UTF-8 oder ein anderes Unicode-Format sein.
+ 
+TEXT
+ empfohlen: odt Open Document Text, rtf Richt Text Format, txt Text
+eingeschrä
+nkt empfohlen: d
+ocx Microsoft Windows
+nicht empfohlen: doc Microsoft Windows
+ 
+TABELLENKALKULATIONEN
+ empfohlen: csv Comma Separated Values, ods Open Document Spreadsheet
+nicht empfohlen: xls Excel 
+ 
+FOTOGRAFIEN
+ empfohlen: jpg Joint Photograph Expert Group
+ 
+GRAPHIKEN
+ (raste
+rbasiert) empfohlen: png Portable Network Graphics, tiff Tagged Image File Format
+nicht empfohlen: gif Graphics Interchange Format, bmp Bitmap
+ 
+GRAPHIKEN
+ (vektorbasiert) empfohlen: svg Scalabale Vector Graphics
+ 
+BEBAUUNGSPLÄ
+NE
+ empfohlen: dxf Drawing Interc
+hange Format
+ 
+ 
+BVV 
+20.03.2013
+ 
+Die Bezirksverordnetenversammlung beschließ
+t:
+ 
+Das Bezirksamt wird beauftragt, den Fachverwaltungen Richtlinien zur Wahl von Dateiformaten bei der Ü
+bermittlung von Datensä
+tzen an daten.berlin.de an die Hand zu g
+eben. 
+Bei der Wahl der Formate ist darauf zu achten, dass die Formate 
+c)
+      
+voll dokumentiert (siehe Anlage fü
+r Beispiele) und 
+d)
+      
+nicht-proprietä
+r sind. 
+In der Anlage finden sich Formate, die aus Sicht der Antragsteller geeignet sind. 
+ 
+ANLAGE:
+ 
+Die folgenden Formate erfü
+llen aus Sicht der Antragsteller diese Kriterien. In jedem Fall sollte der Zeichensatz UTF-8 oder ein anderes Unicode-Format sein.
+ 
+TEXT
+ empfohlen: odt Open Document Text, rtf Richt Text Format, txt Text
+eingeschrä
+nkt empfohlen: d
+ocx Microsoft Windows
+nicht empfohlen: doc Microsoft Windows
+ 
+TABELLENKALKULATIONEN
+ empfohlen: csv Comma Separated Values, ods Open Document Spreadsheet
+nicht empfohlen: xls Excel 
+ 
+FOTOGRAFIEN
+ empfohlen: jpg Joint Photograph Expert Group
+ 
+GRAPHIKEN
+ (raste
+rbasiert) empfohlen: png Portable Network Graphics, tiff Tagged Image File Format
+nicht empfohlen: gif Graphics Interchange Format, bmp Bitmap
+ 
+GRAPHIKEN
+ (vektorbasiert) empfohlen: svg Scalabale Vector Graphics
+ 
+BEBAUUNGSPLÄ
+NE
+ empfohlen: dxf Drawing Interc
+hange Forma
+t</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5364&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">4413</field>  
+  <field name="parteien">1</field>  
+</doc></add>

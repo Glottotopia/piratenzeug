@@ -1,0 +1,119 @@
+<add><doc>
+  <field name="id">FK_DS/0811/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Monatliche Veröffentlichung der aktuellen Haushaltsdaten</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">hauptausschusses</field>
+<field name="word">rechnungsprü</field>
+<field name="word">citat</field>
+<field name="word">parlament</field>
+<field name="word">beschließen</field>
+<field name="word">geschä</field>
+<field name="word">berweisung</field>
+<field name="word">jeweils</field>
+<field name="word">freier</field>
+<field name="word">investitionen</field>
+<field name="word">opendocument</field>
+<field name="word">hervor</field>
+<field name="word">http</field>
+<field name="word">abgeordnetenhaus</field>
+<field name="word">open</field>
+<field name="word">senats</field>
+<field name="word">ffentlichen</field>
+<field name="word">klanfr</field>
+<field name="word">haushaltswirtschaft</field>
+<field name="word">personal</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">beschließ</field>
+<field name="word">generieren</field>
+<field name="word">haushaltsaufstellung</field>
+<field name="word">rgerbeteiligung</field>
+<field name="word">tabellendokument</field>
+<field name="word">möge</field>
+<field name="word">internetseite</field>
+<field name="word">bezirken</field>
+<field name="word">aktuellen</field>
+<field name="word">adis</field>
+<field name="word">antwort</field>
+<field name="word">landes</field>
+<field name="word">werte</field>
+<field name="word">verö</field>
+<field name="word">ftsordnung</field>
+<field name="word">hauptgcxzqsq</field>
+<field name="word">regelmäß</field>
+<field name="word">pari</field>
+<field name="word">vhtml</field>
+<field name="word">begrü</field>
+<field name="word">fung</field>
+<field name="word">transparenz</field>
+<field name="word">portal</field>
+<field name="word">beispiel</field>
+<field name="word">ndung</field>
+<field name="word">data</field>
+<field name="word">monatlich</field>
+<field name="word">glich</field>
+<field name="word">starweb</field>
+<field name="word">jederzeit</field>
+<field name="word">kleine</field>
+<field name="word">einheitliche</field>
+<field name="word">haushalt</field>
+<field name="word">anfrage</field>
+<field name="word">wados</field>
+<field name="word">lizenz</field>
+<field name="word">stand</field>
+<field name="word">ffentlicht</field>
+<field name="word">geht</field>
+<field name="word">bezirkes</field>
+<field name="word">software</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, monatlich den jeweils aktuellen Stand der Haushaltswirtschaft (Ist-Werte) des Bezirkes als Tabellendokument im Open-Data-Portal des Landes Berlin unter freier Lizenz zu verö
+ffentlichen.
+Begrü
+ndung:
+Aus der Antwort des Senats auf die Kleine Anfrage KA17-11304 ("
+Einheitliche Software zur Haushaltsaufstellung und KLR in den Bezirken?"
+) [1] geht hervor, dass es den Bezirken jederzeit mö
+glich ist den aktuellen Stand der Haushaltswirtschaft (Ist-Werte) al
+s
+ Tabellendokument zu generieren.
+Das Abgeordnetenhaus verö
+ffentlicht die aktuellen Ist-Werte des Landes Berlin zum Beispiel bereits regelmäß
+ig auf der Internetseite des Hauptausschusses [2]. [1] 
+http://www.parlament-berlin.de
+:8080/starweb/adis/citat/VT/17/KlAnfr/ka17-11304.pdf
+ [2] 
+http://www.parlament-berlin.de/
+pari/web/wados.nsf/vHTML/C16-Hauptgcxzqsq-ak?OpenDocument
+ 
+BVV 
+28.08.2013
+Die Bezirksverordnetenversammlung beschließ
+t:
+ 
+Ü
+berweisung: Ausschuss fü
+r Bü
+rgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschä
+ftsordnung,
+ Ausschuss fü
+r Personal, Haushalt und Investitionen, Rechnungsprü
+fung ff.
+ 
+ 
+PHI 
+22.10.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, monatlich den jeweils aktuellen Stand der Haushaltswirtschaft (Ist-Werte) des Bezirkes als Tabellendokument im Open-Data-Portal des Landes Berlin unter freier Lizenz zu verö
+ffentlichen
+.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5603&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1481</field>  
+  <field name="parteien">1</field>  
+</doc></add>

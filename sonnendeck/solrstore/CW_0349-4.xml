@@ -1,0 +1,69 @@
+<add><doc>
+  <field name="id">CW_0349/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Durchsuchbarkeit von Bezirksseiten</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">eintrag</field>
+<field name="word">formuliert</field>
+<field name="word">suchmaschinen</field>
+<field name="word">beschlie</field>
+<field name="word">technisch</field>
+<field name="word">hinzuwirken</field>
+<field name="word">empfohlen</field>
+<field name="word">ckler</field>
+<field name="word">online</field>
+<field name="word">judith</field>
+<field name="word">http</field>
+<field name="word">ndigen</field>
+<field name="word">seiten</field>
+<field name="word">robots</field>
+<field name="word">disallow</field>
+<field name="word">zust</field>
+<field name="word">entfernt</field>
+<field name="word">wilmersdorf</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">darauf</field>
+<field name="word">charlottenburg</field>
+<field name="word">indiziert</field>
+<field name="word">rfen</field>
+<field name="word">datei</field>
+  <field name="text_de">D
+ie BVV beschlie
+ß
+t
+:
+ 
+Dem
+ 
+ Bezirksamt wird empfohlen, bei den zust
+ä
+ndigen Stellen darauf hinzuwirken, dass alle Seiten der Bezirksverordnetenversammlung von Suchmaschinen indiziert
+ 
+werden d
+ü
+rfen bzw. technisch formuliert, der Eintrag
+ 
+ 
+ "Disallow:/ba-charlottenburg-wilmersdorf/bvv-online" aus der Datei 
+http://www.berlin.de/robots.txt
+ entfernt wird.
+ 
+Der BVV ist bis zum 
+31.12.2012
+ zu berichten.
+ 
+ 
+Judith St
+ü
+ckler
+Bezirksverordnetenvorsteherin</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4613&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">467</field>  
+  <field name="parteien">3</field>  
+</doc></add>

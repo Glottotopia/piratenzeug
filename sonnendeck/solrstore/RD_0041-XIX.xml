@@ -1,0 +1,82 @@
+<add><doc>
+  <field name="id">RD_0041/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Leerstand in Reinickendorf</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">grunde</field>
+<field name="word">leerst</field>
+<field name="word">entstehen</field>
+<field name="word">gebä</field>
+<field name="word">vergabe</field>
+<field name="word">leerstand</field>
+<field name="word">auskunft</field>
+<field name="word">räumlichkeiten</field>
+<field name="word">hoch</field>
+<field name="word">welches</field>
+<field name="word">schulen</field>
+<field name="word">nutzung</field>
+<field name="word">leerstehenden</field>
+<field name="word">gung</field>
+<field name="word">reinickendorf</field>
+<field name="word">pezie</field>
+<field name="word">nichtgewerbliche</field>
+<field name="word">möglich</field>
+<field name="word">objekten</field>
+<field name="word">legt</field>
+<field name="word">gebäuden</field>
+<field name="word">reinicke</field>
+<field name="word">öffentlic</field>
+<field name="word">dorf</field>
+<field name="word">sachverhalt</field>
+<field name="word">verf</field>
+<field name="word">verhandlungen</field>
+<field name="word">derzeit</field>
+<field name="word">prinzip</field>
+<field name="word">hender</field>
+<field name="word">vereinen</field>
+<field name="word">unterhalt</field>
+<field name="word">interessierten</field>
+  <field name="text_de">Sachverhalt:
+ 
+Das Bezirksamt wird um Auskunft gebeten:
+ 
+1.
+      
+Wie hoch ist der Leerstand bei öffentlic
+hen Gebäuden in Reinickendorf im S
+pezie
+l
+len bei Schulen?
+2.
+      
+Welche Kosten entstehen dem Bezirk durch den Unterhalt dieser Gebä
+u
+de?
+3.
+      
+Welches Prinzip legt das Bezirksamt bei Verhandlungen und Vergabe leerst
+e
+hender Räumlichkeiten zu Grunde?
+4.
+      
+Gibt es derzeit Verhandlungen zur Nutzung von leerstehenden Objekten in Reinicke
+n
+dorf?
+5.
+      
+Ist es dem Bezirksamt möglich diese leerstehenden Räumlichkeiten interessierten Bü
+r
+ger
+n
+ und Vereinen für eine nichtgewerbliche Nutzung zur Verf
+ü
+gung zu stellen?</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3093&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">645</field>  
+  <field name="parteien">1</field>  
+</doc></add>

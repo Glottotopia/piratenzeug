@@ -1,0 +1,41 @@
+<add><doc>
+  <field name="id">CW_0526/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Erhalt der Computeria</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field> 
+  <field name="word">erstellen</field>
+<field name="word">computerien</field>
+<field name="word">computeria</field>
+<field name="word">trägerverein</field>
+<field name="word">stückler</field>
+<field name="word">beschließ</field>
+<field name="word">judith</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">bleiben</field>
+<field name="word">gemeinsam</field>
+<field name="word">konzept</field>
+<field name="word">dauerhaft</field>
+  <field name="text_de">D
+ie BVV beschließ
+t
+:
+ 
+Das Bezirksamt wird beauftragt, gemeinsam mit dem Computeria-Trägerverein ein Konzept zu erstellen, mit dem die Computerien im Bezirk dauerhaft erhalten bleiben. 
+ 
+Der BVV ist bis zum 
+30.09.2013
+ zu berichten.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4790&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">288</field>  
+  <field name="parteien">2</field>  
+</doc></add>

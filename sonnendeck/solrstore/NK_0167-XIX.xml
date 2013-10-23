@@ -1,0 +1,63 @@
+<add><doc>
+  <field name="id">NK_0167/XIX</field>  
+  <field name="typ">Beschlussempfehlung_-_2._Lesung</field>  
+  <field name="titel">Freifunk auf Bezirksgebäuden</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">einrichtung</field>
+<field name="word">konkret</field>
+<field name="word">fassung</field>
+<field name="word">technischen</field>
+<field name="word">förderverein</field>
+<field name="word">erforderlichen</field>
+<field name="word">freifunknetz</field>
+<field name="word">öffentliche</field>
+<field name="word">gestellt</field>
+<field name="word">annahme</field>
+<field name="word">bürgerinitiativen</field>
+<field name="word">unterstützt</field>
+<field name="word">ehrenamtliches</field>
+<field name="word">engagement</field>
+<field name="word">freifunknetzes</field>
+<field name="word">können</field>
+<field name="word">geschehen</field>
+<field name="word">freie</field>
+<field name="word">installieren</field>
+<field name="word">strom</field>
+<field name="word">bedeutet</field>
+<field name="word">neukölln</field>
+<field name="word">genutzt</field>
+<field name="word">antrages</field>
+<field name="word">zugang</field>
+<field name="word">folgender</field>
+<field name="word">empfiehlt</field>
+<field name="word">anlagen</field>
+<field name="word">sparen</field>
+<field name="word">bspw</field>
+<field name="word">ermöglicht</field>
+<field name="word">installation</field>
+<field name="word">gebäude</field>
+<field name="word">kostenfrei</field>
+<field name="word">verfügung</field>
+<field name="word">wartung</field>
+<field name="word">netzwerke</field>
+<field name="word">geräte</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
+Annahme
+ des Antrages in folgender Fassung:
+ 
+Die Einrichtung eines Freifunknetzes in Neukölln wird unterstützt. Konkret bedeutet dies, dass öffentliche Gebäude oder Anlagen genutzt werden können, um die für ein Freifunknetz erforderlichen technischen Geräte zu installieren, der Zugang zur Installation und Wartung ermöglicht wird und Strom kostenfrei zur Verfügung gestellt wird.
+ 
+Um Kosten zu sparen, soll die Installation und Wartung der Geräte durch ehrenamtliches Engagement von Bürgerinitiativen, wie bspw. dem Förderverein 
+Freie Netzwerke e.V.
+,
+ geschehen.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3790&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">632</field>  
+  <field name="parteien">1</field>  
+</doc></add>

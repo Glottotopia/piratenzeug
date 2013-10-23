@@ -1,0 +1,126 @@
+<add><doc>
+  <field name="id">FK_DS/0278/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Rohformate neben Endformaten veröffentlichen</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">sonstiges</field>
+<field name="word">antrags</field>
+<field name="word">aber</field>
+<field name="word">stehen</field>
+<field name="word">dritter</field>
+<field name="word">beschließen</field>
+<field name="word">tiff</field>
+<field name="word">eignen</field>
+<field name="word">rohformat</field>
+<field name="word">freien</field>
+<field name="word">veröffentlichen</field>
+<field name="word">rechte</field>
+<field name="word">entgehen</field>
+<field name="word">bezieht</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">gestellt</field>
+<field name="word">open</field>
+<field name="word">projektzukunft</field>
+<field name="word">dateien</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">bütra</field>
+<field name="word">besser</field>
+<field name="word">betrachtung</field>
+<field name="word">seite</field>
+<field name="word">tabellenkalkulation</field>
+<field name="word">überweisung</field>
+<field name="word">fileadmin</field>
+<field name="word">mehraufwand</field>
+<field name="word">können</field>
+<field name="word">freie</field>
+<field name="word">möglich</field>
+<field name="word">dokumenten</field>
+<field name="word">zugeschnittenes</field>
+<field name="word">wirtschaftliche</field>
+<field name="word">möge</field>
+<field name="word">endformat</field>
+<field name="word">http</field>
+<field name="word">erstellung</field>
+<field name="word">soweit</field>
+<field name="word">entsteht</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">interessen</field>
+<field name="word">rechtlich</field>
+<field name="word">signifikanter</field>
+<field name="word">transparenz</field>
+<field name="word">user</field>
+<field name="word">ohnehin</field>
+<field name="word">zusätzlicher</field>
+<field name="word">begründung</field>
+<field name="word">veröffentlicht</field>
+<field name="word">vorhandene</field>
+<field name="word">vorgeschlagen</field>
+<field name="word">data</field>
+<field name="word">weiterverarbeitbarkeit</field>
+<field name="word">vorliegen</field>
+<field name="word">sowohl</field>
+<field name="word">veröffentlichung</field>
+<field name="word">kein</field>
+<field name="word">eingefordert</field>
+<field name="word">rohformate</field>
+<field name="word">gekennzeichnet</field>
+<field name="word">upload</field>
+<field name="word">teil</field>
+<field name="word">weiterverarbeitung</field>
+<field name="word">strategie</field>
+<field name="word">lizenz</field>
+<field name="word">generell</field>
+<field name="word">explizit</field>
+<field name="word">solche</field>
+<field name="word">beschließt</field>
+<field name="word">daten</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, bei Dokumenten, die als ein auf Betrachtung zugeschnittenes Endformat (z.B. jpg / pdf) veröffentlicht werden, aber auch als Rohformat (Tabellenkalkulation, tiff, dxf etc..) vorliegen, sowohl das Endformat als auch das Rohformat zu veröffentlichen, soweit dies rechtlich möglich ist.
+Die Daten sollen soweit möglich unter eine freie Lizenz gestellt und explizit als solche gekennzeichnet werden.
+ 
+Begründung
+Rohformate eignen sich besser für die Weiterverarbeitung Weiterverarbeitbarkeit von Daten ist Teil der Berliner Open Data-Strategie [1] Der Antrag bezieht sich nur auf ohnehin vorhandene Dateien, so dass kein signifikanter Mehraufwand entsteht.
+Eine Erstellung zusätzlicher Daten ist nicht Teil des Antrags.
+Eine Veröffentlichung unter einer freien Lizenz wird vorgeschlagen, aber nicht generell eingefordert, da zB Rechte Dritter oder wirtschaftliche Interessen des Bezirks dem entgehen stehen können.
+ 
+[1] 
+http://www.berlin.de/projektzukunft/fileadmin/user_upload/pdf/sonstiges/Berliner_Open_Data-Strategie_2012.pdf
+,
+zB Seite 15
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: 
+Ausschuss für Bürgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschäftsordnung.
+ 
+BüTra 
+11.10.2012
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, bei Dokumenten, die als ein auf Betrachtung zugeschnittenes Endformat (z.B. jpg / pdf) veröffentlicht werden, aber auch als Rohformat (Tabellenkalkulation, tiff, dxf etc..) vorliegen, sowohl das Endformat als auch das Rohformat zu veröffentlichen, soweit dies rechtlich möglich ist.
+Die Daten sollen soweit möglich unter eine freie Lizenz gestellt und explizit als solche gekennzeichnet werden.
+ 
+Begründung
+Rohformate eignen sich besser für die Weiterverarbeitung Weiterverarbeitbarkeit von Daten ist Teil der Berliner Open Data-Strategie [1] Der Antrag bezieht sich nur auf ohnehin vorhandene Dateien, so dass kein signifikanter Mehraufwand entsteht.
+Eine Erstellung zusätzlicher Daten ist nicht Teil des Antrags.
+Eine Veröffentlichung unter einer freien Lizenz wird vorgeschlagen, aber nicht generell eingefordert, da zB Rechte Dritter oder wirtschaftliche Interessen des Bezirks dem entgehen stehen können.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Das Bezirksamt wird aufgefordert, bei Dokumenten, die als ein auf Betrachtung zugeschnittenes Endformat (z.B. jpg / pdf) veröffentlicht werden, aber auch als Rohformat (Tabellenkalkulation, tiff, dxf etc..) vorliegen, sowohl das Endformat als auch das Rohformat zu veröffentlichen, soweit dies rechtlich möglich ist.
+Die Daten sollen soweit möglich unter eine freie Lizenz gestellt und explizit als solche gekennzeichnet werden.
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5020&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">2804</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,143 @@
+<add><doc>
+  <field name="id">SP_0540/XIX</field>  
+  <field name="typ">Vorlage_-_zur_Kenntnisnahme_-</field>  
+  <field name="titel">Spandau in das Berliner Open Data Portal</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">rechtlichen</field>
+<field name="word">kosten</field>
+<field name="word">schwerbehinderten</field>
+<field name="word">ohne</field>
+<field name="word">reihe</field>
+<field name="word">strategie</field>
+<field name="word">eignen</field>
+<field name="word">gepflegt</field>
+<field name="word">wolle</field>
+<field name="word">protokolle</field>
+<field name="word">öffentlichen</field>
+<field name="word">ermittelt</field>
+<field name="word">tagesordnungen</field>
+<field name="word">darüber</field>
+<field name="word">stände</field>
+<field name="word">open</field>
+<field name="word">zuwendungsempfänger</field>
+<field name="word">hoch</field>
+<field name="word">parkplätze</field>
+<field name="word">hinaus</field>
+<field name="word">spandauer</field>
+<field name="word">beschlüsse</field>
+<field name="word">geoinformationen</field>
+<field name="word">zulässigkeit</field>
+<field name="word">jugendfreizeiteinrichtungen</field>
+<field name="word">weitere</field>
+<field name="word">zuständigen</field>
+<field name="word">genannten</field>
+<field name="word">vorhanden</field>
+<field name="word">können</field>
+<field name="word">beschließen</field>
+<field name="word">folgende</field>
+<field name="word">finden</field>
+<field name="word">zentral</field>
+<field name="word">kleebank</field>
+<field name="word">nennen</field>
+<field name="word">vereinfachtes</field>
+<field name="word">veröffentlichung</field>
+<field name="word">sitzungskalender</field>
+<field name="word">umweltportal</field>
+<field name="word">spandau</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">info</field>
+<field name="word">verfahren</field>
+<field name="word">über</field>
+<field name="word">ganze</field>
+<field name="word">geführte</field>
+<field name="word">beispielhaft</field>
+<field name="word">parkplätzen</field>
+<field name="word">senatsverwaltungen</field>
+<field name="word">reisebusse</field>
+<field name="word">broker</field>
+<field name="word">haushaltsdaten</field>
+<field name="word">statistiken</field>
+<field name="word">baustellenanordnungen</field>
+<field name="word">portal</field>
+<field name="word">spielhallenstatistik</field>
+<field name="word">aufwand</field>
+<field name="word">data</field>
+<field name="word">bevölkerungsstatistik</field>
+<field name="word">entnommen</field>
+<field name="word">regelmäßig</field>
+<field name="word">straßenraum</field>
+<field name="word">umsetzung</field>
+<field name="word">transparenzdatei</field>
+<field name="word">übertragen</field>
+<field name="word">standorte</field>
+<field name="word">bezirklichen</field>
+<field name="word">betreuten</field>
+<field name="word">beachtung</field>
+<field name="word">gering</field>
+<field name="word">wahldaten</field>
+<field name="word">anzahl</field>
+<field name="word">übermittelt</field>
+<field name="word">übermittlung</field>
+<field name="word">allgemeinen</field>
+<field name="word">daten</field>
+<field name="word">standortdaten</field>
+<field name="word">veranstaltungen</field>
+<field name="word">prüfen</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließen:
+Das Bezirksamt wird beauftragt zu prüfen, welche bezirklichen Daten unter Beachtung der
+ 
+rechtlichen Zulässigkeit und im Rahmen der Umsetzung der Berliner Open Data Strategie
+ 
+regelmäßig an das Open Data Portal daten.berlin.de übertragen werden können und wie hoch der Aufwand/Kosten der Umsetzung sind.
+ 
+Welche bezirklichen Daten können regelmäßig an das Open Data Portal daten.berlin.de übertragen werden?
+ 
+Eine ganze Reihe von bezirklichen Daten, die sich für die Veröffentlichung im Open Data Portal eignen, werden regelmäßig an die zuständigen Senatsverwaltungen übermittelt bzw. können aus den zentral betreuten IT-Verfahren entnommen werden. Beispielhaft sind hier das Umweltportal, die Geoinformationen im FIS-Broker und die Transparenzdatei der Zuwendungsempfänger zu nennen. Auf dem Weg über zentral geführte Statistiken und IT-Verfahren sind auch Spandauer Daten im Open Data Portal zu finden, z. B. Bevölkerungsstatistik
+en, Haushaltsdaten, Wahldaten.
+ 
+Darüber hinaus können folgende weitere Daten regelmäßig an das Open Data Portal übermittelt werden:
+-
+          
+Standortdaten von Jugendfreizeiteinrichtungen,
+-
+          
+Sitzungskalender, Tagesordnungen, Protokolle und Beschlüsse der BVV
+-
+          
+Anzahl der allgemeinen Schwerbehinderten Parkplätze im öffentlichen Straßenraum,
+-
+          
+Standorte von Parkplätzen für Reisebusse im öffentlichen Straßenraum,
+-
+          
+Anzahl der Info-Stände,
+-
+          
+Anzahl Baustellenanordnungen im öffentlichen Straßenraum (ohne Vereinfachtes Verfahren),
+-
+          
+Anzahl Veranstaltungen im öffentlichen Straßenraum,
+-
+          
+Spielhallenstatistik.
+ 
+Wie hoch sind der Aufwand/die Kosten der Umsetzung?
+ 
+Der Aufwand für die Übermittlung der genannten Daten an das Open Data Portal ist gering, da die Daten bereits vorhanden sind bzw. regelmäßig ermittelt und gepflegt werden.
+ 
+ 
+Berlin-Spandau, den 
+08.
+03. 2013
+ 
+ 
+Kleebank
+Bezirksbürgermeister</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7144&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1981</field>  
+  <field name="parteien">1</field>  
+</doc></add>

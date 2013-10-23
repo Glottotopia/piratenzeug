@@ -1,0 +1,67 @@
+<add><doc>
+  <field name="id">FK_DS/0121/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Wahl des Beirates für Sozialhilfeangelegenheiten hier: Bezirksverordnete</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">beschließen</field>
+<field name="word">linke</field>
+<field name="word">beschließt</field>
+<field name="word">zieht</field>
+<field name="word">taskiran</field>
+<field name="word">klare</field>
+<field name="word">andreas</field>
+<field name="word">gewählt</field>
+<field name="word">stanojevic</field>
+<field name="word">kustak</field>
+<field name="word">zurück</field>
+<field name="word">susanne</field>
+<field name="word">schmidt</field>
+<field name="word">möge</field>
+<field name="word">borchard</field>
+<field name="word">jutta</field>
+<field name="word">seine</field>
+<field name="word">kandidatur</field>
+<field name="word">vertreter</field>
+<field name="word">frau</field>
+<field name="word">herr</field>
+<field name="word">sozialhilfeangelegenheiten</field>
+<field name="word">grünen</field>
+<field name="word">ertan</field>
+<field name="word">beirat</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+In den Beirat für Sozialhilfeangelegenheiten werden als Vertreter der Bezirksverordnetenversammlung gewählt:
+ 
+Frau Jutta Schmidt-Stanojevic (B90/Die Grünen)
+Herr 
+Andreas Borchard
+-Klare (SPD)
+Frau Susanne Kustak (DIE LINKE)
+Herr Ertan Taskiran (CDU)
+ 
+BVV 
+29.02.2012
+Herr Ertan Taskiran zieht seine Kandidatur zurück.
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+In den Beirat für Sozialhilfeangelegenheiten werden als Vertreter der Bezirksverordnetenversammlung gewählt:
+ 
+Frau Jutta Schmidt-Stanojevic (B90/Die Grünen)
+Herr 
+Andreas Borchard
+-Klare (SPD)
+Frau Susanne Kustak (DIE LINKE)
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4829&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">654</field>  
+  <field name="parteien">5</field>  
+</doc></add>

@@ -1,0 +1,57 @@
+<add><doc>
+  <field name="id">TS_0322/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Planung der Bepflanzung des neu gebauten Lassen Parks</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">ggfl</field>
+<field name="word">september</field>
+<field name="word">begründung</field>
+<field name="word">zusammen</field>
+<field name="word">bepflanzung</field>
+<field name="word">bepflanzungsplan</field>
+<field name="word">freitags</field>
+<field name="word">finden</field>
+<field name="word">statt</field>
+<field name="word">mündlich</field>
+<field name="word">parks</field>
+<field name="word">vorangehenden</field>
+<field name="word">möge</field>
+<field name="word">abgehalten</field>
+<field name="word">park</field>
+<field name="word">zielsetzung</field>
+<field name="word">planung</field>
+<field name="word">gebauten</field>
+<field name="word">anwohnerschaft</field>
+<field name="word">lassen</field>
+<field name="word">wochenende</field>
+<field name="word">einwohnerversammlung</field>
+<field name="word">beschliessen</field>
+<field name="word">ersten</field>
+<field name="word">einbeziehung</field>
+<field name="word">einverständlichen</field>
+<field name="word">montags</field>
+<field name="word">respektiven</field>
+  <field name="text_de"> 
+Die BVV möge beschliessen:
+ 
+Zu der Planung der Bepflanzung des neu gebauten Lassen Parks mit der Anwohnerschaft
+ 
+zusammen wird eine Einwohnerversammlung abgehalten. Diese soll am ersten Wochenende
+ 
+im September unter Einbeziehung des vorangehenden Freitags sowie des respektiven
+ 
+Montags statt finden, und die Zielsetzung haben, einen einverständlichen Bepflanzungsplan
+ 
+für den neu gebauten Lassen Park zu finden.
+ 
+ 
+Begründung:
+ggfl. Mündlich</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4118&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">452</field>  
+  <field name="parteien">1</field>  
+</doc></add>

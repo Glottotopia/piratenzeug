@@ -1,0 +1,26 @@
+<add><doc>
+  <field name="id">FK_DS/0045-69/IV</field>  
+  <field name="typ">Wahlvorlage</field>  
+  <field name="titel">Wahl eines Bürgerdeputierten</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gewählt</field>
+<field name="word">bürgerdeputierten</field>
+<field name="word">beschließen</field>
+<field name="word">gesundheit</field>
+<field name="word">schmitt</field>
+<field name="word">josef</field>
+<field name="word">inklusion</field>
+<field name="word">franz</field>
+<field name="word">herr</field>
+<field name="word">möge</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Herr Franz-Josef Schmitt wird zum Bürgerdeputierten im Ausschuss für Gesundheit und Inklusion gewählt.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4742&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">156</field>  
+  <field name="parteien">1</field>  
+</doc></add>

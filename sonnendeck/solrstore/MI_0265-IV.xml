@@ -1,0 +1,39 @@
+<add><doc>
+  <field name="id">MI_0265/IV</field>  
+  <field name="typ">Dringlichkeitsanfrage</field>  
+  <field name="titel">Mehr Schokolade</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">schokoladen</field>
+<field name="word">gesichert</field>
+<field name="word">erfolg</field>
+<field name="word">ackerstraße</field>
+<field name="word">fragen</field>
+<field name="word">stand</field>
+<field name="word">erhalt</field>
+<field name="word">unternimmt</field>
+<field name="word">verhandlungen</field>
+<field name="word">somit</field>
+<field name="word">schokoladens</field>
+<field name="word">aktuelle</field>
+  <field name="text_de">Wir fragen das Bezirksamt:
+ 
+ 
+1) Wie ist der aktuelle Stand der Verhandlungen zum "Schokoladen" in der Ackerstraße?
+ 
+2) Was unternimmt das Bezirksamt, damit der Erfolg der Verhandlungen und somit der Erhalt 
+ 
+    
+des
+ 
+Schokoladens gesichert ist?
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4900&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">256</field>  
+  <field name="parteien">1</field>  
+</doc></add>

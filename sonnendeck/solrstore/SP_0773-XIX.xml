@@ -1,0 +1,30 @@
+<add><doc>
+  <field name="id">SP_0773/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Legale Radverbindung zwischen Arcaden/Altstadt und Seeburger Str.?</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gekennzeichnet</field>
+<field name="word">freigegeben</field>
+<field name="word">südlichen</field>
+<field name="word">richtungen</field>
+<field name="word">beide</field>
+<field name="word">brunsbütteler</field>
+<field name="word">fahrradverkehr</field>
+<field name="word">fahrbahnseite</field>
+<field name="word">ausschilderung</field>
+<field name="word">klosterstraße</field>
+<field name="word">elsflether</field>
+<field name="word">damm</field>
+<field name="word">prüfen</field>
+<field name="word">entsprechende</field>
+<field name="word">fahrradweg</field>
+  <field name="text_de">Das Bezirksamt wird beauftragt zu prüfen, ob der Fahrradweg auf dem Brunsbütteler Damm zwischen der Klosterstraße und dem Elsflether Weg auf der südlichen Fahrbahnseite für den Fahrradverkehr in beide Richtungen freigegeben und durch entsprechende Ausschilderung gekennzeichnet werden kann
+.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7377&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">291</field>  
+  <field name="parteien">1</field>  
+</doc></add>

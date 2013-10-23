@@ -1,0 +1,45 @@
+<add><doc>
+  <field name="id">MH_0467/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Rücknahme der Änderung der Öffnungszeiten der Bürgerämter in Marzahn-Hellersdorf</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">zeit</field>
+<field name="word">donnerstags</field>
+<field name="word">terminvereinbarung</field>
+<field name="word">gültiger</field>
+<field name="word">marzahn</field>
+<field name="word">seit</field>
+<field name="word">beschließen</field>
+<field name="word">hellersdorfer</field>
+<field name="word">geöffnet</field>
+<field name="word">gültig</field>
+<field name="word">öffnungszeiten</field>
+<field name="word">bürgerämter</field>
+<field name="word">dienstags</field>
+<field name="word">bleiben</field>
+<field name="word">zurück</field>
+<field name="word">bearbeitet</field>
+<field name="word">gültigen</field>
+<field name="word">möge</field>
+<field name="word">nehmen</field>
+<field name="word">kunden</field>
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht, die seit dem 
+01.08.2012
+ dienstags und donnerstags gültigen Öffnungszeiten der Marzahn-Hellersdorfer Bürgerämter zurück
+ 
+zu
+ 
+nehmen. Die Bürgerämter sollen, wie bis zum
+ 
+31.07.2012
+ gültig, von 11.00 Uhr bis 19.00 Uhr geöffnet bleiben. In der Zeit von 18.00 Uhr bis 19.00 Uhr sollen dabei nur Kunden mit gültiger Terminvereinbarung bearbeitet werden.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4748&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">411</field>  
+  <field name="parteien">1</field>  
+</doc></add>

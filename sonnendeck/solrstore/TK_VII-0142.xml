@@ -1,0 +1,75 @@
+<add><doc>
+  <field name="id">TK_VII/0142</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Nutzung lizenzfreier Open-Source-Software in der Verwaltung</field>  
+  <field name="bezirk">Treptow_Köpenick</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">lizenzkostenfreie</field>
+<field name="word">umstellungsbestrebungen</field>
+<field name="word">verwaltung</field>
+<field name="word">entstehen</field>
+<field name="word">standardkonformen</field>
+<field name="word">opendocument</field>
+<field name="word">open</field>
+<field name="word">wartungskosten</field>
+<field name="word">hoch</field>
+<field name="word">schulen</field>
+<field name="word">jahr</field>
+<field name="word">jeweiligen</field>
+<field name="word">source</field>
+<field name="word">standardkonforme</field>
+<field name="word">welchem</field>
+<field name="word">welchen</field>
+<field name="word">genutzt</field>
+<field name="word">dateiformaten</field>
+<field name="word">gegenwärtig</field>
+<field name="word">bereichen</field>
+<field name="word">lizenzprodukte</field>
+<field name="word">umfang</field>
+<field name="word">verwendung</field>
+<field name="word">schätzt</field>
+<field name="word">bezirklichen</field>
+<field name="word">eingesetzt</field>
+<field name="word">abteilungen</field>
+<field name="word">lizenz</field>
+<field name="word">dateiformate</field>
+<field name="word">bezirksverwaltung</field>
+<field name="word">offene</field>
+<field name="word">solche</field>
+<field name="word">offenen</field>
+<field name="word">umstellung</field>
+<field name="word">software</field>
+  <field name="text_de">1.
+    
+Welche Lizenzprodukte werden in der Bezirksverwaltung und in den Schulen gegenwärtig eingesetzt?
+2.
+    
+Welche Lizenz- und Wartungskosten entstehen dem Bezirk für die jeweiligen Abteilungen pro Jahr?
+3.
+    
+Wird bereits lizenzkostenfreie Open-Source-Software in der Bezirksverwaltung und in den Schulen eingesetzt?
+4.
+    
+Wenn ja, in welchen Bereichen und in welchem Umfang?
+a)
+        
+In welchen Bereichen der bezirklichen Verwaltung werden bereits offene, standardkonforme Dateiformate (z. B. OpenDocument nach ISO/IEC
+ 
+26300:2006) genutzt?
+b)
+        
+Gibt es Umstellungsbestrebungen zur Verwendung von offenen, standardkonformen Dateiformaten in der bezirklichen Verwaltung?
+c)
+        
+Wenn ja, welche?
+d)
+        
+Wie hoch schätzt das Bezirksamt die Kosten für eine solche Umstellung?</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4241&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">803</field>  
+  <field name="parteien">1</field>  
+</doc></add>

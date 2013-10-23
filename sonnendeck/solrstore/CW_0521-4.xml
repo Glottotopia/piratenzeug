@@ -1,0 +1,32 @@
+<add><doc>
+  <field name="id">CW_0521/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Kleingartenanlage Oeynhausen</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kolonie</field>
+<field name="word">beschließen</field>
+<field name="word">oeynhausen</field>
+<field name="word">baugb</field>
+<field name="word">durchzuführen</field>
+<field name="word">geplante</field>
+<field name="word">verkaufte</field>
+<field name="word">aufstellung</field>
+<field name="word">bebauungsplanes</field>
+<field name="word">teilgebiet</field>
+<field name="word">möge</field>
+<field name="word">verfahren</field>
+  <field name="text_de">D
+ie BVV möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, das geplante Verfahren zur Aufstellung
+eines Bebauungsplanes für das verkaufte Teilgebiet der Kolonie
+Oeynhausen nach § 12 BauGB durchzuführen.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4785&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">208</field>  
+  <field name="parteien">1</field>  
+</doc></add>

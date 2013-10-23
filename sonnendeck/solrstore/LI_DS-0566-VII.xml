@@ -1,0 +1,73 @@
+<add><doc>
+  <field name="id">LI_DS/0566/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Zwb.)</field>  
+  <field name="titel">Durchsuchbarkeit von Bezirksseiten</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">problematik</field>
+<field name="word">bezirke</field>
+<field name="word">bürgerinformation</field>
+<field name="word">erfolgen</field>
+<field name="word">sung</field>
+<field name="word">kenntnis</field>
+<field name="word">büro</field>
+<field name="word">durchsuchbarkeit</field>
+<field name="word">nutzer</field>
+<field name="word">computerunternehmen</field>
+<field name="word">eingesetzte</field>
+<field name="word">system</field>
+<field name="word">systems</field>
+<field name="word">bittet</field>
+<field name="word">beseitigung</field>
+<field name="word">gearbeitet</field>
+<field name="word">nehmen</field>
+<field name="word">softwareentwicklungs</field>
+<field name="word">weit</field>
+<field name="word">seiten</field>
+<field name="word">jetzt</field>
+<field name="word">unzureichenden</field>
+<field name="word">betreut</field>
+<field name="word">folgendes</field>
+<field name="word">regie</field>
+<field name="word">probleme</field>
+<field name="word">allris</field>
+<field name="word">setzung</field>
+<field name="word">lichtenberg</field>
+<field name="word">sprochen</field>
+<field name="word">liner</field>
+<field name="word">dann</field>
+<field name="word">technische</field>
+<field name="word">vorliegende</field>
+<field name="word">senatskanzlei</field>
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
+Folgendes
+ zur Kenntnis zu nehmen:
+ 
+Das Büro der BVV Lichtenberg ist nur Nutzer der Seiten des Bürgerinformation
+s
+systems Allris. Dieses Berlin weit eingesetzte System wird von einem Softwareentwicklungs- u
+nd Computerunternehmen betreut.
+ 
+Die Problematik der unzureichenden Durchsuchbarkeit wurde hier bereits ang
+e
+sprochen und an einer L
+ö
+sung wird gearbeitet.
+ 
+Nach Beseitigung jetzt noch vorliegende
+r
+ technische
+r
+ Probleme soll dann die U
+m
+setzung für alle Be
+r
+liner Bezirke unter der Regie der Senatskanzlei erfolgen.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5228&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">593</field>  
+  <field name="parteien">1</field>  
+</doc></add>

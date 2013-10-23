@@ -1,0 +1,26 @@
+<add><doc>
+  <field name="id">MI_0633/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Besetzung des Jugendhilfeausschusses</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">jugendhilfeausschuss</field>
+<field name="word">bvvmitte</field>
+<field name="word">mitglied</field>
+<field name="word">kirchner</field>
+<field name="word">david</field>
+<field name="word">piratenfraktion</field>
+<field name="word">freitag</field>
+<field name="word">stellvertretendes</field>
+<field name="word">alexander</field>
+  <field name="text_de"> 
+Alexander Freitag ist für David Kirchner stellvertretendes
+Mitglied der Piratenfraktion im Jugendhilfeausschuss der BVVMitte.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5266&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">129</field>  
+  <field name="parteien">1</field>  
+</doc></add>

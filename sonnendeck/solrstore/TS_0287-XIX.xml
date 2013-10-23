@@ -1,0 +1,32 @@
+<add><doc>
+  <field name="id">TS_0287/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Verlagerung des Fahrradweges Maaßenstraße</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließ</field>
+<field name="word">weiter</field>
+<field name="word">mehrheit</field>
+<field name="word">empfiehlt</field>
+<field name="word">gefunden</field>
+<field name="word">verfolgt</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung:
+ 
+Die
+ 
+Bezirksverordnetenversammlung
+ 
+mö
+ge
+ 
+beschließ
+en:
+ 
+Der Antrag wird nicht weiter verfolgt, da er keine Mehrheit gefunden hat.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4083&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">196</field>  
+  <field name="parteien">1</field>  
+</doc></add>

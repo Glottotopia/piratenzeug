@@ -1,0 +1,25 @@
+<add><doc>
+  <field name="id">TS_0544/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Fahrradbügel in Schöneberg</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließen</field>
+<field name="word">weiter</field>
+<field name="word">wolle</field>
+<field name="word">zurückgezogen</field>
+<field name="word">empfiehlt</field>
+<field name="word">verfolgt</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung:
+ 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Der Antrag wird nicht weiter verfolgt, da er zurückgezogen wurde.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4340&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">183</field>  
+  <field name="parteien">1</field>  
+</doc></add>

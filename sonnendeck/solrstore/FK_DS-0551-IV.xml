@@ -1,0 +1,254 @@
+<add><doc>
+  <field name="id">FK_DS/0551/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Verlängerung Tram M10</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">rentabilität</field>
+<field name="word">andere</field>
+<field name="word">einwohnerzahlen</field>
+<field name="word">begründung</field>
+<field name="word">wiener</field>
+<field name="word">linie</field>
+<field name="word">macht</field>
+<field name="word">nadelöhr</field>
+<field name="word">signale</field>
+<field name="word">immobilien</field>
+<field name="word">uvki</field>
+<field name="word">umsteigeverbindungen</field>
+<field name="word">steckenverlängerung</field>
+<field name="word">senat</field>
+<field name="word">möge</field>
+<field name="word">stadtentwicklung</field>
+<field name="word">über</field>
+<field name="word">kreuzberg</field>
+<field name="word">strecke</field>
+<field name="word">umwelt</field>
+<field name="word">falckensteinstraße</field>
+<field name="word">straße</field>
+<field name="word">klimaschutz</field>
+<field name="word">hatten</field>
+<field name="word">glogauer</field>
+<field name="word">fortgeschrittenen</field>
+<field name="word">gleisverlegung</field>
+<field name="word">strieder</field>
+<field name="word">entsprechende</field>
+<field name="word">platz</field>
+<field name="word">sinnvolle</field>
+<field name="word">senatsstellen</field>
+<field name="word">skalitzer</field>
+<field name="word">entzerrung</field>
+<field name="word">sollten</field>
+<field name="word">einrichtungsfahrzeuge</field>
+<field name="word">zeit</field>
+<field name="word">überweisung</field>
+<field name="word">früheren</field>
+<field name="word">hasenheide</field>
+<field name="word">bleiben</field>
+<field name="word">aufgenommen</field>
+<field name="word">bezirksamtes</field>
+<field name="word">spreewaldplatz</field>
+<field name="word">beschließ</field>
+<field name="word">ersetzungsantrag</field>
+<field name="word">beschließen</field>
+<field name="word">danach</field>
+<field name="word">jahren</field>
+<field name="word">nahverkehrsplan</field>
+<field name="word">quartiermanagement</field>
+<field name="word">investitionen</field>
+<field name="word">beginnen</field>
+<field name="word">sommer</field>
+<field name="word">kenntnis</field>
+<field name="word">landwehrkanal</field>
+<field name="word">wende</field>
+<field name="word">führt</field>
+<field name="word">fahrgäste</field>
+<field name="word">oberbaumbrücke</field>
+<field name="word">dafür</field>
+<field name="word">dort</field>
+<field name="word">treptow</field>
+<field name="word">verschoben</field>
+<field name="word">schlesisches</field>
+<field name="word">weit</field>
+<field name="word">warschauer</field>
+<field name="word">vermitteln</field>
+<field name="word">parteien</field>
+<field name="word">geeigneter</field>
+<field name="word">grüne</field>
+<field name="word">lausitzer</field>
+<field name="word">metro</field>
+<field name="word">angebot</field>
+<field name="word">brückenverstärkung</field>
+<field name="word">schleife</field>
+<field name="word">stelle</field>
+<field name="word">querung</field>
+<field name="word">straßenbahn</field>
+<field name="word">priorisiert</field>
+<field name="word">aufzunehmen</field>
+<field name="word">beschließt</field>
+<field name="word">strasse</field>
+<field name="word">abgeordnetenhaus</field>
+<field name="word">soziale</field>
+<field name="word">bürger</field>
+<field name="word">zweirichtungsfahrzeige</field>
+<field name="word">umgeht</field>
+<field name="word">ausgabe</field>
+<field name="word">geplant</field>
+<field name="word">länger</field>
+<field name="word">sonnenallee</field>
+<field name="word">besonders</field>
+<field name="word">schnellere</field>
+<field name="word">beispiel</field>
+<field name="word">viele</field>
+<field name="word">kehrschleife</field>
+<field name="word">vorleistungen</field>
+<field name="word">park</field>
+<field name="word">überprüfen</field>
+<field name="word">pannierstraße</field>
+<field name="word">görliter</field>
+<field name="word">strukturverbesserung</field>
+<field name="word">entsprechenden</field>
+<field name="word">davor</field>
+<field name="word">gedrückt</field>
+<field name="word">seit</field>
+<field name="word">projekt</field>
+<field name="word">unbestritten</field>
+<field name="word">wachsender</field>
+<field name="word">verbessern</field>
+<field name="word">trotz</field>
+<field name="word">bisherige</field>
+<field name="word">stadt</field>
+<field name="word">fahrgastzahlen</field>
+<field name="word">wieder</field>
+<field name="word">unnütze</field>
+<field name="word">spnv</field>
+<field name="word">verbindungen</field>
+<field name="word">trassenplanungen</field>
+<field name="word">allem</field>
+<field name="word">friedrichshain</field>
+<field name="word">vorgesehen</field>
+<field name="word">verbesserung</field>
+<field name="word">hermannplatz</field>
+<field name="word">varianten</field>
+<field name="word">beide</field>
+<field name="word">planfeststellungsverfahren</field>
+<field name="word">verbindung</field>
+<field name="word">thielenbrücke</field>
+<field name="word">bahnhof</field>
+<field name="word">waren</field>
+<field name="word">neukölln</field>
+<field name="word">erfolgt</field>
+<field name="word">mieten</field>
+<field name="word">trassenführung</field>
+<field name="word">verkehr</field>
+<field name="word">gefordert</field>
+<field name="word">erhebliche</field>
+<field name="word">genommen</field>
+<field name="word">öpnv</field>
+<field name="word">oberbaumbaumbrücke</field>
+<field name="word">verlängerung</field>
+<field name="word">vorlage</field>
+<field name="word">planungen</field>
+<field name="word">verbesserungen</field>
+<field name="word">stetig</field>
+<field name="word">unverzüglich</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, die bereits vor Jahren weit fortgeschrittenen Planungen zur Verlängerung der Straßenbahn-Metro-Linie M10 vom S & U-Bahnhof Warschauer Straße bis zum Hermannplatz unverzüglich wieder aufzunehmen und entsprechende Signale an das Abgeordnetenhaus von Berlin zu vermitteln.
+Die Steckenverlängerung der M10 soll priorisiert werden und noch im Nahverkehrsplan 2014-2018, der im Sommer 2013 beschlossen werden soll, aufgenommen werden.
+ 
+(Bisherige Planungen hatten das Projekt auf die Zeit nach 2020 verschoben.)
+ 
+Es gibt bereits Trassenplanungen, eine Strecke führt über die Falckensteinstraße, die andere umgeht das Nadelöhr und macht eine Schleife am Lausitzer Platz.
+Beide Varianten sind zu überprüfen, danach soll unverzüglich ein Planfeststellungsverfahren beginnen.
+Die Rentabilität der Strecke und die Verbesserung für die Fahrgäste (Entzerrung von Umsteigeverbindungen, schnellere Verbindungen) ist unbestritten, auch andere Parteien hatten in früheren Jahren diese Verbindung bereits geplant bzw,. gefordert (SPD unter Strieder, Grüne).
+ 
+Trassenführung 1
+Oberbaumbrücke Falckensteinstraße Querung Görliter Park Glogauer Straße Querung Landwehrkanal (Thielenbrücke) Pannierstraße Sonnenallee Hermannplatz (Zweirichtungsfahrzeige)
+ 
+1a Hasenheide, dort an geeigneter stelle Kehrschleife für Einrichtungsfahrzeuge
+ 
+Trassenführung 2
+Oberbaumbrücke Schlesisches Tor Skalitzer Straße Lausitzer Platz Spreewaldplatz Wiener Strasse Glogauer Straße (Thielenbrücke) Pannierstraße Sonnenallee Hermannplatz (Zweirichtungsfahrzeige)
+ 
+2a Hasenheide, dort an geeigneter stelle Kehrschleife für Einrichtungsfahrzeuge
+ 
+Begründung:
+ 
+Waren nach der Wende bereits viele sinnvolle Verbesserungen im SPNV zur Strukturverbesserung des ÖPNV in Berlin vorgesehen, hat sich der Senat trotz der seit Jahren stetig wachsender Einwohnerzahlen und vor allem stetig wachsender Fahrgastzahlen, besonders bei der BVG, davor gedrückt, das Angebot für die Bürger vor allem zwischen Neukölln, Kreuzberg, Friedrichshain und Treptow zu verbessern.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: Ausschuss für Stadtentwicklung, Soziale Stadt und Quartiermanagement, Mieten, Ausschuss für Umwelt, Klimaschutz, Verkehr und Immobilien ff.
+ 
+05.03
+.2013
+ 
+Ersetzungsantrag 
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, sich bei den entsprechenden Senatsstellen dafür einzusetzen, die bereits vor Jahren weit fortgeschrittenen Planungen zur Verlängerung der Straßenbahn-Metro-Linie M10 vom S & U-Bahnhof Warschauer Straße bis zum Hermannplatz unverzüglich wieder aufzunehmen.
+Die Steckenverlängerung der M10 soll priorisiert werden und noch in den Nahverkehrsplan 2014-2018, der im Sommer 2013 beschlossen werden soll, aufgenommen werden (Bisherige Planungen hatten das Projekt auf die Zeit nach 2020 verschoben).
+ 
+Der BVV ist bis zur Mai-BVV zu berichten.
+ 
+Begründung:
+ 
+Waren nach der Wende bereits viele sinnvolle Verbesserungen im SPNV zur Strukturverbesserung des ÖPNV in Berlin vorgesehen, hat sich der Senat trotz der seit Jahren stetig wachsender Einwohnerzahlen und vor allem stetig wachsender Fahrgastzahlen, besonders bei der BVG, davor gedrückt, das Angebot für die Bürger vor allem zwischen Neukölln, Kreuzberg, Friedrichshain und Treptow zu verbessern.
+ 
+Erhebliche Vorleistungen wie zum Beispiel die Brückenverstärkung und Gleisverlegung auf der Oberbaumbaumbrücke sind bereits erfolgt. Diese Vor-Investitionen sollten nicht länger eine unnütze Ausgabe bleiben.
+ 
+ 
+UVKI 
+06.03.2013
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, sich bei den entsprechenden Senatsstellen dafür einzusetzen, die bereits vor Jahren weit fortgeschrittenen Planungen zur Verlängerung der Straßenbahn-Metro-Linie M10 vom S & U-Bahnhof Warschauer Straße bis zum Hermannplatz unverzüglich wieder aufzunehmen.
+Die Steckenverlängerung der M10 soll priorisiert werden und noch in den Nahverkehrsplan 2014-2018, der im Sommer 2013 beschlossen werden soll, aufgenommen werden (Bisherige Planungen hatten das Projekt auf die Zeit nach 2020 verschoben).
+ 
+Der BVV ist bis zur Mai-BVV zu berichten.
+ 
+ 
+BVV 
+20.03.2013
+ 
+Die Bezirksverordnetenversammlung beschließ
+t
+:
+ 
+Das Bezirksamt wird beauftragt, sich bei den entsprechenden Senatsstellen dafür einzusetzen, die bereits vor Jahren weit fortgeschrittenen Planungen zur Verlängerung der Straßenbahn-Metro-Linie M10 vom S & U-Bahnhof Warschauer Straße bis zum Hermannplatz unverzüglich wieder aufzunehmen.
+Die Steckenverlängerung der M10 soll priorisiert werden und noch in den Nahverkehrsplan 2014-2018, der im Sommer 2013 beschlossen werden soll, aufgenommen werden (Bisherige Planungen hatten das Projekt auf die Zeit nach 2020 verschoben).
+ 
+Der BVV ist bis zur Mai-BVV zu berichten.
+ 
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+BVV 
+18.09.2013
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
+Überweisung:
+ Ausschuss für Umwelt, Klimaschutz, Verkehr und Immobilien.
+ 
+ 
+UVKI 
+09.10.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5326&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">5270</field>  
+  <field name="parteien">1</field>  
+</doc></add>

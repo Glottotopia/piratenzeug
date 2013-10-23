@@ -1,0 +1,63 @@
+<add><doc>
+  <field name="id">NK_0131/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Erhalt der Schulstationen</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">möglichkeit</field>
+<field name="word">miteinander</field>
+<field name="word">beschließen</field>
+<field name="word">vorbehalt</field>
+<field name="word">würde</field>
+<field name="word">ionen</field>
+<field name="word">treffen</field>
+<field name="word">schulstat</field>
+<field name="word">eltern</field>
+<field name="word">kinder</field>
+<field name="word">integration</field>
+<field name="word">ellte</field>
+<field name="word">ganz</field>
+<field name="word">besonders</field>
+<field name="word">neukölln</field>
+<field name="word">migrationshintergrund</field>
+<field name="word">möge</field>
+<field name="word">beitrag</field>
+<field name="word">jeden</field>
+<field name="word">friedlichen</field>
+<field name="word">schulstationen</field>
+<field name="word">elementaren</field>
+<field name="word">umfang</field>
+<field name="word">fall</field>
+<field name="word">begründung</field>
+<field name="word">auszubauen</field>
+<field name="word">leisten</field>
+<field name="word">derzeit</field>
+<field name="word">finanzierung</field>
+<field name="word">jetzigen</field>
+<field name="word">gest</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+ 
+Das Bezirksamt 
+wird 
+aufgefordert
+,
+ alle Schulstationen im jetzigen Umfang auf jeden Fall zu erhalten
+ 
+und nach Möglichkeit auszubauen.
+ 
+ 
+Begründung: 
+Die derzeit unter Vorbehalt gest
+ellte Finanzierung der Schulstat
+ionen würde ganz besonders Kinder und Eltern mit Migrationshintergrund treffen. Die Schulstationen leisten einen elementaren Beitrag zur Integration und zum friedlichen Miteinander in Neukölln.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3754&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">473</field>  
+  <field name="parteien">3</field>  
+</doc></add>

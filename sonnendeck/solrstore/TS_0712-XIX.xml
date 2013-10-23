@@ -1,0 +1,301 @@
+<add><doc>
+  <field name="id">TS_0712/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Online-Abstimmungstool für mehr Bürgerbeteiligung</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">andere</field>
+<field name="word">angezeigt</field>
+<field name="word">formen</field>
+<field name="word">partizipation</field>
+<field name="word">ndiges</field>
+<field name="word">glichkeiten</field>
+<field name="word">mechanismen</field>
+<field name="word">spezifischeren</field>
+<field name="word">exklusive</field>
+<field name="word">macht</field>
+<field name="word">zeitversetzte</field>
+<field name="word">bringen</field>
+<field name="word">ndung</field>
+<field name="word">rgerhaushalt</field>
+<field name="word">aspe</field>
+<field name="word">gastteilnehmer</field>
+<field name="word">mitgliedern</field>
+<field name="word">erifizierung</field>
+<field name="word">rigen</field>
+<field name="word">themenbereiche</field>
+<field name="word">dazugehö</field>
+<field name="word">source</field>
+<field name="word">diskussion</field>
+<field name="word">unterstü</field>
+<field name="word">fundierten</field>
+<field name="word">hinzurechenbar</field>
+<field name="word">petition</field>
+<field name="word">ausgelotet</field>
+<field name="word">einzelnen</field>
+<field name="word">meinungsbild</field>
+<field name="word">elektronischen</field>
+<field name="word">rgerforen</field>
+<field name="word">umfasst</field>
+<field name="word">online</field>
+<field name="word">regelmäß</field>
+<field name="word">inklusive</field>
+<field name="word">stadttei</field>
+<field name="word">ckruf</field>
+<field name="word">unten</field>
+<field name="word">abstimmt</field>
+<field name="word">bezirken</field>
+<field name="word">entscheidungen</field>
+<field name="word">zulassen</field>
+<field name="word">bezvg</field>
+<field name="word">geschaffen</field>
+<field name="word">laufenden</field>
+<field name="word">erlauben</field>
+<field name="word">status</field>
+<field name="word">themenbereichen</field>
+<field name="word">seite</field>
+<field name="word">anstehende</field>
+<field name="word">delegation</field>
+<field name="word">stadtteilbezug</field>
+<field name="word">peter</field>
+<field name="word">solchen</field>
+<field name="word">regionalmerkmale</field>
+<field name="word">partizipative</field>
+<field name="word">kiez</field>
+<field name="word">aufgezeigt</field>
+<field name="word">stool</field>
+<field name="word">informiert</field>
+<field name="word">hinaus</field>
+<field name="word">nnen</field>
+<field name="word">gegenwä</field>
+<field name="word">kommunikationswegen</field>
+<field name="word">internet</field>
+<field name="word">offline</field>
+<field name="word">hnten</field>
+<field name="word">erwä</field>
+<field name="word">menschen</field>
+<field name="word">rangfolge</field>
+<field name="word">workflow</field>
+<field name="word">entgegen</field>
+<field name="word">finden</field>
+<field name="word">prozess</field>
+<field name="word">wahlamt</field>
+<field name="word">automatisiertes</field>
+<field name="word">abstimmungen</field>
+<field name="word">formular</field>
+<field name="word">gesamtheitlicher</field>
+<field name="word">verbindliche</field>
+<field name="word">tzerzahl</field>
+<field name="word">plus</field>
+<field name="word">rtige</field>
+<field name="word">schulungsmö</field>
+<field name="word">rgeramt</field>
+<field name="word">delegationsempfä</field>
+<field name="word">navigation</field>
+<field name="word">einwohnerversammlung</field>
+<field name="word">software</field>
+<field name="word">anträ</field>
+<field name="word">ndetem</field>
+<field name="word">aber</field>
+<field name="word">auseinandersetzung</field>
+<field name="word">geschaltetes</field>
+<field name="word">personalausweis</field>
+<field name="word">schließ</field>
+<field name="word">entscheidungsfindung</field>
+<field name="word">postversion</field>
+<field name="word">auflistung</field>
+<field name="word">open</field>
+<field name="word">begrenzt</field>
+<field name="word">welches</field>
+<field name="word">delegationen</field>
+<field name="word">einsteigerfreundliche</field>
+<field name="word">standes</field>
+<field name="word">ckgenommen</field>
+<field name="word">vorlage</field>
+<field name="word">teilnehmen</field>
+<field name="word">https</field>
+<field name="word">igen</field>
+<field name="word">umsetzbar</field>
+<field name="word">beispiel</field>
+<field name="word">sondern</field>
+<field name="word">welchen</field>
+<field name="word">permanente</field>
+<field name="word">gewertet</field>
+<field name="word">rahmenbedingungen</field>
+<field name="word">antragsdiskussionsw</field>
+<field name="word">hierfü</field>
+<field name="word">abstimmung</field>
+<field name="word">nger</field>
+<field name="word">lich</field>
+<field name="word">sozusagen</field>
+<field name="word">dementsprechend</field>
+<field name="word">einwohnerantrags</field>
+<field name="word">spezifikationen</field>
+<field name="word">weiteren</field>
+<field name="word">andr</field>
+<field name="word">darstellen</field>
+<field name="word">aufstellungen</field>
+<field name="word">rechtlichen</field>
+<field name="word">abstimmungstool</field>
+<field name="word">erwartungen</field>
+<field name="word">interesse</field>
+<field name="word">zurü</field>
+<field name="word">unterschriftenquorum</field>
+<field name="word">mitglieder</field>
+<field name="word">entwerfen</field>
+<field name="word">bedarf</field>
+<field name="word">vorstellbar</field>
+<field name="word">gutes</field>
+<field name="word">pseudonymisiert</field>
+<field name="word">benachrichtigungssystem</field>
+<field name="word">folgenden</field>
+<field name="word">rgerbeteiligung</field>
+<field name="word">ruecktritt</field>
+<field name="word">beteiligung</field>
+<field name="word">tuellen</field>
+<field name="word">deutlich</field>
+<field name="word">begrü</field>
+<field name="word">argumente</field>
+<field name="word">politischen</field>
+<field name="word">parallel</field>
+<field name="word">zeithorizont</field>
+<field name="word">openpetition</field>
+<field name="word">analogen</field>
+<field name="word">debatte</field>
+<field name="word">weiterentwicklung</field>
+<field name="word">beschliessen</field>
+<field name="word">geeignete</field>
+<field name="word">digitalen</field>
+<field name="word">bereichen</field>
+  <field name="text_de"> 
+ 
+Die BVV mö
+ge beschliessen:
+ 
+Das Bezirksamt mö
+ge prü
+fen, ob und in welchen Formen der Bü
+rgerbeteiligung (insbesondere aber nicht begrenzt auf: Stadttei
+l-Bü
+rgerforen, Bü
+rgerhaushalt etc.) ein Online-Abstimmungstool mit folgenden Spezifikationen ein- und umsetzbar ist:
+?
+         
+open-source fü
+r partizipative Weiterentwicklung;
+?
+         
+verbindliche Abstimmungen fü
+r ein Plus an Beteiligung;
+?
+         
+Regionalmerkmale fü
+r Abstimmungen m
+it Kiez-/Stadtteilbezug;
+?
+         
+Zulassen von 
+Gastteilnehmer
+ aus anderen Bezirken bei begrü
+ndetem Interesse;
+?
+         
+Delegationen, zeitversetzte Abstimmungen und 
+Rü
+ckruf
+, so dass eine 
+Delegation
+ zurü
+ckgenommen werden kann, wenn der Delegationsempfä
+nger entgegen der 
+Erwartungen abstimmt;
+?
+         
+automatisiertes Benachrichtigungssystem, welches ü
+ber anstehende Abstimmungen informiert;
+?
+         
+einsteigerfreundliche Navigation durch Themenbereiche;
+?
+         
+ein stä
+ndiges Meinungsbild, die permanente Einwohnerversammlung sozusagen per Internet;
+?
+         
+V
+erifizierung von Mitgliedern ü
+ber das Bü
+rgeramt, Wahlamt oder den elektronischen Personalausweis, so dass die Mitglieder auch pseudonymisiert teilnehmen kö
+nnen.
+              
+              
+              
+              
+Seite: 
+2
+/
+2
+ 
+Das Bezirksamt mö
+ge des Weiteren prü
+fen, ob eine Beteiligung an einem solchen Online-Abstimmung
+stool (inklusive / exklusive Delegationen) zu dem Unterschriftenquorum eines Einwohnerantrags nach §
+44BezVG hinzurechenbar ist, und / oder ob andere Mechanismen vorstellbar sind, die es erlauben Entscheidungen des Online-Abstimmungstool zur Vorlage in der
+ 
+BVV zu bringen.
+ 
+Das Bezirksamt mö
+ge den / die dazugehö
+rigen Workflow(s) darstellen, um Schulungsmö
+glichkeiten sowie eine Postversion fü
+r 
+offline-Menschen
+ mit regelmäß
+igen Aufstellungen von Abstimmungen in den einzelnen Themenbereichen, Auflistung des ak
+tuellen Standes der laufenden Anträ
+ge mit Status, Unterstü
+tzerzahl, Formular fü
+r Anträ
+ge und Delegationen (Auflistung der Mitglieder in den einzelnen Bereichen) zu entwerfen.
+ 
+Begrü
+ndung:
+ 
+Die gegenwä
+rtige Diskussion um Bü
+rgerforen und Bü
+rgerhaushalt macht
+ deutlich, dass es einer spezifischeren Auseinandersetzung nicht nur mit den digitalen und analogen Kommunikationswegen bedarf, sondern auch der e-Partizipation.
+ 
+Mit der fundierten Auseinandersetzung mit diesem Abstimmungstool soll ü
+ber die erwä
+hnten Aspe
+kte hinaus, die rechtlichen Rahmenbedingungen ausgelotet und ein Zeithorizont aufgezeigt werden.
+ 
+Schließ
+lich soll ein gesamtheitlicher Prozess der (politischen) Entscheidungsfindung geschaffen werden, der auch ein parallel geschaltetes Antragsdiskussionsw
+iki oder andere geeignete Software umfasst. Ein gutes Beispiel hierfü
+r ist zu finden unter 
+https://www.openpetition.de/petition/online/ruecktritt-von-peter-andr-alt
+ (
+unten bei 
+Debatte zur Petition
+, wo die Argumente gewertet  werden kö
+nnen und dementsprechend in einer Rangfolge angezeigt werden)
+ 
+ 
+              
+              
+              
+              
+Seite: 
+2
+/
+2</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4508&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">3086</field>  
+  <field name="parteien">1</field>  
+</doc></add>

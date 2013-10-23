@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">Pa_VII-0005</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Ältestenrat</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">gemäß</field>
+<field name="word">grünen</field>
+<field name="word">mitgliedern</field>
+<field name="word">linksfraktion</field>
+<field name="word">absatz</field>
+<field name="word">mitglieder</field>
+<field name="word">ältestenrat</field>
+<field name="word">vorläufigen</field>
+<field name="word">piraten</field>
+<field name="word">bündnis</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">gebildet</field>
+<field name="word">davon</field>
+  <field name="text_de">Der Ältestenrat wird gemäß der vorläufigen Geschäftsordnung der BVV,
+§ 15 Absatz 1 aus 9 Mitgliedern gebildet. Davon sind 
+ 
+ 
+3
+Mitglieder der Fraktion der SPD
+2
+Mitglieder der Fraktion Bündnis 90 / Die Grünen
+2
+Mitglieder der Linksfraktion
+1
+Mitglieder der Fraktion der CDU
+1
+Mitglieder der Fraktion der Piraten
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3084&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">317</field>  
+  <field name="parteien">5</field>  
+</doc></add>

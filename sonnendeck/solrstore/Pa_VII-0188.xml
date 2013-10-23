@@ -1,0 +1,38 @@
+<add><doc>
+  <field name="id">Pa_VII-0188</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_§_13_BezVG_/SB</field>  
+  <field name="titel">Nachvollziehbarkeit der Bezirksamtsbeschlüsse</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">internetseite</field>
+<field name="word">nein</field>
+<field name="word">abstimmungsergebnis</field>
+<field name="word">bürgerdienste</field>
+<field name="word">wohnen</field>
+<field name="word">bezirksamtsbeschlüsse</field>
+<field name="word">veröffentlichen</field>
+<field name="word">beraten</field>
+<field name="word">bezirksamtes</field>
+<field name="word">grundsätzlich</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">unverzüglich</field>
+<field name="word">seiner</field>
+<field name="word">enthaltungen</field>
+  <field name="text_de">Der Ausschuss für Bürgerbeteiligung, Bürgerdienste, Wohnen und GO hat die Drucksache auf seiner Sitzung am 
+13.09.2012
+ beraten.
+ 
+Abstimmungsergebnis Ausschuss für
+Bürgerbeteiligung, Bürgerdienste, Wohnen und GO:
+ 
+JA 8  /  NEIN 0  /  ENTHALTUNGEN 4
+ 
+ 
+Das Bezirksamt wird ersucht, Bezirksamtsbeschlüsse grundsätzlich auf der Internetseite des Bezirksamtes unverzüglich zu veröffentlichen.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3267&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">391</field>  
+  <field name="parteien">1</field>  
+</doc></add>

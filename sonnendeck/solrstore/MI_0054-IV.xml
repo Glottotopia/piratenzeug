@@ -1,0 +1,55 @@
+<add><doc>
+  <field name="id">MI_0054/IV</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Extremismusklausel</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">andere</field>
+<field name="word">verpflichten</field>
+<field name="word">vorzuschlagen</field>
+<field name="word">freien</field>
+<field name="word">fragestellung</field>
+<field name="word">neben</field>
+<field name="word">handwerksbetriebe</field>
+<field name="word">bewertet</field>
+<field name="word">einführen</field>
+<field name="word">rechtsamt</field>
+<field name="word">bitte</field>
+<field name="word">begründen</field>
+<field name="word">senat</field>
+<field name="word">welcher</field>
+<field name="word">klausel</field>
+<field name="word">geplant</field>
+<field name="word">auftragnehmer</field>
+<field name="word">ausformulierungen</field>
+<field name="word">müssen</field>
+<field name="word">leistung</field>
+<field name="word">fragen</field>
+<field name="word">trägern</field>
+<field name="word">wortwahl</field>
+<field name="word">ausgestaltung</field>
+<field name="word">bezirklichen</field>
+<field name="word">beauftragen</field>
+<field name="word">erbringen</field>
+<field name="word">extremismusklausel</field>
+<field name="word">will</field>
+<field name="word">solche</field>
+<field name="word">jedwede</field>
+  <field name="text_de">Wi
+r fragen das Bezirksamt:
+ 
+1) Mit welcher Fragestellung hat das Bezirksamt oder will das Bezirksamt das Rechtsamt beauftragen, die Ausgestaltung einer bezirklichen Extremismusklausel vorzuschlagen?
+Ausformulierungen und Wortwahl bitte begründen.
+ 
+2) Ist es auch geplant, dass sich neben freien Trägern auch jedwede andere Auftragnehmer die für das Bezirksamt Leistung erbringen zu dieser Klausel verpflichten müssen (z.B. Handwerksbetriebe)?
+ 
+3) Wie bewertet das Bezirksamt, dass der Senat von Berlin keine solche Klausel einführen wird?
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4690&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">546</field>  
+  <field name="parteien">1</field>  
+</doc></add>

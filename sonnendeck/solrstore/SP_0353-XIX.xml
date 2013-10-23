@@ -1,0 +1,17 @@
+<add><doc>
+  <field name="id">SP_0353/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bürgerversammlung zur Vermittlung der Problemlage um die Bürgerämter</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">anzusehen</field>
+<field name="word">tätigwerden</field>
+<field name="word">bezirksamtes</field>
+  <field name="text_de">Der Antrag ist durch Tätigwerden des Bezirksamtes als erledigt anzusehen.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6957&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">73</field>  
+  <field name="parteien">1</field>  
+</doc></add>

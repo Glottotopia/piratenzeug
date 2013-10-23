@@ -1,0 +1,35 @@
+<add><doc>
+  <field name="id">MH_0523/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Änderung der Geschäftsordnung § 28 Absatz 4</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">schriftlich</field>
+<field name="word">mündlichen</field>
+<field name="word">anfragen</field>
+<field name="word">beantwortet</field>
+<field name="word">beschließen</field>
+<field name="word">absatz</field>
+<field name="word">mündliche</field>
+<field name="word">innerhalb</field>
+<field name="word">werktagen</field>
+<field name="word">können</field>
+<field name="word">zehn</field>
+<field name="word">folgt</field>
+<field name="word">nachfragen</field>
+<field name="word">ändern</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">beantworten</field>
+<field name="word">möge</field>
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Den § 28 Absatz 4 der Geschäftsordnung der BVV wie folgt zu ändern:
+"(4) Alle Mündlichen Anfragen, sowie Nachfragen und Mündliche Anfragen, die nicht beantwortet werden können, sind innerhalb von zehn Werktagen schriftlich zu beantworten."
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4805&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">269</field>  
+  <field name="parteien">1</field>  
+</doc></add>

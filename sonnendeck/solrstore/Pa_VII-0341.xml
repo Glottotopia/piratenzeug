@@ -1,0 +1,60 @@
+<add><doc>
+  <field name="id">Pa_VII-0341</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Veröffentlichung von Kontaktdaten des Jobcenters Pankow</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">pankow</field>
+<field name="word">veränderungen</field>
+<field name="word">aller</field>
+<field name="word">telefonische</field>
+<field name="word">tägliche</field>
+<field name="word">mailadressen</field>
+<field name="word">setzt</field>
+<field name="word">trägerversammlung</field>
+<field name="word">veröffentlicht</field>
+<field name="word">sprechzeiten</field>
+<field name="word">abteilungsleiter</field>
+<field name="word">innen</field>
+<field name="word">geschäftlichen</field>
+<field name="word">vorgenannten</field>
+<field name="word">senat</field>
+<field name="word">internetseite</field>
+<field name="word">festlegen</field>
+<field name="word">gruppen</field>
+<field name="word">internetseiten</field>
+<field name="word">beim</field>
+<field name="word">dafür</field>
+<field name="word">sachbearbeiter</field>
+<field name="word">kundenbetreuung</field>
+<field name="word">nachfolgende</field>
+<field name="word">jobcenters</field>
+<field name="word">telefondurchwahlen</field>
+<field name="word">jobcenter</field>
+<field name="word">aktualisieren</field>
+<field name="word">abteilungen</field>
+<field name="word">nachnamen</field>
+<field name="word">unverzüglich</field>
+<field name="word">daten</field>
+  <field name="text_de">Das Bezirksamt setzt sich in der Trägerversammlung des JobCenters und beim Senat von Berlin dafür ein, dass nachfolgende Daten auf den Internetseiten des Jobcenters Pankow veröffentlicht werden.
+ 
+1.
+       
+Die Nachnamen, geschäftlichen Telefondurchwahlen und geschäftlichen Mailadressen der Gruppen- bzw. Abteilungsleiter*Innen der Abteilungen des Jobcenters. Das Jobcenter kann tägliche Sprechzeiten für die telefonische Kundenbetreuung festlegen.
+ 
+ 
+2.
+       
+Die geschäftlichen Mailadressen aller Sachbearbeiter des Jobcenters.
+ 
+3.
+       
+Die vorgenannten Daten sind bei Veränderungen unverzüglich auf der Internetseite des JobCenters zu aktualisieren.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3425&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">663</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,33 @@
+<add><doc>
+  <field name="id">FK_DS/0045-95/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Wahl einer stellv. Bürgerdeputierten</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gewählt</field>
+<field name="word">hampf</field>
+<field name="word">stellv</field>
+<field name="word">beschließen</field>
+<field name="word">eingaben</field>
+<field name="word">frau</field>
+<field name="word">beschwerden</field>
+<field name="word">beschließt</field>
+<field name="word">bürgerdeputierten</field>
+<field name="word">barbara</field>
+<field name="word">möge</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+ 
+Frau Barbara Hampf wird zur stellv. Bürgerdeputierten in den Ausschuss für Eingaben und Beschwerden gewählt.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Frau Barbara Hampf wird zur stellv. Bürgerdeputierten in den Ausschuss für Eingaben und Beschwerden gewählt.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5248&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">325</field>  
+  <field name="parteien">1</field>  
+</doc></add>

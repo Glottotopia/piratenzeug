@@ -1,0 +1,32 @@
+<add><doc>
+  <field name="id">SP_0270/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Ausweisung der Kosten von Vorgängen im Bezirksamt</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">auszuweisen</field>
+<field name="word">geeigneten</field>
+<field name="word">anfragen</field>
+<field name="word">bearbeitungskosten</field>
+<field name="word">worden</field>
+<field name="word">ausgaben</field>
+<field name="word">tätigkeiten</field>
+<field name="word">inklusive</field>
+<field name="word">haushaltspositionen</field>
+<field name="word">umsetzung</field>
+<field name="word">zwischenberichten</field>
+<field name="word">entstandenen</field>
+<field name="word">weiteren</field>
+<field name="word">allen</field>
+<field name="word">aufwendungen</field>
+<field name="word">getätigt</field>
+<field name="word">schlussberichten</field>
+<field name="word">schriftlichen</field>
+  <field name="text_de">Das Bezirksamt wird ersucht, bei schriftlichen Anfragen, bei Schlussberichten sowie - wenn Ausgaben bereits getätigt worden sind - bei Zwischenberichten und allen weiteren geeigneten Tätigkeiten für die BVV, die für die Umsetzung entstandenen Aufwendungen mit Haushaltspositionen inklusive der Bearbeitungskosten auszuweisen.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6874&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">325</field>  
+  <field name="parteien">1</field>  
+</doc></add>

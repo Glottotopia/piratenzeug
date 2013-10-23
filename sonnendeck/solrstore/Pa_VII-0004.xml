@@ -1,0 +1,58 @@
+<add><doc>
+  <field name="id">Pa_VII-0004</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Wahl der Beisitzerinen /Beisitzer</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">pankow</field>
+<field name="word">bielefeldt</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">gewählt</field>
+<field name="word">christiane</field>
+<field name="word">stefan</field>
+<field name="word">stephan</field>
+<field name="word">beisitzer</field>
+<field name="word">grüne</field>
+<field name="word">linksfraktion</field>
+<field name="word">sabek</field>
+<field name="word">axel</field>
+<field name="word">piratenfraktion</field>
+<field name="word">bezirksverordneter</field>
+<field name="word">heydenreich</field>
+<field name="word">bündnis</field>
+<field name="word">vorstand</field>
+<field name="word">blauert</field>
+<field name="word">verbücheln</field>
+<field name="word">yasser</field>
+  <field name="text_de">In den Vorstand der BVV Pankow von Berlin werden als Beisitzer gewählt:
+ 
+Bezirksverordneter Yasser Sabek
+              
+              
+Fraktion der SPD
+Bezirksverordnete Christiane Heydenreich
+              
+Fraktion Bündnis 90/ Grüne
+Bezirksverordneter Dr. Axel Bielefeldt
+              
+              
+Linksfraktion
+Bezirksverordneter Stefan Blauert
+              
+              
+Fraktion der CDU
+Bezirksverordneter Stephan Verbücheln
+              
+Piratenfraktion
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3083&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">470</field>  
+  <field name="parteien">5</field>  
+</doc></add>

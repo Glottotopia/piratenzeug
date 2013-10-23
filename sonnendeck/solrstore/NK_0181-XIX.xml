@@ -1,0 +1,74 @@
+<add><doc>
+  <field name="id">NK_0181/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Informationsveranstaltung über Rechtsextremismus</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">wochen</field>
+<field name="word">verschickt</field>
+<field name="word">zwickauer</field>
+<field name="word">fachleuten</field>
+<field name="word">beschließen</field>
+<field name="word">vergangenen</field>
+<field name="word">vereine</field>
+<field name="word">morddrohungen</field>
+<field name="word">zuwanderern</field>
+<field name="word">institutionen</field>
+<field name="word">anders</field>
+<field name="word">ängste</field>
+<field name="word">mehrere</field>
+<field name="word">rechtsextremistische</field>
+<field name="word">sehr</field>
+<field name="word">durchzuführen</field>
+<field name="word">drohbriefe</field>
+<field name="word">saal</field>
+<field name="word">reichsbewegung</field>
+<field name="word">thema</field>
+<field name="word">neukölln</field>
+<field name="word">informationsveranstaltung</field>
+<field name="word">polizei</field>
+<field name="word">enthalten</field>
+<field name="word">zeiten</field>
+<field name="word">nimmt</field>
+<field name="word">begründung</field>
+<field name="word">betroffenen</field>
+<field name="word">neonazi</field>
+<field name="word">zeigen</field>
+<field name="word">konkrete</field>
+<field name="word">gewissen</field>
+<field name="word">bedrohungen</field>
+<field name="word">breivik</field>
+<field name="word">möge</field>
+<field name="word">zeitnah</field>
+<field name="word">ernst</field>
+<field name="word">problemat</field>
+<field name="word">trio</field>
+<field name="word">zweiten</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, zeitnah im BVV
+ 
+-
+ 
+Saal eine Informationsveranstaltung mit Fachleuten, den Betroffenen und der Polizei zum Thema "Rechtsextremistische Bedrohungen in Berlin
+ 
+-
+ 
+Neukölln" durchzuführen.
+ 
+Begründung:
+Bereits zum zweiten Mal wurden in den vergangenen Wochen Drohbriefe, die auch konkrete Morddrohungen enthalten, von einer gewissen "Reichsbewegung" an mehrere Vereine und Institutionen von Zuwanderern in Neukölln verschickt. In Zeiten von Anders Breivik und dem Zwickauer Neonazi-Trio muss das Bezirksamt zeigen, dass es die Problemat
+ik 
+wie 
+auch die Ängste der Betroffenen
+ sehr ernst nimmt.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3804&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">686</field>  
+  <field name="parteien">3</field>  
+</doc></add>

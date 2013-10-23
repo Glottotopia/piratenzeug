@@ -1,0 +1,62 @@
+<add><doc>
+  <field name="id">RD_0264/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Rent-A-Bike in Reinickendorf</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschlie</field>
+<field name="word">rent</field>
+<field name="word">empfohlen</field>
+<field name="word">bezirksverordnetenvorsteher</field>
+<field name="word">reinickendorf</field>
+<field name="word">system</field>
+<field name="word">bike</field>
+<field name="word">hinrich</field>
+<field name="word">lühmann</field>
+<field name="word">anderem</field>
+<field name="word">geeigneten</field>
+<field name="word">zirksweit</field>
+<field name="word">dafür</field>
+<field name="word">bezirksverordnet</field>
+<field name="word">sachverhalt</field>
+<field name="word">promenade</field>
+<field name="word">eigneten</field>
+<field name="word">testen</field>
+<field name="word">wittenau</field>
+<field name="word">tegel</field>
+<field name="word">enversammlung</field>
+<field name="word">etablieren</field>
+<field name="word">firmen</field>
+<field name="word">gegenüber</field>
+<field name="word">einickendorf</field>
+  <field name="text_de">Sachverhalt:
+ 
+Die
+ Bezirksverordnet
+enversammlung R
+einickendorf von Berlin beschlie
+ßt:
+ 
+Dem Bezirksamt wird empfohlen, sich gegenüber geeigneten Firmen dafür einzusetzen, b
+e
+zirksweit an g
+e
+eigneten Stellen (unter anderem z. B.: Tegel, Promenade, Wittenau) ein Rent-a-Bike System in Reinickendorf zu testen und ggf. zu etablieren.
+ 
+ 
+ 
+Berlin, den 
+13.02
+.2013
+ 
+ 
+ 
+_________________________________________
+Dr. Hinrich Lühmann (Bezirksverordnetenvorsteher)</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3385&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">465</field>  
+  <field name="parteien">1</field>  
+</doc></add>

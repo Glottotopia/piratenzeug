@@ -1,0 +1,87 @@
+<add><doc>
+  <field name="id">NK_0468/XIX</field>  
+  <field name="typ">Beschlussempfehlung_-_2._Lesung</field>  
+  <field name="titel">Open Data für Neukölln</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field> 
+  <field name="word">interesse</field>
+<field name="word">fassung</field>
+<field name="word">strategie</field>
+<field name="word">verwaltung</field>
+<field name="word">hohem</field>
+<field name="word">blehnung</field>
+<field name="word">dienen</field>
+<field name="word">datens</field>
+<field name="word">open</field>
+<field name="word">nahmen</field>
+<field name="word">ssigen</field>
+<field name="word">gleichstellung</field>
+<field name="word">ffentlichung</field>
+<field name="word">erstatten</field>
+<field name="word">bereitgestellt</field>
+<field name="word">richtschnur</field>
+<field name="word">welchen</field>
+<field name="word">ffentlichen</field>
+<field name="word">antrages</field>
+<field name="word">potentiell</field>
+<field name="word">rechtlich</field>
+<field name="word">portal</field>
+<field name="word">empfiehlt</field>
+<field name="word">ausgew</field>
+<field name="word">bevorzugt</field>
+<field name="word">data</field>
+<field name="word">beteiligen</field>
+<field name="word">erste</field>
+<field name="word">gender</field>
+<field name="word">sollten</field>
+<field name="word">bericht</field>
+<field name="word">agenda</field>
+<field name="word">hierbei</field>
+<field name="word">bezirksverwaltung</field>
+<field name="word">beginn</field>
+<field name="word">geeignete</field>
+<field name="word">daten</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
+A
+blehnung
+ des Antrages in fo
+l
+gender Fassung:
+ 
+Das Bezirksamt wird beauftragt zu pr
+ü
+fen, mit welchen Ma
+ß
+nahmen es sich im rechtlich zul
+ä
+ssigen Rahmen an der Open Data Strategie Berlin beteiligen kann. Dabei sollten insbesondere erste, f
+ü
+r die Ver
+ö
+ffentlichung auf dem Open Data Portal (daten.berlin.de) geeignete Datens
+ä
+tze der Bezirksverwaltung ausgew
+ä
+hlt und f
+ü
+r das Portal bereitgestellt werden. Bevorzugt sollen hier zu Beginn Datens
+ä
+tze mit potentiell hohem 
+ö
+ffentlichen Interesse ausgew
+ä
+hlt werden. Hierbei soll die Berliner Open Data Agenda als Richtschnur dienen. [1] 
+ 
+Dem Ausschuss f
+ü
+r Verwaltung und Gleichstellung ist Bericht zu erstatten.
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4091&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">747</field>  
+  <field name="parteien">2</field>  
+</doc></add>

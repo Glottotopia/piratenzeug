@@ -1,0 +1,28 @@
+<add><doc>
+  <field name="id">TS_0339/XIX</field>  
+  <field name="typ">Mitteilung_zur_Kenntnisnahme</field>  
+  <field name="titel">Fertigstellung des Lassenparks nach den Wünschen der Bürger/innen</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field> 
+  <field name="word">bitten</field>
+<field name="word">kenntnisnahme</field>
+<field name="word">form</field>
+<field name="word">beigefügten</field>
+<field name="word">text</field>
+<field name="word">inhalt</field>
+<field name="word">entnehmen</field>
+<field name="word">anlage</field>
+<field name="word">vorlag</field>
+<field name="word">elektronischer</field>
+<field name="word">mitteilung</field>
+<field name="word">büro</field>
+  <field name="text_de">Da der Text dem Büro der BVV nicht in elektronischer Form vorlag, entnehmen Sie bitten den Inhalt der Mitteilung zur Kenntnisnahme der beigefügten Anlage.
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4135&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">156</field>  
+  <field name="parteien">2</field>  
+</doc></add>

@@ -1,0 +1,59 @@
+<add><doc>
+  <field name="id">NK_0513/XIX</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">VG 27 L 264.12</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">genannten</field>
+<field name="word">erhalb</field>
+<field name="word">beschä</field>
+<field name="word">arbeitszeit</field>
+<field name="word">dessen</field>
+<field name="word">frage</field>
+<field name="word">ftigt</field>
+<field name="word">tigkeit</field>
+<field name="word">mitarbeiters</field>
+<field name="word">waren</field>
+<field name="word">berall</field>
+<field name="word">viele</field>
+<field name="word">nebentä</field>
+<field name="word">beamte</field>
+<field name="word">rgermeister</field>
+<field name="word">erstellung</field>
+<field name="word">punkt</field>
+<field name="word">tigkeiten</field>
+<field name="word">ausgefü</field>
+<field name="word">angestellte</field>
+<field name="word">buch</field>
+<field name="word">mitarbeiter</field>
+<field name="word">bezirksbü</field>
+<field name="word">neukö</field>
+<field name="word">bezirksamtes</field>
+  <field name="text_de">Ich frage das Bezirksamt:
+1.
+         
+Wie viele Mitarbeiter des Bezirksamtes Neukö
+lln (Beamte, Angestellte) auß
+er dem Bezirksbü
+rgermeister waren in Nebentä
+tigkeit fü
+r die Erstellung von dessen Buch 
+Neukö
+lln ist ü
+berall
+ beschä
+ftigt?
+2.
+         
+Wurden die un
+ter Punkt 1 genannten Nebentä
+tigkeiten des Mitarbeiters oder der Mitarbeiter auß
+erhalb der Arbeitszeit ausgefü
+hrt?</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4136&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">389</field>  
+  <field name="parteien">1</field>  
+</doc></add>

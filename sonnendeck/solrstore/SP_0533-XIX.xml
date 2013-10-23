@@ -1,0 +1,54 @@
+<add><doc>
+  <field name="id">SP_0533/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Spielplatzkommission auf die Bezirksamts-Webseite</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">aktuell</field>
+<field name="word">siehe</field>
+<field name="word">eitere</field>
+<field name="word">sämtliche</field>
+<field name="word">berücksichtigt</field>
+<field name="word">mitglieder</field>
+<field name="word">erfolgen</field>
+<field name="word">ielsweise</field>
+<field name="word">informationsmaterialien</field>
+<field name="word">jeweiligen</field>
+<field name="word">anstehenden</field>
+<field name="word">spielplatzkommission</field>
+<field name="word">schlagwort</field>
+<field name="word">spandau</field>
+<field name="word">http</field>
+<field name="word">zählen</field>
+<field name="word">kommission</field>
+<field name="word">beisp</field>
+<field name="word">buergerdienste</field>
+<field name="word">gremien</field>
+<field name="word">tagesordnungen</field>
+<field name="word">entscheidungen</field>
+<field name="word">arbeit</field>
+<field name="word">gremium</field>
+<field name="word">relevanten</field>
+<field name="word">webseite</field>
+<field name="word">informationen</field>
+<field name="word">erfassen</field>
+<field name="word">bezirksamts</field>
+<field name="word">sitzungstermine</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">darstellung</field>
+<field name="word">protokolle</field>
+  <field name="text_de">Das Bezirksamt wird beauftragt die Spielplatzkommission als Gremium auf der Webseite des Bezirksamts zu erfassen. Dabei sollen sämtliche relevanten Informationen berücksichtigt werden. Dazu zählen die Geschäftsordnung der Kommission, die Sitzungstermine, Mitglieder, jeweiligen Tagesordnungen, Protokolle, aktuell anstehenden Entscheidungen und w
+eitere Informationsmaterialien.
+ 
+Die Darstellung der Arbeit soll beisp
+ielsweise unter dem Schlagwort Gremien
+ (siehe 
+http://www.berlin.de/ba-spandau/buergerdienste/gremien/
+ ) erfolgen.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7137&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">537</field>  
+  <field name="parteien">1</field>  
+</doc></add>

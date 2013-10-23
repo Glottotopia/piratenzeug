@@ -1,0 +1,45 @@
+<add><doc>
+  <field name="id">RD_0005/XIX</field>  
+  <field name="typ">Ersuchen</field>  
+  <field name="titel">Gemeinschaftsschule im Märkischen Viertel</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field> 
+  <field name="word">lich</field>
+<field name="word">unverzü</field>
+<field name="word">schülern</field>
+<field name="word">kollegium</field>
+<field name="word">viertel</field>
+<field name="word">beschließen</field>
+<field name="word">schulleitung</field>
+<field name="word">umzusetzen</field>
+<field name="word">wolle</field>
+<field name="word">landesebene</field>
+<field name="word">gemeinschaftsschule</field>
+<field name="word">sachverhalt</field>
+<field name="word">zugesiche</field>
+<field name="word">märkischen</field>
+<field name="word">eltern</field>
+<field name="word">koalitionsverhandlungen</field>
+<field name="word">einbeziehung</field>
+  <field name="text_de">Sachverhalt:
+ 
+Die Bezirksverordnetenversammlung 
+wolle beschließen
+:
+ 
+Das Bezirksamt wird ersucht, die in den Koalitionsverhandlungen zwischen SPD und CDU auf Landesebene bereits zugesiche
+r
+te Gemeinschaftsschule im Märkischen Viertel unter Einbeziehung von Schulleitung, Kollegium, Eltern und Schülern unverzü
+g
+lich umzusetzen.
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3054&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">338</field>  
+  <field name="parteien">2</field>  
+</doc></add>

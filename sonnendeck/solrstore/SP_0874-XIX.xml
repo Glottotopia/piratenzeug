@@ -1,0 +1,42 @@
+<add><doc>
+  <field name="id">SP_0874/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Golf Driving Range in Staaken unterstützen</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field> 
+  <field name="word">zurzeit</field>
+<field name="word">fläche</field>
+<field name="word">maßnahmen</field>
+<field name="word">erforderlichen</field>
+<field name="word">golf</field>
+<field name="word">gestellt</field>
+<field name="word">gedacht</field>
+<field name="word">pachtvertrages</field>
+<field name="word">driving</field>
+<field name="word">langfristigen</field>
+<field name="word">verkauf</field>
+<field name="word">genutzten</field>
+<field name="word">heerstraße</field>
+<field name="word">gärtnereiring</field>
+<field name="word">ergreifen</field>
+<field name="word">steil</field>
+<field name="word">unterstützen</field>
+<field name="word">landwirtschaftlich</field>
+<field name="word">investor</field>
+<field name="word">staaken</field>
+<field name="word">errichtung</field>
+<field name="word">hierfür</field>
+<field name="word">range</field>
+<field name="word">verfügung</field>
+  <field name="text_de">Das Bezirksamt wird beauftragt, die Errichtung einer Golf Driving Range, im Ort
+steil Staaken an der Heerstraße
+/Gärtnereiring auf der zurzeit landwirtschaftlich genutzten Fläche, zu unterstützen und alle hierfür erforderlichen Maßnahmen zu ergreifen. Die Fläche soll dem Investor im Rahmen eines langfristigen Pachtvertrages zur Verfügung gestellt werden. An einen Verkauf der Fläche ist nicht gedacht.</field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7478&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">403</field>  
+  <field name="parteien">3</field>  
+</doc></add>

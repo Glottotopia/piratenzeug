@@ -1,0 +1,197 @@
+<add><doc>
+  <field name="id">NK_0470/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Free the Robots: Bezirksseiten über Suchmaschinen auffindbar machen</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">andere</field>
+<field name="word">anfragen</field>
+<field name="word">text</field>
+<field name="word">bieten</field>
+<field name="word">suchmaschinen</field>
+<field name="word">konfiguration</field>
+<field name="word">ndung</field>
+<field name="word">itdz</field>
+<field name="word">fehlermeldungen</field>
+<field name="word">daher</field>
+<field name="word">zehn</field>
+<field name="word">nzungen</field>
+<field name="word">einerseits</field>
+<field name="word">möge</field>
+<field name="word">suchoptionen</field>
+<field name="word">beim</field>
+<field name="word">gerade</field>
+<field name="word">rger</field>
+<field name="word">doku</field>
+<field name="word">entsprechende</field>
+<field name="word">ausgeschlossen</field>
+<field name="word">gewü</field>
+<field name="word">informationen</field>
+<field name="word">sonstige</field>
+<field name="word">verschiedene</field>
+<field name="word">bleiben</field>
+<field name="word">keinen</field>
+<field name="word">zeilen</field>
+<field name="word">hersteller</field>
+<field name="word">beschließen</field>
+<field name="word">eingeschrä</field>
+<field name="word">nkten</field>
+<field name="word">module</field>
+<field name="word">inhalte</field>
+<field name="word">seits</field>
+<field name="word">ohne</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">ungeeignet</field>
+<field name="word">gung</field>
+<field name="word">ergä</field>
+<field name="word">nnen</field>
+<field name="word">aufbewahren</field>
+<field name="word">indem</field>
+<field name="word">verhä</field>
+<field name="word">erstellen</field>
+<field name="word">seiten</field>
+<field name="word">mehrwert</field>
+<field name="word">allris</field>
+<field name="word">sitzungskalender</field>
+<field name="word">ltnismäß</field>
+<field name="word">stoß</field>
+<field name="word">darauf</field>
+<field name="word">ander</field>
+<field name="word">treffersicherheit</field>
+<field name="word">datei</field>
+<field name="word">ordner</field>
+<field name="word">suchen</field>
+<field name="word">anträ</field>
+<field name="word">derzeit</field>
+<field name="word">abgedeckt</field>
+<field name="word">modul</field>
+<field name="word">sogenannten</field>
+<field name="word">ressourcen</field>
+<field name="word">hinwirken</field>
+<field name="word">etwa</field>
+<field name="word">hren</field>
+<field name="word">anzeigen</field>
+<field name="word">folgende</field>
+<field name="word">indizierung</field>
+<field name="word">nschten</field>
+<field name="word">regel</field>
+<field name="word">nutzen</field>
+<field name="word">viele</field>
+<field name="word">irritierende</field>
+<field name="word">menten</field>
+<field name="word">denkbare</field>
+<field name="word">inhalten</field>
+<field name="word">ngigen</field>
+<field name="word">ausschü</field>
+<field name="word">aufwand</field>
+<field name="word">vorgeschlagen</field>
+<field name="word">umsetzung</field>
+<field name="word">ollen</field>
+<field name="word">wenig</field>
+<field name="word">vorg</field>
+<field name="word">ursache</field>
+<field name="word">weiterhin</field>
+<field name="word">indiziert</field>
+<field name="word">mindestanforderungen</field>
+<field name="word">rfen</field>
+<field name="word">kurzzeitiges</field>
+<field name="word">robots</field>
+<field name="word">begrü</field>
+<field name="word">ktionen</field>
+<field name="word">suchroutinen</field>
+<field name="word">halten</field>
+<field name="word">enommen</field>
+<field name="word">nahme</field>
+<field name="word">drucksachen</field>
+<field name="word">bezirkspolitik</field>
+<field name="word">dienstleistungszentrum</field>
+<field name="word">entwicklungsauftrag</field>
+<field name="word">suchmaschinenroboter</field>
+<field name="word">nzen</field>
+<field name="word">digitalen</field>
+<field name="word">entspricht</field>
+<field name="word">abwä</field>
+<field name="word">beschrä</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt mö
+ge bei der ITDZ (IT-Dienstleistungszentrum Berlin) darauf hinwirken, dass die Seiten der Bezirksverordnetenversammlung von Suchmaschinen indiziert werden dü
+rfen, indem entsprechende Ergä
+nzungen in der sogenannten "robots.txt" vorg
+enommen werden.
+ 
+Begrü
+ndung
+:
+Anträ
+ge, Anfragen und sonstige Informationen zur Bezirksverordnetenversammlung werden  derzeit von den Suchmaschinen nicht indiziert. Ursache ist eine entsprechende Konfiguration in der sogenannten Datei "robots.txt", an die
+ sich in der Regel die Suchmaschinenroboter halten.
+ 
+Einerseits entspricht es nicht den digitalen Mindestanforderungen, wenn Bü
+rger mit gä
+ngigen Suchmaschinen nicht auf Inhalte der Bezirkspolitik stoß
+en, ander
+er
+seits bieten die eingeschrä
+nkten Suchoptionen vo
+n ALLRIS dem Bü
+rger zu wenig Treffersicherheit. Gerade
+,
+ wenn Suchroutinen von ALLRIS nicht zu den gewü
+nschten Inhalten fü
+hren oder irritierende Fehlermeldungen anzeigen, kö
+nnen Suchmaschinen diese ergä
+nzen. Unter Abwä
+gung von Nutzen und Ressourcen werden da
+bei folgende Module fü
+r die Indizierung vorgeschlagen: 
+ 
+?
+           
+Drucksachen (Modul vo020 und vo040) 
+?
+           
+Bezirksverordnete (Modul pa021 und kp020) 
+?
+           
+Ausschü
+sse (Modul au010 und au020) 
+?
+           
+Fra
+ktionen (Modul fr010 und fr020).
+ 
+Ausgeschlossen von der Indizierung s
+ollen weiterhin bleiben:
+ 
+?
+           
+Sitzungskalender (verhä
+ltnismäß
+ig viele denkbare Anfragen ohne Mehrwert)
+?
+           
+Verschiedene Suchen zu Drucksachen - die Informationen sind bereits durch andere Module abgedeckt
+?
+           
+d
+er 
+/tmp-Ordner (kurzzeitiges Aufbewahren von Doku
+menten, daher fü
+r Suchen ungeeignet)
+.
+ 
+Die Umsetzung dieser Maß
+nahme lö
+st keinen Entwicklungsauftrag beim Hersteller von ALLRIS aus. Der Aufwand beschrä
+nkt sich auf das Erstellen von etwa zehn Zeilen Text.
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4093&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1916</field>  
+  <field name="parteien">1</field>  
+</doc></add>

@@ -1,0 +1,67 @@
+<add><doc>
+  <field name="id">LI_DS/0648/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Monatliche Veröffentlichung der aktuellen Haushaltsdaten</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">jeweils</field>
+<field name="word">monatsdaten</field>
+<field name="word">veröffentlichen</field>
+<field name="word">freier</field>
+<field name="word">monatsanfang</field>
+<field name="word">open</field>
+<field name="word">kenntnis</field>
+<field name="word">erstmalig</field>
+<field name="word">finden</field>
+<field name="word">haushaltswirtschaft</field>
+<field name="word">veröffentlicht</field>
+<field name="word">datensaetze</field>
+<field name="word">excel</field>
+<field name="word">serviceeinheit</field>
+<field name="word">datenbestand</field>
+<field name="word">bittet</field>
+<field name="word">tabellendokument</field>
+<field name="word">kamerale</field>
+<field name="word">juni</field>
+<field name="word">nehmen</field>
+<field name="word">aktuellen</field>
+<field name="word">http</field>
+<field name="word">landes</field>
+<field name="word">werte</field>
+<field name="word">folgendes</field>
+<field name="word">data</field>
+<field name="word">parallel</field>
+<field name="word">monatlich</field>
+<field name="word">lichtenberg</field>
+<field name="word">homepage</field>
+<field name="word">finanzen</field>
+<field name="word">aktualisiert</field>
+<field name="word">lizenz</field>
+<field name="word">stand</field>
+<field name="word">datei</field>
+<field name="word">portal</field>
+<field name="word">kameralen</field>
+<field name="word">bezirkes</field>
+<field name="word">daten</field>
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
+Folgendes
+ zur Kenntnis zu nehmen:
+ 
+Das Bezirksamt wurde ersucht, 
+monatlich den jeweils aktuellen Stand der Haushaltswirtschaft (Ist-Werte) des Bezirkes als Tabellendokument im Open-Data-Portal des Landes Berlin unter freier Lizenz zu veröffentlichen.
+ 
+Erstmalig mit dem Datenbestand zum 
+30.06.2013
+ wurden die kameralen Monatsdaten des Bezirks Lichtenberg als Excel-Datei im Open Data Portal des Landes Berlin (und parallel auf der Homepage der Serviceeinheit Finanzen des Bezirks Lichtenberg) veröffentlicht. Sie sind unter 
+http://daten.berlin.de/datensaetze/kamerale-monatsdaten-bezirk-lichtenberg-juni-2013
+ zu finden.
+ 
+Jeweils zum Monatsanfang werden die Daten aktualisiert. 
+ </field> 
+  <field name="status"></field>
+  <field name="location">52.5166,13.3833</field>  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5310&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">746</field>  
+  <field name="parteien">1</field>  
+</doc></add>
