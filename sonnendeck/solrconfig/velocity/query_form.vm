@@ -38,15 +38,19 @@
     #end
 
     <div class="constraints" #annTitle("Lists out the &fq filters.  Click to remove.")>
-        #set($c=5)
+        #set($nongreen=127)
 	
+    #set($red= 180 )
+    #set($green= 100 )
+    #set($blue= 12 )
       #foreach($fq in $params.getParams('fq'))
         #set($previous_fq_count=$velocityCount - 1) 
         #if($fq != '')
-        #set($color= "$c$c$c" )
 	    
-	  <div class="obermenge" style="background:#$color"> 
-	    #set($c=$c + 1)
+	  <div class="obermenge" style="background:rgb($red,$green,$blue)"> 
+	    #set($red=$red + 32)
+	    #set($green=$green + 32)
+	    #set($blue=$blue + 32)
           <a
             href="#url_for_filters($request.params.getParams('fq').subList(0,$previous_fq_count))"
           >x</a> <span>$fq</span> 
@@ -57,6 +61,7 @@
 	#end
  
     </div>
+
 
     <div class="parsed_query_header">
       #if($request.params.get('debugQuery'))

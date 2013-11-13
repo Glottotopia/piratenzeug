@@ -112,8 +112,8 @@
    <!-- points to the root document of a block of nested documents -->
    <field name="_root_" type="string" indexed="true" stored="false"/>
 
-   <field name="typ" type="text_general" indexed="true" stored="true"/>
-   <field name="titel" type="text_general" indexed="true" stored="true"/>
+   <field name="typ" type="text_general" indexed="true" stored="true"  termVectors="true"/>
+   <field name="titel" type="text_general" indexed="true" stored="true"  termVectors="true"/>
    <field name="bezirk" type="text_general" indexed="true" stored="true"/>
    <field name="parteien" type="int" indexed="true" stored="true"/>
    <field name="status" type="text_general" indexed="true" stored="true"/>

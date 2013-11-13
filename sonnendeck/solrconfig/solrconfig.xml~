@@ -895,21 +895,7 @@
      </lst>
   </requestHandler>
 
- <requestHandler name="/mlt" class="solr.MoreLikeThisHandler">
-
-    <lst name="defaults">
-
-      <str name="mlt.fl">word</str>
-
-      <str name="mlt.mintf">1</str>
-
-      <str name="mlt.mindf">2</str>
-
-      <str name="mlt.boost">true</str>
-
-    </lst>
-
-  </requestHandler>
+ 
   <!-- A Robust Example 
        
        This example SearchHandler declaration shows off usage of the
@@ -945,8 +931,14 @@
        <str name="mlt.qf">
           text^0.5  title^10.0 typ^1.0
        </str>
-       <str name="mlt.fl">text, title, typ</str>
-       <int name="mlt.count">3</int>
+       <str name="mlt.fl">word</str>
+       <int name="mlt.count">3</int> 
+
+	<str name="mlt.mintf">1</str>
+
+	<str name="mlt.mindf">2</str>
+
+	<str name="mlt.boost">true</str>
        
        <!-- Faceting defaults -->
        <str name="facet">on</str>  

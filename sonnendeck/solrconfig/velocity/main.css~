@@ -265,7 +265,7 @@ body {
 .map{
   float: right;
   position: relative;
-  top: -25px;  
+/*   top: -25px;   */
 }
 
 
@@ -488,6 +488,7 @@ div.tag span.value{
   width:60%;
   max-width:700px; 
   max-height:500px;
+  overflow-y:scroll;
     background:beige;
     border-radius:5px;
     box-shadow: 2px 2px 2px 2px;

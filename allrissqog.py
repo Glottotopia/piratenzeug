@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
- 
+
+import urllib as urllib1
 import urllib2
 import tempfile  
 import pickle
@@ -36,22 +37,26 @@ class ALLRis:
   <field name="bezirk">{bezirk.name}</field>  
   {parteifields} 
   {wordfields}
+  {ausschussfields}
   <field name="text_de">{text}</field> 
   <field name="status">{status}</field>
-  <field name="location">{location}</field>  
+  {locationfield}
   <field name="url">{url}</field>  
   <field name="#words">{lenws}</field>  
   <field name="#chars">{lenchars}</field>  
-  <field name="parteien">{lenparties}</field>  
+  <field name="parteien">{lenparties}</field>   
 </doc></add>
 """ 
 
     baseurl = "http://www.berlin.de"
     
+    locationstore = {}
+    
     def getantraege(self,bezirk,atlfdnr,parteien):  
 	"""Retrieve the Bezirk's HTML page for the Antragsteller and extract the data""" 
 	
 	url = 'http://www.berlin.de/ba-%s/bvv-online/vo040.asp?ATLFDNRM=%s&showall=true' % (self.conformspelling(bezirk.name),atlfdnr)
+	print url
 	page = urllib2.urlopen(url).read().decode('latin-1') 
 	s = self.sanitize(page, bezirk)
 	return self.extractantraege(s,parteien)    
@@ -89,22 +94,41 @@ class ALLRis:
 	    antrag = Antrag(bezirk , dsnr, url=href, parteien=parteien)
 	    antrag.title = unicode(title)  
 	    antrag.typ = unicode(typ)  
-	    antrag.text = self.getAntragText(href,bezirk)
+	    antrag.html = self.getAntragHTML(href,bezirk)
+	    antrag.text = self.getAntragText(antrag.html)
+	    antrag.status = getStatus(antrag.html)
+	    antrag.ausschuss = getAusschuss(antrag.html)
 	    antrag.updateLengths()
 	    antraege.append(antrag)
-	     
-
 	return antraege
 	
-    def getAntragText(self,url,bezirk):
+    def getStatus(self, html):
+	if "Der Antrag wird abgelehnt" in html:
+	    return "abgelehnt"
+	if u"Der Änderungsantrag wird abgelehnt" in html:
+	    return "abgelehnt"
+	if "in der BVV abgelehnt" in html:
+	    return "abgelehnt"
+	if u"ohne Änderungen in der BVV beschlossen" in html:
+	    return "angenommen"
+	    
+    def getAusschussFields(self, html):
+	ausschuesse =  list(set(re.findall(u"Ausschuss für ([A-Za-zÄÖÜäöüß]+)", html)))
+	return "\n".join(['<field name="ausschuss">%s</field>'%x for x in ausschuesse])
+	
+    def getAntragHTML(self,url,bezirk):
 	scrapedpage = self.sanitize(urllib2.urlopen(url).read().decode('latin-1'),bezirk)
+	return scrapedpage
+	
+    def getAntragText(self,html):
 	parser = ET.XMLParser()
 	parser.parser.UseForeignDTD(True)
 	parser.entity.update((x, unichr(i)) for x, i in name2codepoint.iteritems())
 	
+	#the parser can only read from a file, not from a string, so we create a file
 	tf = tempfile.NamedTemporaryFile(delete=False)
 	name = tf.name  
-	tf.write(scrapedpage.encode('ascii', 'xmlcharrefreplace'))
+	tf.write(html.encode('ascii', 'xmlcharrefreplace'))
 	tf.close()  
 	try:
 	    tree = ET.parse(name, parser=parser) 
@@ -113,9 +137,9 @@ class ALLRis:
 	    text = '\n'.join([a for a in bodys[1].itertext()]) 
 	    #print '.',
 	except ET.ParseError:
-	    text = scrapedpage
+	    chunk = html.split('<meta name="generator" content="Aspose.Words for .NET')[1]
+	    text = re.sub('<[^>]*?>','',chunk)
 	    #print ''
-	    print "ParseError in ", url
 	return text
 	
     def sanitize(self,f,bezirk): 
@@ -273,16 +297,20 @@ erhalten  """.split()]
 		    a.url = ''
 		a.bezirk.name = a.bezirk.name.replace('-','_') 
 		a.updateLengths()
+		a.getLocation()
 		#print a.parteien
-		if a.typ in ('Beschluss','Beschlussempfehlung', 'Dringlichkeitsantrag', 'Antrag_zur_Beschlussfassung', "Änderungsantrag", "Entschließung", "Dringlichkeitsbeschlussempfehlung", "Entschließungsantrag", "Gemeinsamer_Antrag", "Gemeinsamer_Dringlichkeitsantrag", "Drucksache_zurückgezogen", "Beschluss"):
+		if a.typ in ('Beschluss','Beschlussempfehlung', 'Dringlichkeitsantrag', 'Antrag_zur_Beschlussfassung', u"Änderungsantrag", u"Entschließung", "Dringlichkeitsbeschlussempfehlung", u"Entschließungsantrag", "Gemeinsamer_Antrag", "Gemeinsamer_Dringlichkeitsantrag", u"Drucksache_zurückgezogen", "Beschluss"):
 		    a.typ = 'Antrag'
 		a.parteifields = '\n'.join(['<field name="partei">%s</field>'%partei for partei in a.parteien])
 		a.wordfields = '\n'.join(['<field name="word">%s</field>'%word for word in self.getWords(a.text)])
-		d = a.__dict__		
-		d.update({'lenparties':len(a.parteien)})
-		if a.bezirk.kuerzel=='FK':
-		    print  a.parteien,
-		    print d['lenparties']
+		a.status = self.getStatus(a.html)
+		a.ausschussfields = self.getAusschussFields(a.html)
+		d = a.__dict__	
+		if d['location'] in (None,'52.5166,13.3833'):
+		    d['locationfield'] = ''
+		else:
+		    d['locationfield'] = '<field name="location">%s</field>' % d['location']
+		d.update({'lenparties':len(a.parteien)}) 
 		t = self.solrtemplate.format(**d)
 		out.write(t.encode('utf8'))
 		out.close() 
@@ -305,27 +333,92 @@ class Antrag:
     def __init__(self, bezirk, dsnr, 
                   status='', 
                   text='', 
+                  html='', 
                   parteien=("PIRATEN",),
                   typ=None, 
-                  location = '52.5166,13.3833', 
+                  location = None, #'52.5166,13.3833'
                   titel = '',
                   url = ''):
 	self.bezirk = bezirk	
 	self.dsnr = dsnr
 	self.status = status
 	self.text = text 
+	self.html = html 
 	self.titel = titel
 	self.parteien = parteien
 	self.typ = typ 
 	self.location = location
 	self.url = url
 	self.ID = "%s_%s" % (self.bezirk.kuerzel, self.dsnr) 
+	self.getLocation()
 	
     def updateLengths(self):	    
 	self.lenchars = len(self.text)
 	self.lenws = len(self.text.split())
 	self.lenws = len(self.parteien)
-    
+	
+    def getLocation(self): 	
+	def queryNominatim(p): 
+	    via, number = p
+	    locationstore = {} #change this to global 
+	    coords = None
+	    try:
+		coords = locationstore[via]
+	    except KeyError: 
+		urlstring = u'http://nominatim.openstreetmap.org/search/de/berlin/{}/{}?format=xml'.format(self.bezirk.name.replace(u'_',u'-').replace(u'ö',u'%C3%B6'),urllib1.quote(via.encode('utf8'))) 
+		if number != '':  
+		    urlstring = u'http://nominatim.openstreetmap.org/search/de/berlin/{}/{}/{}?format=xml'.format(self.bezirk.name.replace(u'_',u'-').replace(u'ö',u'%C3%B6'),urllib1.quote(via.encode('utf8')),number)  
+		info = urllib2.urlopen(urlstring).read()
+		root = ET.fromstring(info)
+		place = root.find('.//place')
+		try:
+		    longitude = place.attrib['lon']
+		    latitude = place.attrib['lat']
+		    #print urlstring, longitude, latitude
+		except AttributeError:
+		    #print via, number,
+		    print urlstring, "noresults"	
+		    locationstore[via] = ''
+		    return ''
+		coords = '%s,%s'%(latitude,longitude)
+	    locationstore[via] = coords
+	    return coords
+	    
+	nonstrasse = [u"Einbahnstraße","Einkaufsstraße",u"Fahrradstraße", u"Hauptverkehrsstraße", "Spielplatz", "Schulplatz", u"Hauptstraße", "Der Platz", "Den Platz", u"Die Straße", u"Der Straße", "Serviceplatz", "Stellplatz", "Arbeitsplatz", "Sportplatz", "Parkplatz"]
+	
+	viastring = u"(Straße|Strasse|Platz|Brücke|Allee)" 
+	kleinvia = re.findall(u"([A-ZÖÜÄ][a-zäöüß]+%s) *([0-9]*)"%viastring.lower(),self.text)	    
+	grossvia = re.findall(u"([A-ZÖÜÄ][a-zäöüß]+ +%s) *([0-9]*)"%viastring,self.text)
+	strichvia =  re.findall(u"([A-ZÖÜÄ][a-zäöüß-]+%s) *([0-9]*)"%viastring,self.text)
+	vias = kleinvia + grossvia + strichvia
+	places = []   
+	places = [(x[0],x[2]) for x in vias]   
+	d = {}
+	for p in places:
+	    v = p[0].strip()
+	    n = p[1].strip()
+	    if v not in nonstrasse:
+		if v.endswith('spielplatz') or v.endswith('arbeitsplatz') or v.endswith('parkplatz') or v.endswith('sportplatz'):
+		    continue
+		try:
+		    d[p] += 1
+		except KeyError:
+		    d[p] = 1
+	#max(d.iterkeys(), key=(lambda key: d[key])) 
+	maxvalue = 0
+	candidates = []
+	for k in d:
+	    if d[k]>maxvalue:
+		maxvalue = d[k]
+		candidates = [k]
+		continue
+	    if d[k] == maxvalue:
+		candidates.append(k) 
+	coords = map(queryNominatim, candidates) 
+	
+	coords = [x for x in coords if x != None]
+	if len(coords) >0: 
+	    self.location = coords[0]
     
 class Bezirk:
     def __init__(self,name,kuerzel,atlfdnrs):

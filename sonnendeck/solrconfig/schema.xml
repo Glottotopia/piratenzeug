@@ -117,6 +117,7 @@
    <field name="bezirk" type="text_general" indexed="true" stored="true"/>
    <field name="parteien" type="int" indexed="true" stored="true"/>
    <field name="status" type="text_general" indexed="true" stored="true"/>
+   <field name="ausschuss" type="text_general" indexed="true" stored="true"  multiValued="true"  />
    <field name="text_de" type="text_general" indexed="true" stored="true"/> 
    <field name="word" type="text_general" indexed="true" stored="true" multiValued="true"  termVectors="true"/> 
    <field name="partei" type="string" indexed="true" stored="true" multiValued="true"/>

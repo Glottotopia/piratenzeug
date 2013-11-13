@@ -948,6 +948,7 @@
 <!--        <str name="facet.field">iso639-3</str>  -->
        <str name="facet.field">typ</str>
        <str name="facet.field">status</str> 
+       <str name="facet.field">ausschuss</str> 
 <!--        <str name="facet.field">word</str>  -->
        <str name="facet.mincount">1</str>
 <!--	<str name="facet.pivot">cat,inStock</str>
