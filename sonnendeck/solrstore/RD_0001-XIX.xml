@@ -23,6 +23,7 @@
 <field name="word">vorläufige</field>
 <field name="word">überwiesen</field>
 <field name="word">geschäftsordnungsausschuss</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:
@@ -30,10 +31,10 @@ Die Bezirksverordnetenversammlung wolle beschließen:
 Die Geschäftsordnung der vergangenen Wahlperiode in der Fassung vom 08. Juni 2011 wird als vorläufige Geschäftsordnung übernommen.
  
 Diese vorläufige Geschäftsordnung wird dem Geschäftsordnungsausschuss zur Beratung und Beschlussempfehlung über die vorzulegende Geschäftsordnung überwiesen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3050&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">360</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

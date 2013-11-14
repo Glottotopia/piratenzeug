@@ -26,6 +26,7 @@
 <field name="word">antragsempfang</field>
 <field name="word">meint</field>
 <field name="word">prüfen</field>
+  
   <field name="text_de">Warum ist es dem Bezirksamt nicht möglich, Antragstellern, die Leistungen nach dem WoGG beantragen, oder auch Leistungen des Jugendamtes beantragen, bei Antragsabgabe, den Emp
 fang des Antrages zu bestätigen
 ?
@@ -38,10 +39,10 @@ Warum meint das Bezirksamt bei Antragsempfang schon die Richtigkeit und Vollstä
 it des Antrags prüfen zu müssen
 ? 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3600&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">413</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -45,6 +45,7 @@
 <field name="word">instand</field>
 <field name="word">roedernstraße</field>
 <field name="word">instandsetzung</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
 Folgendes zur Kenntnis zu nehmen:
  
@@ -54,10 +55,10 @@ Es ist noch 2013 geplant, zumindest einen ersten Teilabschnitt der Fahrbahn in d
  
 Mit der Fertigstellung ist voraussichtlich nicht vor November zu rechnen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.5442333,13.4866694</field>
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5230&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">746</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

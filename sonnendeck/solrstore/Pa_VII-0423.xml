@@ -20,6 +20,7 @@
 <field name="word">prüfen</field>
 <field name="word">seiner</field>
 <field name="word">stadtentwicklung</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Der Ausschuss für Stadtentwicklung und Grünanlagen hat die Drucksache auf seiner Sitzung am 
 05.09.2013
  beraten.
@@ -35,10 +36,10 @@ Das Bezirksamt wird ersucht, zu prüfen, wie die öffentliche Zugänglichkeit zu
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3507&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">426</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

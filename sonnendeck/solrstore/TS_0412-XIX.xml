@@ -10,6 +10,7 @@
 <field name="word">verfolgt</field>
 <field name="word">möge</field>
 <field name="word">abgelehnt</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de"> 
 Der Ausschuss empfiehlt der Bezirksverordnetenversammlung:
  
@@ -17,10 +18,10 @@ Die BVV möge beschließen:
  
 Der Antrag wird nicht weiter verfolgt, da er abgelehnt wurde.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4208&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">154</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -97,6 +97,7 @@
 <field name="word">fordert</field>
 <field name="word">kontrollen</field>
 <field name="word">konzept</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, auf der Grundlage der "Untersuchung zur Parkraumbewirtscha
@@ -140,10 +141,10 @@ steuerung erfolgen.
 :
  
 Das Bezirksamt wird ersucht, nach der Sommerpause eine Einwohnerversammlung über die Untersuchung zur Parkraumbewirtschaftung in der Altstadt Köpenick durchzuführen. Die auf dieser Versammlung geäußerten Anregungen und Befürchtungen von Anwohnerinnen und Anwohnern und von Gewerbetreibenden sollen in einem Konzept zur Parkraumbewirtschaftung berücksichtigt werden. Ein solches Konzept ist der Bezirksverordnetenversammlung zur Beschlussfassung vorzulegen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4598&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1900</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0792-02/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Entwurf des Bezirkshaushaltsplans für die Haushaltsjahre 2014 und 2015 Hier: Haushaltsehrlichkeit statt heimliche Verschrottung</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -39,6 +39,7 @@
 <field name="word">merkposten</field>
 <field name="word">haushaltsehrlichkeit</field>
 <field name="word">abgebildet</field>
+  <field name="ausschuss">Personal</field>
   <field name="text_de">Die Bezirksverordnetenversammlung mö
 ge beschließ
 en:
@@ -69,10 +70,10 @@ Drucksache
 wird zurü
 ckgezogen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5648&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">599</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

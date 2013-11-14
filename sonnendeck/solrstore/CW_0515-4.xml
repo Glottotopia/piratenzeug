@@ -163,6 +163,7 @@
 <field name="word">verkehrlichen</field>
 <field name="word">schulbeginn</field>
 <field name="word">damaligen</field>
+  
   <field name="text_de">Die BVV hat in ihrer Sitzung am 21. Februar 2013 beschlossen:
  
 Das Bezirksamt wird gebeten, eine unechte Einbahnstraße in der Sigmaringer Str
@@ -231,10 +232,10 @@ i
 tuation von Süden in die Sigmaringer Straße hinein möglich sind, um eine effektivere Verkehrsberuhigung zu erreichen.
  
 Das Bezirksamt bittet, den Beschluss damit als erledigt zu betrachten.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.489582,13.3193704</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4779&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">2789</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

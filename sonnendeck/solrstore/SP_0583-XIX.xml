@@ -57,6 +57,7 @@
 <field name="word">entscheiden</field>
 <field name="word">eingerichteten</field>
 <field name="word">aktuelle</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt, 
 ü
 ber aktuelle 
@@ -96,10 +97,10 @@ ber den Ausschluss in
 ffentlicher Sitzung zu entscheiden. Sowohl das zu behandelnde Thema als auch der Ausschlussgrund der 
 Ö
 ffentlichkeit sind dabei mittels Oberbegriff bekannt zu machen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7187&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">930</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

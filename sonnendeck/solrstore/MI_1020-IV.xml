@@ -30,6 +30,7 @@
 <field name="word">stellungnahme</field>
 <field name="word">planer</field>
 <field name="word">ausschusses</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt:
  
 1) Welche der seitens der Bürgerinitiativen vorgeschlagenen
@@ -47,10 +48,10 @@ durch die Planer und das Bezirksamt berücksichtigt?
 Landesdenkmalschutzamtes bezüglich der Umgestaltung
      
 des Gartendenkmals vor?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5652&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">470</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

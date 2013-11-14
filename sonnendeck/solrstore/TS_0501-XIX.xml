@@ -90,6 +90,7 @@
 <field name="word">rekommunalisierung</field>
 <field name="word">kenntnisnahme</field>
 <field name="word">bezirkes</field>
+  
   <field name="text_de">Die BVV fasste auf ihrer Sitzung am 
 16.01.2013
  folgenden Beschluss:
@@ -111,10 +112,10 @@ Es werden durch die Landesabstimmungsleiterin entsprechende Formulierungsvorschl
  
 Aktuell läuft offiziell das Volksbegehren 
 über die Rekommunalisierung der Berliner Energieversorgung. Ein entsprechender Hinweis ist auf der Internetseite des Bezirkes ist erfolgt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4297&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1769</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

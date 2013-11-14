@@ -50,6 +50,7 @@
 <field name="word">ziel</field>
 <field name="word">offenen</field>
 <field name="word">geschäftsordnung</field>
+  
   <field name="text_de">Das Bezirksamt bittet die B
 ezirksverordnetenversammlung
 , Folgendes zur Kenntnis zu nehmen: 
@@ -68,10 +69,10 @@ richtet.
  
 Anlage
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5021&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">835</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

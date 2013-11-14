@@ -1,0 +1,47 @@
+<add><doc>
+  <field name="id">CW_0738/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Sichere Erreichbarkeit des neuen JobCenter-Standorts</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">verkehrssicher</field>
+<field name="word">jobcenter</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">stückler</field>
+<field name="word">überquerung</field>
+<field name="word">gewährleistet</field>
+<field name="word">beschließ</field>
+<field name="word">neuen</field>
+<field name="word">augusta</field>
+<field name="word">standort</field>
+<field name="word">allee</field>
+<field name="word">kaiserin</field>
+<field name="word">judith</field>
+<field name="word">prüfen</field>
+  
+  <field name="text_de"> 
+Die BVV beschließ
+t
+:
+ 
+Das Bezirksamt wird gebeten zu prüfen, wie die Überquerung der Kaiserin-Augusta-Allee zu dem neuen JobCenter-Standort verkehrssicher gewährleistet werden kann.
+ 
+Der BVV ist bis zum 
+30.11.2013
+ zu berichten.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ </field> 
+  <field name="status">angenommen</field>
+  <field name="location"></field>
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=5006&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">286</field>  
+  <field name="parteien">5</field>   
+</doc></add>

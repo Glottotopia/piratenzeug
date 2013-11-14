@@ -137,6 +137,7 @@
 <field name="word">gestrichen</field>
 <field name="word">programm</field>
 <field name="word">digitalem</field>
+  
   <field name="text_de">Alle Bundesländer - also auch das Land Berlin - haben im Dezember 2010 mit sogenannten Rechteinhabern (hier: Schulbuchverlage und Ve
 rwertungsgesellschaften) einen 
 Gesamtvertrag zur Einräumung und Vergütung von Ansprüchen nach § 53 UrhG abgeschlossen. Dieser Rahmenvertrag soll die Verwendung urheberrechtlich 
@@ -225,10 +226,10 @@ http://netzpolitik.org/wp-upload/20110615gesamtvertragtext.pdf
  
  
 http://www.heise.de/tp/artikel/35/35812/1.html</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6638&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2815</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -4,80 +4,96 @@
   <field name="titel">Bürgerbeteiligung mit Charrette-Verfahren in Lichterfelde-Süd</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">wiki</field>
-<field name="word">gewerbetreibenden</field>
-<field name="word">möglich</field>
-<field name="word">umgestaltung</field>
-<field name="word">ausreichend</field>
-<field name="word">investors</field>
-<field name="word">genannten</field>
-<field name="word">beschließen</field>
-<field name="word">gewährleistet</field>
-<field name="word">gestaltungsprozess</field>
-<field name="word">andererseits</field>
-<field name="word">konfliktfreies</field>
-<field name="word">anwendung</field>
-<field name="word">zunehmend</field>
-<field name="word">gemeinsam</field>
-<field name="word">piraten</field>
-<field name="word">range</field>
-<field name="word">gebiet</field>
-<field name="word">bürgerbeteiligung</field>
-<field name="word">beteiligten</field>
-<field name="word">verfahren</field>
+  <field name="word">antrags</field>
 <field name="word">siehe</field>
-<field name="word">bürger</field>
-<field name="word">worte</field>
-<field name="word">beunruhigt</field>
-<field name="word">lüders</field>
-<field name="word">anerkannt</field>
-<field name="word">beteiligt</field>
-<field name="word">lichterfelde</field>
-<field name="word">wikipedia</field>
-<field name="word">zugleich</field>
-<field name="word">parks</field>
-<field name="word">durchzuführen</field>
-<field name="word">können</field>
-<field name="word">ungenügend</field>
 <field name="word">show</field>
-<field name="word">möge</field>
 <field name="word">eingeschaltet</field>
-<field name="word">auffordern</field>
-<field name="word">http</field>
-<field name="word">stadtplanung</field>
-<field name="word">form</field>
-<field name="word">weit</field>
+<field name="word">ermöglichen</field>
+<field name="word">andererseits</field>
+<field name="word">gebiet</field>
+<field name="word">gesetzlichen</field>
+<field name="word">lüders</field>
+<field name="word">gewährleistet</field>
+<field name="word">worte</field>
+<field name="word">ungenügend</field>
+<field name="word">möge</field>
+<field name="word">hippe</field>
 <field name="word">eindruck</field>
 <field name="word">interessen</field>
-<field name="word">ermöglichen</field>
-<field name="word">charrette</field>
-<field name="word">vertreten</field>
-<field name="word">interesse</field>
-<field name="word">beispiel</field>
-<field name="word">umfang</field>
 <field name="word">begründung</field>
-<field name="word">article</field>
-<field name="word">gesetzlichen</field>
 <field name="word">investor</field>
-<field name="word">beteiligen</field>
-<field name="word">wilmersdorf</field>
-<field name="word">sowohl</field>
-<field name="word">bauen</field>
-<field name="word">angemessenen</field>
-<field name="word">eric</field>
-<field name="word">baldmöglichst</field>
-<field name="word">instanz</field>
-<field name="word">neutrale</field>
-<field name="word">charlottenburg</field>
-<field name="word">kommen</field>
+<field name="word">keiner</field>
+<field name="word">stimmen</field>
 <field name="word">sogenannte</field>
 <field name="word">projekts</field>
+<field name="word">wiki</field>
+<field name="word">nein</field>
+<field name="word">beschließen</field>
 <field name="word">möglichst</field>
-<field name="word">steglitz</field>
-<field name="word">zehlendorf</field>
-<field name="word">ndesplatzes</field>
-<field name="word">ausführlich</field>
+<field name="word">zunehmend</field>
+<field name="word">piraten</field>
+<field name="word">gemeinsam</field>
+<field name="word">beunruhigt</field>
+<field name="word">stadtplanungsausschusses</field>
+<field name="word">wikipedia</field>
+<field name="word">durchzuführen</field>
+<field name="word">enthaltung</field>
+<field name="word">umgestaltung</field>
+<field name="word">weit</field>
+<field name="word">vertreten</field>
 <field name="word">beteiligungskompass</field>
+<field name="word">konfliktfreies</field>
+<field name="word">article</field>
+<field name="word">beteiligen</field>
+<field name="word">wilmersdorf</field>
+<field name="word">angemessenen</field>
+<field name="word">baldmöglichst</field>
+<field name="word">instanz</field>
+<field name="word">stimme</field>
+<field name="word">kommen</field>
+<field name="word">range</field>
+<field name="word">gewerbetreibenden</field>
+<field name="word">genannten</field>
+<field name="word">gestaltungsprozess</field>
+<field name="word">anwendung</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">verfahren</field>
+<field name="word">empfohlen</field>
+<field name="word">bürger</field>
+<field name="word">anerkannt</field>
+<field name="word">interesse</field>
+<field name="word">federführenden</field>
+<field name="word">ausschussvorsitzender</field>
+<field name="word">beispiel</field>
+<field name="word">ndesplatzes</field>
+<field name="word">stadtplanung</field>
+<field name="word">form</field>
+<field name="word">neutrale</field>
+<field name="word">umfang</field>
+<field name="word">abstimmung</field>
+<field name="word">sowohl</field>
+<field name="word">bauen</field>
+<field name="word">zehlendorf</field>
+<field name="word">abgelehnt</field>
+<field name="word">investors</field>
+<field name="word">ablehnung</field>
+<field name="word">beraten</field>
+<field name="word">beteiligten</field>
+<field name="word">beteiligt</field>
+<field name="word">lichterfelde</field>
+<field name="word">zugleich</field>
+<field name="word">parks</field>
+<field name="word">eric</field>
+<field name="word">können</field>
+<field name="word">möglich</field>
+<field name="word">auffordern</field>
+<field name="word">http</field>
+<field name="word">charrette</field>
+<field name="word">ausreichend</field>
+<field name="word">charlottenburg</field>
+<field name="word">steglitz</field>
+<field name="word">ausführlich</field>
+  
   <field name="text_de"> 
 Die BVV möge beschließen:
  
@@ -118,11 +134,22 @@ Für die Piraten-Fraktion
  
  
 Eric Lüders
- </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+ 
+----------------------------------------------------------------------------------------------------
+ 
+Der Antrag wurde am 
+05.11.2013
+ in der 23. Sitzung des Stadtplanungsausschusses beraten und bei einer Abstimmung mit 1 Ja- Stimme und 13 Nein-Stimmen bei keiner Enthaltung abgelehnt. 
+ 
+Dem federführenden Ausschuss wird die Ablehnung des Antrags empfohlen.
+ 
+ 
+Hippe
+Ausschussvorsitzender</field> 
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4674&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1383</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">1776</field>  
+  <field name="parteien">1</field>   
 </doc></add>

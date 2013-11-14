@@ -104,6 +104,7 @@
 <field name="word">lehren</field>
 <field name="word">schutzwürdige</field>
 <field name="word">bebauung</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt:
  
 1.
@@ -143,10 +144,10 @@ Welche Auswirkungen auf die Vegetation am Hang zum Grünzug erwartet das Bezirks
   
 Welche Möglichkeiten sieht das Bezirksamt, damit protestierende Anwohnerinnen und Anwohner noch Einfluss auf Art und Umfang des Bauprojekts nehmen können?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4539&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1985</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

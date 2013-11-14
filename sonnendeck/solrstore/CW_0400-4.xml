@@ -63,6 +63,7 @@
 <field name="word">vieler</field>
 <field name="word">somit</field>
 <field name="word">folglich</field>
+  
   <field name="text_de">Die BVV m
 ö
 ge beschlie
@@ -116,10 +117,10 @@ s
 ü
 berdacht werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4664&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1015</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

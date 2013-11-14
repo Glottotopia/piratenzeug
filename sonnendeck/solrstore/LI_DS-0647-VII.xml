@@ -64,6 +64,7 @@
 <field name="word">solche</field>
 <field name="word">zeitlicher</field>
 <field name="word">sitzunge</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung 
 wolle
  beschließen: 
@@ -88,10 +89,10 @@ chriftliche Antwort auf solche
  eine verbesserte Informationsmöglichkeit schaffen und die  Antworten zeitnah und langfristig dokumentieren.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5309&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1090</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

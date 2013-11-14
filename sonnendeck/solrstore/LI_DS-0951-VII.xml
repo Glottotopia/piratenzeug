@@ -96,6 +96,7 @@
 <field name="word">mittlerweile</field>
 <field name="word">ausschusses</field>
 <field name="word">offene</field>
+  
   <field name="text_de">Die  Drucksache 176/VII - offene und maschinenlesbare Bezirkshaushaltsrechnungen - eingereicht durch die Fraktion PIRATEN Lichtenberg wurde durch die BVV in der Sitzung 
 28.06.2012
  mit leichten Änderungen beschlossen. Nach den einzusenden Unterlagen gab es von August 2012 bis Oktober 2012 div. Schriftverkehr mit der zuständigen Senatsverwaltung für Finanzen. Diese zeigte sich offen für das Anliegen.
@@ -119,10 +120,10 @@ Wann ist mit der Umsetzung
  in Hinblick auf künftig vorzulegende Bezirkshaushaltsrechnungen definitiv zu rechnen?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5613&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1868</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

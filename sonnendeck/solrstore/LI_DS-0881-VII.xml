@@ -59,6 +59,7 @@
 <field name="word">ehem</field>
 <field name="word">straßenabschnitt</field>
 <field name="word">beschriebene</field>
+  
   <field name="text_de">Mit der Umgestaltung des Anton-Saefkow-Platzes zur Fußgängerzone ist für einige Gewerbetreibenden im dortigen ehem. Kaufhausgebäude die ortsnahe Warenanlieferung derzeit nur noch verkehrswidrig möglich. Die von südöstlicher Seite unmittelbar an den Platz führende Straße ist derzeit nur für Fußgänger freigegeben. Eine Beschilderung für diesen Straßenabschnitt mit dem Hinweis "Frei für Lieferverkehr" sollte seit Herbst letzten Jahres angebracht sein. Dieses Hinweisschild fehlt jedoch bis heute.
  
 Das Bezirksamt wird
@@ -71,10 +72,10 @@ esultierend das Ordnungsamt zurzeit
 2. Wann ist mit der bereits zugesagten eindeutigen Beschilderung zu rechnen?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5543&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">792</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

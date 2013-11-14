@@ -16,6 +16,7 @@
 <field name="word">anträge</field>
 <field name="word">vorlagen</field>
 <field name="word">gewertet</field>
+  
   <field name="text_de">D
 ie Geschäftsordnung 
 ist 
@@ -24,10 +25,10 @@ wie folgt zu ergänzen:
 § 20 Anträge, Absatz 6, neu Satz 3
  
 Vorlagen, die nicht ausdrücklich als Schlussbericht gekennzeichnet sind, werden als Zwischenbericht gewertet.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7318&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">199</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

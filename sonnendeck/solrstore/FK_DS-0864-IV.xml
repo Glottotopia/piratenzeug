@@ -37,6 +37,7 @@
 <field name="word">zentrale</field>
 <field name="word">vorschlag</field>
 <field name="word">software</field>
+  <field name="ausschuss">Personal</field>
   <field name="text_de">Die Bezirksverordn
 etenversammlung mö
 ge beschließ
@@ -92,10 +93,10 @@ Das Bezirksamt wird beauftragt, der BVV bis zu ihrer Sitzung im Februar 2014 ein
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5651&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1183</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

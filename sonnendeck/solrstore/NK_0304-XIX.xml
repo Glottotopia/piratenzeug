@@ -31,6 +31,7 @@
 <field name="word">zelnen</field>
 <field name="word">neukö</field>
 <field name="word">veranschlagt</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1.
@@ -61,10 +62,10 @@ nahmen zu erzielen bzw. welche Ziele verfolgt das Bezirksamt mit den ein
 zelnen Maß
 nahmen?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3927&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">712</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

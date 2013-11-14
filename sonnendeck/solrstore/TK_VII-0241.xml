@@ -48,6 +48,7 @@
 <field name="word">möglichkeiten</field>
 <field name="word">vollzeitstellen</field>
 <field name="word">arbeitsamt</field>
+  
   <field name="text_de">1)
      
 Mit wie vielen Arbeitsräumen sind die einzelnen Verwaltungsstandorte (außer Rathäuser, Einwohnermeldeämter und Arbeitsamt) ausgestattet und für wie viele Mitarbeiter sind diese ausgelegt?
@@ -61,10 +62,10 @@ Welche Betriebskosten könnte der Bezirk einsparen, wenn anstelle der Schließun
      
 Wie viele Vollzeitstellen in der Fazilitätenverwaltung könnten durch diese Reduzierung der Verwaltungsstandorte eingespart werden?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4513267,13.5893905</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4340&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">829</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -38,6 +38,7 @@
 <field name="word">seitens</field>
 <field name="word">gymnasien</field>
 <field name="word">eingerichtet</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1.
@@ -60,10 +61,10 @@ Was wird seitens solcher Schulen unternommen, um unter diesen Bedingungen die gl
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3864&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">613</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

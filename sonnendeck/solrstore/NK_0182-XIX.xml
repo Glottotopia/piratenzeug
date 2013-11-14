@@ -34,6 +34,7 @@
 <field name="word">keinen</field>
 <field name="word">wohnhaften</field>
 <field name="word">schulpflicht</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, umgehend ihrer Beschulungspflicht
@@ -51,10 +52,10 @@ ausreichend Schulplätze für alle hier wohnhaften schulpflichtigen
  
 Schülerinnen und Schüler zur Verfügung stellen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3805&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">506</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

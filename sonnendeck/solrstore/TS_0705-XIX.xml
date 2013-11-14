@@ -253,6 +253,7 @@
 <field name="word">konzept</field>
 <field name="word">restlichen</field>
 <field name="word">erübrigen</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1. (a) Wenn der Erfolg des Bürgerhaushalts nicht an der Höhe der für den Burgerhaushalt verausgabten Mittel zu bemessen ist - an was ist er dann zu bemessen?
@@ -372,10 +373,10 @@ Bürgerhaushalts im Bezirk Tempelhof-Schöneberg von Berlin
               
  Moderne Finanzbeziehungen in Berlin, Rat der Bürgermeister*innen, 
 17.04.2008</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4501&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">6208</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

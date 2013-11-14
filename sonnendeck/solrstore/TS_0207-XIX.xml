@@ -42,6 +42,7 @@
 <field name="word">bundesregierung</field>
 <field name="word">vieler</field>
 <field name="word">klimawandel</field>
+  
   <field name="text_de"> 
 Die Bezirksverordnetenversammlung möge beschließen:
  
@@ -59,10 +60,10 @@ Berlin die Forderung vieler politischer, kirchlicher und gesellschaftlicher Orga
      
 Berlin den Bundestag und die Bundesregierung auffordert, sich dafür einzusetzen, die Steuer auf nationaler, europäischer und internationaler Ebene zu verwirklichen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4003&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">781</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

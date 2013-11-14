@@ -18,6 +18,7 @@
 <field name="word">sitzungsprotokolle</field>
 <field name="word">transparent</field>
 <field name="word">ausführlich</field>
+  <field name="ausschuss">transparente</field>
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:
@@ -30,10 +31,10 @@ fentlich.
  
 Die Sitzungsprotokolle sind ausführlich und transparent zu gestalten.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3133&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">252</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

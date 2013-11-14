@@ -76,6 +76,7 @@
 <field name="word">sekretär</field>
 <field name="word">eingega</field>
 <field name="word">tätig</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die BVV hat in ihrer Sitzung am 
 16. Mai
  2013 beschlossen:
@@ -117,10 +118,10 @@ lich auf Sie zukommen.
  
 Das Bezirksamt bedauert die Entscheidung, wird aber weiterhin bei den Beratungen zum Kleingartenentwicklungsplan im Sinne des Beschlusses tätig werden und bittet
 , den Beschluss als erledigt zu betrachten.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4759&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1364</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

@@ -83,6 +83,7 @@
 <field name="word">konzept</field>
 <field name="word">bezirkes</field>
 <field name="word">schrittweise</field>
+  <field name="ausschuss">Verkehr</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird ersucht, ein Konzept zur schrittweisen Schaffung von 400 neuen Fahrradabstellplätzen im Bezirk in den nächsten vier Jahren vorzulegen. Die Abstellplätze sollen möglichst kleinteilig angebracht werden. Das Konzept soll bis zum Herbst 2012 vorliegen und unter aktiver Einbeziehung des Fahr-Rats und der Neuköllner Öffentlichkeit erarbeitet werden.
@@ -92,10 +93,10 @@ Der Radverkehr nimmt in Neukölln wie in ganz Berlin seit Jahren stark zu. Darau
  
 B. sog. Kreuzberger Bügel) vorzulegen. Hierbei sollen insbesondere ohnehin anstehende Umbau- und Ausbesserungsmaßnahmen des Bezirkes sowie andere Straßenbaumaßnahmen berücksichtigt werden und geprüft werden, ob in dessen Zuge neue Fahrradabstellplätze geschaffen werden können.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3833&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1268</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

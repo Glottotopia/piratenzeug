@@ -82,6 +82,8 @@
 <field name="word">wochenzeitungen</field>
 <field name="word">bebauungsplänen</field>
 <field name="word">anhaltspunkte</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">1.
      
 Das Bezirksamt wird ersucht, 2 Wochen vor Beschlussfassung von allen Bauvorbescheiden dem Ausschuss für Stadtentwicklung und Grünanlagen diese zur Kenntniss zu geben. Auch bei Bebauungsplänen ist der Ausschuss für Stadtentwicklung und Grünanlagen frühzeitig über sämtliche Auswirkungen und 
@@ -102,10 +104,10 @@ Zu Informieren ist ggf. über lokale Wochenzeitungen, Rundfunk, Aushänge im Bez
 Frühzeitig ist, wenn das Bezirksamt Kenntnis darüber hat, dass das Bauvorhaben dort verwirklicht werden soll und bereits Anhaltspunkte vorliegen wie das Objekt genutzt werden soll, welche Größe es ca. haben wird.
  
 3. Daten Dritter in Verträgen sind ggf. zu schwärzen / unkenntlich zu machen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3200&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1781</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

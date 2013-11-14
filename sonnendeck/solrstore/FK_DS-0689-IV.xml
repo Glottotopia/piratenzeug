@@ -236,6 +236,7 @@
 <field name="word">schulz</field>
 <field name="word">methodisch</field>
 <field name="word">bildenden</field>
+  
   <field name="text_de">Ich frage das Bezirksamt
  
 1)
@@ -421,10 +422,10 @@ Wird ein Computerprogramm von einem Arbeitnehmer in Wahrnehmung seiner Aufgaben 
 Absatz 1 ist auf Dienstverhältnisse entsprechend anzuwenden. 
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5474&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">5421</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

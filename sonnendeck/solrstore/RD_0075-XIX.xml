@@ -82,6 +82,7 @@
 <field name="word">blankenburg</field>
 <field name="word">plettenberger</field>
 <field name="word">wiesbadener</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:
@@ -328,10 +329,10 @@ Kirchenkreis Reinickendorf
  -
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3130&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">3337</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

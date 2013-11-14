@@ -63,6 +63,7 @@
 <field name="word">geht</field>
 <field name="word">landesbeirat</field>
 <field name="word">geeignete</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Dem Bezirksamt wird empfohlen, den Senat aufzufordern, sich gegen die von der BVG geplante Abschaffung des automatischen Absenkens der Busse einzusetzen.
@@ -74,10 +75,10 @@ Begründung:
 Die von Deutschland 2009 unterzeichnete UN-Behindertenkonvention und das Berliner Landesgleichberechtigungsgesetz setzen sich für geeignete Maßnahmen ein, um Menschen mit Behinderungen gleichberechtigt Zugang zu öffentlichen Verkehrsmitteln zu ermöglichen.
 Seit nun einem Jahr gibt es dazu zahlreiche Resolutionen von Behindertenverbänden, dem Landesbeirat für Menschen mit Behinderungen, dem Landesseniorenbeirat, des Berliner Beirats für Familienfragen u.a.
 Es geht allen gemeinsam darum, die bisherige Barrierefreiheit zu bewahren und nicht abzuschaffen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4563&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1001</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

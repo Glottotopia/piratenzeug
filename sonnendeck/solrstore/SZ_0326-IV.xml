@@ -92,6 +92,8 @@
 <field name="word">ausschusses</field>
 <field name="word">steglitz</field>
 <field name="word">gefangen</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Verkehr</field>
   <field name="text_de"> 
 Die BVV möge beschließen:
  
@@ -167,10 +169,10 @@ Das Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetze
 Rögner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4362&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2711</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

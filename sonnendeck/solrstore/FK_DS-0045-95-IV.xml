@@ -15,6 +15,7 @@
 <field name="word">bürgerdeputierten</field>
 <field name="word">barbara</field>
 <field name="word">möge</field>
+  <field name="ausschuss">Eingaben</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
  
@@ -24,10 +25,10 @@ Frau Barbara Hampf wird zur stellv. Bürgerdeputierten in den Ausschuss für Ein
 Die Bezirksverordnetenversammlung beschließt:
  
 Frau Barbara Hampf wird zur stellv. Bürgerdeputierten in den Ausschuss für Eingaben und Beschwerden gewählt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5248&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">325</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -241,6 +241,7 @@
 <field name="word">umfeld</field>
 <field name="word">notwendig</field>
 <field name="word">tasköprü</field>
+  
   <field name="text_de"> 
 Die Bezirksverordnetenversammlung wolle beschließen:
  
@@ -270,10 +271,10 @@ Fraktionsübergreifende Abstimmungen machten diese späte Einreichung des Antrag
  
 2
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4728&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">4133</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

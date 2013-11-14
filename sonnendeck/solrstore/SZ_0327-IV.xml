@@ -75,6 +75,7 @@
 <field name="word">zehlendorf</field>
 <field name="word">konzept</field>
 <field name="word">gestalteten</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird aufgefordert, für die Grünflächen im Bezirk ein Interessensbekundungsverfahren für Bürger, 
@@ -116,10 +117,10 @@ Der Antrag wurde am
 Dr. Kersten
 Stellv. Ausschussvorsitzende
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4363&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1516</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

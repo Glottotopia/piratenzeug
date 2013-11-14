@@ -48,6 +48,7 @@
 <field name="word">ziegenhof</field>
 <field name="word">jugendhilfeausschuss</field>
 <field name="word">hler</field>
+  
   <field name="text_de">D
 ie BVV 
 hat in ihrer Sitzung am 
@@ -98,10 +99,10 @@ Bezirksstadtr
 tin
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4610&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">898</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

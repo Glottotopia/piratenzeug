@@ -32,6 +32,7 @@
 <field name="word">beteiligt</field>
 <field name="word">kommt</field>
 <field name="word">solche</field>
+  
   <field name="text_de">1.
    
 Wie kann es vorkommen, dass der Bezirk ein Interessenbekundungsverfahren zum Betrieb von FIZen startet, ohne zuständig zu sein?
@@ -53,10 +54,10 @@ Hatten sich auch die im Bezirk bereits existenten FIZen an dem Interessensbekund
 Ist dem Bezirksamt bekannt, ob sich die im Be
 zirk bereits existenten FIZen an
  dem Interessensbekundungsverfahren des Senats beteiligt haben?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7044&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">667</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

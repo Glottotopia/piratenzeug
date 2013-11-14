@@ -31,6 +31,7 @@
 <field name="word">darauf</field>
 <field name="word">ndlicherweise</field>
 <field name="word">stadtentwicklung</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die BVV m
 ö
 ge beschlie
@@ -64,10 +65,10 @@ kommnissen stark verunsichert. Der Bezirk hat bereits viele Kleingartenfl
 ä
 chen verloren und muss darauf hinwirken, dass die verbliebenen verbindlich gesichert werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4774153,13.3283935</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4760&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">532</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

@@ -39,6 +39,7 @@
 <field name="word">rund</field>
 <field name="word">speziellen</field>
 <field name="word">bedü</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1) 
@@ -78,10 +79,10 @@ nnen?
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4212&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">718</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

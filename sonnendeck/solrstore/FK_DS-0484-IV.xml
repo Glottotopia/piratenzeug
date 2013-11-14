@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0484/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Kollaborative Textarbeit ermöglichen</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -124,6 +124,8 @@
 <field name="word">etherpad</field>
 <field name="word">beamer</field>
 <field name="word">zugreifen</field>
+  <field name="ausschuss">Personal</field>
+<field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Die BVV beauftragt das Bezirksamt, die rechtlichen, technischen und sachlichern Grundlagen für eine kollaborative Textarbeit an Anträgen während von Ausschusssitzungen zu prüfen. Dabei ist insbesondere auf Gleichberechtigung der Ausschussteilnehmer, Sicherheits- und Datenschutzaspekte zu achten. Bei rechtlicher Zulässigkeit soll mit der technischen Umsetzung begonnen werden, sobald in den Ausschussräumen eine zuverlässige drahtlose Internetverbindung zur Verfügung steht.
@@ -151,10 +153,10 @@ BüTra
 13.12.2012
  
 Vom Antragsteller zurückgezogen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5244&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2219</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

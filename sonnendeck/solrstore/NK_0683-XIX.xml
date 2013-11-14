@@ -43,6 +43,7 @@
 <field name="word">unterbrochen</field>
 <field name="word">teilweise</field>
 <field name="word">fahrradstraße</field>
+  <field name="ausschuss">Verkehr</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt möge sich dafür einsetzen,
@@ -53,10 +54,10 @@ Begründung
 Da die Sonnenallee eine sehr radfahrerunfreundliche Straße ist und die Weserstraße als Parallelstraße mit Fahrradwegen sehr oft zugeparkt und die Radwege teilweise in schlechtem Zustand sind, wäre eine Fahrradstraße hier eine kostengünstige und attraktive Alternative. Außerdem wird die Strecke bereits jetzt stark von Radfahrern frequentiert.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4859653,13.4301048</field>
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4306&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">663</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

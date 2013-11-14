@@ -17,12 +17,13 @@
 <field name="word">elektronischer</field>
 <field name="word">mitteilung</field>
 <field name="word">büro</field>
+  
   <field name="text_de">Da der Text dem Büro der BVV nicht in elektronischer Form vorlag, entnehmen Sie bitten den Inhalt der Mitteilung zur Kenntnisnahme der beigefügten Anlage.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4135&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">156</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

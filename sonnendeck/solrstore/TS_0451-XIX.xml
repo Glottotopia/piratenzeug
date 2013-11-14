@@ -81,6 +81,7 @@
 <field name="word">kiezfonds</field>
 <field name="word">sinnvoller</field>
 <field name="word">wieviel</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt':
  
 Gegeben, dass der Ansatz von 750.000 für städtebauliche Einzelmaßnahmen (Haushaltstitel 54010 / 423) in 2010 nicht ausgeschöpft, weil verschiedene Maßnahmen in 2010 nicht umgesetzt werden konnten ausgeschöpft werden, konnten diese denn inzwischen umbesetzt werden? Welches sind diese die Maßnahmen und wieviel haben sie gekosten?
@@ -95,10 +96,10 @@ vorgesehen sind?
  
 Gibt es weitere derartige Kiezfonds oder warum wird hier ein so bestimmtes Klientel eines bestimmten Kiezes begünstigt, andere jedoch nicht? Wäre es nicht sinnvoller, einen allgemein, bezirksweit zugänglichen Fonds einzurichten, der alle Menschen einbezieht?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4247&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1519</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

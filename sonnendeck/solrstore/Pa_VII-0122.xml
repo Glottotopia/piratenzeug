@@ -95,6 +95,7 @@
 <field name="word">möglichen</field>
 <field name="word">fertigen</field>
 <field name="word">unverzüglich</field>
+  
   <field name="text_de">Der zeitweilige Geschäftsordnungsausschuss hat die Drucksache auf seiner Sitzung am 
 31.01.2013
  beraten.
@@ -115,10 +116,10 @@ Das Bezirksamt darf die Einsichtnahme verweigern, wenn es durch Beschluss festst
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3201&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1906</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

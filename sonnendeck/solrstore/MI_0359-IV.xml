@@ -36,6 +36,7 @@
 <field name="word">öffentlich</field>
 <field name="word">geschäftsordnung</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
 Die Bezirksverordnetenversammlung möge eine Änderung des
 § 12, Absatz 4 der Geschäftsordnung der Bezirksverordnetenversammlung Mitte von Berlin beschließen:
@@ -45,10 +46,10 @@ ten in der Berliner Verwaltung. Ein aus diesen Gründen stattfindender
 nichtöffentlicher Teil
  ist an das Ende einer Sitzung zu verschieben.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4994&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">663</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

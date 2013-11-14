@@ -55,14 +55,15 @@
 <field name="word">bleiben</field>
 <field name="word">planung</field>
 <field name="word">bebauung</field>
+  
   <field name="text_de"> 
 Die BVV Pankow weist  den Einschüchterungsversuch des Investors Groth zurück, der  gegen Meinungsäußerungen der "Bürgerwerkstatt Mauerpark Fertigstellen" juristisch vorgegangen ist. Es muss weiterhin das Recht der Bürgerwerkstatt bleiben, sich neben der Planung des  fertigzustellenden Parkteils südlich des Gleimtunnels, mit der problematischen Bebauung nördlich des Tunnels zu beschäftigen und die erarbeiteten Stellungnahmen öffentlich bekannt zu machen. 
 Die BVV Pankow fordert die Vorsteherin auf, sich schützend vor das bürgerschaftliche Engagement der Bürgerwerkstatt zu stellen. Weiterhin soll sich das Bezirksamt gegenüber dem Senat dafür einsetzen, dass weitere Versuche der Einflussnahme des Investors auf die Arbeit der Bürgerwerkstatt unterbunden werden. Dies ist auch gegenüber der Öffentlichkeit deutlich zu machen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3584&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">834</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

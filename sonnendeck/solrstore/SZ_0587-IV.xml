@@ -88,6 +88,7 @@
 <field name="word">zentrale</field>
 <field name="word">reaktor</field>
 <field name="word">aufgestellten</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de"> 
  
 Die BVV möge beschließen:
@@ -165,10 +166,10 @@ foil) gemäß DIN 4844 zu ergänzen
 Rögner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4160628,13.1462268</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4623&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2722</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

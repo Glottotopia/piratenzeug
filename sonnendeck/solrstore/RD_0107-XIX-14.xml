@@ -9,13 +9,14 @@
 <field name="word">text</field>
 <field name="word">siehe</field>
 <field name="word">sachverhalt</field>
+  
   <field name="text_de">Sachverhalt:
  
 Text siehe Anlage</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3201&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">32</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

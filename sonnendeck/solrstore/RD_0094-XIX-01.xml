@@ -36,6 +36,9 @@
 <field name="word">lokale</field>
 <field name="word">verfügung</field>
 <field name="word">verwendung</field>
+  <field name="ausschuss">Bürgerdienste</field>
+<field name="ausschuss">Sozialraumorientierung</field>
+<field name="ausschuss">transparente</field>
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung
@@ -61,10 +64,10 @@ Berlin, den
 _________________________________________
 Dr. Hinrich Lühmann (Bezirksverordnetenvorsteher)
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3168&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">605</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

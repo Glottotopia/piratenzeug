@@ -94,6 +94,7 @@
 <field name="word">erwächst</field>
 <field name="word">darstellung</field>
 <field name="word">dokumente</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, Veröffentlichungen von Dokumenten und anderen Daten zukünftig mit einer expliziten Angabe zur Weiterverwertungsmöglichkeit zu versehen. Dies kann z
@@ -155,10 +156,10 @@ B
  
 Das Bezirksamt wird gebeten zu prüfen, welche alternativen Lizenzmodelle zur Verwendung in diesem Sinne denkbar sind (z.Bsp. creative commons).
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4959&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2431</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

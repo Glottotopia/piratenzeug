@@ -158,6 +158,7 @@
 <field name="word">gung</field>
 <field name="word">ndlich</field>
 <field name="word">konzept</field>
+  <field name="ausschuss">Tiefbau</field>
   <field name="text_de">Die BVV 
 hat in ihrer Sitzung am 13. Dezember 2012 beschlossen
 :
@@ -312,10 +313,10 @@ rgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4662&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">3298</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

@@ -29,6 +29,7 @@
 <field name="word">gebildet</field>
 <field name="word">bestehender</field>
 <field name="word">davon</field>
+  
   <field name="text_de">Es wird ein aus 
 13
  
@@ -45,10 +46,10 @@ Mitgliedern bestehender zeitweiliger Geschäftsordnungsausschuss gebildet. Davon
  
 Die Aufgabe des Ausschusses besteht in der Erarbeitung eines Entwurfs einer Geschäftsordnung für die VII. Wahlperiode auf der Basis der vorläufigen Geschäftsordnung. 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3085&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">471</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

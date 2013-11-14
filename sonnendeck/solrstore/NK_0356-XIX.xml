@@ -22,6 +22,7 @@
 <field name="word">abschluss</field>
 <field name="word">liegenschaften</field>
 <field name="word">selbst</field>
+  
   <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
 Ablehnung
  des Antrages in folgender Fassung:
@@ -31,10 +32,10 @@ Das Bezirksamt wird aufgefordert, keine bezirklichen Grundstücke oder Gebäude 
 B. durch den Abschluss von Erbpachtverträgen
 .
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3979&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">355</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

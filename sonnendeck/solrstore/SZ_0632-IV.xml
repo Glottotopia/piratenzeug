@@ -95,6 +95,7 @@
 <field name="word">jenseits</field>
 <field name="word">steglitz</field>
 <field name="word">resolution</field>
+  
   <field name="text_de"> 
 Resolution
  
@@ -173,10 +174,10 @@ Wir appellieren an den die Räumung betreibenden Vermieter
 Rögner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4295317,13.3199235304534</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4668&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">3064</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

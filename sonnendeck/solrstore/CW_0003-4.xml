@@ -51,6 +51,19 @@
 <field name="word">geschäftsordnung</field>
 <field name="word">kultur</field>
 <field name="word">gesundheit</field>
+  <field name="ausschuss">Wirtschaft</field>
+<field name="ausschuss">Schule</field>
+<field name="ausschuss">Gender</field>
+<field name="ausschuss">Soziales</field>
+<field name="ausschuss">Eingaben</field>
+<field name="ausschuss">Stadtentwicklung</field>
+<field name="ausschuss">Haushalt</field>
+<field name="ausschuss">Bürgerdienste</field>
+<field name="ausschuss">Rechnungsprüfung</field>
+<field name="ausschuss">Geschäftsordnung</field>
+<field name="ausschuss">Sport</field>
+<field name="ausschuss">Weiterbildung</field>
+<field name="ausschuss">Tiefbau</field>
   <field name="text_de">Die BVV 
 beschließt
 :
@@ -149,10 +162,10 @@ Bestehend aus 9 Mitgliedern im Verhältnis 3:3:2:1 nebst 6 Bürgerdeputierten de
  der freien Jugendhilfe
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4267&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">2379</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

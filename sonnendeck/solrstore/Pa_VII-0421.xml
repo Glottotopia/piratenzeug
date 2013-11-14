@@ -23,6 +23,7 @@
 <field name="word">keinen</field>
 <field name="word">eingetragene</field>
 <field name="word">anträge</field>
+  <field name="ausschuss">Finanzen</field>
   <field name="text_de">dass Einzelpersonen und eingetragene Vereine, die 
 keinen
  Freistellungsbescheid des Finanzamts haben, Anträge auf Förderung bezirklicher Frauen- und Migran
@@ -30,10 +31,10 @@ t*
 innenprojekte in Pankow stellen können. Desweiteren sollen die Au
 s
 schreibungen für die Projektbewerbungen auch in Englisch veröffentlicht werden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3505&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">307</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

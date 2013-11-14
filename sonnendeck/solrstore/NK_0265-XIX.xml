@@ -27,6 +27,7 @@
 <field name="word">getätigt</field>
 <field name="word">schlussberichten</field>
 <field name="word">schriftlichen</field>
+  
   <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
 Ablehung
  
@@ -40,10 +41,10 @@ Schlussberichten sowie - wenn Ausgaben bereits getätigt worden sind - bei Zwisc
 geeigneten Tätigkeiten für die 
 BVV, die für die Umsetzung entstandenen Aufwendungen mit  Haushaltspositionen auszuweisen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3888&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">412</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

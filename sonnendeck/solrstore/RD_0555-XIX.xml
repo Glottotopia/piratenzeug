@@ -1,0 +1,56 @@
+<add><doc>
+  <field name="id">RD_0555/XIX</field>  
+  <field name="typ">Ersuchen</field>  
+  <field name="titel">Radwege B 96</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">anzustreben</field>
+<field name="word">teilsanierung</field>
+<field name="word">sollte</field>
+<field name="word">beschließen</field>
+<field name="word">dafür</field>
+<field name="word">möglich</field>
+<field name="word">finanzierung</field>
+<field name="word">wolle</field>
+<field name="word">besonders</field>
+<field name="word">entsprechenden</field>
+<field name="word">inwieweit</field>
+<field name="word">sachverhalt</field>
+<field name="word">gefährliche</field>
+<field name="word">ziert</field>
+<field name="word">fina</field>
+<field name="word">saniert</field>
+<field name="word">titel</field>
+<field name="word">senat</field>
+<field name="word">radweg</field>
+<field name="word">prüfen</field>
+  
+  <field name="text_de">Sachverhalt:
+ 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Das Bezirksamt wird ersucht
+,
+ sich bei den entsprechenden Stellen dafür einzusetzen, zu prüfen
+, inwieweit
+ der
+ 
+Radweg auf der B96 saniert und dies vom Senat fina
+n
+ziert werden kann.
+ 
+Sollte eine Finanzierung durch den Senat nicht möglich sein, ist eine Teilsanierung aus Kap
+i
+tel 4212 Titel 521
+ 
+01 für die besonders gefährliche
+n
+ Stellen anzustreben.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3712&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">432</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -242,6 +242,7 @@
 <field name="word">ndlich</field>
 <field name="word">unsere</field>
 <field name="word">llen</field>
+  
   <field name="text_de">Die BVV 
 hat in ihrer Sitzung am 20. September 2012 beschlossen
 :
@@ -460,10 +461,10 @@ rgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4904058,13.3142256</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4612&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">4583</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

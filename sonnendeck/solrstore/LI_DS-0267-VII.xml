@@ -76,6 +76,7 @@
 <field name="word">befestigen</field>
 <field name="word">richtung</field>
 <field name="word">unbefestigte</field>
+  
   <field name="text_de">Der Hauptausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme der DS/0267/VII in folgender geä
 nderten Fassung:
  
@@ -126,10 +127,10 @@ Abstimmungsergebnis: 12
  
 0
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4928&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1466</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

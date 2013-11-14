@@ -65,6 +65,7 @@
 <field name="word">öffentlichen</field>
 <field name="word">mehrheitlich</field>
 <field name="word">gewordene</field>
+  
   <field name="text_de"> 
 Die Bezirksverordnetenversammlung wolle beschließen:
 Das Bezirksamt wird ersucht sich bei den zuständigen Stellen dafür einzusetzen, dass die  begonnene Graffiti-Kunst unter der Autobahnbrücke in der Rubenstrasse, Ecke Vorarlberger Damm, Asyl 42 Snowden, vervollständigt wird, damit das durchaus werte Ansinnen des dilettantischen Künstlers, 
@@ -84,10 +85,10 @@ Begründung
 :
 ggfl. mündlich.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4591&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">983</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

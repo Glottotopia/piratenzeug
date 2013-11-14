@@ -63,6 +63,7 @@
 <field name="word">vertraulichen</field>
 <field name="word">geeignete</field>
 <field name="word">ermuntern</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt, auf der Spandauer Bezirks-Website an geeigneter Stelle auf politisch neutrale und möglichst auch kostenlose Informations- und Schulungsangebote zum Thema Kryptografie hinzuweisen - auch wenn es diese Technik selbst noch nicht unterstützt - und die Bürger und die eigenen Mitarbeiter damit zu ermuntern, sich die nötigen Kenntnisse zum Schutz ihrer vertraulichen Daten und ihrer Identität im Internet anzueignen.
  
 Das Bezirksamt möge hierzu geeignete Anbieter oder Informationsportale ermitteln und diese Auswahl regelmäßig prüfen. Anbieten würden sich unter anderem diese:
@@ -82,10 +83,10 @@ Informationen (für höheren technischen Anspruch):
 http://www.openpgp-schulungen.de
  
 ggf. lokale oder eigene Angebote</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7462&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">995</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

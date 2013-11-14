@@ -18,6 +18,7 @@
 <field name="word">unverzüglich</field>
 <field name="word">seiner</field>
 <field name="word">enthaltungen</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Der Ausschuss für Bürgerbeteiligung, Bürgerdienste, Wohnen und GO hat die Drucksache auf seiner Sitzung am 
 13.09.2012
  beraten.
@@ -29,10 +30,10 @@ JA 8  /  NEIN 0  /  ENTHALTUNGEN 4
  
  
 Das Bezirksamt wird ersucht, Bezirksamtsbeschlüsse grundsätzlich auf der Internetseite des Bezirksamtes unverzüglich zu veröffentlichen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3267&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">391</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

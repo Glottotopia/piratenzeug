@@ -21,6 +21,7 @@
 <field name="word">verkehrsausschuss</field>
 <field name="word">herabzusetzen</field>
 <field name="word">ruppiner</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de">Sachverhalt:
  
 Der Verkehrsausschuss empfiehlt der
@@ -30,10 +31,10 @@ enversammlung, das Ersuchen - Drucksache Nr. 0125/XIX -
 Das Bezirksamt wird ersucht, während der Baumaßnahmen auf der Ruppiner Chaussee, die Geschwindigkeit auf der Hennigsdorfer Straße sowie auf der Heiligenseestraße, in der Zeit von 22:00 Uhr bis 06:00 Uhr, auf 30 km/h herabzusetzen.
  
 als erledigt zu betrachten.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.6011296,13.2464016</field>
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3186&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">388</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

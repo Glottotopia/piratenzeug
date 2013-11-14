@@ -89,6 +89,7 @@
 <field name="word">weiteren</field>
 <field name="word">naturrangers</field>
 <field name="word">brache</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1. Gegeben den presse-wirksamen Hilferuf von
@@ -141,10 +142,10 @@ Gibt es beispielsweise Ü
 berlegungen, das vorbildliche und ebenfalls angrenzende Unternehmensnetzwerk "Motzener Strasse" in die Pflicht zu nehmen bzw. zu facilitieren, im Zuge von Carbon-Trad
 ing nach dem Kyoto Protokoll die Planungssicherheit des Naturrangers und seines Parks zu gewä
 r leisten?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4092125,13.3760905</field>
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4163&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1554</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

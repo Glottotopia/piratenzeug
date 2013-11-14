@@ -58,6 +58,7 @@
 <field name="word">erstellt</field>
 <field name="word">bezirkes</field>
 <field name="word">berlinweite</field>
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de"> 
 Die BVV hat in ihrer Sitzung am 
 21.02
@@ -108,10 +109,10 @@ Bezirksbürgermeister
               
 Bezirksstadtrat
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4683&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1146</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

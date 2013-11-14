@@ -90,6 +90,7 @@
 <field name="word">folgendes</field>
 <field name="word">landschaftsplanerischen</field>
 <field name="word">olivaer</field>
+  <field name="ausschuss">Tiefbau</field>
   <field name="text_de">D
 ie BVV 
 hat in ihrer Sitzung am 15. November 2012 beschlossen
@@ -139,10 +140,10 @@ Bezirksbürgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4995759,13.3147687</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4645&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1775</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

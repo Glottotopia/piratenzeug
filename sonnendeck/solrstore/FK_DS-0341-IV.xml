@@ -141,6 +141,7 @@
 <field name="word">ziel</field>
 <field name="word">planung</field>
 <field name="word">darstellung</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1.
@@ -263,10 +264,10 @@ Bezirksver
 ordnete, ich habe neun mü
 ndliche Anfragen in dieser Runde und es war mir bis gestern auf heute nicht mö
 glich. Ich will das aber gerne nachreichen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5088&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2809</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -139,6 +139,7 @@
 <field name="word">einzustufen</field>
 <field name="word">schulg</field>
 <field name="word">freiwillig</field>
+  <field name="ausschuss">Schule</field>
   <field name="text_de">Die in der o.g. Drucksache geforderte Aufteilung der Einschulungsbereiche ist wie folgt umgesetzt worden:
  
 Mit der Gründung der Gemeinschaftsschule Schöneberg zum Schuljahr 2012/2013 war der Einschulungsbereich der ehemaligen Peter-Paul-Rubens-Schule aufgehoben. Ca. 160 Schulanfänger, die dem ehemaligen Einzugsbereich dieser Schule angehörten, sind einem neuen eigenen Einschulungsbereich zuzuordnen. Die rechtliche Grundlage ergibt sich aus § 17a in Verbindung mit § 18 SchulG, dass die Gemeinschaftsschule einen Schulversuch darstellt und die Teilnahme am Schulversuch freiwillig ist. Damit hat eine Gemeinschaftsschule keinen eigenen Einschulungsbereich. Die Aufnahme erfolgt nach § 17a (5) SchulG.
@@ -163,10 +164,10 @@ Die Abstimmung mit der Abteilung Jugend, Ordnung, Bürgerdienste wurde im Rahmen
  eingeleitet.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4165&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">2793</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

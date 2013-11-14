@@ -75,6 +75,7 @@
 <field name="word">dringend</field>
 <field name="word">möchten</field>
 <field name="word">notwendig</field>
+  
   <field name="text_de">Die BVV möge beschließen
 , eine Pressemitteilung mit folgendem Text zu veröffentlichen:
 Pressemitteilung: Zugesagte Finanzausstattung der Bezirke umsetzen!
@@ -84,10 +85,10 @@ Im Interesse der Berlinerinnen und Berliner ist es dringend notwendig, eine Refo
  der Bezirke dauerhaft zusichert
 .
 Wir möchten die Mitglieder des Abgeordnetenhauses auffordern, den Plänen des Finanzsenators deutlich zu widersprechen und einen Landeshaushalt zu verabschieden, der eine Erhöhung der bezirklichen Zuweisungen um mindestens 50 Millionen Euro vorsieht.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4579&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1186</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

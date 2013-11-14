@@ -187,6 +187,7 @@
 <field name="word">naturschutzverbä</field>
 <field name="word">gesamten</field>
 <field name="word">bebauung</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de"> 
 Die BVV mö
 ge 
@@ -481,10 +482,10 @@ Rö
 gner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4263&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">5300</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

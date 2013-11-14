@@ -123,6 +123,8 @@
 <field name="word">berlins</field>
 <field name="word">baulichen</field>
 <field name="word">zweck</field>
+  <field name="ausschuss">Haushalt</field>
+<field name="ausschuss">Arbeit</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, bei zukünftigen Haushaltsplanentwürfen zu folgenden Einzeltiteln im Kommentar neben dem fachlichen Zweck und der gesetzlichen Grundlage auch das Berechnungsverfahren zur Ermittlung der Summe sowie dabei getroffene Annahmen bzw. Erfahrungswerte mit
@@ -165,10 +167,10 @@ Zu den Annahmen zählen insbesondere auch Fallzahlen sowie durchschnittliche Fal
 Begründung:
 Ohne die Hinterlegung der im Antrag geforderten Angaben können die Zahlen im Haushalt nicht sinnvoll nachvollzogen werden. Durch die Aufschlüsselung der Berechnungsgrundlagen kann der Haushalt für die Mitglieder der Bezirksverordnetenversammlung und die interessierten Bürgerinnen und Bürger besser nachvollzogen werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4457&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2880</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

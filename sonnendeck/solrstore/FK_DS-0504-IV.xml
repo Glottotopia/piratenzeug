@@ -138,6 +138,7 @@
 <field name="word">machen</field>
 <field name="word">organigramm</field>
 <field name="word">jedermann</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1.
@@ -171,10 +172,10 @@ Allerdings ist davon auszugehen, dass in nächster Zeit , geplant ist ja Mitte
 Info
 rmationen  unter Wahrung des Schutzes personenbezogener Daten und wird nur wenigen anderen Ausnahmen der Allgemeinheit zugänglich zu machen und zu verbreiten sind. Das Bezirksamt wird vor diesem Hintergrund sukzessive und im Rahmen der personellen Kapazitäten alle verfügbaren Daten und Listen unter Beachtung schutzwürdiger Belange für jedermann zugänglich auf der bezirklichen Internetseite veröffentlichen. Dazu gehören dann auch die Aktenpläne der einzelnen Organisationseinheiten. 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5265&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2390</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

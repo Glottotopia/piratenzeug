@@ -21,6 +21,7 @@
 <field name="word">hren</field>
 <field name="word">rundfunkgeb</field>
 <field name="word">tten</field>
+  
   <field name="text_de">Die 
 BVV
  
@@ -49,10 +50,10 @@ Judith St
 ckler
 Bezirksverordnetenvorsteherin
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4665&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">303</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

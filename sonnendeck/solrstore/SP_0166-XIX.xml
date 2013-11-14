@@ -73,6 +73,7 @@
 <field name="word">landeshau</field>
 <field name="word">eckwertebeschluss</field>
 <field name="word">verfahrens</field>
+  
   <field name="text_de">Das Bezirksamt war gem. o.g. BVV-Beschluss beauftragt "bei künftigen Haushaltsberatungen im Bezirk entsprechend des Verfahrens der Senatsverwaltung für Finanzen zum Landeshau
 s
 halt vorzugehen und folgende Unterlagen zeitgleich auch in maschinenlesbarer Form (.ods, .xls,
@@ -123,10 +124,10 @@ Das Bezirksamt
 Kleebank
 Bezirksbürgermeister
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6770&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1706</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

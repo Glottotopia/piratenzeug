@@ -43,15 +43,16 @@
 <field name="word">einräumung</field>
 <field name="word">mitfinanzierung</field>
 <field name="word">prüfen</field>
+  <field name="ausschuss">Schule</field>
   <field name="text_de">Die BVV möge beschließen:
 Das Bezirksamt wird ersucht festzustellen, ob bei Erklärung eines Verzichtes auf Leistungen aus dem 
 "Gesamtvertrag zur Einräumung und Vergütung von Ansprüchen nach § 53 UrhG"
  die vorgesehenen Finanzmittel zum Aufbau und zur Mitfinanzierung eines Kompetenzzentrums für freie Lehrmittel verwendet werden können.
 Das Bezirksamt wird weiterhin ersucht bei zentraler (Landes-) Vergabe der Entschädigungen aus dem Vertrag die Möglichkeit zu prüfen, ob die für den Bezirk vorgesehenen Budgets aus dem Landesbudget herausgelöst werden und nach eigenem Ermessen für Lehrmittel verwendet werden können. In diesem Fall soll überprüft werden, ob eine Vorabvergabe mit der Lehrmittelfreiheit der Schulen vereinbar ist.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4420&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">733</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

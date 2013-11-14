@@ -77,6 +77,7 @@
 <field name="word">gezielte</field>
 <field name="word">deutsc</field>
 <field name="word">verteilung</field>
+  <field name="ausschuss">Bildung</field>
   <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
 Ablehnung
  des Antrages in folgender Fassung:
@@ -116,10 +117,10 @@ ganismus) vorzugehen und aktiv für Toleranz und ein friedliches Miteinander zu 
 Das Bezirksamt wird gebeten, sich auf verstärkten Zuzug von Kindern nichtdeutscher Mutte
 r
 sprache ggf. auch aus anderen Ländern einzustellen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3787&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1293</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

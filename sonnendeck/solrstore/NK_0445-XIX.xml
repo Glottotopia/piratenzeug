@@ -91,6 +91,7 @@
 <field name="word">ausschusses</field>
 <field name="word">anheim</field>
 <field name="word">notwendig</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Die 
@@ -164,10 +165,10 @@ bersicht jä
 hrlich bekannt gegeben; dabei ist an
 zugeben, in welcher Weise sie erledigt wurden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4068&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1891</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

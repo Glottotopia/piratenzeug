@@ -1,42 +1,59 @@
 <add><doc>
   <field name="id">SZ_0702/IV</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Beschlussempfehlung_von_Ausschüssen</field>  
   <field name="titel">Straßenmarkierung Sundgauer Straße</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
   <field name="word">frühere</field>
 <field name="word">radfah</field>
+<field name="word">nein</field>
 <field name="word">sundgauer</field>
 <field name="word">beschließen</field>
 <field name="word">gesehen</field>
+<field name="word">beraten</field>
 <field name="word">piraten</field>
+<field name="word">köhne</field>
+<field name="word">annahme</field>
 <field name="word">besser</field>
+<field name="word">ausschussvorsitzender</field>
 <field name="word">lüders</field>
 <field name="word">versetzt</field>
 <field name="word">unfall</field>
 <field name="word">fahrern</field>
 <field name="word">zuständigen</field>
+<field name="word">empfohlen</field>
 <field name="word">geschehen</field>
 <field name="word">vermieden</field>
+<field name="word">enthaltung</field>
 <field name="word">zurück</field>
 <field name="word">zehlendorf</field>
 <field name="word">möge</field>
+<field name="word">ordnung</field>
+<field name="word">antrags</field>
 <field name="word">halt</field>
 <field name="word">dafür</field>
 <field name="word">straße</field>
 <field name="word">gerade</field>
+<field name="word">angenommen</field>
+<field name="word">verkehr</field>
 <field name="word">elininie</field>
 <field name="word">begründung</field>
 <field name="word">halten</field>
+<field name="word">abstimmung</field>
 <field name="word">borovicz</field>
 <field name="word">mindestens</field>
 <field name="word">clayallee</field>
+<field name="word">keiner</field>
 <field name="word">eher</field>
 <field name="word">queren</field>
+<field name="word">stimme</field>
+<field name="word">stimmen</field>
 <field name="word">könnte</field>
 <field name="word">fußgänger</field>
+<field name="word">ausschusses</field>
 <field name="word">steglitz</field>
 <field name="word">kraftfahrzeuge</field>
+  <field name="ausschuss">Verkehr</field>
   <field name="text_de"> 
  
 Die BVV möge beschließen:
@@ -74,11 +91,22 @@ Lüders
               
               
 Boroviczény
- </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+ 
+-----------------------------------------------------------------------------------------------------------
+ 
+Der Antrag wurde am 
+29.10.2013
+ in der 20. Sitzung des Ausschusses für Verkehr und Ordnung beraten und bei einer Abstimmung mit 15 Ja-Stimmen und keiner Nein-Stimme bei keiner Enthaltung angenommen.
+ 
+Der Bezirksverordnetenversammlung wird die Annahme des Antrags empfohlen.
+ 
+ 
+Köhne
+Ausschussvorsitzender</field> 
+  <field name="status">None</field>
+  <field name="location">52.4442128,13.269515</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4738&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">631</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">1049</field>  
+  <field name="parteien">1</field>   
 </doc></add>

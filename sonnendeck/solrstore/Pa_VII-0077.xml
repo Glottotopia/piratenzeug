@@ -16,6 +16,7 @@
 <field name="word">internet</field>
 <field name="word">machen</field>
 <field name="word">audioaufzeichnungen</field>
+  
   <field name="text_de">Die Piratenfraktion beantragt, da
 ss
  Bezirksverordnete die
@@ -25,10 +26,10 @@ Audioaufzeichnungen der öffentlichen Sitzungen der
 Bezirksverordnetenversammlung Pankow von Berlin im Internet öffentlich
  zugänglich machen dürfen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3156&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">214</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

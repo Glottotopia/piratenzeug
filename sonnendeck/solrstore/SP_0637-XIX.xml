@@ -23,13 +23,14 @@
 <field name="word">präventionsarbeit</field>
 <field name="word">jeweiligen</field>
 <field name="word">erforderliche</field>
+  
   <field name="text_de">Das Bezirksamt 
 wird beauftragt, den Bedarf, Status und die erforderliche Unterstützung der Spandauer Schulen an Präventionsarbeit zu ermitteln.
 Das Ergebnis und entsprechende Verhaltenshinweise sollen den Eltern und Schülerinnen und Schülern der jeweiligen Schule direkt bekannt gegeben werden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7241&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">295</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

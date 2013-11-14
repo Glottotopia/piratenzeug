@@ -59,6 +59,7 @@
 <field name="word">unberührt</field>
 <field name="word">beginn</field>
 <field name="word">davon</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 § 60 Absatz 3 wird wie folgt geändert:
@@ -97,10 +98,10 @@ Die gesetzlichen Regelungen bezüglich der Persönlichkeitsrechte bleiben davon 
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4594&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1929</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

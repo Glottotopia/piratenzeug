@@ -22,6 +22,7 @@
 <field name="word">hätte</field>
 <field name="word">abgebaut</field>
 <field name="word">beantwortung</field>
+  
   <field name="text_de">Das Bezirksamt wird um Beantwortung nachfolgender Fragen gebeten:
  
 1. Seit wann wusste das Bezirksamt und die Stadträtin von d
@@ -36,10 +37,10 @@ Jahresende aufgearbeitet werden
 sende nicht abgebaut worden ist
 ?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3301&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">352</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

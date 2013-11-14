@@ -44,6 +44,7 @@
 <field name="word">ausweisungen</field>
 <field name="word">spandau</field>
 <field name="word">weiteren</field>
+  
   <field name="text_de">2
  
 Der Baunutzungsplan weist das Grundstück als allgemeines Wohngebiet (WA) mit der Baustufe II/1 (Grundflächenzahl 0,1, Geschossflächenzahl 0,2 bei 2 Vollgeschossen und offener Bauweise) aus.
@@ -84,10 +85,10 @@ Bezirksbürgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6896&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">898</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

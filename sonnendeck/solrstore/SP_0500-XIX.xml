@@ -64,6 +64,7 @@
 <field name="word">erweiterung</field>
 <field name="word">dafü</field>
 <field name="word">chtlingen</field>
+  
   <field name="text_de">Das Bezirksamt wird 
 b
 eauftragt
@@ -108,10 +109,10 @@ gung gestellt wird
  und den Bezirken die dafü
 r entstehenden Kosten (z. B. Impfkosten, Schulinfrastrukturkosten) als Ist-Kosten auß
 erhalb der Kosten-Leistungsrechnung (KLR) erstattet werden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7104&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">999</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

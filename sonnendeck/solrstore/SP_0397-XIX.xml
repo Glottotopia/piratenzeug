@@ -15,6 +15,7 @@
 <field name="word">ersuchen</field>
 <field name="word">vorsteher</field>
 <field name="word">vereinbart</field>
+  
   <field name="text_de">Das Bezirksamt hat das Ersuchen angenommen und erste Abstimmungsgespräche mit dem Vorsteher der Bezirksverordnetenversammlung zur Umsetzung vereinbart. 
  
  
@@ -29,10 +30,10 @@ Berlin - Spandau, den
 Helmut Kleebank
 Bezirksbürgermeister
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7001&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">243</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

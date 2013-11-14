@@ -65,6 +65,7 @@
 <field name="word">bedienungsfreundlich</field>
 <field name="word">bebauungsplänen</field>
 <field name="word">webseiten</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird gebeten, Informationen zu in Bearbeitung befindlichen Bebauungsplänen auf den Webseiten bereitzustellen. Gegenwärtig sind dort z. B. keine Informationen zu den Plänen IX-205a, IX-205b, IX-123-1, IX-55-3b zu finden. Die Existenz des Plans IX-205a ist bekannt. Die Existenz der anderen Pläne ergibt sich aus der Bebauungsplan-Karte (Datei mai_2012.pdf auf den Seiten des Bezirksamts).
@@ -78,10 +79,10 @@ Gerade bei in Bearbeitung befindlichen Bebauungsplänen sind Zielstellung und Be
 Die im Antrag
  genannten Ziele sollten kurzfristig realisierbar sein, ohne die im Antrag DS 0206 / 4  - Bürgerbeteiligung bei der Bauleitplanung modernisieren der Piratenfraktion genannten weitergehenden Ziele aus den Augen zu verlieren.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4685&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1189</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

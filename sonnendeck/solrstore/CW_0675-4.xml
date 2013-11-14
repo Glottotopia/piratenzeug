@@ -49,6 +49,7 @@
 <field name="word">durchgeführten</field>
 <field name="word">öffentlichkeit</field>
 <field name="word">konzept</field>
+  <field name="ausschuss">Tiefbau</field>
   <field name="text_de">Die BVV beschließt:
  
 Das Bezirksamt wird beauftragt, für die derzeit geplante Neuvergabe eines Pachtvertrages für das ehemalige Parkwächterhaus im Lietzenseepark (am großen Spielplatz) ein Interessenbekundungsverfahren durchzuführen. Das Verfahren soll analog zum damals durchgeführten Verfahren zum Bootshaus am Lietzensee transparent durchgeführt werden. Investoren sollen ein Konzept vorlegen, das zumindest eine Gastronomie und die Möglichkeit zur kulturellen Nutzung enthält. Weiterhin soll das Konzept plausibel darlegen, wie das historische Haus instandgesetzt und gepflegt wird und die Toiletten der Öffentlichkeit (zu bestimmten Zeiten) zugänglich gemacht werden.
@@ -60,10 +61,10 @@ Der BVV ist bis zum 31
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4941&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">729</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

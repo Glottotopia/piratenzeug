@@ -118,6 +118,7 @@
 <field name="word">planungen</field>
 <field name="word">solche</field>
 <field name="word">interessenverbänden</field>
+  <field name="ausschuss">Tiefbau</field>
   <field name="text_de">Die BVV möge beschließen:
  
 D
@@ -141,10 +142,10 @@ Für die Zukunft ist eine umfassende Barrierefreiheit auf allen Spielplätzen de
  besitzt. Auch wenn die Umsetzung erst nach und nach und möglicherweise über einen längeren Zeitraum stattfinden kann, muss damit nicht erst gewartet werden, wenn eines Tages tatsächlich konkrete Planungen erfolgen.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4991&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2197</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

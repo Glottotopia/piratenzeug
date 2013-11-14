@@ -16,15 +16,16 @@
 <field name="word">geschäftsordnung</field>
 <field name="word">öffentlichkeit</field>
 <field name="word">geändert</field>
+  
   <field name="text_de"> 
 §16 Absatz 3 der vorläufigen Geschäftsordnung wird wie folgt geändert:
  
 Er tagt öffentlich. Im Einzelfall kann zur Tagesordnung oder zu Teilen der Tagesordnung der Ausschluss der Öffentlichkeit beschlossen werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3187&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">220</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -10,13 +10,14 @@
 <field name="word">schlussbericht</field>
 <field name="word">anzusehen</field>
 <field name="word">vorlage</field>
+  
   <field name="text_de">Die Vorlage - zur Kenntnisnahme - vom 
 22.03.2013
  ist als Schlussbericht anzusehen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6755&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">84</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

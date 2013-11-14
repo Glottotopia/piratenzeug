@@ -79,6 +79,7 @@
 <field name="word">maschinenlesbares</field>
 <field name="word">interessierten</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Der Ausschuss Ö
 ffentliche Ordnung und Verkehr empfiehlt der Bezirksverordnetenversammlung die Annahme der Drucksache 
 -
@@ -118,10 +119,10 @@ rfte sich in Grenzen halten.
 http://daten.berlin.de
  
 Abstimmungsergebnis: 11 / 0 / 0</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5388&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1324</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

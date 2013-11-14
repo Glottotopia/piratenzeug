@@ -178,6 +178,7 @@
 <field name="word">software</field>
 <field name="word">kommerziell</field>
 <field name="word">schwächen</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließen
 :
  
@@ -243,10 +244,10 @@ Das Plugin GpgOL integriert in Microsoft Outlook
  
 https://www.bsi.bund.de/DE/Themen/ProdukteTools/Gpg4win/gpg4win_node.html
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5604&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3020</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

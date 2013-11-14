@@ -24,6 +24,7 @@
 <field name="word">internetseiten</field>
 <field name="word">notwendig</field>
 <field name="word">beschlussfassung</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 Hält es das Bezirksamt für notwendig, redaktionelle und zahlenmäßige Anpassungen des Haushalts der BVV zur Beschlussfassung vorzulegen?
@@ -31,10 +32,10 @@ Hält es das Bezirksamt für notwendig, redaktionelle und zahlenmäßige Anpassu
 Weshalb ist der Text der Vorlage zur Beschlussfassung zum Haushalt (Drs.Nr. 0662/XIX) nicht Teil der bislang öffentlich zugänglichen Haushaltsdokumente auf den Internetseiten des Steuerungsdienstes?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4323&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">368</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -171,6 +171,7 @@
 <field name="word">programm</field>
 <field name="word">zuständigen</field>
 <field name="word">fahrradweg</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">D
 ie Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
@@ -202,10 +203,10 @@ Ziel des Prüfauftrages ist es, die Verpflichtung der S-Bahn-Berlin GmbH zu prü
 Laut Satz 1 der "Leitlinien zum Ausbau Berlins als behindertengerechte Stadt", auf die ebenfalls im "Regionalen Entwicklungskonzept BER" [2] Bezug genommen wird, müssen neue S-Bahnhöfe grundsätzlich so gebaut werden, dass sie und die dazugehörenden Einrichtungen von Menschen mit Behinderung, einschließlich von Menschen im Rollstuhl, ohne fremde Hilfe erreicht und genutzt werden können.
 Maßnahmen, welche die Feststellung und Beseitigung von Zugangshindernissen und -barrieren einschließen, gelten gemäß des "Übereinkommen der Vereinten Nationen über die Rechte von Menschen mit Behinderung" unter anderem für Gebäude, Straßen, Transportmittel sowie andere Einrichtungen in Gebäuden und im Freien, einschließlich Schulen, Wohnhäusern, medizinischer Einrichtungen und Arbeitsstätten.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4448283,13.5677238</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4378&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3027</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

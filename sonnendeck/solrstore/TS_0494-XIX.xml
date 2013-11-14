@@ -96,6 +96,7 @@
 <field name="word">senatsbildungsverwaltung</field>
 <field name="word">schulg</field>
 <field name="word">darstellung</field>
+  
   <field name="text_de">Das Bezirksamt teilt zu der o.g. Drucksache folgendes mit:
  
 Das Bezirksamt ist in seiner Sitzung am 
@@ -137,10 +138,10 @@ Durch die jährlich zusätzlichen 100 Schüler (Erhöhung der Mengen) erfolgt ei
 1.8.2013
  zur Senatsbildungsverwaltung für den Bezirk keine finanzielle Auswirkung. Die konkrete Darstellung in der KLR wird sich erst nach Abschluss der Gespräche mit der Senatsverwaltung ergeben.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.46604725,13.3782399147696</field>
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4290&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">2289</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

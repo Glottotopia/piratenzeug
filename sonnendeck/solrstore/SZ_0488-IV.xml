@@ -68,6 +68,7 @@
 <field name="word">steglitz</field>
 <field name="word">benutzenden</field>
 <field name="word">abgelehnt</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de"> 
  
 Die BVV möge beschließen:
@@ -121,10 +122,10 @@ Der Antrag ist abgelehnt.
 Rögner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4524&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1376</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

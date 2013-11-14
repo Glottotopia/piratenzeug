@@ -96,6 +96,7 @@
 <field name="word">schulleiterin</field>
 <field name="word">bezirksschulbeirates</field>
 <field name="word">einsatz</field>
+  
   <field name="text_de">Das Bezirksamt teilt zu der o.g. Drucksache folgendes mit:
  
 Die Bezirksverordnetenversammlung Tempelhof hat das Bezirksamt beauftragt, die gemeinsame lnitiative der Schulaufsicht und der regionalen Konferenz der lT-Be
@@ -176,10 +177,10 @@ Vorgehensweise zur Erstellung eines regionalen lT-Entwicklungsplanes
 Terminabstimmung/ Verschiedenes
  
 Die Ergebnisse der ersten Sitzung sind in dem beiliegenden Protokoll festgehalten. Das Bezirksamt wird den Fachausschuss kontinuierlich über den Verlauf der weiteren Sitzungen informieren.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4000&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1962</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

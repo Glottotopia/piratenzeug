@@ -134,6 +134,7 @@
 <field name="word">zwischenspeicher</field>
 <field name="word">notwendig</field>
 <field name="word">folgender</field>
+  
   <field name="text_de">Im "Gesamtvertrag zur Einräumung und Vergütung von Ansprüchen nach §53 UrhG"[1] verpflichtete sich das Land Berlin, auf 1% der Schulrechner inzwischen "Schultrojaner" getaufte Ausforschungssoftware installieren zu lassen. Abgesehen von grundsätzlichen Fragen und vielerlei ungeklärten rechtlichen Problemen, die meist auf Landesebene zu klären sind (vgl. auch Große Anfrage im AGH, Drucksache 17/0023 [2]), 
 fragen
  wir hinsichtlich des Bezirkes 
@@ -196,10 +197,10 @@ Wie werden die durch diesen Vertrag entstehenden Mehrkosten finanziert?
 http://netzpolitik.org/wp-upload/20110615gesamtvertragtext.pdf
 [2] 
 http://www.parlament-berlin.de/ados/17/IIIPlen/vorgang/d17-0023.pdf</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4188&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2564</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -21,6 +21,7 @@
 <field name="word">differenzen</field>
 <field name="word">britz</field>
 <field name="word">stehen</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1) Was ist dem Bezirksamt zu den Differenzen zwischen dem Marktbetreiber und der  Blumenhändlerin auf den Märkten Britz-Süd und Fritz-Reuter-Allee bekannt?
@@ -30,10 +31,10 @@
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4246&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">355</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

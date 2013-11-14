@@ -44,6 +44,7 @@
 <field name="word">mitarbeitern</field>
 <field name="word">schlei</field>
 <field name="word">sätzlicher</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung 
@@ -70,10 +71,10 @@ Dr. Hinrich L
 ü
 hmann (Bezirksverordnetenvorsteher)
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3500&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">734</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

@@ -39,6 +39,7 @@
 <field name="word">technische</field>
 <field name="word">vorliegende</field>
 <field name="word">senatskanzlei</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
 Folgendes
  zur Kenntnis zu nehmen:
@@ -64,10 +65,10 @@ setzung für alle Be
 r
 liner Bezirke unter der Regie der Senatskanzlei erfolgen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5228&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">593</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

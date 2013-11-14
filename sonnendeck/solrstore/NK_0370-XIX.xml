@@ -73,6 +73,7 @@
 <field name="word">unmittelbarem</field>
 <field name="word">schulunterricht</field>
 <field name="word">unmittelbaren</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 In Neukölln wurden im Vergleich zu anderen Bezirken die meisten Schüler durch unmittelbaren Zwang der Schule zugeführt.
@@ -105,10 +106,10 @@ Hat die zwangsweise Zuführung von Schülern in dem Sinne Erfolg, dass die betro
          
 Existieren in Neukölln außerhalb der Schulen Angebote für Schüler, die ohne berechtigten Grund dem Schulunterricht fernbleiben, welche darauf abzielen, die Schüler zu unterstützen - auch außerhalb der Schulen?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3993&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1392</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

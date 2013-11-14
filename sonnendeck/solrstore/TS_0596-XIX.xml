@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">TS_0596/XIX</field>  
-  <field name="typ">Änderungsantrag</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Antrag auf Einwohnerversammlung nach §42 BezVG</field>  
   <field name="bezirk">Tempelhof_Schöneberg</field>  
   <field name="partei">Piraten</field> 
@@ -40,6 +40,7 @@
 <field name="word">dargestellt</field>
 <field name="word">vorsteherin</field>
 <field name="word">einwohnerversammlung</field>
+  
   <field name="text_de"> 
 Die Bezirksverordnetenversammlung wolle beschließen:
  
@@ -54,10 +55,10 @@ Begründung:
 Begründung:
 Trotz Beteuerungen aller Parteien scheinen die Interessen der Kleingärtner in der Säntisstrasse und anderweitig im Bezirk wenig Beachtung zu finden. Auf der Veranstaltung sollen die Hintergründe zu den Ereignissen dargestellt und gemeinsam Lösungswege erörtert werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4121565,13.3760178</field>
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4392&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">576</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

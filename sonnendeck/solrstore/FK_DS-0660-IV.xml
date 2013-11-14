@@ -124,6 +124,7 @@
 <field name="word">ablauf</field>
 <field name="word">machen</field>
 <field name="word">ausführlich</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 Welche Maß
@@ -162,10 +163,10 @@ Zu Frage 2
 Zu Nachfrage 1:
  Beauftragt worden ist bislang noch kein Büro, was die Bürgerbeteiligung durchführen soll. Das erfolgt dann alles noch. Und auch die Termine zur Auswertung und Ergebnisveröffentlichung sind jetzt noch nicht bekannt. Da müsste ich noch mal gucken, also es verschiebt sich alles, wie gesagt, um dieses halbe Jahr, gemäß dem Plan, den wir aber für den Ablauf insgesamt ja auch schon mal vorgestellt hatten.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5112049,13.4605824</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5444&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2777</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -102,6 +102,7 @@
 <field name="word">schulz</field>
 <field name="word">entspricht</field>
 <field name="word">seitens</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Der Bezirksbürgermeister Dr. Franz Schulz beruft 
@@ -155,10 +156,10 @@ Die Bezirksverordnetenversammlung beschließt:
  
 Die Vorlage wird zur Kenntnis genommen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5072&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3640</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

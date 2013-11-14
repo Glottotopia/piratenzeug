@@ -106,6 +106,7 @@
 <field name="word">neugestaltung</field>
 <field name="word">schlösser</field>
 <field name="word">preußischer</field>
+  
   <field name="text_de"> 
 Die BVV 
 hat in ihrer Sitzung am 26. April 2012 beschlossen
@@ -155,10 +156,10 @@ Bezirksbürgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4467&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1841</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

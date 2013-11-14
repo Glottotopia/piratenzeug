@@ -121,6 +121,7 @@
 <field name="word">ausführung</field>
 <field name="word">bebauungspläne</field>
 <field name="word">darstellung</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, Bebauungspläne des Bezirks und ihre Entwürfe in jeder Verfahrensphase vollständig und aktuell auf dem Internet-Portal des Bezirks und dem Berliner Open Data Portal zu veröffentlichen. Dabei sollen neue Veröffentlichungen die vorhergehenden ergänzen und nicht ersetzen, sodass die Entwicklung der Bebauungspläne öffentlich nachvollziehbar wird.
@@ -139,10 +140,10 @@ Inne
 n, die oft die kompletten Planungsunterlagen das erste Mal zu Gesicht bekommen, haben in der Regel vier bis sechs Wochen Zeit, ihre Einwände geltend zu machen. In diesem Zeitraum ist es für Außenstehende nahezu unmöglich, sich mit den Plänen hinreichend zu beschäftigen.
 Die Historie der Pläne soll erhalten bleiben, damit bspw. auch frühere, bereits verworfene Stände eingesehen und verglichen werden können.
 Da Bebauungspläne amtliche Werke sind, die mit öffentlichen Geldern finanziert worden sind, sollten sie auch frei von jeglichen Ansprüchen zur Verfügung stehen. Die Betroffenen sollen insbesondere die Möglichkeit haben, die Pläne zu verändern (z. B. für die Darstellung von Änderungswünschen) und zu vervielfältigen (um bspw. andere Bürger mit involvieren zu können).</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4268&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1902</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

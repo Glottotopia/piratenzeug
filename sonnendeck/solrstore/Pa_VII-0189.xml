@@ -39,6 +39,8 @@
 <field name="word">gemacht</field>
 <field name="word">zeitliche</field>
 <field name="word">testumgebung</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Finanzen</field>
   <field name="text_de">Für die vereinfachte Nutzung des ALLRIS-Systems durch die Fraktionen soll die API des ALLRIS-Systems zugänglich gemacht werden.
  
  
@@ -48,10 +50,10 @@ Jede Fraktion soll eine Berechtigung zum lesenden Zugriff aus dem ALLRIS-System 
  
 Daher soll bei dem Softwarebetreiber von ALLRIS die API entsprechend eingerichtet und freigeschaltet werden. Es wird z. Zt. nur ein lesender Zugriff benötigt, bei dem alle anstehenden Beschlüsse und Termine auslesbar sein sollen. Eine zeitliche Begrenzung zur Server-Schonung kann vereinbart werden (z. B. nur einmal am Tag). Für die Programmierung soll außerdem eine vorhandene Testumgebung und Dokumentation bereitgestellt werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3268&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">689</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

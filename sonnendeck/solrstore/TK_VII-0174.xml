@@ -225,6 +225,7 @@
 <field name="word">musikschule</field>
 <field name="word">veranstaltungen</field>
 <field name="word">nannten</field>
+  
   <field name="text_de">Fragenkomplex 1: Kosten für den Betrieb der Zweigstelle
 1.
         
@@ -427,10 +428,10 @@ nd
 Würde die Schließung des Musikschulgebäudes auch vorgenommen werden, wenn kein Kostendruck bestehen würde, z.
  
 B. weil ein eigenständiges Musikschulgebäude aus konzeptionellen Gründen für unnötig erachtet wird?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4526299,13.5808295</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4273&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">5110</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

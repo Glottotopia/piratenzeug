@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">RD_0016/XIX-01</field>  
-  <field name="typ">Entschließungsantrag</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Direktübertragung der Bezirksverordnetenversammlung im Internet</field>  
   <field name="bezirk">Reinickendorf</field>  
   <field name="partei">Piraten</field> 
@@ -19,6 +19,7 @@
 <field name="word">übertragung</field>
 <field name="word">voraussetzungen</field>
 <field name="word">geprüft</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:
@@ -27,10 +28,10 @@ Das Bezirksamt wird ersucht, BVV-Sitzungen zukünftig per Live-Stream im Interne
 r
 tragen. Dazu sollen die technischen Voraussetzungen für eine Übertragung wie im Bezirk Marzahn-Hellersdorf geprüft werden
 .</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3080&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">283</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

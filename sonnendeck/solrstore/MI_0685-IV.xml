@@ -90,6 +90,7 @@
 <field name="word">dürfen</field>
 <field name="word">schule</field>
 <field name="word">organisatorischen</field>
+  
   <field name="text_de"> 
 Das Bezirksamt wird ersucht erneut zu prüfen, ob und wie den Kindern der Cosmopolitan School eine tägliche Querung des Hofes der Franz-Mett-Sporthalle ermöglicht werden kann, um zur dortigen Sporthalle zu gelangen. Sollte die Prüfung ein positives Ergebnis haben, sollen die organisatorischen Rahmenbedingungen so schnell wie möglich vertraglich in einer Nutzungsvereinbarung festgelegt werden und mindestens folgende Punkte umfassen:
 Die Klassen dürfen das Tor nur auf ihrem Weg zum Sportunterricht am Vormittag und zu den Sportkursen während der Hortzeit in der Franz-Mett-Turnhalle passieren.
@@ -106,10 +107,10 @@ Bei Nichteinhaltung der Bedingungen erlischt die Vereinbarung.
 Erledigungsfrist: 
 19.09.2013
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5318&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1419</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

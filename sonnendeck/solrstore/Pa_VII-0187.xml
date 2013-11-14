@@ -31,6 +31,7 @@
 <field name="word">gehabt</field>
 <field name="word">geschäftliche</field>
 <field name="word">bezirksamtes</field>
+  
   <field name="text_de"> 
 Der Entwurf der BVV-Tagesordnung wird nach der Abstimmung im Ältestenrat neu aufgestellt:
  
@@ -379,10 +380,10 @@ Der Entwurf der BVV-Tagesordnung wird nach der Abstimmung im Ältestenrat neu au
  
  
 Vorlagen zur Kenntnisnahme</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3266&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1272</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -42,6 +42,7 @@
 <field name="word">verwendung</field>
 <field name="word">jubiläum</field>
 <field name="word">bezirkes</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließen
 :
  
@@ -56,10 +57,10 @@ Begründung
 Der Bezirk gestaltet und beteiligt sich im Jubiläumsjahr 2015 an div. Veranstaltungen zur Gründung des ehem. Bezirkes Hohenschönhausen. Ein Logo, passend zum Anlass gestaltet, bietet hier eine gute Möglichkeit das Thema Bezirksjubiläum als verbindendes Element das ganze Jahr hindurch zu begleiten
 .
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5605&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">678</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

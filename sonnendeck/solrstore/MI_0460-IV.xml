@@ -99,6 +99,7 @@
 <field name="word">meldegesetz</field>
 <field name="word">abgefragt</field>
 <field name="word">satz</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt:
  
 Am 20.09. fndet jährlich der so genannte OptOut-Day statt. An
@@ -142,10 +143,10 @@ Jahren?
 Dateneinholungen zu zahlen und in welcher Höhe
 generieren sich aus der Informationsweitergabe jährlich
 Einnahmen für den Bezirkshaushalt?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5095&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2043</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

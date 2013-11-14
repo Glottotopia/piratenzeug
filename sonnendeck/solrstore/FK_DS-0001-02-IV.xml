@@ -62,6 +62,7 @@
 <field name="word">fachausschüssen</field>
 <field name="word">geschäftsordnung</field>
 <field name="word">nachstehende</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 § 15 Absatz 5 Satz 4 der vorläufigen Geschäftsordnung wird wie folgt geändert:
@@ -79,10 +80,10 @@ Die Bezirksverordnetenversammlung beschließt:
  
 Sie werden von den Fraktionen vorgeschlagen und spiegeln in der Summe aller Bürgerdeputierten die in Ausschüssen mitwirken sollen die Stärke- und Mehrheitsverhältnisse im Plenum wider. 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4592&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1395</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

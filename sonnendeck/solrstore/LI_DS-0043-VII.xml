@@ -21,6 +21,7 @@
 <field name="word">absatz</field>
 <field name="word">geändert</field>
 <field name="word">vorschlag</field>
+  
   <field name="text_de">Der Ausschuss Geschäftsordnung, Eingaben und Beschwerden empfiehlt der Bezirksverordnetenversammlung die Ablehnung der Drucksache.
  
 Begründung:
@@ -32,10 +33,10 @@ Text des Ursprungsantrages:
  
 Abstimmungsergebnis: 10 / 1 / 0
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4703&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">381</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

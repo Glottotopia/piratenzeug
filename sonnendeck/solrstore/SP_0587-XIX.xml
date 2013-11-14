@@ -19,6 +19,7 @@
 <field name="word">bezirksverordneten</field>
 <field name="word">schrittweise</field>
 <field name="word">papierversands</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt, sich schrittweise um die Ablösung des Papierversands von Unterlagen und Einladungen an die Fraktionen und Bezirksverordneten (über das BVV-Büro) hin zu digitalem Versand einzusetzen und diesen
 ,
  wo
@@ -26,10 +27,10 @@
 möglich
 ,
  ab sofort zu praktizieren.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7191&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">270</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

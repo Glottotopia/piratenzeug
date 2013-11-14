@@ -102,6 +102,7 @@
 <field name="word">ziel</field>
 <field name="word">dafü</field>
 <field name="word">bebauung</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt sich dafü
@@ -157,10 +158,10 @@ Der Antrag wird abgelehnt.
 Die Bezirksverordnetenversammlung beschließt:
  
 Der Antrag wird abgelehnt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5415&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1812</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

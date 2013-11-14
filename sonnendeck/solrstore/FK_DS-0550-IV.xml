@@ -189,6 +189,12 @@
 <field name="word">politischen</field>
 <field name="word">ihres</field>
 <field name="word">intersexualitaet</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Soziales</field>
+<field name="ausschuss">Frauen</field>
+<field name="ausschuss">Personal</field>
+<field name="ausschuss">Migration</field>
+<field name="ausschuss">Gesundheit</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, zu prüfen in welchen öffentlichen Gebäuden, für die der Bezirk zuständig ist, zusätzlich zu Damen- und Herrentoiletten auch Unisextoiletten eingerichtet werden können. Bei der Prüfung ist zu berücksichtigen, dass mit der Umwidmung mindestens einer bereits vorhandenen geschlechtergetrennten Toilette pro geeignetem Gebäude in eine Unisextoilette eine sehr kostengünstige Umsetzungsmöglichkeit besteht.
@@ -270,11 +276,19 @@ Die Bezirksverordnetenversammlung möge beschließen:
 Die Vorlage des Bezirksamtes wird 
 nicht
  zur Kenntnis genommen.
- </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+ 
+ 
+BVV 
+23.10.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird 
+nicht
+ zur Kenntnis genommen.</field> 
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5325&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">6387</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">6524</field>  
+  <field name="parteien">1</field>   
 </doc></add>

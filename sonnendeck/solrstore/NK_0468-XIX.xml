@@ -42,6 +42,7 @@
 <field name="word">beginn</field>
 <field name="word">geeignete</field>
 <field name="word">daten</field>
+  <field name="ausschuss">Verwaltung</field>
   <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
 A
 blehnung
@@ -78,10 +79,10 @@ Dem Ausschuss f
 r Verwaltung und Gleichstellung ist Bericht zu erstatten.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4091&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">747</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

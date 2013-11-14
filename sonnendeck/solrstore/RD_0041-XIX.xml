@@ -38,6 +38,7 @@
 <field name="word">vereinen</field>
 <field name="word">unterhalt</field>
 <field name="word">interessierten</field>
+  
   <field name="text_de">Sachverhalt:
  
 Das Bezirksamt wird um Auskunft gebeten:
@@ -73,10 +74,10 @@ n
  und Vereinen für eine nichtgewerbliche Nutzung zur Verf
 ü
 gung zu stellen?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3093&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">645</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

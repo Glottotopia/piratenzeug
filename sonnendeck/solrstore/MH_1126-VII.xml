@@ -33,6 +33,7 @@
 <field name="word">konzipieren</field>
 <field name="word">informationen</field>
 <field name="word">datenträgern</field>
+  <field name="ausschuss">Gleichstellung</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, die Informationen und die Zugänglichkeit zum Bürgerhaushalt möglichst barrierearm zu konzipieren. Dabei ist sowohl der Internetauftritt, als auch das analoge Informationsmaterial zu berücksichtigen.
@@ -40,10 +41,10 @@ Das Bezirksamt wird ersucht, die Informationen und die Zugänglichkeit zum Bürg
 Außerdem wird das Bezirksamt ersucht, Materialien zum Bürgerhaushalt auch in leichter Sprache zu erstellen. Zusätzlich wird angeregt, dieses Material in Braille-Schrift und
 , wenn möglich, akustisch,
  auf Datenträgern freier Wahl, bereitzustellen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5428&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">505</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

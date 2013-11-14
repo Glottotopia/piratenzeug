@@ -24,6 +24,7 @@
 <field name="word">jeweiligen</field>
 <field name="word">fraktionen</field>
 <field name="word">zurückgezogen</field>
+  
   <field name="text_de">Der Antrag wird von der antragstellenden Fraktion der PIRATEN in folgender Fassung 
 zurückgezogen
 :
@@ -32,10 +33,10 @@ Das Bezirksamt wird ersucht, dass in Zukunft die Einwohnerfragen zur Einwohnerfr
 ö
 ffentlicht werden sollen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3890&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">394</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

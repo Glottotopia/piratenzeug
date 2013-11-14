@@ -321,6 +321,7 @@
 <field name="word">positiv</field>
 <field name="word">bezüge</field>
 <field name="word">hinsichtlich</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 Ist dem Bezirksamt bekannt, dass die Beurlaubung des langjä
@@ -417,10 +418,10 @@ Diese Möglichkeit besteht nicht. Herr Barthmann hat sich entschieden im öffent
 Antwort:
 Das Jugendamt sucht nach Möglichkeiten, den Standort für Angebote der Kinder- und Jugendarbeit zu erhalten. Dies schließt einen Trägerwechsel nicht aus, steht aber nicht im Zusammenhang mit einer Weiterbeschäftigung von Herrn Barthmann.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5472&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">8879</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

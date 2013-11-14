@@ -212,6 +212,7 @@
 <field name="word">notwendig</field>
 <field name="word">llen</field>
 <field name="word">modernisierungs</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließ
 en:
  
@@ -349,10 +350,10 @@ vereinbarungen bereits an die Mieter verschickt wurden
 .
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5492&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">3770</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

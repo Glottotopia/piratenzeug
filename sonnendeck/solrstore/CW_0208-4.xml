@@ -64,6 +64,7 @@
 <field name="word">ferner</field>
 <field name="word">grundmiete</field>
 <field name="word">davon</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de"> 
 Die BVV beschließt die Ablehnung.
  
@@ -85,10 +86,10 @@ ohnehin notwendigen, aber nicht auf die Miete umlegbaren Instandhaltungsmaßnahm
 weitergehenden Modernisierungsmaßnahmen, die sich auf eine Erhöhung der Grundmiete auswirken.
 Ferner soll die Gewobag Auskunft geben, inwieweit, von wem und in welcher Höhe für die geplanten Maßnahmen öffentliche Fördermittel beansprucht und bezogen werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.517792,13.290297</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4472&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1122</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

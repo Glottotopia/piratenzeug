@@ -84,6 +84,7 @@
 <field name="word">mehrheitlich</field>
 <field name="word">einwohnerversammlung</field>
 <field name="word">aktuelle</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Die BVV möge beschließen:
@@ -125,10 +126,10 @@ zugehöriges Konzept zur Ausgestaltung des Straßenverkehrs
 entschieden haben.
 Grundlage des Antrags ist diese aktuelle Initiative in Liquid Feedback:
 https://lqpp.de/be/initiative/show/2487.html</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5263557,13.3430695</field>
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5485&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1660</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

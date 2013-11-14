@@ -34,6 +34,7 @@
 <field name="word">einsehbaren</field>
 <field name="word">bezirksamts</field>
 <field name="word">maschinenlesbaren</field>
+  
   <field name="text_de">Ursprungsdrucksa
 che
  
@@ -47,10 +48,10 @@ system im Internet eingerichtet werden kann, mit dem Bürger
 *i
 nnen
  sich gezielt über anstehende bezirkliche Entscheidungen in ihrem Wohnumfeld und Interessensgebiet informieren können.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4952&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">504</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

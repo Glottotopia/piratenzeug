@@ -65,6 +65,7 @@
 <field name="word">vorläufigen</field>
 <field name="word">umfassenden</field>
 <field name="word">übergängen</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 1.
@@ -81,10 +82,10 @@ fordert das Bezirksamt und insbesondere den Senat auf, bei zukünftigen Haushalt
 Begründung:
 Die Bezirksverordneten befinden sich in der Zwangslage, innerhalb von dreieinhalb Wochen den 596 Seiten umfassenden Entwurf abschließend zu beraten. Selbst zusätzlich anberaumte Ausschusssitzungen können einen ausreichenden Zeitrahmen, der für eine gründliche Auseinandersetzung zwingend nötig ist, nicht ersetzen.
 Auch bei pünktlicher Einreichung des Haushaltsplanenwurfs unterliegt der Bezirk einer vorläufigen Haushaltswirtschaft bis voraussichtlich Ende Juni. Dadurch können notwendige neue Investitionen, z.B. für Bauvorhaben, nicht getätigt werden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4216&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1148</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

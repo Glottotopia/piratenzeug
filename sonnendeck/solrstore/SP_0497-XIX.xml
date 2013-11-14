@@ -61,6 +61,7 @@
 <field name="word">ftigten</field>
 <field name="word">laut</field>
 <field name="word">aktuelle</field>
+  
   <field name="text_de">1.
        
 Angeregt durch das laut Presse von BezStR Hanke gegen den ehemaligen B
@@ -93,10 +94,10 @@ n
 ä
 hlt wurde, gegen den gleichzeitig ein internes Disziplinarverfahren lief, insbesondere in der Innenwirkung auf die Beschä
 ftigten des Bezirksamts?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7101&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1060</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

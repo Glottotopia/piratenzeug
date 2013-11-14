@@ -72,6 +72,7 @@
 <field name="word">bezirkes</field>
 <field name="word">eigentümer</field>
 <field name="word">erkennbar</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließen:
  
 Das Bezirksamt wird ersucht, in Kooperation mit dem Pächter/Eigentümer einmal jährlich im Dezember einen Zwischenbericht zum Entwicklungsstand in Sachen Stadtbad Lichtenberg abzugeben. Dabei ist darzustellen, welche Maßnahmen ergriffen oder fortgeführt wurden
@@ -84,10 +85,10 @@ t
  mehreren Jahrzehnten sanierungsbedürftig und seit 1992 dauerhaft geschlossen. Bisher werden nur Maßnahmen durchgeführt, die das Gebäude vor dem Verfall sichern. Sanierungen stehen aus, scheitern an finanziellen Mitteln des Bezirkes. Investoren, sofern überhaupt vorhanden, springen wieder ab. Der wirklich ernsthafte Wille, das Gebäude einer sinnvollen Nutzung und vor allem den öffentlichen Zugang zu sichern, ist für die Bevölkerung nicht erkennbar. Das Stadtbad Lichtenberg ist aus dem Bewusstsein und der öffentlichen Wahrnehmung weitestgehend verschwunden.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5582&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1242</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

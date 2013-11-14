@@ -49,6 +49,7 @@
 <field name="word">einleiten</field>
 <field name="word">betriebsinteressenten</field>
 <field name="word">eigentümer</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die BVV beschließt:
  
 Die BVV sieht den hohen Denkmalwert der Kantgarage und fordert daher mit großem Nachdruck die Erhaltung und Instandsetzung des eingetragenen Baudenkmals als einzigartiges, innovatives Bauwerk der 20er Jahre.
@@ -57,10 +58,10 @@ Einen Abriss lehnt die BVV Charlottenburg-Wilmersdorf ab.
  
 Das Bezirksamt wird gebeten, zusammen mit dem Landesdenkmalamt dem Investor Gespräche anzubieten, um ein mögliches Nutzungskonzept, z.B. als E-Mobility-Standort, Fahrradparkhaus, museale Nutzung, mit dem Eigentümer und Betriebsinteressenten zu entwickeln, damit das Denkmal erhalten bleiben kann.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4954&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">673</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

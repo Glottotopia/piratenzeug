@@ -264,6 +264,7 @@
 <field name="word">konzept</field>
 <field name="word">restlichen</field>
 <field name="word">erübrigen</field>
+  
   <field name="text_de"> 
  
 Ich frage das Bezirksamt:
@@ -352,10 +353,10 @@ Bürgerhaushalts im Bezirk Tempelhof-Schöneberg von Berlin
 [vi]
               
 Konzept zur Einführung eines Bürgerhaushalts im Bezirk Tempelhof  Schöneberg, MzK zu Drs 0517/XVIII S.4</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4465&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">5969</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

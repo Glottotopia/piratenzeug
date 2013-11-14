@@ -120,6 +120,7 @@
 <field name="word">gedacht</field>
 <field name="word">letzten</field>
 <field name="word">abwicklung</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt: 
  
 1. (a) Zeitungsberichten zufolge hat das Bezirksamt schon Anfang 2011 beschlossen, das Rathaus Friedenau zu verkaufen. Wann genau und unter welchen Umständen kam diese Entscheidung zustande?
@@ -165,10 +166,10 @@
 (c) Sind in der gegenwärtigen Haushaltsplanung Mittel für Erhaltungs- und Modernisierungsmaßnahmen für das Rathaus Friedenau vorgesehen? Für welche Maßnahmen und wie hoch sind diese?
  
 (d) Sind für die Erstellung eines Zwischennutzungsplans und/oder die Abwicklung des Transfers des Rathauses in der gegenwärtigen Haushaltsplanung Mittel vorgesehen? Wie hoch sind diese? </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=3881&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2765</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

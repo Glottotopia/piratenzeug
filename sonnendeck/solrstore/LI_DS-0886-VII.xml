@@ -67,6 +67,7 @@
 <field name="word">ziel</field>
 <field name="word">politik</field>
 <field name="word">erstellt</field>
+  
   <field name="text_de">Der Hauptausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme der Drucksache in folgender geänderter Fassung:
  
 Das Bezirksamt wird ersucht zu prü
@@ -102,10 +103,10 @@ s
 0
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5548&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1407</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

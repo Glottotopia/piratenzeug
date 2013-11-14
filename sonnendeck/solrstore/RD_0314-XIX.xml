@@ -38,6 +38,7 @@
 <field name="word">abteilungen</field>
 <field name="word">wichtigen</field>
 <field name="word">betroffenen</field>
+  
   <field name="text_de">Sachverhalt:
  
 Das Bezirksamt wird um Auskunft gebeten:
@@ -65,10 +66,10 @@ r
 mation und
  
 Beteiligung der BVV und der zuständigen Gremien sichergestellt wird?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3435&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">641</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

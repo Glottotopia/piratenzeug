@@ -105,6 +105,7 @@
 <field name="word">aktualisiert</field>
 <field name="word">öffentlich</field>
 <field name="word">unverzüglich</field>
+  <field name="ausschuss">Arbeit</field>
   <field name="text_de">Der Ausschuss für Arbeit, Soziales, Gesundheit und Senioren hat die 
 Drucksache
  auf seiner Sitzung am 
@@ -180,10 +181,10 @@ Telefonnummer. Die Veränderungen werden der Patient*inneninformation, an den Br
 shängen sowie den 
 Aushangtafeln unverzüglich aktualisiert. Diese Verantwortung tragen die Klinikleitung mit den Patient*innenfürsprecher*innen gemeinsam.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3424&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2721</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -44,6 +44,7 @@
 <field name="word">fußgänger</field>
 <field name="word">februar</field>
 <field name="word">verschiedensten</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung
 ,
  umseitige Vorlage zur Kenntnis zu nehmen:
@@ -67,10 +68,10 @@ März 2012
 April 2012
  waren zu den verschiedensten Tageszeiten keinerlei Verstöße feststellbar.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.535099,13.4855684</field>
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4746&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">632</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

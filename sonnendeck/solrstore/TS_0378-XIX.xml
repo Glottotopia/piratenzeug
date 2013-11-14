@@ -57,6 +57,7 @@
 <field name="word">programm</field>
 <field name="word">fahrradfahrer</field>
 <field name="word">selbst</field>
+  
   <field name="text_de">Die BVV wolle beschließen:
  
 Das Bezirksamt möge 
@@ -66,10 +67,10 @@ Das Bezirksamt möge
 Begründung:
  
 Momentan findet ein Berlin-weites Programm der Polizei statt, im Zuge dessen Fahrradfahrer gezielt auf Verkehrssicherheit überprüft werden. Gerade in diesem Bezirk kam es dabei zu  Kontrollen, die die Frage aufwerfen, ob sie wirklich der Aufklärung und Verkehrssicherheit dienen, oder ob sie nicht vornehmlich eine Gängelung der Radfahrer darstellen bzw. der Einnahme von Bußgeldern dienen. Die fach-dienliche Begleitung bei der Auswahl der Kontrollstellen und bei den Kontrollen selbst durch den Außendienst des Ordnungsamtes soll in diesem Bezirk Gewähr leistet werden. </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4174&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">952</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

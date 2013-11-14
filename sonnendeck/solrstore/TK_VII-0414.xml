@@ -84,6 +84,7 @@
 <field name="word">matthesstraße</field>
 <field name="word">wohnungsmarktsituation</field>
 <field name="word">aufzuheben</field>
+  
   <field name="text_de">1.
     
 Welche Bauflächen gibt es in Alt-Treptow, auf denen noch Wohnungsbau möglich ist und wie viele Wohnungen könnten dabei schätzungsweise entstehen (bzw. alternativ: für wie viele Einwohner könnte Wohnraum geschaffen werden)?
@@ -112,10 +113,10 @@ Ist das Bezirksamt der Ansicht, dass sich die prekäre Wohnungsmarktsituation du
     
 Wie sieht das Bezirksamt seine Möglichkeiten, aufgrund der verschlechterten Wohnungsmarktsituation in Alt-Treptow, alle ihm zur Verfügung stehenden Hebel in Bewegung zu setzen, beim Senat darauf hinzuwirken, den Planfeststellungsbeschluss des Landes wieder aufzuheben?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4904154,13.4589235</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4513&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1479</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

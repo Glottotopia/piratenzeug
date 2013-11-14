@@ -42,6 +42,7 @@
 <field name="word">ursprungsantrages</field>
 <field name="word">tigten</field>
 <field name="word">parlamentwatch</field>
+  
   <field name="text_de">Der Hauptausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme der Dr
 ucksache in folgender geänderter
  Fassung:
@@ -67,10 +68,10 @@ bermittelt.
  
 Abstimmungsergebnis: 5 / 1 / 6
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4927&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">838</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

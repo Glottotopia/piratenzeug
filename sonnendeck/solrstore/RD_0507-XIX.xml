@@ -19,6 +19,7 @@
 <field name="word">trennen</field>
 <field name="word">poller</field>
 <field name="word">ruppiner</field>
+  <field name="ausschuss">Bauwesen</field>
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:
@@ -26,10 +27,10 @@ Die Bezirksverordnetenversammlung wolle beschließen:
 Das Bezirksamt wird ersucht, die im Rahmen der Neubauarbeiten der Ruppiner Chaussee en
 t
 standenen Verschwenkungen des Radfahrweges Richtung Fahrbahn durch Poller oder ähnliche Barrieren von der Fahrbahn zu trennen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3647&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">285</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

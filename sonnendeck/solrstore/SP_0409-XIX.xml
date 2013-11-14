@@ -37,6 +37,7 @@
 <field name="word">unte</field>
 <field name="word">richtet</field>
 <field name="word">senatsebene</field>
+  
   <field name="text_de">Das Bezirksamt befindet sich zu dem gesamten, die Transparenz der Trägerversam
 m
 lung betreffenden Themenkomplex zurzeit noch in der Abstimmung mit der Bezirksau
@@ -59,10 +60,10 @@ Berlin - Spandau, den 14. Juni
  
 Helmut Kleebank
 Bezirksbürgermeister</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7013&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">552</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

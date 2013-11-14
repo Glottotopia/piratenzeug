@@ -33,6 +33,7 @@
 <field name="word">weiteren</field>
 <field name="word">erstellt</field>
 <field name="word">bezirksamtes</field>
+  
   <field name="text_de">Die für die Veröffentlichung der Aktenpläne gem. § 
 17 (5) Informationsfreiheitsgesetz Berlin zu erstellende Internetpräsentation wird derzeit erstellt. Um dem o.g. 
 Beschluss qualitativ gerecht zu werden, bedarf es im Vorfeld einer umfänglichen Prüfung, 
@@ -49,10 +50,10 @@ Berlin - Spandau, den 18. Oktober 2013
 Kleebank
 Bezirksbürgermeister
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7286&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">589</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

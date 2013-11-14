@@ -1745,6 +1745,7 @@
 <field name="word">steglitz</field>
 <field name="word">trotzdem</field>
 <field name="word">neuwestend</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de"> 
 Die BVV hat in ihrer Sitzung am 
 08.03.2012
@@ -2634,10 +2635,10 @@ Darüber hinaus ist zu klären, wie die dezentrale Versorgung dauerhaft erreicht
  
 [1]
  Kombinierte Bibliothek: Bestand für Erwachsene und Kinder / Jugendliche.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4904058,13.3142256</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4424&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">52469</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

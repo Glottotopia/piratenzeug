@@ -45,6 +45,7 @@
 <field name="word">rden</field>
 <field name="word">gegenüber</field>
 <field name="word">weitergabe</field>
+  
   <field name="text_de">Am 20.09. findet jährlich der sogenannte OptOut-Day statt. An diesem Tag sollen bundesweit Bürgerinnen und Bürger über ihr Widerspruchsrecht gegen die Weitergabe ihrer Meldedaten informiert we
 rden. Es gibt nach §§ 27 Abs. 2
 , 28a Abs. 2 und 29 Abs. 1 Satz 4 Meldegesetz die Möglichkeit gegenüber dem Bürgeramt der Weitergabe der eigenen Meldedaten zu widersprechen [
@@ -70,10 +71,10 @@ mter ü
 ber die Mö
 glichkeit des Widerspruchs gegen die Weitergabe der eigenen Meldedaten informiert?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5106&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">796</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -29,6 +29,7 @@
 <field name="word">weigel</field>
 <field name="word">geprüft</field>
 <field name="word">sonntags</field>
+  
   <field name="text_de">Die BVV möge beschließen:
 Das Bezirksamt wird ersucht zu prüfen, ob und in welchem zeitlichen Rahmen eine Nutzung der Fraktionsbüros im Dienstgebäude am Helene-Weigel-Platz durch die Fraktionen an Wochenenden möglich ist. Folgende Optionen sollen dabei insbesondere geprüft werden:
  
@@ -75,10 +76,10 @@ Sonntags
 Falls dies nicht möglich ist, wird das Bezirksamt gleichsam ersucht zu prüfen, ob und 
 in
  welchem zeitlichen Rahmen eine Bereitstellung von anderen Räumlichkeiten zur kostenfreien Nutzung durch die Fraktionen an Wochenenden als Ausgleich möglich ist.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4571&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1031</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

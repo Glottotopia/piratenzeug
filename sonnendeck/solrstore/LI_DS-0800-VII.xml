@@ -58,6 +58,7 @@
 <field name="word">jahr</field>
 <field name="word">kommt</field>
 <field name="word">baumnummer</field>
+  
   <field name="text_de">Der Ausschuss fü
 r Umwelt empfiehlt der Bezirksverordnetenversammlung die Annahme der Drucksache 0800/VII:
  
@@ -104,10 +105,10 @@ sergebnis
 /
  
 0 </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5462&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">997</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

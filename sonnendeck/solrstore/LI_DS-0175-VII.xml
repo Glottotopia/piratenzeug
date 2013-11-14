@@ -106,6 +106,7 @@
 <field name="word">notwendig</field>
 <field name="word">dokumente</field>
 <field name="word">ausführlich</field>
+  
   <field name="text_de">Das Bezirksamt wurde ersucht, rechtliche und technische Voraussetzungen, unter Berücksichtigung der Rechte der BVO, zur Veröffentlichung der Tonaufzeichnungen bis zur Oktober-BVV 2012 zu prüfen und entsprechend zu berichten.
  
  
@@ -127,10 +128,10 @@ www.datenschutz-berlin.de/content/veroeffentlichungen
 ), auf Seite 140 ff ein-gegangen.
  
 Das Bezirksamt ist der Meinung, dass durch die demnächst anstehende Einrichtung des BVV-Livestream reine Tonaufzeichnungen nicht mehr notwendig sind, da die Mediathek (Archiv der Aufzeichnungen der BVV-Sitzungen) diese Funktion mit Ton und Bild komplett übernimmt und damit dem BVV-Beschluss vollständig entsprochen wird.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4836&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2130</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -36,6 +36,7 @@
 <field name="word">kürze</field>
 <field name="word">bezirkes</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Mit o.g. Beschluss wurde das Bezirksamt beauftragt, alle relevanten Schulausschüsse u.ä., wie z.B. BSB, BLA, BEA usw. des Bezirkes übersichtlich nebst erklärendem Text und Kontakt-Daten auf der Webseite des Bezirkes aufzulisten.
  
 Nachdem sich nunmehr alle Schulausschüsse gebildet haben und eine Entscheidung getroffen werden konnte, ob und welche Kontaktdaten auf unserer Bezirkswebseite veröffentlicht werden dürfen, wird in Kürze die Einstellung der Bezirksausschüsse auf u
@@ -50,10 +51,10 @@ Berlin-Spandau, den
  
 Helmut Kleebank
 Bezirksbürgermeister</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6851&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">585</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

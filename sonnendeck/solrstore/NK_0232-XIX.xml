@@ -35,6 +35,7 @@
 <field name="word">worin</field>
 <field name="word">html</field>
 <field name="word">zweiten</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1.
@@ -56,10 +57,10 @@ http://www.berlin.de/sen/soziales/berliner-sozialrecht/land/rv/wav.html
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3855&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">532</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

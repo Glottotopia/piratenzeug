@@ -13,12 +13,13 @@
 <field name="word">seegefelder</field>
 <field name="word">prüfen</field>
 <field name="word">hackbuschstraße</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt zu prüfen, ob auf der Hackbuschstraße in nördlicher Richtung ca. 10m vor der Kreuzung Seegefelder Weg eine Markierung "Bei Rot hier Halt" an- bzw. aufgebracht werden kann
 .</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.5420034,13.1505989</field>
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7375&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">203</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

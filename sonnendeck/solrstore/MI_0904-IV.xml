@@ -25,7 +25,6 @@
 <field name="word">ermittelt</field>
 <field name="word">situationen</field>
 <field name="word">worden</field>
-<field name="word">soziales</field>
 <field name="word">stimmen</field>
 <field name="word">legislaturperiode</field>
 <field name="word">anzubieten</field>
@@ -37,7 +36,6 @@
 <field name="word">entsprechendes</field>
 <field name="word">polizeistation</field>
 <field name="word">erkrankt</field>
-<field name="word">piraten</field>
 <field name="word">verbund</field>
 <field name="word">wegen</field>
 <field name="word">solchen</field>
@@ -53,6 +51,7 @@
 <field name="word">unangenehm</field>
 <field name="word">nimmt</field>
 <field name="word">ende</field>
+<field name="word">enhaltungen</field>
 <field name="word">zurückgebracht</field>
 <field name="word">erkenntnisse</field>
 <field name="word">normalerweise</field>
@@ -64,13 +63,12 @@
 <field name="word">zusammen</field>
 <field name="word">häuslichkeit</field>
 <field name="word">betreuen</field>
-<field name="word">enthaltungen</field>
 <field name="word">angetroffen</field>
 <field name="word">betroffenen</field>
 <field name="word">volfdnr</field>
 <field name="word">richten</field>
 <field name="word">grünen</field>
-<field name="word">bürgerdienste</field>
+<field name="word">gesundheit</field>
 <field name="word">tatsache</field>
 <field name="word">versorgen</field>
 <field name="word">einstimmig</field>
@@ -84,6 +82,7 @@
 <field name="word">erfüllt</field>
 <field name="word">herausgefunden</field>
 <field name="word">stationäre</field>
+<field name="word">gleichstellung</field>
 <field name="word">pflegepersonal</field>
 <field name="word">können</field>
 <field name="word">diesbezüglich</field>
@@ -94,6 +93,7 @@
 <field name="word">pflegeeinrichtungen</field>
 <field name="word">amtshilfeersuchen</field>
 <field name="word">notwendig</field>
+  <field name="ausschuss">Gesundheit</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Die Bezirksverordnetenversammlung möge beschließen:
@@ -114,7 +114,7 @@ diesbezüglich ein entsprechendes Amtshilfeersuchen an
 die zuständige Polizeidirektion zu richten.
  
  
-Der Ausschuss für Soziales und Bürgerdienste empfiehlt der BVV einstimmig die Annahme des Antrages [9 Ja-Stimmen (SPD, Bü90/Die Grünen, Piraten), 0 Nein-Stimmen, 3 Enthaltungen (CDU, Die Linke)]. 
+Der Ausschuss für Gesundheit und Gleichstellung empfiehlt der BVV einstimmig die Annahme des Antrages [13 Ja-Stimmen (SPD, Bü90/Die Grünen, CDU, Die Linke), 0 Nein-Stimmen, 0 Enhaltungen].
 Begründung:
 Immer häufiger werden ältere Menschen orientierungslos
  
@@ -156,10 +156,10 @@ vo020.asp?VOLFDNR=6486
 Bezirksamt Mitte die Möglichkeit gegeben, auch auf
  
 bereits gewonnene Erkenntnisse zurückzugreifen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5537&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1763</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">1755</field>  
+  <field name="parteien">1</field>   
 </doc></add>

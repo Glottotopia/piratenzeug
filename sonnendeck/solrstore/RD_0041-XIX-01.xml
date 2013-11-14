@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">RD_0041/XIX-01</field>  
-  <field name="typ">Entschließungsantrag</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Onlineportal zur Bewerbung auf Leerstand</field>  
   <field name="bezirk">Reinickendorf</field>  
   <field name="partei">Piraten</field> 
@@ -21,6 +21,8 @@
 <field name="word">verantwortung</field>
 <field name="word">räumlichkeiten</field>
 <field name="word">leerstandsportal</field>
+  <field name="ausschuss">Bürgerdienste</field>
+<field name="ausschuss">Bauwesen</field>
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:
@@ -30,10 +32,10 @@ Das Bezirksamt wird ersucht, den Internetauftritt des Bezirkes um ein Leerstands
 In diesem Portal sollen die Räumlichkeiten sowie mögliche Nutzungsdauer und Ansprec
 h
 partner benannt werden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3115&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">323</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

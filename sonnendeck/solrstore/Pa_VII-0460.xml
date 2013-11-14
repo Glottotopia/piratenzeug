@@ -46,6 +46,8 @@
 <field name="word">protokolle</field>
 <field name="word">bezirksamtes</field>
 <field name="word">prüfen</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Bürgerbeteil</field>
   <field name="text_de">Der Ausschuss für Bürgerbeteiligung, Bürgerdienste, Wohnen und GO hat die Druc
 k
 sache auf seiner Sitzung am 
@@ -69,10 +71,10 @@ Darüber hinaus soll das Bezirksamt prüfen, ob die Protokolle der Gremiensitzun
  
 Das Bezirksamt wird zudem ersucht, alle bezirklichen Gremien und Beiräte mit einer Kontaktmöglichkeit aufzulisten und  auf seiner Internetseite an geeigneter Stelle zu veröffentlichen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3544&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">924</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

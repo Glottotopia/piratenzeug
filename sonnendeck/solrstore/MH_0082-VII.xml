@@ -195,6 +195,7 @@
 <field name="word">abgeordnetendaten</field>
 <field name="word">politischen</field>
 <field name="word">audio</field>
+  
   <field name="text_de">Die BV
 V möge 
 beschließen:
@@ -268,10 +269,10 @@ Es wird Kontakt mit abgeordnetenwatch.de (Roman Ebener / kommune@abgeordnetenwat
 Die benötigten Daten der Bezirksverordneten sind an abgeordnetenwatch.de gesammelt durch das Büro der BVV zu übermitteln. Dabei handelt es sich um Vorname, Nachname, Parteizugehörigkeit und E-Mail-Adresse. Letztere wird nicht veröffentlicht, sondern dient der Weiterleitung eingehender Fragen. Zusätzlich ist eine Telefonnumer als Kontaktmöglichkeit für abgeordnetenwatch.de selbst erwünscht. Weitere optionale Angaben sind möglich.
  
 Die BVV Marzahn-Hellersdorf wird das Angebot von abgeordnetenwatch.de nutzen und unterstützen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4352&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">4617</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

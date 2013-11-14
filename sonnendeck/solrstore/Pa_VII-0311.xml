@@ -4,63 +4,29 @@
   <field name="titel">Bessere und transparentere Arbeitsbedingungen für Beschäftigte</field>  
   <field name="bezirk">Pankow</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">pankow</field>
-<field name="word">anerkennung</field>
-<field name="word">nein</field>
+  <field name="word">nein</field>
 <field name="word">abschließend</field>
 <field name="word">beschließen</field>
-<field name="word">beschäftigten</field>
-<field name="word">krankzeiten</field>
-<field name="word">darauf</field>
-<field name="word">freier</field>
 <field name="word">beraten</field>
-<field name="word">plusarbeitsstunden</field>
-<field name="word">minusstunden</field>
 <field name="word">unternehmen</field>
 <field name="word">seiner</field>
 <field name="word">setzt</field>
-<field name="word">gestaltet</field>
-<field name="word">information</field>
-<field name="word">dahingehend</field>
+<field name="word">statt</field>
 <field name="word">abstimmungsergebnis</field>
-<field name="word">höchstens</field>
 <field name="word">personal</field>
 <field name="word">innen</field>
 <field name="word">beschäftigt</field>
 <field name="word">immobilien</field>
-<field name="word">trägers</field>
-<field name="word">arbeitnehmer</field>
-<field name="word">verrechnet</field>
-<field name="word">freie</field>
-<field name="word">senat</field>
 <field name="word">einfluss</field>
 <field name="word">enthaltungen</field>
-<field name="word">über</field>
-<field name="word">vergütungsvereinbarung</field>
-<field name="word">zeitarbeitskonten</field>
-<field name="word">beim</field>
-<field name="word">dafür</field>
-<field name="word">erweitern</field>
-<field name="word">geachtet</field>
-<field name="word">regelmäßige</field>
-<field name="word">rahmenleistungsvertrag</field>
-<field name="word">transparent</field>
-<field name="word">vorliegen</field>
-<field name="word">tarifvertrag</field>
-<field name="word">prüfkriterien</field>
-<field name="word">land</field>
+<field name="word">aushilfen</field>
 <field name="word">direkt</field>
-<field name="word">dürfen</field>
+<field name="word">festangestellte</field>
 <field name="word">bezirklichen</field>
 <field name="word">finanzen</field>
-<field name="word">abschließen</field>
 <field name="word">möge</field>
-<field name="word">träger</field>
-<field name="word">plus</field>
-<field name="word">stand</field>
-<field name="word">zudem</field>
 <field name="word">leiharbeitnehmer</field>
-<field name="word">bekommen</field>
+  <field name="ausschuss">Finanzen</field>
   <field name="text_de">Der Ausschuss für Finanzen, Personal und Immobilien hat die Drucksache in seiner Sitzung am 30. Mai 2013 abschließend beraten.
  
 Abstimmungsergebnis Ausschuss
@@ -70,16 +36,14 @@ für Finanzen, Personal und Immobilien:
  
 Die BVV möge beschließen:
  
- 
-Das Bezirksamt setzt sich dafür ein, dass in bezirklichen Unternehmen, auf die das Bezirksamt direkt Einfluss hat, höchstens 10 % Leiharbeitnehmer*innen in den Unternehmen beschäftigt werden. Zudem soll darauf geachtet werden, dass in den Unternehmen Zeitarbeitskonten transparent gestaltet werden und die Arbeitnehmer*innen regelmäßige Information über den Stand der Plus- und Minusstunden bekommen. Plusarbeitsstunden dürfen nicht mit Krankzeiten verrechnet werden.
- 
-Das Bezirksamt wird ersucht, sich beim Senat von Berlin dafür einzusetzen, dass für freie Träger, die einen Rahmenleistungsvertrag mit dem Land Berlin oder mit dem Bezirk Pankow abschließen, eine Vergütungsvereinbarung bzw. ein Tarifvertrag für die Beschäftigten des Trägers vorliegen muss. Die Prüfkriterien für die Anerkennung freier Träger sind dahingehend zu erweitern.
- 
+Das Bezirksamt setzt sich daf
+ür
+ ein, dass in bezirklichen Unternehmen, auf die das Bezirksamt direkt Einfluss hat, keine Leiharbeitnehmer*innen beschäftigt werden. Festangestellte Aushilfen sollen statt Leiharbeitnehmer*innen beschäftigt werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3395&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1119</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">519</field>  
+  <field name="parteien">1</field>   
 </doc></add>

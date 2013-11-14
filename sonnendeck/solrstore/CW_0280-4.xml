@@ -117,6 +117,7 @@
 <field name="word">bearbeitet</field>
 <field name="word">gestellt</field>
 <field name="word">ihres</field>
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de">Die BVV 
 hat in der Sitzung am 14. Juni 2012 beschlossen
 :
@@ -164,10 +165,10 @@ Bezirksbürgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4544&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">2343</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

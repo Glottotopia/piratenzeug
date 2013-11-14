@@ -166,6 +166,7 @@
 <field name="word">offene</field>
 <field name="word">dafü</field>
 <field name="word">notwendig</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 ·
@@ -328,10 +329,10 @@ glichkeiten an soziale Netzwerke verfü
 gen?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4926&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3602</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

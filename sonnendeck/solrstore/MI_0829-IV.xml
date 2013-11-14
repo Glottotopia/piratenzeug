@@ -25,6 +25,7 @@
 <field name="word">verantwortlichen</field>
 <field name="word">lstuhlfahrer</field>
 <field name="word">rollstuhlgerechten</field>
+  
   <field name="text_de"> 
  
 (1) Das Bezirksamt wird beauftragt, über rollstuhlgerechten
@@ -47,10 +48,10 @@ Verantwortlichen von wheelmap.org zu übermitteln.
 Erledigungsfrist: 
 13.06.2013
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5462&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">493</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

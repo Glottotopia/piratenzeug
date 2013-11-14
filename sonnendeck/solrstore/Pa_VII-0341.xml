@@ -36,6 +36,7 @@
 <field name="word">nachnamen</field>
 <field name="word">unverzüglich</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Das Bezirksamt setzt sich in der Trägerversammlung des JobCenters und beim Senat von Berlin dafür ein, dass nachfolgende Daten auf den Internetseiten des Jobcenters Pankow veröffentlicht werden.
  
 1.
@@ -51,10 +52,10 @@ Die geschäftlichen Mailadressen aller Sachbearbeiter des Jobcenters.
        
 Die vorgenannten Daten sind bei Veränderungen unverzüglich auf der Internetseite des JobCenters zu aktualisieren.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3425&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">663</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

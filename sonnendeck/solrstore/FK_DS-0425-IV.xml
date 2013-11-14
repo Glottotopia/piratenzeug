@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0425/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Einwohnerversammlung zur geplanten Verlegung der Tram 21</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -51,6 +51,8 @@
 <field name="word">ostkreuz</field>
 <field name="word">einwohnerversammlung</field>
 <field name="word">zurückgezogen</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, eine Einwohnerversammlung zur geplanten Verlegung der Straßenbahnlinie 21 von der Boxhagener Straße in die Sonntagstraße durchzuführen. Diese soll bis Mitte Dezember 2012 stattfinden.
@@ -67,10 +69,10 @@ StadtQM
 12.12.2012
  
 Vom Antragsteller zurückgezogen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.505424,13.4666233</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5182&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">888</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

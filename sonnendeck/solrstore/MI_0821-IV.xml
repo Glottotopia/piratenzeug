@@ -41,6 +41,7 @@
 <field name="word">kein</field>
 <field name="word">geld</field>
 <field name="word">woche</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 Im Artikel "Kein Geld für Blumen" aus der Berliner Woche vom 
@@ -60,10 +61,10 @@ Ich frage den Bezirksbürgermeister, sowie die Stadträte:
 . Sind bereits Spenden eingegangen und wie viele Blumen können mit diesen Geldern gepflanzt werden?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5454&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">755</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -15,13 +15,14 @@
 <field name="word">angrenzenden</field>
 <field name="word">rathaus</field>
 <field name="word">internetzugang</field>
+  
   <field name="text_de">Das Bezirksamt Spandau wird beauftragt, im BVV-Saal sowie in den angrenzenden Si
 t
 zungsräumen im Rathaus Spandau einen Internetzugang über WLAN verfügbar zu machen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7217&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">165</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

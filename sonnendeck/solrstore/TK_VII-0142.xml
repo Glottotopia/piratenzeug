@@ -40,6 +40,7 @@
 <field name="word">offenen</field>
 <field name="word">umstellung</field>
 <field name="word">software</field>
+  
   <field name="text_de">1.
     
 Welche Lizenzprodukte werden in der Bezirksverwaltung und in den Schulen gegenwärtig eingesetzt?
@@ -66,10 +67,10 @@ Wenn ja, welche?
 d)
         
 Wie hoch schätzt das Bezirksamt die Kosten für eine solche Umstellung?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4241&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">803</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

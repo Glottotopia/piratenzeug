@@ -39,6 +39,7 @@
 <field name="word">weiteren</field>
 <field name="word">fahrradfahrer</field>
 <field name="word">bezirkes</field>
+  <field name="ausschuss">Verkehr</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Bei der zukünftigen Verkehrsplanung des Bezirkes werden wo immer möglich Radstreifen der Vorrang vor Radwegen eingeräumt.
@@ -48,10 +49,10 @@ Radstreifen tragen erwiesenermaßen zu mehr Sicherheit für Fahrradfahrer/innen 
 r/innen
  kommen auf Radstreifen flüssig voran und werden insbesondere in Abbiegesituationen seltener übersehen. Daher soll bei weiteren Planungen Radstreifen der Vorrang eingeräumt werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3835&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">571</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

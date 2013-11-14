@@ -102,6 +102,7 @@
 <field name="word">ziel</field>
 <field name="word">bestimmen</field>
 <field name="word">unverzüglich</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de">Die BVV 
 hat
  in ihrer Sitzung vom 
@@ -155,10 +156,10 @@ Bezirksstadtrat
               
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4874774,13.3198099</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4430&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1874</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

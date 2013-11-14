@@ -132,6 +132,8 @@
 <field name="word">planungsauslegung</field>
 <field name="word">planungen</field>
 <field name="word">präsenz</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird aufgefordert, auf der Webpräsenz des Bezirks eine Webseite einzurichten, auf der interessierte Bürger ihre Emailadresse in einen Verteiler eintragen können. An die dort eingetragenen Emailadressen wird im Vorab öffentlicher Auslegungen von Plänen im Rahmen der frühzeitigen und förmlichen Bürgerbeteiligung eine Benachrichtigung über die Auslegung versendet. Dies geschieht zwei Mal, Jeweils vier und eine Woche vor der Auslegung. Spätestens 4 Wochen vor Auslegung sind die Auslegungen auf einer 2. Webseite ebenfalls zu veröffentlichen.
@@ -224,10 +226,10 @@ Kann die 4-Wochen-Frist nicht eingehalten werden, erfolgt die Benachrichtigung u
 11.03.2013
  
 Beantwortung erfolgt zusammen mit der DS/0174/IV in der VzK zur DS/0174/IV.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4853&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">4541</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

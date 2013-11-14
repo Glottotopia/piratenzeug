@@ -69,6 +69,7 @@
 <field name="word">tungstätigkeiten</field>
 <field name="word">funktionen</field>
 <field name="word">stiftungen</field>
+  
   <field name="text_de">Der Ausschuss empfiehlt die 
 Ablehnung
  des Antrages in folgender Fassung:
@@ -114,10 +115,10 @@ züglich schriftlich mitzuteilen. Die Angaben werden im Internetangebot der Bezi
 r
 sammlung veröffentlicht.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3714&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1153</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

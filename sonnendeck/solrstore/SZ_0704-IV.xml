@@ -91,6 +91,7 @@
 <field name="word">lang</field>
 <field name="word">fußgänger</field>
 <field name="word">steglitz</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de"> 
 Die BVV möge beschließen:
  
@@ -133,10 +134,10 @@ Müller
               
 Hippe
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4314168,13.1942833</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4740&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1876</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

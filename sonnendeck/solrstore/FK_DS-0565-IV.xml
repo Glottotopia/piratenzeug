@@ -522,6 +522,7 @@
 <field name="word">ostkreuz</field>
 <field name="word">trotzdem</field>
 <field name="word">bebauung</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1.
@@ -580,10 +581,10 @@ Zu Nachfrage 4:
  Das springt völlig den Rahmen einer mündlichen Anfrage. Das ist ein absolut großes Problem, was Sie ansprechen. Wir werden die erste Vorstellung im März im Bezirksamt haben, was die Umsetzung der prognostizierten 20.000 bis 25.000 Personen, Bürger, die kommen werden oder kommen sollen bis 2030, was das für Infrastruktur bedeutet und dann sollten wir, wenn wir da uns halbwegs verständigt haben, im Bezirksamt natürlich eine wirklich solide Diskussion auch in den Fachausschüssen führen. Ich kann Ihnen nur sagen, das wird nicht einfach. Wir sind als Siedlungsgebiet das am dichtesten besiedelte Gebiet von ganz Berlin und von daher wird es ganz schwierig sein, das zu klären. Aber ich glaube, das ist eine ganz große Planungsaufgabe und wir werden März / April uns dieser Diskussion stellen. 
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.51088455,13.4700950599535</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5341&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">11215</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

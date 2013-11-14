@@ -185,6 +185,7 @@
 <field name="word">treffen</field>
 <field name="word">fahrradfahrer</field>
 <field name="word">hlaggrega</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 Welche Straß
@@ -312,10 +313,10 @@ nahmen abgeschlo
 s
 sen sind.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5672&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3838</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

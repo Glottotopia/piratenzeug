@@ -66,6 +66,7 @@
 <field name="word">rekrutierung</field>
 <field name="word">deshalb</field>
 <field name="word">inhalte</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Dem Bezirksamt wird empfohlen, sich gegenüber den Schulen im Bezirk dafür einzusetzen, dass diese nicht als Werbeplattform für die Rekrutierung von künftigen Soldatinnen und Soldaten benutzt werden. Finden dennoch Veranstaltungen unter Beteiligung der Bundeswehr statt, sollten gleichzeitig auch Vertreterinnen und Vertreter von pazifistischen bzw. militärkritischen Organisationen eingeladen werden.
@@ -76,10 +77,10 @@ Begründung:
 Mit der Aussetzung der Wehrpflicht ist die Bundeswehr in höherem Maße als zuvor auf die Rekrutierung von Freiwilligen angewiesen. Deshalb fordert das Bündnis "Schule ohne Militär" die Bundeswehr vollkommen vom Schulunterricht auszuschließen. Keinesfalls dürfen Schulen allerdings einseitig als Werbeplattform 
 benutzt
  werden. Sie sollen wertorientiert, umfassend und neutral Inhalte vermitteln und erörtern. Fehlen bei Veranstaltungen unter Beteiligung der Bundeswehr Akteurinnen und Akteure von Friedensorganisationen, ist dies nicht gewährleistet. </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4643&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1052</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

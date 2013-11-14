@@ -22,6 +22,7 @@
 <field name="word">eltern</field>
 <field name="word">koalitionsverhandlungen</field>
 <field name="word">einbeziehung</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung 
@@ -36,10 +37,10 @@ lich umzusetzen.
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3054&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">338</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

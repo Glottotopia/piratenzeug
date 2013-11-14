@@ -109,6 +109,7 @@
 <field name="word">westlich</field>
 <field name="word">jetzigen</field>
 <field name="word">stra</field>
+  <field name="ausschuss">Wirtschaft</field>
   <field name="text_de">D
 ie BVV 
 hat in ihrer Sitzung am 25. Oktober 2012 beschlossen
@@ -207,10 +208,10 @@ rgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4620&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2054</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

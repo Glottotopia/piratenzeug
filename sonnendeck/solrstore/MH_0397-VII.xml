@@ -49,6 +49,7 @@
 <field name="word">orte</field>
 <field name="word">emailadressen</field>
 <field name="word">woche</field>
+  <field name="ausschuss">Wirtschaft</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, einen E-Mail-Verteiler einzurichten, in den sich an der Bebauungsplanauslegung interessierte Personen im Double-Opt-In Verfahren eintragen können. An die dort eingetragenen Emailadressen sollen im Vorab öffentliche
@@ -64,10 +65,10 @@ al geschehen, jeweils vier Wochen und eine Woche
  Wochen vor der Auslegung sollen die Auslegungstermine und -orte ebenfalls auf der Website des Bezirksamts v
 eröffentlicht werden. Kann die Vier
 -Wochen-Frist nicht eingehalten werden, soll die Benachrichtigung und Veröffentlichung so früh wie möglich erfolgen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4676&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">792</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

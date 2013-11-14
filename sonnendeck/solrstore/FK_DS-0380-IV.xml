@@ -92,6 +92,7 @@
 <field name="word">bebauungsplans</field>
 <field name="word">baugebiet</field>
 <field name="word">ostkreuz</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt sich dafür einzusetzen, dass es im gemeinsamen Bebauungsplan XVII-4 mit dem Bezirk Lichtenberg zu folgenden Änderungen kommt, wie sie in der Grafik abgebildet sind und von dem Bündnis Initiativen rund ums Ostkreuz seit mehreren Jahren gefordert wird:
@@ -121,10 +122,10 @@ Der Antrag wird abgelehnt.
 Die Bezirksverordnetenversammlung beschließt:
  
 Der Antrag wird abgelehnt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5133&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1801</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

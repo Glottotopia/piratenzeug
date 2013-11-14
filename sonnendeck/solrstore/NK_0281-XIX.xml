@@ -67,6 +67,7 @@
 <field name="word">bildung</field>
 <field name="word">honorarerhöhungen</field>
 <field name="word">abgelehnt</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird gebeten, sich bei den zuständigen Stellen des Landes Berlin dafür einzusetzen, dass den Bezirken analog den Regelungen für die Musikschulen auch im Bereich der Volkshochschulen entsprechende haushaltstechnische Hilfestellungen für die Neuregelungen der Honorare an die Hand gegeben werden, damit das bisherige Angebot aufrechterhalten werden kann.
@@ -97,10 +98,10 @@ Das Bezirksamt sieht den Beschluss der BVV damit als erledigt an.
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3904&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1298</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

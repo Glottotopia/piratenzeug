@@ -153,6 +153,7 @@
 <field name="word">eignung</field>
 <field name="word">metropolenbibliothek</field>
 <field name="word">zentralen</field>
+  
   <field name="text_de">Die BVV fasste auf ihrer Sitzung am 
 20.6.2012
  folgenden Beschluss:
@@ -294,10 +295,10 @@ Voraussichtlich im Mai 2013 sollen die Arbeiten
 ffentlich ausgestellt werden.
  
 Das Bezirksamt bittet, den Beschluss damit als erledigt anzusehen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4077&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2817</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

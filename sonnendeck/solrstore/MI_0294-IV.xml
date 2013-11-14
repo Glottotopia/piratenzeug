@@ -16,6 +16,7 @@
 <field name="word">allris</field>
 <field name="word">notwendig</field>
 <field name="word">hoch</field>
+  
   <field name="text_de">Ich frage das Bezirksamt
 :
  
@@ -29,10 +30,10 @@ Funktionen in ALLRIS zu aktivieren?
 - PDF Sitzungsdokument
 - ALLRIS Mobil
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4929&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">293</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -89,6 +89,7 @@
 <field name="word">behinhaltet</field>
 <field name="word">entwicklungskonzeptes</field>
 <field name="word">bezüglich</field>
+  
   <field name="text_de">Der Hauptausschuss empfiehlt der Bezirksverordnetenversammlung die
  Annahme der Drucksache
  in folgender geänderter Fassung:
@@ -135,10 +136,10 @@ Abstimmungsergebnis: 7
  
 5
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5532&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2573</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

@@ -43,6 +43,7 @@
 <field name="word">wartung</field>
 <field name="word">netzwerke</field>
 <field name="word">geräte</field>
+  <field name="ausschuss">Verwaltung</field>
   <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
 Annahme
  des Antrages in folgender Fassung:
@@ -54,10 +55,10 @@ Freie Netzwerke e.V.
 ,
  geschehen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3790&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">632</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

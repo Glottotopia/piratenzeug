@@ -30,6 +30,7 @@
 <field name="word">jedoch</field>
 <field name="word">geschäftsordnung</field>
 <field name="word">protokolle</field>
+  
   <field name="text_de">Die BVV wolle beschließen Paragraph 19 Abs. 14 Satz 3 der Geschäftsordnung
  
 "Protokolle sollen in der Regel bis zur nächsten Sitzung zugestellt werden."
@@ -37,10 +38,10 @@
 wie folgt zu ändern:
  
 Die Vorsitzenden der jeweiligen Ausschüsse gewährleisten eine Bereitstellung der Sitzungsprotokolle für die Ausschussmitglieder und Fraktionen bis zur nachfolgenden Ausschusssitzung - spätestens jedoch 28 Tage nach dem Termin der entsprechenden Ausschusssitzung.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6854&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">441</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

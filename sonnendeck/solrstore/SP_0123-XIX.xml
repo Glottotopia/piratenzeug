@@ -30,15 +30,16 @@
 <field name="word">könnte</field>
 <field name="word">verschicken</field>
 <field name="word">zentrale</field>
+  
   <field name="text_de">Das Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass ein automatischer E-Mail-Verteiler für alle per E-Mail erreichbaren Bezirksverordneten eingerichtet wird. Jeder teilnehmende Bezirksverordnete könnte hierdurch per E
 -
 mail an eine zentrale E-Mail-Adresse eine elektronische Nachricht an alle anderen Bezirksverordneten verschicken (Schreib/Leserecht). Jeder interessierte Bürger mit einer E
 -
 Mail-Adresse soll auf diesem E-Mail-Verteiler mitlesen dürfen (Nur-Leserecht).</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6727&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">496</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -199,6 +199,8 @@
 <field name="word">machen</field>
 <field name="word">hierbei</field>
 <field name="word">einmal</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Siedlungsgebiete</field>
   <field name="text_de">Das Bezirksamt möge legale Grillplätze in Marzahn-Hellersdorf schaffen.
  
 Dazu wird das Bezirksamt einerseits ersucht folgende, auch in der Antwort zu der Kleinen Anfrage "195/VII - Grillplätze in Marzahn-Hellersdorf" [1] als bereits in Benutzung befindlich genannten, Standorte auf ihre Eignung hin zu untersuchen:
@@ -268,10 +270,10 @@ tig.
 [1] 
 http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/ka020.asp?KALFDNR=1013
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5261&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3942</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

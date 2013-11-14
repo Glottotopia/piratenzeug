@@ -22,6 +22,7 @@
 <field name="word">auskunft</field>
 <field name="word">schlüsse</field>
 <field name="word">erhebungen</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1)
@@ -41,10 +42,10 @@ er zuständigen Senatsverwaltung
  auf die Methodik zukünft
 i
 ger Erhebungen Einfluss auszuüben? </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4179&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">374</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

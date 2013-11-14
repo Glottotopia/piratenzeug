@@ -28,6 +28,7 @@
 <field name="word">blauert</field>
 <field name="word">verbücheln</field>
 <field name="word">yasser</field>
+  
   <field name="text_de">In den Vorstand der BVV Pankow von Berlin werden als Beisitzer gewählt:
  
 Bezirksverordneter Yasser Sabek
@@ -49,10 +50,10 @@ Bezirksverordneter Stephan Verbücheln
               
 Piratenfraktion
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3083&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">470</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

@@ -28,6 +28,7 @@
 <field name="word">anzahl</field>
 <field name="word">vorruhestand</field>
 <field name="word">bezüge</field>
+  
   <field name="text_de">Alle 
 Mitarbeiter
 *innen
@@ -45,10 +46,10 @@ ntwortung sollte die Anzahl der
  gewünschten Stunden sowie die gewünschten Arbeitsbe
 reiche benannt
  werden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3506&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">371</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

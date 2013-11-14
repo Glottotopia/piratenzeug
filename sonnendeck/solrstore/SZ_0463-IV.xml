@@ -117,6 +117,7 @@
 <field name="word">planungen</field>
 <field name="word">steglitz</field>
 <field name="word">bebauung</field>
+  
   <field name="text_de"> 
 Die BVV möge beschließen:
  
@@ -218,10 +219,10 @@ Der Antrag in der geänderten Fassung des Stadtplanungsausschusses wurde am
 Buchta
 Ausschussvorsitzender
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4303805,13.2522733</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4499&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3402</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

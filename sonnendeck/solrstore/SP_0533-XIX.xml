@@ -37,6 +37,7 @@
 <field name="word">geschäftsordnung</field>
 <field name="word">darstellung</field>
 <field name="word">protokolle</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt die Spielplatzkommission als Gremium auf der Webseite des Bezirksamts zu erfassen. Dabei sollen sämtliche relevanten Informationen berücksichtigt werden. Dazu zählen die Geschäftsordnung der Kommission, die Sitzungstermine, Mitglieder, jeweiligen Tagesordnungen, Protokolle, aktuell anstehenden Entscheidungen und w
 eitere Informationsmaterialien.
  
@@ -45,10 +46,10 @@ ielsweise unter dem Schlagwort Gremien
  (siehe 
 http://www.berlin.de/ba-spandau/buergerdienste/gremien/
  ) erfolgen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7137&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">537</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

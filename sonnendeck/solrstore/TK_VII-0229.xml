@@ -91,6 +91,7 @@
 <field name="word">machen</field>
 <field name="word">fußweg</field>
 <field name="word">unverzüglich</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das
@@ -128,10 +129,10 @@ Vermeidbare Anordnungen der Benutzungspflicht von Radverkehrsanlagen machen das 
 2 zur BE 
 (PIRATEN, B'90Grüne)
 Das Bezirksamt wird ersucht, die Bezirksverordneten unverzüglich zu informieren, wenn es sich entschließt, Widerspruch gegen die Aufhebung der Radwegebenutzungspflicht in Treptow-Köpenick bei der Verkehrslenkung Berlin (VLB) einzulegen. Gleiches gilt für Stellungnahmen gegenüber der VLB, die gegen eine Aufhebung sprechen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4328&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2584</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

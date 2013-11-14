@@ -46,6 +46,7 @@
 <field name="word">african</field>
 <field name="word">übernimmt</field>
 <field name="word">bebauung</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt sich dafür einzusetzen, dass auf dem Grundstück Stralauer Platz 35 weiterhin eine Sport- und Kulturnutzung stattfindet wie sie der Young African Arts Market YAAM seit Jahren erfolgreich betreibt. Der Bezirk spricht sich klar gegen eine Bebauung des Grundstücks und für den Erhalt des YAAM aus. 
@@ -55,10 +56,10 @@ Das YAAM leistet einen unverzichtbaren Beitrag zur bezirklichen Infrastruktur be
  
 Die Fraktion der PIRATEN übernimmt den Änderungsantrag B90/Die Grünen.
 Siehe Drucksache DS/0382-01/IV</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5087561,13.4335809</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5135&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">721</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

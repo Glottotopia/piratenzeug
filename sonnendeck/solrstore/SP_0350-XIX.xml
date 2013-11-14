@@ -64,6 +64,7 @@
 <field name="word">februar</field>
 <field name="word">integrationsbeauftragten</field>
 <field name="word">handlungsstrategien</field>
+  
   <field name="text_de">2
  
 In Zusammenarbeit mit dem von der Landesstelle für Gleichbehandlung  gegen Di
@@ -92,10 +93,10 @@ Helmut Kleebank
 Bezirksbürgermeister
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6954&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1024</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

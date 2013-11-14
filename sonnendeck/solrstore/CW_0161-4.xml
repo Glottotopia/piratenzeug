@@ -88,6 +88,8 @@
 <field name="word">folgendes</field>
 <field name="word">derzeitig</field>
 <field name="word">servic</field>
+  <field name="ausschuss">Haushalt</field>
+<field name="ausschuss">Bürgerdienste</field>
   <field name="text_de"> 
 Die BVV
  hat in ihrer Sitzung 
@@ -132,10 +134,10 @@ Bezirksbürgermeister
 Bezirksstadtrat
               
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4898694,13.3138912</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4425&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1477</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

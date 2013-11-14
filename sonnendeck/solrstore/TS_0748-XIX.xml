@@ -4,60 +4,46 @@
   <field name="titel">Ausschreibung E-Tanke J.-F.-K.-Platz</field>  
   <field name="bezirk">Tempelhof_Schöneberg</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">auftragsvergabe</field>
+  <field name="word">möglichkeit</field>
 <field name="word">lasst</field>
 <field name="word">beschließen</field>
-<field name="word">zertifiziertem</field>
-<field name="word">innovative</field>
+<field name="word">berücksichtigen</field>
 <field name="word">wolle</field>
-<field name="word">darauf</field>
-<field name="word">möglichst</field>
-<field name="word">vergabe</field>
-<field name="word">ggfl</field>
-<field name="word">unternehmen</field>
 <field name="word">realisieren</field>
-<field name="word">mündlich</field>
-<field name="word">betreiben</field>
-<field name="word">deren</field>
+<field name="word">dessen</field>
+<field name="word">zuständigen</field>
+<field name="word">senatsverwaltung</field>
 <field name="word">akkus</field>
 <field name="word">bike</field>
-<field name="word">kooperation</field>
-<field name="word">ökostrom</field>
-<field name="word">abzielt</field>
+<field name="word">umgebung</field>
 <field name="word">möge</field>
-<field name="word">junge</field>
+<field name="word">dort</field>
 <field name="word">projektes</field>
 <field name="word">umgestaltung</field>
-<field name="word">ausschreiben</field>
-<field name="word">carsharingunternehmen</field>
-<field name="word">begründung</field>
+<field name="word">vorsehen</field>
+<field name="word">empfiehlt</field>
 <field name="word">tankstelle</field>
-<field name="word">bevorzugt</field>
-<field name="word">ortsansässige</field>
 <field name="word">ladevorrichtung</field>
 <field name="word">platzes</field>
 <field name="word">errichtung</field>
-<field name="word">ausschließlich</field>
-<field name="word">öffentlich</field>
-<field name="word">konzept</field>
 <field name="word">prüfen</field>
-  <field name="text_de"> 
+  <field name="ausschuss">Verkehr</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung:
+ 
 Die Bezirksverordnetenversammlung wolle beschließen:
  
-Das Bezirksamt möge die Auftragsvergabe zur Errichtung einer E-Tankstelle im Rahmen der Umgestaltung des J.-F.-K.-Platzes öffentlich ausschreiben. Bei der Vergabe sollen junge, innovative, ortsansässige Unternehmen bevorzugt werden, deren Konzept darauf abzielt,  
-(a) die E-Tankstelle ausschließlich mit zertifiziertem Ökostrom zu betreiben;
-(b) die E-Tankstelle möglichst in Kooperation mit einem Carsharingunternehmen zu betreiben. 
+Das Bezirksamt möge die 
+Möglichkeit
+ zur Errichtung einer E-Tankstelle im Rahmen der Umgestaltung des J.-F.-K.-Platzes
+ dort oder in dessen Umgebung mit der zuständigen Senatsverwaltung prüfen bzw. 
+vorsehen /
+ berücksichtigen.
  
-Es ist zu prüfen ob sich im Rahmen des Projektes eine Ladevorrichtung für E-Bike Akkus realisieren lasst.
- 
- 
-Begründung
-:
-ggfl. mündlich</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+Es ist zu prüfen ob sich im Rahmen des Projektes eine Ladevorrichtung für E-Bike Akkus realisieren lasst.</field> 
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4544&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">632</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">452</field>  
+  <field name="parteien">1</field>   
 </doc></add>

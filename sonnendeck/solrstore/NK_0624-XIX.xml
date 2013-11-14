@@ -23,6 +23,7 @@
 <field name="word">abgesagten</field>
 <field name="word">zwangsrä</field>
 <field name="word">nahmen</field>
+  
   <field name="text_de">Ich frage das Bezirksamt,
 1) Hat das Bezirksamt bezü
 glich der (inzwischen abgesagten) Zwangsrä
@@ -41,10 +42,10 @@ umung am
 e 208 und welche Maß
 nahmen wurden deswegen getroffen?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4247&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">368</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

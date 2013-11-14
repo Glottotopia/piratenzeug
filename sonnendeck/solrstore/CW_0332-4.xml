@@ -111,6 +111,7 @@
 <field name="word">suchtberatungsinitiat</field>
 <field name="word">eister</field>
 <field name="word">mobils</field>
+  <field name="ausschuss">Soziales</field>
   <field name="text_de">Druckraumeinrichtung
  
 Die BVV hat
@@ -243,10 +244,10 @@ eister
 Bezirksstadtrat
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.504457,13.3033757</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4596&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">2431</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

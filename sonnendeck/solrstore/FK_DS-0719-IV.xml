@@ -100,6 +100,8 @@
 <field name="word">ungarische</field>
 <field name="word">herzustellen</field>
 <field name="word">dafü</field>
+  <field name="ausschuss">Schule</field>
+<field name="ausschuss">Kultur</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird ersucht, bei der Vorbereitung und Durchfü
@@ -220,10 +222,10 @@ chereien wird empfohlen, das Buch ü
 ber Zwangsarbeit bei Daimler (Titel: Innere Bilder wird man nicht los), i
 n dem auch Leben und Werk von Edith Kiss gewü
 rdigt werden, in den Bestand aufzunehmen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5506&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">4085</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

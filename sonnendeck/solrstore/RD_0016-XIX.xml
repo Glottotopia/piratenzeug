@@ -23,6 +23,7 @@
 <field name="word">bezirkswebsite</field>
 <field name="word">hoch</field>
 <field name="word">stehen</field>
+  
   <field name="text_de">Sachverhalt:
  
 Das Bezirksamt wird um Auskunft gebeten:
@@ -45,10 +46,10 @@ Wie hoch sind die geschätzten Kosten
 t
 stehen würden?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3065&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">418</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

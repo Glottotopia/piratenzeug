@@ -95,6 +95,7 @@
 <field name="word">abgeordnetenhauses</field>
 <field name="word">vorliegende</field>
 <field name="word">schulz</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Der Bezirksbürgermeister Dr. Franz Schulz beruft eine Dienstbesprechung aller Mitarbeiterinnen und Mitarbeiter der bezirklichen Dienststellen ein. Sie hat den drohenden Personalabbau in den kommenden Jahren zum Thema, der erhebliche Beeinträchtigungen für Mitarbeiter und Bürger zur Folge haben kann. Die Dienstbesprechung wird für den 14. Juni 2012 anberaumt, sie wird in der Nähe des Abgeordnetenhauses von Berlin durchgeführt.
@@ -116,10 +117,10 @@ BVV
 20.06.2012
  
 Die Fraktion der PIRATEN übernimmt den Änderungsantrag DS/0253-01/IV der Fraktion DIE LINKE.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4992&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1772</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

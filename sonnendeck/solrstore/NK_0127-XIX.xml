@@ -25,15 +25,16 @@
 <field name="word">elternvertretung</field>
 <field name="word">erfolgt</field>
 <field name="word">parken</field>
+  
   <field name="text_de">Eine Strecke mit Tempo 10 als vorgeschriebener Höchstgeschwindigkeit ist vor der Kita im Orchideenweg vom Schneeballenweg bis zum Flurweg am 
 26.07.2012
  eingerichtet worden. Das versetzte Parken ist nach Absprache mit der Kitaleitung und Elternvertretung nicht erfolgt.
  
 Das Bezirksamt sieht hiermit den Beschluss der BVV als erledigt an.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3750&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">340</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

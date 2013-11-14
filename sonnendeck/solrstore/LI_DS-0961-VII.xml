@@ -77,6 +77,7 @@
 <field name="word">dringlichkeit</field>
 <field name="word">beschlossene</field>
 <field name="word">leitbild</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließen:
  
 Das Bezirksamt wird ersucht 
@@ -109,10 +110,10 @@ Begründung
  der Dringlichkeit:
 Durch die kürzlich beschlossene Aussetzung der Wehrpflicht soll nun das Bezirksamt schnellstmöglich reagieren und der Bundeswehr keine Zeit geben, um weiterhin an den Schulen zu werben.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5623&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1551</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

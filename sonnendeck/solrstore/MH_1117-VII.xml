@@ -66,6 +66,7 @@
 <field name="word">bezirkshaushalt</field>
 <field name="word">fallen</field>
 <field name="word">ersichtlich</field>
+  
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, im Rahmen zukünftiger Bürgerhaushaltsverfahren die (lokal-
@@ -77,10 +78,10 @@ Die Informationsmaterialien sollen auch Informationen zur Umsetzbarkeit von Anli
 Außerdem soll das (Roh-)Datenmaterial zu Einreichung, Bewertung und Abstimmung zu den jeweiligen Bürgerhaushaltsverfahren im OpenData-Portal der Stadt Berlin [1] eingestellt werden. Dabei sollen auch die Daten zur Gender-Budget-Analyse stadtteilbezogen bereitgestellt werden. Dies soll in Form eines plattformunabhängigen und lizenzfreien Dateiformates geschehen.
 [1] 
 http://daten.berlin.de/</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5419&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1230</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

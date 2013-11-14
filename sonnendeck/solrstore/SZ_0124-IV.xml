@@ -131,6 +131,7 @@
 <field name="word">steglitz</field>
 <field name="word">dafü</field>
 <field name="word">bezirkspolitik</field>
+  
   <field name="text_de"> 
 Die BVV mö
 ge beschließ
@@ -248,10 +249,10 @@ Rö
 gner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4160&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3249</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

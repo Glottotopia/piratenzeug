@@ -20,12 +20,13 @@
 <field name="word">mitglieder</field>
 <field name="word">verabschieden</field>
 <field name="word">landeshaushalt</field>
+  
   <field name="text_de">Wir fordern die Mitglieder des Abgeordnetenhauses auf, den Plänen des Finanzsenators deutlich zu widersprechen und einen Landeshaushalt zu verabschieden, der eine Erhöhung der bezirklichen Zuweisungen um mindestens 50 Millionen Euro vorsieht.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3198&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">244</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

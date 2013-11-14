@@ -55,6 +55,7 @@
 <field name="word">erfahrungen</field>
 <field name="word">reisekostenpauschalen</field>
 <field name="word">dafü</field>
+  
   <field name="text_de">              
 Wir fragen das Bezirksamt':
  
@@ -107,10 +108,10 @@ Wie werden die Erfahrungen der Reisenden den Verordneten und den Tempelhof-Schö
 nebergern vermittel
 t?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4201&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">959</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

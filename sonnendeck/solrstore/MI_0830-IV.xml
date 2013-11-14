@@ -24,6 +24,7 @@
 <field name="word">wickelkommoden</field>
 <field name="word">ihres</field>
 <field name="word">stelle</field>
+  
   <field name="text_de"> 
 Das Bezirksamt wird ersucht, Eltern im EG oder 1. OG des
 Rathauses Mitte öffentlich eine Möglichkeit zum Wickeln ihres
@@ -36,10 +37,10 @@ gen Toilettenräumen.
 Erledigungsfrist: 
 13.06.2013
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5463&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">332</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

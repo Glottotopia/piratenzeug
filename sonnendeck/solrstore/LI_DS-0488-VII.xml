@@ -25,14 +25,15 @@
 <field name="word">oktober</field>
 <field name="word">kenntnis</field>
 <field name="word">tiefbau</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, Folgendes zur Kenntnis zu nehmen:
  
 Das Tiefbau- und Landschaftsamt beabsichtigt, noch in diesem Jahr die hier benannten Schäden in der Fahrbahndecke der Lindenberger Straße zu beseitigen. Eine Firma wurde bereits beauftragt und der Baubeginn ist für Anfang Oktober 2013 vorgesehen. Für diese Maßnahme werden ca. 30.000 ? benötigt.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.5919723,13.5273007</field>
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5150&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">390</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

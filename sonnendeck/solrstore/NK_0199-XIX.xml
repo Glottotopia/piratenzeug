@@ -41,6 +41,7 @@
 <field name="word">wäre</field>
 <field name="word">ausstattung</field>
 <field name="word">stvo</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird gebeten, sich beim Senat dafür einzusetzen, dass das Drogenmobil von fixpunkt e.V. mit einem Elektroantrieb ausgestattet wird.
@@ -53,10 +54,10 @@ verbotsregelung zu finden, die einen Parkplatz in der entsprechenden Zeit für d
  
 a. bereits in der Karl-Marx-Straße.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3822&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">659</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

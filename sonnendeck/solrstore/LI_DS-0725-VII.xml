@@ -76,6 +76,7 @@
 <field name="word">erstellt</field>
 <field name="word">dadurch</field>
 <field name="word">software</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
 Folgendes 
 zur Kenntnis zu nehmen:
@@ -90,10 +91,10 @@ Sinnvoll, im Sinne der Nutzbarkeit durch Dritte, wäre eine Veröffentlichung al
  
 Die Einholung eines Angebotes über diese Optionen brachte das Ergebnis, dass die notwendigen Gesamtkosten in Höhe von ca. 13.000 Euro die momentanen finanziellen Möglichkeiten überschreiten. Diese Mittel sind nicht geplant und auch nicht im Bezirkshaushalt eingestellt.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5387&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1218</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

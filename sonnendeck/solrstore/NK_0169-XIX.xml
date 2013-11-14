@@ -44,6 +44,7 @@
 <field name="word">woche</field>
 <field name="word">bezirksamtes</field>
 <field name="word">protokolle</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird ersucht, Bezirksamtsbeschlüsse, sowie die Protokolle der Bezirksamtssitzungen spä
@@ -58,10 +59,10 @@ Auch der Senat veröffentlicht seine Beschlüsse und Protokolle.
 Durch die Öffentlichkeit, nicht nur der Entscheidungen der BVV, sondern auch des Bezirksamtes wird mehr Transparenz in den Entscheidungsprozessen gewährt und interessierte Bürger können sich noch besser über die Bezirkspolitik informieren.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3792&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">802</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

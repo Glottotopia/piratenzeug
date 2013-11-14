@@ -28,6 +28,7 @@
 <field name="word">sachverhalte</field>
 <field name="word">geprü</field>
 <field name="word">quartal</field>
+  
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht zu prü
@@ -43,10 +44,10 @@ sen lassen.
  
 Das
  Ergebnis ist der Bezirksverordnetenversammlung im 1. Quartal 2014 vorzulegen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5417&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">447</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -43,6 +43,7 @@
 <field name="word">definieren</field>
 <field name="word">bleiben</field>
 <field name="word">zurückgezogen</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Der Antrag wird von den antragstellenden Fraktionen der Grünen und PIRATEN in folgender Fassung 
 zurückgezogen
 :
@@ -51,10 +52,10 @@ Das Bezirksamt wird gebeten in Ergänzung zu den Überlegungen im Rahmen des
 Stadtentwicklungsplans Wohnen
  Wohnungsbaupotenziale (auch Verdichtungspotenzial innerhalb von Siedlungsarealen) des Bezirks zu ermitteln und anhand einer Auflistung und Kartierung nachvollziehbar zu erfassen, sowie darin zu definieren, welche unbebauten Grundstücke als dem Gemeinwohl dienende Freiflächen nach Ansicht des Bezirksamts erhalten bleiben sollen. Die Ergebnisse sollen der BVV zugänglich gemacht und wenn technisch möglich auch auf der Webseite veröffentlicht werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4065&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">674</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

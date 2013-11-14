@@ -13,12 +13,14 @@
 <field name="word">sozialleistungen</field>
 <field name="word">bürgerin</field>
 <field name="word">jeder</field>
+  <field name="ausschuss">Arbeit</field>
+<field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Das Bezirksamt wird ersucht, jedem Bürger und jeder Bürgerin der/die Sozialleistungen beantragt, bei Antragsabgabe, die Abg
 abe mit Datum zu bescheinigen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3599&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">154</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

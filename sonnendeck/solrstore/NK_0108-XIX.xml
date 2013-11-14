@@ -25,6 +25,7 @@
 <field name="word">befinden</field>
 <field name="word">harter</field>
 <field name="word">senkt</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1.
@@ -37,10 +38,10 @@ Senkt der Wachschutz an Neuköllner Schulen signifikant die Anzahl von Abhängig
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3731&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">306</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

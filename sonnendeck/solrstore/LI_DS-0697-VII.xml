@@ -105,6 +105,7 @@
 <field name="word">alarm</field>
 <field name="word">unternommen</field>
 <field name="word">abteilungen</field>
+  
   <field name="text_de">Derzeit leidet die Mehrzahl der Mitarbeiter*innen des Finanzamtes Lichtenberg im Standort Alt-Friedrichsfelde 60 immer noch unter gesundheitlichen Beschwerden, vermutlich aufgrund von Schadstoffen in der Bausubstanz. Der Berliner Kurier hat am 26.02. erneut dar
 ü
 ber berichtet: 
@@ -165,10 +166,10 @@ elche weiteren Ma
 ß
 nahmen wurden ergriffen und welche Ergebnisse gab es?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5359&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1948</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

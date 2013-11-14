@@ -41,6 +41,7 @@
 <field name="word">angesetzt</field>
 <field name="word">bezirksamtes</field>
 <field name="word">papierlosen</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung 
@@ -59,10 +60,10 @@ Wie ist, auch im Bezug auf die Umstrukturierung des Bezirksamtes zu erklären, d
  
 Berlin, den 
 14.03.2012</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3208&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">841</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

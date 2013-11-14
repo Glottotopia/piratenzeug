@@ -152,6 +152,8 @@
 <field name="word">verbesserungen</field>
 <field name="word">stetig</field>
 <field name="word">unverzüglich</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, die bereits vor Jahren weit fortgeschrittenen Planungen zur Verlängerung der Straßenbahn-Metro-Linie M10 vom S & U-Bahnhof Warschauer Straße bis zum Hermannplatz unverzüglich wieder aufzunehmen und entsprechende Signale an das Abgeordnetenhaus von Berlin zu vermitteln.
@@ -244,11 +246,20 @@ UVKI
 09.10.2013
 Die Bezirksverordnetenversammlung möge beschließen:
  
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+BVV 
+23.10.2013
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
 Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4878085,13.4251497</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5326&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">5270</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">5397</field>  
+  <field name="parteien">1</field>   
 </doc></add>

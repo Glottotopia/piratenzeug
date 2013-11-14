@@ -90,6 +90,8 @@
 <field name="word">grundlegende</field>
 <field name="word">daten</field>
 <field name="word">umfänglich</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Finanzen</field>
   <field name="text_de">Zur  Unterstützung und Begleitung einer intensiven Bürgerbeteiligung im Rahmen des städtebaulichen Gutachterverfahrens mit anschließendem  Bebauungsplanverfahren für das Gelände in der Fröbelstraße 17 betreibt das Bezirksamt unter einer geeigneten Domain (z.B. 
 http://stadtentwicklung.pankow.berlin.de
 /) ein Informationsportal. Dort sollen für die Öffentlichkeit mindestens folgende Informationen übersichtlich aufbereitet werden:
@@ -139,10 +141,10 @@ Das BA soll dieses Portal auch dazu nutzen, seine Tätigkeit bezüglich des Proj
 Das Portal soll grundsätzlich so angelegt werden, dass es in Zukunft auch für alle anderen Vorhaben dieser Art im Bezirk genutzt werden kann.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  <field name="location">52.5414168,13.4275612236432</field>
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3270&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1755</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

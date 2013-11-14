@@ -35,6 +35,7 @@
 <field name="word">lichtenberg</field>
 <field name="word">fertig</field>
 <field name="word">umbaumaßnahmen</field>
+  
   <field name="text_de">Am
  Bahnhof Lichtenberg finden
  
@@ -56,10 +57,10 @@ t fertig zu sein, sind dort
 B. die Bereitstellung von Mülleimern und Pflanzung von Bäumen geplant?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5108977,13.5029164</field>
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5104&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">435</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

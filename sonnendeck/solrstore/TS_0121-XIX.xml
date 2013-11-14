@@ -200,6 +200,7 @@
 <field name="word">einmal</field>
 <field name="word">treffen</field>
 <field name="word">konzept</field>
+  <field name="ausschuss">Schule</field>
   <field name="text_de">Das Bezirksamt teilt zu der o.g. Drucksache folgendes mit:
  
 Mir Schreiben vom 27. März 2012 wurde die zuständige Senatsverwaltung für Bi
@@ -253,10 +254,10 @@ den.
 Mit freundlichen Grüßen
 Mark Rackles
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=3917&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">3991</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

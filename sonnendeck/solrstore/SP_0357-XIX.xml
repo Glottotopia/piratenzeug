@@ -100,6 +100,7 @@
 <field name="word">verbleib</field>
 <field name="word">herumlaufende</field>
 <field name="word">rechtsbehelfsbelehrungen</field>
+  
   <field name="text_de">1.
       
 Wie ist das Standardverfahren, wenn dem Bezirksamt herrenlos herumlaufende Tiere gemeldet werden, die eine potenzielle Gefahr für Menschen und Verkehr darstellen?
@@ -159,10 +160,10 @@ Verbleib der Tiere mitzuteilen?
 11.
   
 Warum wurde dem Eigentümer der neue Aufenthaltsort seiner Tiere verschwiegen?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6961&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1705</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

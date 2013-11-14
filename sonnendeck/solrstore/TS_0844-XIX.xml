@@ -51,16 +51,17 @@
 <field name="word">unverzüglich</field>
 <field name="word">geeignete</field>
 <field name="word">schützenden</field>
+  
   <field name="text_de"> 
 Die Bezirksverordnetenversammlung wolle beschließen:
 Die Bezirksverordnetenversammlung ersucht das Bezirksamt, für die verbleibende Linde im öffentlichen Straßenbereich vor dem Grundstück Crellestr. 22a einen Baumschutz gegen Vandalismus an Stamm und Krone zu installieren. Insbesondere sind geeignete Maßnahmen gegen Angriffe mit Kettensägen vorzunehmen.
 Begründung:
 Beauftragte aber nicht autorisierte Mitarbeiter eines Baumdienstunternehmen haben Anfang Oktober überfallartig versucht, nicht revidierbare Tatsachen zu schaffen. Dies hat im Rahmen der Fällaktion zu Strafanzeigen gegen die Firma und ihre Mitarbeiter geführt. 
 Um die Gefahr für die letzte Linde vor dem Grundstück, und um den Irrtümer dieser Art für die Zukunft auszuschließen, soll das Bezirksamt unverzüglich die üblichen stamm-schützenden Maßnahmen für diesen Baum installieren (lassen).</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4640&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">861</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

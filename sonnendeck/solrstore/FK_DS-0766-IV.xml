@@ -255,6 +255,7 @@
 <field name="word">politischen</field>
 <field name="word">solche</field>
 <field name="word">resolution</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Demonstrations- und Versammlungsrecht sind demokratische Grundrechte! - Ein Appell an unseren Partnerbezirk in Istanbul
@@ -360,10 +361,10 @@ Wir teilen die Besorgnis
 zahlreicher Einwohner*innen unseres Bezirks, die auch durch familiäre Bindungen, besonders von den Ereignissen in der Türkei betroffen sind.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5556&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">4811</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

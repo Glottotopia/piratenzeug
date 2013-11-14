@@ -518,6 +518,7 @@
 <field name="word">möglichen</field>
 <field name="word">leidet</field>
 <field name="word">gedreht</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1
@@ -643,10 +644,10 @@ Zu Nachfrage 2:
 Wir werden uns das angucken. Das, was abzugeben ist entsprechend unserer Nutzungsverträge, also Mieteinnahmen werden auch an uns entrichtet, werden müssen, ganz korrekt, aber bitte ein bisschen Dampf aus der Nummer rausnehmen ja, weil es ist wirklich ein Träger, der hier in vielen Dingen bereits seit vielen Jahrzehnten in Vorleistung gegangen ist. Ich werde einfach ein bisschen  ja. Wir können uns darüber unterhalten, was hat das Jugendamt gemacht. Wir können uns darüber unterhalten, warum ist die Stadträtin nicht darüber informiert worden etc., etc., über all die Sachen. Aber alles andere würde ich ganz gerne einfach ein bisschen den drive rausnehmen.
 Die wollen uns nicht bescheißen, die wollen uns nicht betrügen, die wollen sich nichts in die Tasche stecken, sondern die sind einfach losgerannt, haben eine Möglichkeit für Drittmittel gefunden, haben das gemacht, haben nicht lange mit uns diskutiert, haben einen Vertrag unterschrieben und wer den Kollegen von der KMA kennt, weiß, dass er so agiert und wir werden ihn sicherlich einfangen müssen, ist keine Frage so. Wie gesagt, also ich bin sauer auch darüber. Das geht so nicht. Aber dass da  ja, dass da sozusagen Hintergedanken im negativen Sinne versteckt waren, das würde ich so nicht sehen wollen. Gut.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5054&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">12487</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

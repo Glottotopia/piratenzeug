@@ -191,6 +191,7 @@
 <field name="word">machen</field>
 <field name="word">schulz</field>
 <field name="word">umsetzungsstand</field>
+  
   <field name="text_de">Am 
 23.05.2012
  hat die BVV die Anträge DS/0128/IV der Piraten und DS/0174/IV der Grünen für eine Stärkung der Bürgerbeteiligungsmöglichkeit im Bezirk beschlossen.
@@ -228,10 +229,10 @@ Ich will dabei noch einen Aspekt benennen, der für uns im Zusammenhang mit dem 
 Zu Frage 3:
  Ich gehe davon aus, dass dieser Termin mit dem 17.12. jetzt aus der Geschäftsordnung sich ergibt, weil die Drucksachen selbst nichts enthalten als Hinweis darauf. Wir haben jetzt gewartet auf den Januar wegen der Klärung mit der Berlin-Redaktion und berlin.de und werden dann, wenn dort die Klärung und Information vorliegt, dann entsprechenden Zwischenbericht machen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5292&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3956</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

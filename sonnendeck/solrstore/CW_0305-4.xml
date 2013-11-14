@@ -79,6 +79,7 @@
 <field name="word">wachsen</field>
 <field name="word">damaligen</field>
 <field name="word">eigentümer</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird aufgefordert, den Grundstückseigentümer des seit langem leerstehenden denkmalgeschützten Eckgebäudes Wilmersdorfer- und Haubachstraße dazu zu bewegen, umgehend Sanierungsmaßnahmen bezüglich der Erhaltung der Bausubstanz durchzuführen und hierzu baldigst einen Ortstermin mit Amt und bezirklichem Denkmalbeirat durchzuführen und sich nicht von hinhaltenden Versprechungen des Eigentümers vertrösten zu lassen.
@@ -93,10 +94,10 @@ Der letzte Stand des Denkmalamtes zu diesem Thema, der durch eine Stellungnahme 
 Inzwischen ist festzustellen, dass aus dem Dach Pflanzen wachsen, während keinerlei Sanierungsmaßnahmen des Eigentümers zwischenzeitlich erfolgt sind. Eine akute Gefährdung der Bausubstanz dieses historisch wertvollen Gebäudes aus der Gründungszeit Charlottenburgs ist somit anzunehmen  Handlungsbedarf ist gegeben.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.515387,13.300782</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4569&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1269</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

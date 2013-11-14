@@ -157,6 +157,8 @@
 <field name="word">wichtigen</field>
 <field name="word">einmal</field>
 <field name="word">solche</field>
+  <field name="ausschuss">Personal</field>
+<field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird ersucht, alle ö
@@ -259,10 +261,10 @@ fen, inwiefern im ALLRIS Geokoordinaten zu Drucksachen hinterlegt und zugä
 nglich gemacht werden kö
 nnen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5416&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3216</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

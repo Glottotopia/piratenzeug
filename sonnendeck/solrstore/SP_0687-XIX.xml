@@ -35,6 +35,7 @@
 <field name="word">abgeschlossen</field>
 <field name="word">oberschule</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Die Prüfung, welche Voraussetzungen für eine dauerhafte öffentliche Offenhaltung der Stadtteilbibliothek in der Bertolt-Brecht-Oberschule geschaffen werden müssen, ist noch nicht abgeschlossen. Es finden im August und September abschließende Gespräche mit der Schule und Interessengruppen aus dem Quartier statt, um die vorliegenden Daten der Untersuchung der Standorterhaltung zu validieren.
  
  
@@ -50,10 +51,10 @@ Hanke
 Bezirksbürgermeister
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7291&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">534</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

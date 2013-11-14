@@ -72,6 +72,7 @@
 <field name="word">jahr</field>
 <field name="word">schaffen</field>
 <field name="word">somit</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Dem Bezirksamt wird empfohlen, sich bei den zuständigen Stellen dafür einzuse
@@ -135,10 +136,10 @@ bergeordneten Verkehr aus den Wohnstra
 en von Adlershof herauszuf
 ü
 hren (siehe Drs. VI/0028).</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4382833,13.5549774</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4398&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1327</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

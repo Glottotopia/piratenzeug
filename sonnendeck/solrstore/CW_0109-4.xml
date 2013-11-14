@@ -117,6 +117,7 @@
 <field name="word">fachbereich</field>
 <field name="word">gestrichen</field>
 <field name="word">abschl</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die BVV 
 hat in ihrer Sitzung am 26. April 2012 beschlossen
 :
@@ -190,10 +191,10 @@ Bezirksbürgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4982288,13.3269776</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4373&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">2093</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

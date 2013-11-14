@@ -78,6 +78,7 @@
 <field name="word">überprüfen</field>
 <field name="word">überall</field>
 <field name="word">bezirkes</field>
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, bis Ende Oktober 2012 die benutzungspflichtigen Radwege des Bezirkes wie gesetzlich vorgeschrieben auf ihre Eignung und Rechtmäßigkeit zu überprüfen und der BVV einen Prüfbericht vorzulegen. Sollte eine Überprüfung bis zu diesem Zeitpunkt nicht möglich sein, sollte die Anordnung der Benutzungspflicht überall dort aufgehoben werden, wo die Rechtmäßigkeit der Anordnung bis zu diesem Zeitpunkt nicht überprüft werden konnte.
@@ -92,10 +93,10 @@ ichen
  
 9.3.2012
  erklärt wurde, auch kein Termin in Aussicht gestellt werden kann, zu dem diese Überprüfungen abgeschlossen werden können, möge das BA die nun schon so lange rechtswidrigen Anordnungen beenden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4229&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1392</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

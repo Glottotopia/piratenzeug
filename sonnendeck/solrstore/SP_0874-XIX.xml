@@ -30,13 +30,14 @@
 <field name="word">hierfür</field>
 <field name="word">range</field>
 <field name="word">verfügung</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt, die Errichtung einer Golf Driving Range, im Ort
 steil Staaken an der Heerstraße
 /Gärtnereiring auf der zurzeit landwirtschaftlich genutzten Fläche, zu unterstützen und alle hierfür erforderlichen Maßnahmen zu ergreifen. Die Fläche soll dem Investor im Rahmen eines langfristigen Pachtvertrages zur Verfügung gestellt werden. An einen Verkauf der Fläche ist nicht gedacht.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5285902,13.1223384</field>
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7478&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">403</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

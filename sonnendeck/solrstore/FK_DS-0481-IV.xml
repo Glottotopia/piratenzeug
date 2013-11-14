@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0481/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Elektronisches Offenes Kassenbuch</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -150,6 +150,8 @@
 <field name="word">transparenz</field>
 <field name="word">offene</field>
 <field name="word">corporate</field>
+  <field name="ausschuss">Personal</field>
+<field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, die rechtlichen und technischen Möglichkeiten der Umsetzung eines "Elektronischen Offenen Kassenbuches" zu prüfen. Bei grundsätzlich positiver rechtlicher Beurteilung sollen Umsetzungspläne für verschiedene Intervalle (monatlich, per Quartal) und Bagatellgrenzen (100, 250, 500, 1000 EUR) erstellt und evaluiert werden. Der BVV ist bis zum 
@@ -199,10 +201,10 @@ BüTra
 17.01.2013
  
 Vom Antragsteller zurückgezogen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5240&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2862</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

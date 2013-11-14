@@ -31,6 +31,7 @@
 <field name="word">erfahrungen</field>
 <field name="word">zehlendorf</field>
 <field name="word">arbeitslosengeld</field>
+  <field name="ausschuss">Arbeit</field>
   <field name="text_de">Das Bezirksamt Pankow wird ersucht, sich bei den zustä
 ndigen Stellen dafü
 r einzusetzen, dass im Jobcenter Pan
@@ -44,10 +45,10 @@ eglitz und Charlottenburg-Wilmersdorf berü
 cksichtigen.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3541&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">432</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

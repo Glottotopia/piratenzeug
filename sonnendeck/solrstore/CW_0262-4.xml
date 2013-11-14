@@ -85,6 +85,7 @@
 <field name="word">konzept</field>
 <field name="word">beginn</field>
 <field name="word">einsatz</field>
+  
   <field name="text_de">Die BVV hat in ihrer Sitzung am 
 14.06.2012
  Folgendes beschlossen:
@@ -156,10 +157,10 @@ eister
               
 Bezirksstadtrat
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4526&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1763</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

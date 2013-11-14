@@ -129,6 +129,7 @@
 <field name="word">wiesenweg</field>
 <field name="word">nutzungskonzept</field>
 <field name="word">geprüft</field>
+  
   <field name="text_de">Die BVV hat beschlossen:
 Das Bezirksamt wird ersucht, die Wagengruppe Rummelplatz bei der Suche nach einem geeigneten
  
@@ -151,10 +152,10 @@ eine Grünfläche ausweist, ist eine Wohnnutzung planungsrechtlich nicht zuläss
  hat das Bezirksamt auf gleicher Rechtsgrundlage einen Vorbescheid bezüglich einer Kombination aus Wohnen und Gewerbe negativ beantwortet. Vor diesem Hintergrund kann eine Wohnnutzung dieser und benachbarter Flächen durch die Wagengruppe nicht genehmigt werden. Unabhängig 
 davon hat das Bezirksamt Vertretern dieser Gruppe in einem Gespräch am 10. Januar 2012 empfohlen,
  im Bereich Wiesenweg / Wartenbergstraße / Kietzer Weg die Möglichkeit einer Ansiedlung zu sondieren. Planungs- und bauordnungsrechtlich wäre in diesem Gebiet eine derartige Nutzung vorstellbar. Darüber hinaus hat das Bezirksamt den Vertretern empfohlen, sich mit der Deutschen Bahn hinsichtlich einer Nachnutzung des ehemaligen Containerbahnhofs in Verbindung zu setzen. Die zuständige Genehmigungsbehörde ist in diesem Fall das Bezirksamt Friedrichshain-Kreuzberg.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5169&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2216</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

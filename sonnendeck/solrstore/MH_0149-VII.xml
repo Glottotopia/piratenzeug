@@ -42,6 +42,7 @@
 <field name="word">beginn</field>
 <field name="word">bezirksamtes</field>
 <field name="word">prüfen</field>
+  
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, 
@@ -50,10 +51,10 @@ zu prüfen, welche Voraussetzungen notwendig sind, um
 regelmäßig Podcasts aufzunehmen, in denen die Bürgerinnen und Bürger über bezirksrelevante Ereignisse und wichtige Angelegenheiten vor dem Beginn der Entscheidungsprozesse informiert werden. Die Aufzeichnungen werden auf der Website des Bezirksamtes Marzahn-Hellersdorf veröffentlicht. Als Rückkanal soll ein Kontaktformular bzw. eine E-Mail-Adresse auf der Veröffentlichungsseite hinterlegt werden. Der genaue Inhalt, die Struktur, sowie die Dauer und die Veröffentlichungsfrequen
 z der einzelnen Podcasts obliegen
  dem Bezirksamt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4419&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">645</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

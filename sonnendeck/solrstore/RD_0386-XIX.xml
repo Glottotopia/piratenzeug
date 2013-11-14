@@ -69,6 +69,7 @@
 <field name="word">gesundheit</field>
 <field name="word">bezirksamtes</field>
 <field name="word">zirksamt</field>
+  
   <field name="text_de">Sachverhalt:
  
 Das Bezirksamt wird um Auskunft gebeten:
@@ -107,10 +108,10 @@ n
 gung von Flüchtlingen am Schulstandort Heiligenseegrun
 d
 schule?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3509&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1185</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

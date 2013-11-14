@@ -79,6 +79,7 @@
 <field name="word">genannte</field>
 <field name="word">gefunden</field>
 <field name="word">sollten</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 § 15 Absatz 6 wird wie folgt neu gefasst:
@@ -108,10 +109,10 @@ einschließlich der Sitze von Bürgerdeputierten
 (d´Hondt)
  bestimmt. Kommt keine Einigung zwischen den Fraktionen über die Hinzuwahl von Bürgerdeputierten gemäß Abs. 5 zustande, entscheidet die Bezirksverordnetenversammlung.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4593&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2401</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

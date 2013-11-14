@@ -237,6 +237,10 @@
 <field name="word">solche</field>
 <field name="word">akzeptanz</field>
 <field name="word">qualifikation</field>
+  <field name="ausschuss">Personal</field>
+<field name="ausschuss">Gesundheit</field>
+<field name="ausschuss">Migration</field>
+<field name="ausschuss">Frauen</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird aufgefordert, anonymisierte Bewerbungsverfahren zur Reduktion von Diskriminierung bei Einstellungsverfahren im öffentlichen Dienst in Friedrichshain-Kreuzberg zu erproben und zu evaluieren. Dies soll im Rahmen einer einjährigen Pilotphase unter wissenschaftlicher Begleitung geschehen, die sich auf die Praxiserfahrungen der Antidiskriminierungsstelle des Bundes stützt. Während der Pilotphase sollen anonymisierte Bewerbungsverfahren sowohl in einem geeigneten Bereich der Verwaltung als auch in einem in öffentlicher Hand befindlichen Unternehmen eingesetzt werden. Nach Ablauf des Zeitraums ist zu bewerten, inwiefern das Instrument grundsätzlich geeignet und wirksam ist. Der Bezirksverordnetenversammlung ist bis zum 31. Dezember 2012 über den Stand der Projektplanung und erneut nach Ablauf der Pilotphase zu berichten.
@@ -289,10 +293,10 @@ zweijährigen
 unter wissenschaftlicher Begleitung 
 geschehen, die sich auf die Praxiserfahrungen der Antidiskriminierungsstelle des Bundes stützt. Während der Pilotphase sollen anonymisierte Bewerbungsverfahren in einem geeigneten Bereich der eingesetzt werden. Nach Ablauf des Zeitraums ist zu bewerten, inwiefern das Instrument grundsätzlich geeignet und wirksam ist. Der Bezirksverordnetenversammlung ist bis zum 31. Dezember 2012 über den Stand der Projektplanung und erneut nach Ablauf der Pilotphase zu berichten.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5028&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">7190</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

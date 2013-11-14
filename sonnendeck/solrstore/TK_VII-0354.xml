@@ -70,6 +70,8 @@
 <field name="word">abkürzung</field>
 <field name="word">umgebaut</field>
 <field name="word">prüfen</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Haushalt</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, im Vorfeld des zweiten Bauabschnittes zur Umgestaltung des Treptower Parks zu prüfen, inwieweit der Ausbau des vorhandenen Trampelpfads zwischen der Bushaltestelle "S Treptower Park" der Linien 166/167/265 an der Puschkinallee und dem nächstgelegenen Bahnhofseingang (südöstlich) zu einem festen Weg umgebaut werden kann.
@@ -81,10 +83,10 @@ e
  
 Begründung:
 Seit der Fällung der Bäume im Bereich der Bushaltestelle "S Treptower Park" in der Puschkinallee entwickelte sich ein neuer Trampelpfad als kürzeste Verbindung zwischen der Bushaltestelle und dem Eingang zur S-Bahn. Auch wenn Trampelpfade sich im Laufe der Zeit verändern können, so scheint der Bedarf an dieser Abkürzung längerfristigen Bestand und den bisherigen ausgebauten Weg abgelöst zu haben.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4951894,13.4523639</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4453&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1105</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

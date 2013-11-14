@@ -120,6 +120,7 @@
 <field name="word">unser</field>
 <field name="word">lehren</field>
 <field name="word">zweiten</field>
+  
   <field name="text_de">Die Bundesrep
 ublik Deutschland hat sich am 23
 .
@@ -161,10 +162,10 @@ begrüßen Flüchtlinge unabhängig von ihrer Herkunft in unserem Bezirk und bie
  
 Judith Stückler
 Bezirksverordnetenvorsteherin</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5141902,13.2774771</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4905&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">1859</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

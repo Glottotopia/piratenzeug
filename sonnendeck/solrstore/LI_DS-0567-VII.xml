@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">LI_DS/0567/VII</field>  
-  <field name="typ">Änderungsantrag</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Befreiung der Kitas von der Rundfunkgebührenpflicht</field>  
   <field name="bezirk">Lichtenberg</field>  
   <field name="partei">Piraten</field> 
@@ -18,6 +18,7 @@
 <field name="word">januar</field>
 <field name="word">befreiung</field>
 <field name="word">setzt</field>
+  
   <field name="text_de">Die Be
 zirksverordnetenversammlung wolle
  beschließen:
@@ -28,10 +29,10 @@ für die Befreiung
 , mindestens aber die Ermäßigung, von Kitas und Jugendhilfeeinrichtungen
  der ab Januar 2013 fälligen GEZ-Gebühren in Kitas ein.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5229&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">261</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

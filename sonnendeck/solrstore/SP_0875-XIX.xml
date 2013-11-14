@@ -1,0 +1,58 @@
+<add><doc>
+  <field name="id">SP_0875/XIX</field>  
+  <field name="typ">Dringlichkeitsanfrage</field>  
+  <field name="titel">Wie weiter mit dem Fort Hahneberg?</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">verfü</field>
+<field name="word">stehen</field>
+<field name="word">mittel</field>
+<field name="word">leitung</field>
+<field name="word">denkmals</field>
+<field name="word">zustä</field>
+<field name="word">weitere</field>
+<field name="word">nahmen</field>
+<field name="word">welcher</field>
+<field name="word">gung</field>
+<field name="word">gelegt</field>
+<field name="word">vorges</field>
+<field name="word">dezernent</field>
+<field name="word">gerechnet</field>
+<field name="word">haushaltsjahren</field>
+<field name="word">angeschlossen</field>
+<field name="word">erhaltung</field>
+<field name="word">ndige</field>
+<field name="word">hierfü</field>
+<field name="word">entsprechende</field>
+<field name="word">fort</field>
+<field name="word">eingesetzt</field>
+<field name="word">hahneberg</field>
+<field name="word">stro</field>
+<field name="word">mnetz</field>
+<field name="word">ehen</field>
+<field name="word">angedacht</field>
+  
+  <field name="text_de">In welcher Hö
+he hat der zustä
+ndige Dezernent Mittel fü
+r das Fort Hahneberg in den Haushaltsjahren 2014/15 vorges
+ehen und fü
+r welche Maß
+nahmen sollen diese eingesetzt werden?
+ 
+Stehen noch weitere Mittel fü
+r die Erhaltung des Denkmals Fort Hahneberg zur Verfü
+gung?
+ 
+Kann damit gerechnet werden, dass das Fort ans Stro
+mnetz angeschlossen werden kann und dass eine entsprechende Leitung gelegt wird bzw. welche Kosten sind hierfü
+r angedacht
+?</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7479&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">450</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -89,6 +89,7 @@
 <field name="word">leer</field>
 <field name="word">kirche</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Wir bitten zur Kenntnis zu nehmen:
  
  
@@ -209,10 +210,10 @@ Bezirksbürgermeister
 Bezirksstadtrat
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5353&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2041</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

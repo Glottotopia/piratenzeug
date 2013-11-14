@@ -63,6 +63,7 @@
 <field name="word">bölschestraße</field>
 <field name="word">dadurch</field>
 <field name="word">linksabbiegeverbot</field>
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt Treptow-Köpenick wird ersucht, an der Einmündung Fürstenwalder Damm/Hartlebenstraße in Berlin-Friedrichshagen das Linksabbiegen aus Richtung Rahnsdorf in die Hartlebenstraß
@@ -78,10 +79,10 @@ Verkehrsbelastung
 Die "Aussperrung" des Verkehrs vom Fürstenwalder Damm durch ein Linksabbiegeverbot an dieser Stelle ist der kostengünstigste und 
 effektivste
  Weg, um das gesamte Wohngebiet um den Goldmannpark und die Scharnweberstraße vom Durchgangsverkehr und der damit verbundenen Lärmbelastung zu entlasten. Rechtsabbieger wären nicht betroffen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4557989,13.6327268</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4324&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1238</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

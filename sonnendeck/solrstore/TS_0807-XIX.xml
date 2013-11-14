@@ -53,6 +53,7 @@
 <field name="word">selben</field>
 <field name="word">bekommen</field>
 <field name="word">neberg</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1. 
@@ -93,10 +94,10 @@ rger von Tempelhof
 –
 Schö
 neberg und Berlin an die NSA gelangen?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4603&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">967</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

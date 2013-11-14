@@ -59,6 +59,7 @@
 <field name="word">notwendig</field>
 <field name="word">dokumente</field>
 <field name="word">daten</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, die haushaltsrelevanten Drucksachen und Dokumente in einer maschinenlesbaren Fassung bereitzustellen, die zur Weiterverarbeitung der jeweiligen Daten geeignet ist. Die maschinenlesbare Fassung soll als Anhang zur entsprechenden Drucksache im Ratsinformationssystem veröffentlicht werden.
@@ -76,10 +77,10 @@ Um eine für alle nutzbare Form zu schaffen, sind dabei gängige Datenformate wi
 http://bund.offenerhaushalt.de/
 [2] beispielhaft Frankfurt/Main: 
 http://openspending.org/frankfurt-budget</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4222&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1007</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

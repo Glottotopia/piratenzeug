@@ -79,6 +79,8 @@
 <field name="word">normalerweise</field>
 <field name="word">versorgen</field>
 <field name="word">herkunftsort</field>
+  <field name="ausschuss">Soziales</field>
+<field name="ausschuss">Gesundheit</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, zusammen mit dem Gerontopsychiatrisch-
@@ -122,10 +124,10 @@ Die Bezirksverordnetenversammlung beschließt:
 Überweisung
 : Ausschuss für Soziales, JobCenter und Bürgerdienste, Ausschuss für Gesundheit und Inklusion ff.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5604&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1383</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

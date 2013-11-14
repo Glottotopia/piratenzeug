@@ -178,6 +178,7 @@
 <field name="word">ostkreuz</field>
 <field name="word">werkstattverfahren</field>
 <field name="word">zentralen</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt ein Werkstattverfahren zum Block 74 in Friedrichshain durchzuführen. In diesem Werkstattverfahren soll in Gesprächsreihen und Workshops die Planungsgrundlage und Bedarfskulisse für die Entwicklung des wichtigen Areals aktualisiert werden. Die bestehende Planung sollen im Prozess an die Ergebnisse angepasst werden. Das Werkstattverfahren soll niederschwellige Beteiligungsmöglichkeiten für die Anwohnerschaft haben.
@@ -227,10 +228,10 @@ Zudem wird das Bezirksamt beauftragt, in diesem Zusammenhang die bindenden Vorga
  
 Vor diesem Hintergrund muss mit den Anwohner*innen geklärt werden, wie die verschiedenen Bedarfe in Friedrichshain in Einklang gebracht werden können: Einerseits werden dringend bezahlbare Wohnungen (insbesonders für Transferleistungsbezieher*innen) benötigt, andererseits fehlen im Friedrichshainer Südkiez auch Grünflächen. Außerdem muss beim Bau von neuen Wohnungen ebenso die soziale Infrastruktur (z.B. Kitas und Schulen/Wohnfolgeeinrichtungen) ausgebaut werden. Dieser Zielkonflikt und die Abwägung von unterschiedlichen Notwendigkeiten soll gemeinsam mit den Bürger*innen diskutiert werden.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.5094942,13.4650839</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5247&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">5190</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

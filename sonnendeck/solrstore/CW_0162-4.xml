@@ -135,6 +135,7 @@
 <field name="word">programm</field>
 <field name="word">verbliebenen</field>
 <field name="word">bezugnahme</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de">2
 Die BVV hat am 
 08.03.2012
@@ -219,10 +220,10 @@ haltsjahr 2012 vollständig fertig gestellt und abgerechnet werden können.
 Reinhard Naumann
 Bezirksbürgermeister
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4426&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">2545</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

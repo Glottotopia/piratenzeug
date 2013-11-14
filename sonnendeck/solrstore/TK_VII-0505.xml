@@ -79,6 +79,7 @@
 <field name="word">sogar</field>
 <field name="word">beparkt</field>
 <field name="word">ersichtlich</field>
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Dem Bezirksamt wird empfohlen, sich bei den zuständigen Stellen dafür einzusetzen, dass das Radwegschild in der Grünauer Straße ab Glienicker Straße in Fahrtrichtung Grünau abgeordnet wird. 
@@ -96,10 +97,10 @@ Fußweg
 Da für diese nicht mal fünfzig Meter aber kein Grund ersichtlich ist, dort eine Radwegbenutzungspflicht vorzusehen, könnte das Schild, das die Benutzungspflicht ausweist
 ,
  dort entfernt und das Gehwegschild mit dem Zusatz ,, Radfahrer frei" an diese Stelle vorgezogen werden. Auf diese Weise würde sogar insgesamt ein Verkehrsschild eingespart. Und auch den rechtlichen Vorgaben - siehe § 2 Abs. 4 StVO - wäre gleich mit Genüge getan.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4438314,13.5691918</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4604&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1194</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

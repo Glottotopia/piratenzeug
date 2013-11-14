@@ -134,6 +134,7 @@
 <field name="word">planungen</field>
 <field name="word">fußgänger</field>
 <field name="word">fußgängerbedarfsampel</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt die zuständige Stelle in der Senatsverwaltung um Prüfung folgender Anliegen zu bitten:
@@ -191,10 +192,10 @@ Erhöhung der Verkehrssicherheit im Bereich der Einmündung der Ritterstraße au
  
 Weiterhin wird das Bezirksamt aufgefordert, den temporären elektronischen Geschwindigkeitsmesser Friesen- Ecke Arndtstr. dauerhaft dort zu belassen.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.4865021,13.394395</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5027&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3980</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

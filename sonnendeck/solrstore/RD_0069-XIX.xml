@@ -102,6 +102,7 @@
 <field name="word">vielerlei</field>
 <field name="word">tungs</field>
 <field name="word">folgender</field>
+  
   <field name="text_de">Sachverhalt:
  
 Das Bezirksamt wird um Auskunft gebeten:
@@ -214,10 +215,10 @@ l bzw. pro Jahr angesetzt?
               
 Wie werden die durch diesen Vertrag entstehenden Mehrkosten finanziert?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3124&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2039</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

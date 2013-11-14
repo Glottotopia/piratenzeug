@@ -76,6 +76,7 @@
 <field name="word">spandau</field>
 <field name="word">zusammenhang</field>
 <field name="word">erfolgreich</field>
+  
   <field name="text_de"> 
 1.
       
@@ -170,10 +171,10 @@ hrenordnung zur Anwendung des IFG aus
   
 S
 eit wann gilt sie?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7086&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1441</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

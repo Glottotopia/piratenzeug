@@ -22,16 +22,17 @@
 <field name="word">beschließt</field>
 <field name="word">erfolgt</field>
 <field name="word">beschlossenen</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de">Die BVV beschließt:
  
 In der beschlossenen DS-Nr. 0106/4 zum Bezirksdoppelhaushaltsplan wird folgende Änderung vorgenommen:
  
 Der Ausgleich für die Erhöhung des Titels 4042 - 67160 um 46.000 ? für beide Haushaltsjahre erfolgt aus dem Titel 4110 - 68432 und nicht aus dem ursprünglich vorgesehenen Titel 4110 - 68473.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4437&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">318</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

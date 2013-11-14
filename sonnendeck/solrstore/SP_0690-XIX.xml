@@ -91,6 +91,7 @@
 <field name="word">feststeht</field>
 <field name="word">ungewiss</field>
 <field name="word">beschrä</field>
+  
   <field name="text_de">2
  
 In dem Antwortschreiben des Präsidenten des Landesamtes für Gesundheit und Sozi
@@ -127,10 +128,10 @@ Kleebank
 Bezirksbürgermeister
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.5347334,13.2574474</field>
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7294&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1394</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

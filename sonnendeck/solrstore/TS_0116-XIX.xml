@@ -89,6 +89,7 @@
 <field name="word">präsenz</field>
 <field name="word">bezirksamtes</field>
 <field name="word">selbst</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt: 
  
 1. Entspricht es der Richtigkeit, dass der Entwickler des Plangrundstücks 7-1 in seinen mehrmonatigen Untersuchungen zur Fledermauspopulation in der Umgebung, die am1. Februar ihren Abschluss fanden, zu dem Schluss gelangte, dass geschützten Fledermäusen dort heimisch sind?
@@ -104,10 +105,10 @@
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=3912&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1506</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

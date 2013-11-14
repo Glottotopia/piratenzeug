@@ -167,6 +167,7 @@
 <field name="word">hierbei</field>
 <field name="word">schulräumen</field>
 <field name="word">objektmanagement</field>
+  
   <field name="text_de">Wir bitten zur Kenntnis zu nehmen:
  
  
@@ -382,10 +383,10 @@ Bezirksstadträtin Weißler
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4998&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">4103</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

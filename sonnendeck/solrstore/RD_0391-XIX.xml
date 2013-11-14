@@ -46,6 +46,7 @@
 <field name="word">beginn</field>
 <field name="word">geeignete</field>
 <field name="word">zuständigen</field>
+  <field name="ausschuss">Umwelt</field>
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung Reinickendorf von Berlin beschließt:
@@ -84,10 +85,10 @@ Berlin, den
 _________________________________________
 Dr. Hinrich Lühmann (Bezirksverordnetenvorsteher)
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3514&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">837</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

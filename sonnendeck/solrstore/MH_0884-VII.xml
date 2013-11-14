@@ -67,6 +67,8 @@
 <field name="word">weiteren</field>
 <field name="word">zusammenhang</field>
 <field name="word">schaffen</field>
+  <field name="ausschuss">Gleichstellung</field>
+<field name="ausschuss">Integration</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, anonymisierte Bewerbungsverfahren zur Vermeidung von (struktureller) Benachteiligung bei Einstellungsverfahren im öffentlichen Dienst in Marzahn-Hellersdorf zu erproben und zu evaluieren.
@@ -89,10 +91,10 @@ Das Bezirksamt wird ersucht, anonymisierte Bewerbungsverfahren zur Reduktion von
 In diesem Zusammenhang wird dem Bezirksamt empfohlen, sich bei der zuständigen Senatsverwaltung für eine Teilnahme an der geplanten Pilotphase zum anonymisierten Bewerbungsverfahren einzusetzen.
 Während der Pilotphase sollen anonymisierte Bewerbungsverfahren in einem geeigneten Bereich der Verwaltung eingesetzt werden. Nach Ablauf des Zeitraums ist zu bewerten, inwiefern das Instrument grundsätzlich geeignet und wirksam ist. Der Bezirksverordnetenversammlung ist zur Sitzung nach der Sommerpause 2013 über den Stand der Projektplanung und erneut nach Ablauf der Pilotphase zu berichten.
 Des Weiteren wird das Bezirksamt ersucht, sich im Rat der Bürgermeister und gegenüber dem Berliner Senat dafür einzusetzen, die notwendigen personellen und strukturellen Voraussetzungen für die Umsetzung des anonymisierten Bewerbungsverfahrens zu schaffen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5168&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2510</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

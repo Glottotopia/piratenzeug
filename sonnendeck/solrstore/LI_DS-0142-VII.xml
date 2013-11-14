@@ -29,6 +29,7 @@
 <field name="word">einstimmig</field>
 <field name="word">rgerbeteiligung</field>
 <field name="word">interessierten</field>
+  
   <field name="text_de">Der Ausschuss Rechnungsprü
 fung, Bü
 rgerbeteiligung, Bü
@@ -53,10 +54,10 @@ Abstimmungsergebnis: 7
 /
  
 5</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4803&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">546</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

@@ -82,6 +82,7 @@
 <field name="word">zehlendorf</field>
 <field name="word">somit</field>
 <field name="word">zurückgezogen</field>
+  
   <field name="text_de"> 
 Die Bezirksverordnetenversammlung möge beschließen:
  
@@ -121,10 +122,10 @@ des Ältestenrats am
 Rögner-Francke
 Bezirksverordnetenvorsteher
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4525&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1613</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

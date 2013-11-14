@@ -16,6 +16,7 @@
 <field name="word">somit</field>
 <field name="word">schokoladens</field>
 <field name="word">aktuelle</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt:
  
  
@@ -30,10 +31,10 @@ Schokoladens gesichert ist?
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5369442,13.387234</field>
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4900&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">256</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

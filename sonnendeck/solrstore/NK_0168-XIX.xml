@@ -50,15 +50,16 @@
 <field name="word">steuerungsdienst</field>
 <field name="word">dokumente</field>
 <field name="word">bezirksamtes</field>
+  
   <field name="text_de">Die Dokumente zum Haushaltsplan und zur Investitionsplanung liegen in maschinenlesbarer Version vor und können wie bisher durch die BVV-Mitglieder bei Bedarf über das Informationslaufwerk des Bezirksamtes abgerufen werden. Hier sind nun auch die Dokumente zur Bezirksrechnung hinterlegt. Verfahrensseitig kann jedoch 
 nur eine Bereitstellung im PDF-Format erfolgen. Auch durch die verfahrensverantwortliche Senatsverwaltung für Finanzen werden diese Unterlagen auf Nachfrage nicht in Tabellenform zur Verfügung gestellt. Als Begründung wird die Verhinderung von Datenmanipulation genannt. Der Steuerungsdienst hat daher zusätzlich als Informationsquelle die letzte Haushaltsüberwachungsliste des betroffenen Jahres als Tabellendokument hinterlegt.
  
 Das Bezirksamt sieht hiermit den Beschluss der BVV als erledigt an.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3791&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">819</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

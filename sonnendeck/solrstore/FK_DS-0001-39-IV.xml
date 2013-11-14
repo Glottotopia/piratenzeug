@@ -82,6 +82,7 @@
 <field name="word">wichtiges</field>
 <field name="word">bezirksamtes</field>
 <field name="word">abgelehnt</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Der §27, Abs. 6 der Geschäftsordnung der BVV Friedrichshain-Kreuzberg wird durch folgenden Wortlaut ersetzt: Innerhalb dieser Zeit sind die Fraktionen und Gruppen durch ihre Fragesteller/innen sowie die fraktionslosen Bezirksverordneten mit ihren Anfragen folgendermaßen zu beteiligen: In der Reihenfolge ihrer Größe erhalten sie -die kleinste zuerst- dann die zweitkleinste usw., anschließend die Gruppen und zuletzt fraktionslose Verordnete - jeweils die Möglichkeit einer Anfrage. Danach werden Fraktionen und Gruppen mit ihren Anfragen angemessen und unabhängig vom Stärkeverhältnis in der BVV beteiligt. Fraktionen und Gruppen haben dabei Vorrang vor fraktionslosen Bezirksverordneten.
@@ -109,10 +110,10 @@ BVV
 Die Bezirksverordnetenversammlung beschließt:
  
 Der Antrag wird abgelehnt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5551&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1806</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

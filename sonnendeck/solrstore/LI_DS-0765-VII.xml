@@ -23,6 +23,7 @@
 <field name="word">ndung</field>
 <field name="word">ermö</field>
 <field name="word">ldnerstraß</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließ
 en:
  
@@ -42,10 +43,10 @@ geschrä
 nkt. Die Bauarbeiten sind abgeschlossen, so dass Linksabbiegen wieder mö
 glich sein sollte.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5427&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">394</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

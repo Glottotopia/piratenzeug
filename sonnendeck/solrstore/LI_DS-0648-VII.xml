@@ -43,6 +43,7 @@
 <field name="word">kameralen</field>
 <field name="word">bezirkes</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
 Folgendes
  zur Kenntnis zu nehmen:
@@ -58,10 +59,10 @@ http://daten.berlin.de/datensaetze/kamerale-monatsdaten-bezirk-lichtenberg-juni-
  
 Jeweils zum Monatsanfang werden die Daten aktualisiert. 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5310&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">746</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

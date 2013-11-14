@@ -52,6 +52,7 @@
 <field name="word">angrenzend</field>
 <field name="word">baumaßnahmen</field>
 <field name="word">schmal</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1.
@@ -76,10 +77,10 @@ en Grundstücken sehr schmal ist und
  
 w
 ie wird ausgeschlossen, dass sich dadurch das Wasser des Sees an die Grundstücke heranarbeitet, den Uferweg unpassierbar macht und die Grundstücke zwangläufig zu "Wassergrundstücken" werden?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4856&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">849</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

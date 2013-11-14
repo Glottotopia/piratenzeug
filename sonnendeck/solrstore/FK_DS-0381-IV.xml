@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0381/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Freie Ufer entlang der East-Side-Gallery!</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -48,6 +48,7 @@
 <field name="word">initiative</field>
 <field name="word">durchgehenden</field>
 <field name="word">anlauf</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, sich dafür einzusetzen, dass es für die Grundstücke 
@@ -71,10 +72,10 @@ StadtQM
 17.10.2012
  
 Drucksache zurückgezogen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.5047468,13.4406716</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5134&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">891</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

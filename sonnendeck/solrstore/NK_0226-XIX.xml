@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">NK_0226/XIX</field>  
-  <field name="typ">Entschließung</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Babyklappen nicht abschaffen - jedes Kind, das gerettet wird, zählt!</field>  
   <field name="bezirk">Neukölln</field>  
   <field name="partei">Piraten</field>
@@ -95,6 +95,7 @@
 <field name="word">babyklappen</field>
 <field name="word">umfeld</field>
 <field name="word">hände</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 A
@@ -122,10 +123,10 @@ B. die einer vertraulichen Entbindung
 ,
  verbessert werden. 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3849&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1619</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

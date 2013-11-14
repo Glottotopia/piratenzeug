@@ -216,6 +216,7 @@
 <field name="word">bundesausschusses</field>
 <field name="word">äußerte</field>
 <field name="word">versorgungsbedarfe</field>
+  <field name="ausschuss">Gesundheit</field>
   <field name="text_de"> 
  
 Die Bezirksverordnetenversammlung ersucht das Bezirksamt, sich bei den
@@ -261,10 +262,10 @@ Ich möchte Sie aber auch darüber informieren, dass der Gemeinsame Bundesaussch
  erfolgen. Die Kassenärztliche Vereinigung Berlin und die Krankenkassen können dann prüfen, ob die Voraussetzungen für zusätzliche lokale Versorgungsbedarfe in Berlin vorliegen.
 Zudem verweise ich darauf, dass im neu eingerichteten gemeinsamen Landesgremium die Senatsverwaltung für Gesundheit und Soziales die Bedarfsplanung für Berlin gemeinsam mit den regionalen Akteuren erörtert und darauf hinwirkt, dass die Verteilung von Arztpraxen innerhalb Berlins verbessert wird.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4385&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">4019</field>  
-  <field name="parteien">5</field>  
+  <field name="parteien">5</field>   
 </doc></add>

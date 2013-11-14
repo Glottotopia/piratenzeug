@@ -8,14 +8,15 @@
 <field name="word">eiswerder</field>
 <field name="word">tempo</field>
 <field name="word">insel</field>
+  
   <field name="text_de">Das Bezirksamt wird beauftragt, sich bei den zuständigen Stellen für Tempo 30
  
 km/h auf der Insel Eiswerder einzusetzen
 .</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7381&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">122</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

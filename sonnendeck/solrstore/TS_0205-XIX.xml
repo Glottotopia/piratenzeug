@@ -109,6 +109,7 @@
 <field name="word">erforderliche</field>
 <field name="word">bauaufsicht</field>
 <field name="word">angestellt</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt:
  
  
@@ -135,10 +136,10 @@
 - Welches sind die Finanzierungsmodelle, die zur Verfügung stehen, die Pläne für Phase 2 & 3 bzw. alternative Modernisierungsmaßnahmen durchzuführen?
 - Hat das Bezirksamt Überlegungen angestellt, dementsprechend Mittel aus Quellen außerhalb des regulären Bezirkshaushalts, sowohl Landesmittel als auch private Mittel, hinzuzuziehen; und wenn ja, welche sind diese?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4001&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2388</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

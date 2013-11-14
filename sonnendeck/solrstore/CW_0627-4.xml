@@ -165,6 +165,9 @@
 <field name="word">verdient</field>
 <field name="word">deportiert</field>
 <field name="word">öffentlich</field>
+  <field name="ausschuss">Gender</field>
+<field name="ausschuss">Weiterbildung</field>
+<field name="ausschuss">Tiefbau</field>
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird aufgefordert, die Straße Am Bahnhof Grunewald, nach der weltweit ersten ordentlich ordinierten Rabbinerin Regina Jonas (1902  44) umzubenennen.
@@ -192,10 +195,10 @@ Im Zusammenhang mir der Tatsache, dass in Charlottenburg-Wilmersdorf nur rund 4 
          
 Im Übrigen hat diese Straße, trotz ihrer besonderen Lage, auch als Endhaltestelle von zwei Buslinien, nur 13 Hausnummern, was den sich ergebenden Aufwand in Grenzen hält  wenngleich dieser Aspekt angesichts der, über Berlin hinausgehenden, Bedeutung von Regina Jonas nicht allzu viel Gewicht haben sollte.  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location"></field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4891&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2663</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

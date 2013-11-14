@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0522-06/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Bebauungsplan VI - 140fa VE "Yorckdreieck" Hier: Lärmgutachten</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -111,6 +111,7 @@
 <field name="word">gehen</field>
 <field name="word">doch</field>
 <field name="word">methodische</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt die vorhandenen Lärmgutachten zu überprüfen und eine Gesamtlärmbetrachtung vorzunehmen.
@@ -172,10 +173,10 @@ StadtQM
 20.02.2013
  
 Zurückgezogen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4922939,13.3794822</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5309&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2048</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

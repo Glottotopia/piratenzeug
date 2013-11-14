@@ -23,6 +23,7 @@
 <field name="word">hatte</field>
 <field name="word">herrn</field>
 <field name="word">staatssekretärs</field>
+  
   <field name="text_de">Das Bezirksamt hatte sich entsprechend dem Auftrag an den Staatssekretär für Finanzen, 
 Herrn Feiler, gewandt. Die Antwort des Staatssekretärs der Senatsverwaltung für Finanzen vom 14. Juni 2012 ist als Anlage beigefügt.
  
@@ -38,10 +39,10 @@ Das Bezirksamt
  
 Kleebank
 Bezirksbürgermeister</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6726&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">371</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

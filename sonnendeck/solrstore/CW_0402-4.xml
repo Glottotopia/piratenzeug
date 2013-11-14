@@ -104,6 +104,7 @@
 <field name="word">zierpflanzen</field>
 <field name="word">hierbei</field>
 <field name="word">steglitz</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de"> 
 Die BVV 
 hat in ihrer Sitzung am 13. Dezember 2012 beschlossen
@@ -228,10 +229,10 @@ rgermeister
               
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4666&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">2202</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

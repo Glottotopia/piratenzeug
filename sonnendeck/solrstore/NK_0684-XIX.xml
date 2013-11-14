@@ -26,6 +26,7 @@
 <field name="word">bedürftigen</field>
 <field name="word">erfahrungen</field>
 <field name="word">kommt</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1)
@@ -39,10 +40,10 @@ Ist das Bezirksamt tätig geworden, um die Ausschreibung nicht an die PeWoBe ver
 Was wird das Bezirksamt unternehmen damit es in der Flüchtlingsunterkunft in der Späthstraße nicht zu Zuständen kommt wie in der von der PeWoBe betriebenen Obdachlosenunterkunft?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4532969,13.4568909</field>
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4307&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">517</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

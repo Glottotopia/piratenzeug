@@ -59,6 +59,7 @@
 <field name="word">alternativ</field>
 <field name="word">jedoch</field>
 <field name="word">dokumente</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Allen Bezirksverordneten (oder alternativ jeder Fraktion) soll die
@@ -88,10 +89,10 @@ verfügbaren Informationen über seine/ ihre Arbeit bearbeiten.
 Somit würde auch ALLRIS der ursprünglichen Intention der
  
 Entwickler entsprechend benutzt.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5383&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">893</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

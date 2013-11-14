@@ -39,6 +39,7 @@
 <field name="word">intensiv</field>
 <field name="word">tten</field>
 <field name="word">veranstaltungsst</field>
+  <field name="ausschuss">Wirtschaft</field>
   <field name="text_de">D
 ie BVV beschlie
 ß
@@ -69,10 +70,10 @@ Judith St
 ckler
 Bezirksverordnetenvorsteherin
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4590&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">667</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

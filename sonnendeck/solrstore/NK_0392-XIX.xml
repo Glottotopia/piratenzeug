@@ -34,6 +34,7 @@
 <field name="word">leistungen</field>
 <field name="word">innen</field>
 <field name="word">verweigert</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1.
@@ -45,10 +46,10 @@ Wie vielen EU-Bürgern wurden im letzen Jahr in Neukölln durch Sozialamt oder J
 3.
      
 Wie viele Klagen wurden gegen nicht bewährte Bescheide eingelegt? (Bitte nach Herkunftsland der Kläger_Innen auflisten)</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4015&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">473</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

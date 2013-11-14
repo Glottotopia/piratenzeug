@@ -4,120 +4,58 @@
   <field name="titel">Runder Tisch gegen Lärm- und Schmutzbelästigung durch Clubs</field>  
   <field name="bezirk">Mitte</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">umweltschutz</field>
+  <field name="word">ordnungsamt</field>
 <field name="word">abzustimmen</field>
-<field name="word">auszug</field>
-<field name="word">miete</field>
-<field name="word">sage</field>
-<field name="word">früh</field>
-<field name="word">glasscherben</field>
-<field name="word">sieht</field>
-<field name="word">freigelände</field>
-<field name="word">präventionsrates</field>
-<field name="word">bildung</field>
-<field name="word">nördliche</field>
-<field name="word">wohnumfeld</field>
-<field name="word">wohnungen</field>
-<field name="word">einladungen</field>
-<field name="word">möge</field>
-<field name="word">genutzt</field>
-<field name="word">über</field>
-<field name="word">straße</field>
-<field name="word">begründung</field>
-<field name="word">gemindert</field>
-<field name="word">innenbeiräte</field>
-<field name="word">mindestens</field>
-<field name="word">einzubeziehen</field>
-<field name="word">stimmen</field>
-<field name="word">schall</field>
-<field name="word">kommt</field>
-<field name="word">sitzungsprotokolle</field>
-<field name="word">ordnungsamt</field>
-<field name="word">nein</field>
-<field name="word">beschließen</field>
-<field name="word">ergebnisse</field>
-<field name="word">frei</field>
-<field name="word">reduziert</field>
-<field name="word">clubs</field>
-<field name="word">tisch</field>
-<field name="word">gebiet</field>
-<field name="word">spielende</field>
-<field name="word">sehr</field>
-<field name="word">betreffenden</field>
-<field name="word">bestehende</field>
-<field name="word">umweltbelastungen</field>
-<field name="word">bestehenden</field>
-<field name="word">gefahren</field>
-<field name="word">mehreren</field>
-<field name="word">frank</field>
-<field name="word">häuser</field>
-<field name="word">häusern</field>
-<field name="word">umweltamt</field>
-<field name="word">konzepte</field>
-<field name="word">regelmäßig</field>
-<field name="word">lärmbelästigung</field>
-<field name="word">umliegende</field>
-<field name="word">umliegenden</field>
-<field name="word">köpenicker</field>
-<field name="word">runden</field>
-<field name="word">fraktionen</field>
-<field name="word">luisenstadt</field>
-<field name="word">bergen</field>
-<field name="word">fortzusetzen</field>
-<field name="word">durchgeführt</field>
-<field name="word">kinder</field>
-<field name="word">innen</field>
-<field name="word">betreffende</field>
-<field name="word">befinden</field>
-<field name="word">clubcommission</field>
-<field name="word">folgende</field>
-<field name="word">annehmbares</field>
-<field name="word">sache</field>
-<field name="word">kultur</field>
-<field name="word">viele</field>
-<field name="word">anliegenden</field>
-<field name="word">club</field>
-<field name="word">grund</field>
-<field name="word">anwohner</field>
-<field name="word">bürgerverein</field>
-<field name="word">lärm</field>
-<field name="word">direkt</field>
-<field name="word">grünen</field>
-<field name="word">clubgänger</field>
-<field name="word">teilweise</field>
-<field name="word">gartenlokal</field>
-<field name="word">enthaltungen</field>
-<field name="word">woche</field>
-<field name="word">verschmutzt</field>
 <field name="word">mitte</field>
-<field name="word">tresor</field>
-<field name="word">linke</field>
-<field name="word">diverse</field>
-<field name="word">feiern</field>
-<field name="word">ständigen</field>
-<field name="word">drohen</field>
+<field name="word">ergebnisse</field>
+<field name="word">reduziert</field>
+<field name="word">über</field>
+<field name="word">luisenstadt</field>
+<field name="word">tisch</field>
+<field name="word">präventionsrates</field>
+<field name="word">fortzusetzen</field>
+<field name="word">beteiligte</field>
+<field name="word">bürgerverein</field>
+<field name="word">durchgeführt</field>
+<field name="word">clubcommission</field>
+<field name="word">innen</field>
+<field name="word">informieren</field>
+<field name="word">nördliche</field>
 <field name="word">vertreterinnen</field>
 <field name="word">deren</field>
-<field name="word">abteilungen</field>
-<field name="word">dringt</field>
-<field name="word">hinzu</field>
-<field name="word">republik</field>
-<field name="word">informieren</field>
+<field name="word">folgende</field>
+<field name="word">runde</field>
+<field name="word">umweltbelastungen</field>
+<field name="word">annehmbares</field>
+<field name="word">einladungen</field>
+<field name="word">runden</field>
+<field name="word">bestehenden</field>
+<field name="word">häuser</field>
+<field name="word">bestehende</field>
 <field name="word">clubbetreiber</field>
-<field name="word">beteiligte</field>
+<field name="word">straße</field>
 <field name="word">interessenvertretung</field>
-<field name="word">tagen</field>
-<field name="word">zerbrochenen</field>
+<field name="word">anwohner</field>
+<field name="word">umweltamt</field>
+<field name="word">innenbeiräte</field>
+<field name="word">konzepte</field>
 <field name="word">stadtteilvertretung</field>
 <field name="word">mieter</field>
+<field name="word">lärm</field>
+<field name="word">mindestens</field>
+<field name="word">umliegende</field>
+<field name="word">fraktionen</field>
+<field name="word">umliegenden</field>
 <field name="word">sicherstellen</field>
-<field name="word">nahes</field>
+<field name="word">einzubeziehen</field>
 <field name="word">zeitnah</field>
-<field name="word">runde</field>
+<field name="word">abteilungen</field>
 <field name="word">öffentlich</field>
 <field name="word">sitzungstermine</field>
-  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
- 
+<field name="word">sitzungsprotokolle</field>
+<field name="word">köpenicker</field>
+  
+  <field name="text_de"> 
 Das Bezirksamt wird ersucht, im Rahmen des Präventionsrates Mitte den Runden Tisch Köpenicker Straße fortzusetzen. Am Runden Tisch sind Konzepte abzustimmen, die sicherstellen, dass die bestehenden Lärm- und Umweltbelastungen auf ein, für alle Beteiligte annehmbares Maß, reduziert werden. 
  
 Folgende Abteilungen und VertreterInnen sind dabei mindestens einzubeziehen:
@@ -142,15 +80,11 @@ Bürgerverein Luisenstadt
  
 Der Runde Tisch soll öffentlich durchgeführt werden. Die Fraktionen sind über die Sitzungstermine und- ergebnisse zeitnah zu informieren (Einladungen, Sitzungsprotokolle).
  
-Der Ausschuss für Bildung, Kultur und Umweltschutz sieht die Drucksache als in der Sache erledigt an [11 Ja-Stimmen (SPD, Bü90/Die Grünen, CDU, Die Linke)], 0 Nein-Stimmen, 0 Enthaltungen).
- 
-Begründung:
-In dem betreffenden Gebiet befinden sich diverse Clubs, u.a. der Sage Club und der Tresor. Auch ein nahes Freigelände wird durch das Gartenlokal Republik Frank und Frei zum Feiern genutzt, teilweise an mehreren Tagen in der Woche bis 10 Uhr früh. Da die Straße sehr eng ist, dringt der Schall direkt in die anliegenden Wohnungen.
-Viele Mieter in den anliegenden Häusern haben auf Grund der ständigen Lärmbelästigung ihre Miete bereits gemindert und drohen mit Auszug. Hinzu kommt, dass das betreffende Wohnumfeld durch die Clubgänger regelmäßig verschmutzt wird, z.T. mit zerbrochenen Glasscherben, die Gefahren für spielende Kinder bergen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+ </field> 
+  <field name="status">None</field>
+  <field name="location">52.5073448,13.4282731</field>
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5427&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1744</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">849</field>  
+  <field name="parteien">1</field>   
 </doc></add>

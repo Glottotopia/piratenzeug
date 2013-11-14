@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0146/IV</field>  
-  <field name="typ">Drucksache_zurückgezogen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Mieterhöhungen und Verdrängung</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
@@ -90,6 +90,7 @@
 <field name="word">schulz</field>
 <field name="word">gegenzusteuern</field>
 <field name="word">unverzüglich</field>
+  
   <field name="text_de"> 
 Friedrichshain-Kreuzberg ist für Neumieter nach aktuellen Veröffentlichungen zu einem der teuersten Bezirke Berlins geworden. Viele Bürgerinnen und Bürger unserer Stadtteile müssen immer größere Anteile ihrer Einkommen für gestiegene Mieten ausgeben. Besonders betroffen sind dabei die Mieter mit geringen Einkommen.
 Leistungsempfänger des ALG II sind gezwungen, Anteile des für den Lebensunterhalt gedachten Regelsatzes für Miet- oder Mietnebenkosten auszugeben, befinden sich bei steigenden Mieten und Nichtübernahme der vollen Kosten durch die Jobcenter in einem Prozess, an dessen Ende die Zwangsräumung und Verdrängung in 
@@ -104,10 +105,10 @@ BVV
 28.03.2011
  
 Zurückgezogen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4875&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1323</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

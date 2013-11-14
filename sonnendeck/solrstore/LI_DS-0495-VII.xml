@@ -210,6 +210,7 @@
 <field name="word">zeit</field>
 <field name="word">notwendig</field>
 <field name="word">ausführlich</field>
+  
   <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
 Folgendes
  zur Kenntnis zu nehmen:
@@ -252,10 +253,10 @@ Mit dieser Neuregelung werden sowohl das Melderechtsrahmengesetz als auch die L�
  
 Bestandteil des Bundesmeldegesetzes sind u.a. Regelungen zur Weitergabe der Daten (insbesondere für gewerbliche Zwecke), wonach hierzu künftig eine ausdrückliche Zustimmung des Meldepflichtigen notwendig sein muss. Damit erübrigt sich der explizite Hinweis auf Widerspruch weitgehend.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5157&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3922</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -30,6 +30,7 @@
 <field name="word">verwendung</field>
 <field name="word">daten</field>
 <field name="word">prüfen</field>
+  
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, Veröffentlichungen von Dokumenten und anderen Daten zukünftig mit einer expliziten Angabe zur Weiterverwertungsmöglichkeit zu versehen. Dies kann z. B. durch Hinzufügung eines Punktes in den BA-Vorlagen nach "C.2 Weiterleitung an die BVV zugleich Veröffentlichung" geschehen.
@@ -37,10 +38,10 @@ Das Bezirksamt wird ersucht, Veröffentlichungen von Dokumenten und anderen Date
 Das Bezirksamt wird weiter ersucht zu prüfen, welche alternativen Lizenzmodelle zur Verwendung in 
 diesem Sinne denkbar sind (z.B
 . creative commons).</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4889&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">485</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

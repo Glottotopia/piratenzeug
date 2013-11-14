@@ -41,6 +41,7 @@
 <field name="word">netzwerken</field>
 <field name="word">llen</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 Wurde in der Vergangenheit bei Personalangelegenheiten auf Daten aus privaten Accounts von Mitarbeiter*innen der Verwaltung, Auszubildenden oder Bewerber*innen in sozialen Netzwerken zurü
@@ -58,10 +59,10 @@ tzlich abgesehen werden?
 Wenn nein, in welchen Fä
 llen soll davon nicht abgesehen werd
 en?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4256&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">561</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

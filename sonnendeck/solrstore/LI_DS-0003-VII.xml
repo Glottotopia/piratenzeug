@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">LI_DS/0003/VII</field>  
-  <field name="typ">Änderungsantrag</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Antrag zur Geschäftsordnung</field>  
   <field name="bezirk">Lichtenberg</field>  
   <field name="partei">Piraten</field>
@@ -127,6 +127,7 @@
 <field name="word">höchste</field>
 <field name="word">unverzüglich</field>
 <field name="word">stiftungen</field>
+  
   <field name="text_de">In § 10 wird als Absatz 3 eingefügt:
 Bezirksverordnete und Bürgerdeputierte unterrichten den Vorsteher schriftlich über ihre
 ·
@@ -151,10 +152,10 @@ Zu Beginn der Wahlperiode bzw. nach Beschluss dieses Antrages sollen die Bezirks
 Die Bezirksverordnetenversammlung Treptow-Köpenick praktiziert dieses Verfahren bereits erfolgreich.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4663&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">2454</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

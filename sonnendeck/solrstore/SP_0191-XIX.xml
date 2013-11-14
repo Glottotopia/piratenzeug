@@ -50,6 +50,7 @@
 <field name="word">öffentlich</field>
 <field name="word">aufgenommen</field>
 <field name="word">daten</field>
+  
   <field name="text_de">Die Bezirksverordneten der BVV Spandau beteiligen sich am Angebot des Informations- und Diskussionsportals abgeordnetenwatch.de. Es wurde bereits in 2011 Kontakt mit abgeordnetenwatch.de zwecks Aufnahme der BVV Spandau in die derzeit laufende Pilotphase von Kommunalparlamenten auf abgeordnetenwatch
 .de aufgenommen.
  
@@ -58,10 +59,10 @@ t und E-Mail-Adresse. Letztere
 wird nicht veröffentlicht, sondern dient der Weiterleitung eingehen
 der 
 Fragen. Zusätzlich ist eine Telefonnummer als Kontaktmöglichkeit für abgeordnetenwatch.de selbst erwünscht. Die Daten wurden aus öffentlich zugänglichen Quellen erfasst. Weitere optionale Angaben sind möglich. Die BVV Spandau wird das Angebot von abgeordnetenwatch.de nutzen und unterstützen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6795&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">856</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

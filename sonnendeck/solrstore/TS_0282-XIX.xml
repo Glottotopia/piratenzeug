@@ -172,6 +172,7 @@
 <field name="word">überarbeitung</field>
 <field name="word">notwendig</field>
 <field name="word">schulpflicht</field>
+  <field name="ausschuss">Schule</field>
   <field name="text_de">Das Bezirksamt teilt zu der o.g. Drucksache folgendes mit:
  
 Die Berliner Gymnasien haben im Ergebnis der Klassen- und Zensurenkonferenzen zum Schuljahresende 2011/12 entschieden, welche Schülerinnen und Schüler das Probejahr nicht bestanden haben. Die dem Schulträger gemeldeten Umsteiger sind Schülerinnen und Schüler mit Wohnsitz im Bezirk Tempelhof-Schöneberg und auf Grundlage §§ 41,42 des Schulgesetzes von Berlin und § 7 der Sekundarstufen I-Verordnung vom Wohnbezirk mit einem Schulplatz zu versorgen.
@@ -200,10 +201,10 @@ Der Standort Berlinickeplatz wird im Schuljahr 2012/2013 als Filiale der Theodor
  
 Es wird im Rahmen der Überarbeitung des Schulentwicklungsplanes über eine mögliche Neugründung einer weiteren Integrierten Sekundarschule zu beraten sein.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  <field name="location">52.46604725,13.3782399147696</field>
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4078&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">3526</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

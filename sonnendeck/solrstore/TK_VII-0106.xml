@@ -79,6 +79,7 @@
 <field name="word">genannt</field>
 <field name="word">bezirksamtes</field>
 <field name="word">entnehmen</field>
+  
   <field name="text_de">Der Lokalpresse war zu entnehmen, dass die Kühne Pool & Wellness Technik GmbH, als potentieller Investor und Betreiber für die denkmalgerechte Sanierung und Wiederbelebung des Standbades Müggelsee abgesprungen ist.
 Als Grund werden im Schreiben des Unternehmens an das Bezirksamt Treptow-Köpenick vom 
 03.01.2012
@@ -130,10 +131,10 @@ Wie war der Sachstand der Verhandlungen mit der Senatsverwaltung für Finanzen b
 8.
         
 Wie beurteilt der Bezirk die Möglichkeit direkter Vertragsverhandlungen zwischen der Senatsverwaltung für Finanzen und potentiellen Investoren?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4205&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1837</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

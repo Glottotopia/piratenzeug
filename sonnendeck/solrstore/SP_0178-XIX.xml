@@ -54,6 +54,7 @@
 <field name="word">einvernehmen</field>
 <field name="word">ausführung</field>
 <field name="word">vorschlag</field>
+  
   <field name="text_de">              
 Seite 
 2
@@ -76,10 +77,10 @@ Das Bezirksamt
 Kleebank
 Bezirksbürgermeister
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6782&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">845</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

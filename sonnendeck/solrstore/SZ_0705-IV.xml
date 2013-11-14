@@ -1,28 +1,42 @@
 <add><doc>
   <field name="id">SZ_0705/IV</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Beschlussempfehlung_von_Ausschüssen</field>  
   <field name="titel">Umsteigesituation in Lichterfelde-West</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
   <field name="word">busverkehr</field>
+<field name="word">stimme</field>
 <field name="word">kruse</field>
 <field name="word">goethe</field>
 <field name="word">montessori</field>
 <field name="word">abfährt</field>
 <field name="word">chule</field>
+<field name="word">ordnung</field>
 <field name="word">gymnasium</field>
+<field name="word">beraten</field>
 <field name="word">minü</field>
 <field name="word">piraten</field>
+<field name="word">geänderten</field>
+<field name="word">geändert</field>
+<field name="word">empfohlen</field>
+<field name="word">köhne</field>
 <field name="word">sehr</field>
 <field name="word">schulen</field>
+<field name="word">nein</field>
 <field name="word">lüders</field>
 <field name="word">ankommt</field>
 <field name="word">zuständigen</field>
+<field name="word">ablehnung</field>
 <field name="word">wartezeiten</field>
 <field name="word">beschließen</field>
+<field name="word">folgt</field>
+<field name="word">ausschussvorsitzender</field>
 <field name="word">besuchen</field>
 <field name="word">möge</field>
+<field name="word">enthaltungen</field>
 <field name="word">viele</field>
+<field name="word">fassung</field>
+<field name="word">antrags</field>
 <field name="word">müller</field>
 <field name="word">betroffen</field>
 <field name="word">dafür</field>
@@ -31,24 +45,31 @@
 <field name="word">wannsee</field>
 <field name="word">gerade</field>
 <field name="word">begründung</field>
+<field name="word">abstimmung</field>
 <field name="word">lilienthal</field>
 <field name="word">bahn</field>
+<field name="word">verkehr</field>
+<field name="word">unverändert</field>
 <field name="word">zehlendorf</field>
 <field name="word">schule</field>
 <field name="word">gemeinschaftsschule</field>
 <field name="word">verbessern</field>
+<field name="word">stimmen</field>
 <field name="word">laue</field>
 <field name="word">schüler</field>
 <field name="word">momentan</field>
 <field name="word">umsteigesituation</field>
 <field name="word">plus</field>
 <field name="word">drakestraße</field>
+<field name="word">ausschusses</field>
 <field name="word">liegenden</field>
 <field name="word">kommt</field>
 <field name="word">steglitz</field>
 <field name="word">umfeld</field>
 <field name="word">richtung</field>
 <field name="word">hiervon</field>
+<field name="word">abgelehnt</field>
+  <field name="ausschuss">Verkehr</field>
   <field name="text_de"> 
 Die BVV möge beschließen
 :
@@ -81,11 +102,43 @@ Lüders
               
               
 Müller
+ 
+-----------------------------------------------------------------------------------------------------------
+ 
+Der Antrag wurde am 
+29.10.2013
+ in der 20. Sitzung des Ausschusses für Verkehr 
+und Ordnung beraten und
+ wie folgt geändert:
+ 
+
+Die BVV möge beschließen
+:
+ 
+Das Bezirksamt wird ersucht
+,
+ sich bei den zuständigen Stellen dafür einzusetzen, die Umsteigesituation zwischen der 
+S-Bahn aus Wannsee und dem Bus
+ 
+M 11 
+zu verbessern.
+
+ 
+Begründung:
+Unverändert.
+ 
+Bei einer Abstimmung wurde der Antrag in der geänderten Fassung mit 1 Ja-Stimme und 3 Nein-Stimmen bei 11 Enthaltungen abgelehnt.
+ 
+Der Bezirksverordnetenversammlung wird die Ablehnung des Antrags in der geänderten Fassung empfohlen.
+ 
+ 
+Köhne
+Ausschussvorsitzender
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4455371,13.2940144</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4741&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">691</field>  
-  <field name="parteien">1</field>  
+  <field name="#chars">1432</field>  
+  <field name="parteien">1</field>   
 </doc></add>

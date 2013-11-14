@@ -41,6 +41,7 @@
 <field name="word">bewohnt</field>
 <field name="word">allein</field>
 <field name="word">stadtbärin</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
  
@@ -59,10 +60,10 @@ Argumenten des Tierschutzes ist es für den Bezirk Mitte
 weder zeitgemäß noch finanzierbar, weiterhin ein
 Lebewesen als Prestigeobjekt zu halten.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5662&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">589</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

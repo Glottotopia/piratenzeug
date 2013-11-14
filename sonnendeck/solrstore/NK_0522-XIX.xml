@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">NK_0522/XIX</field>  
-  <field name="typ">Entschließung</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Keine Nazis im Gemeinschaftshaus</field>  
   <field name="bezirk">Neukölln</field>  
   <field name="partei">Piraten</field>
@@ -66,6 +66,7 @@
 <field name="word">menschenwürdiges</field>
 <field name="word">keinen</field>
 <field name="word">demokratie</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Neukölln ist ein weltoffener und toleranter Bezirk. Hier leben Menschen aus unterschiedlichen Ländern friedlich zusammen  in Neuköln sollte es keinen Ra
@@ -86,10 +87,10 @@ l
 schaft zu ermöglichen.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4145&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">985</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

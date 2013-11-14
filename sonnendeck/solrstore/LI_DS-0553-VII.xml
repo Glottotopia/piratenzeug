@@ -23,6 +23,7 @@
 <field name="word">hinweisen</field>
 <field name="word">unterbringungsm</field>
 <field name="word">lteschutz</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1. Wie ist das Bezirksamt gegen
@@ -45,10 +46,10 @@ rme-/Unterbringungsm
 ö
 glichkeiten zu schaffen? 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5215&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">381</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

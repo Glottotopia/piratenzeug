@@ -45,6 +45,7 @@
 <field name="word">geführt</field>
 <field name="word">bestehen</field>
 <field name="word">bezirksamtes</field>
+  
   <field name="text_de">Wir fragen das Bezirksamt:
  
 1. In welcher Form führt die Bezirksverwaltung
@@ -80,10 +81,10 @@ zu veröffentlichen?
 4.1 Falls ja, in welcher Form wird dies erfolgen und
 in welchem Zeitraum ist es angedacht?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5273&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">841</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -174,6 +174,7 @@
 <field name="word">einmal</field>
 <field name="word">solche</field>
 <field name="word">umfeld</field>
+  
   <field name="text_de">Wir bitten zur Kenntnis zu nehmen:
  
  
@@ -313,10 +314,10 @@ s
 stadtrat Davids
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5234&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3530</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

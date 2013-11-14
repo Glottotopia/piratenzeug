@@ -30,6 +30,7 @@
 <field name="word">verfügung</field>
 <field name="word">verschiedene</field>
 <field name="word">prüfen</field>
+  
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, im Haushalt 2014/2015  5.000 ? zur Umsetzung des Projektes BVV-Live im Rahmen der Haushaltswirtschaft zur Verfügung zu stellen.
@@ -42,10 +43,10 @@ einzustellen.
 Die Mittel dafür sollen aus dem Kapitel 3304 'Serviceeinheit Personal', Titel 52501 'Aus- und Fortbildung' genommen werden.
 Weiter wird das
  Bezirksamt ersucht zu prüfen, einen eigenen Titel im Kapitel 3100 - Bezirksverordnetenversammlung für das Projekt 'BVV-Live' einzurichten.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5338&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">699</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

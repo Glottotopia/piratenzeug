@@ -911,9 +911,9 @@ Bewerbung der BVV Friedrichshain-Kreuzberg bei LOD2</td>
 </body>
 	</html></field> 
   <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4655&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">34338</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

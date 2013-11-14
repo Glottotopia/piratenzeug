@@ -80,6 +80,7 @@
 <field name="word">kiezkassen</field>
 <field name="word">geregelt</field>
 <field name="word">blatt</field>
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, im Rahmen der Umsetzung der Drucksache
@@ -104,10 +105,10 @@ n
 Bedingt durch die Fläche des Bezirks sollten mehrere Verteiler (z.
  
 B. je Ortsteil) oder eine Konfigurationsoption in Anlehnung an die Kiezkassen verfügbar sein.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4546&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1318</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

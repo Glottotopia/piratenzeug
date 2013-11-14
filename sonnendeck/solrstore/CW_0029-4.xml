@@ -345,6 +345,7 @@
 <field name="word">digitalem</field>
 <field name="word">herren</field>
 <field name="word">geschlossen</field>
+  
   <field name="text_de"> 
 Wir fragen das Bezirksamt:
  
@@ -481,10 +482,10 @@ träger vorliegen, werden wir hierüber im zuständigen Fachausschuss für Schul
 r
 ne berichten. 
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4293&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">6225</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

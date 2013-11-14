@@ -81,6 +81,7 @@
 <field name="word">stehende</field>
 <field name="word">sogar</field>
 <field name="word">arbeitslosengeld</field>
+  
   <field name="text_de">1.
               
 Wie vielen Bezieherinnen und Beziehern von Arbeitslosengeld-II-Leistungen in Spandau wurden in den Jahren 2010, 2011 und 2012 die Bez
@@ -146,10 +147,10 @@ Hat der Vollsanktionierte, der von den wirtschaftlichen Voraussetzungen volles A
 me, unabdingbaren Anspruch auf diese Leistungen zur Sicherung seiner Menschenw
 ü
 rde?</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7141&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1488</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

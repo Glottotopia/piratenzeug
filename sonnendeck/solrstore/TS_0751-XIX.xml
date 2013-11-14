@@ -99,6 +99,7 @@
 <field name="word">stadtentwicklungsausschuss</field>
 <field name="word">bebauungsplans</field>
 <field name="word">allein</field>
+  
   <field name="text_de"> 
 Die BVV möge beschließen: 
 Das Bezirksamt wird ersucht, den Vorhabenträger der Grundstücke an der Bautzener Straße 20-24 darauf hinzuweisen, dass er bei Einleitung eines vorhabenbezogenen Bebauungsplans nicht davon ausgehen darf, dass seinem Vorhaben ganz oder auch nur teilweise durch entsprechende Festsetzungen im Bebauungsplan oder Vereinbarungen in städtebaulichen Verträgen entsprochen wird. 
@@ -118,10 +119,10 @@ beschlossen:
 abgelehnt:
 überwiesen:
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  <field name="location">52.4904627,13.3707613</field>
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4547&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1977</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

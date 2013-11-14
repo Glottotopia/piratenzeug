@@ -22,6 +22,7 @@
 <field name="word">zuständigen</field>
 <field name="word">zung</field>
 <field name="word">empfohlen</field>
+  
   <field name="text_de">Sachverhalt:
  
 Die
@@ -46,10 +47,10 @@ Berlin, den 11
 _________________________________________
 Dr. Hinrich Lühmann (Bezirksverordnetenvorsteher)
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3606&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">455</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

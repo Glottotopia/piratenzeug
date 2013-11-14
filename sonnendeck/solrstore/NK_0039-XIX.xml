@@ -77,6 +77,8 @@
 <field name="word">lokalen</field>
 <field name="word">bezirksamtes</field>
 <field name="word">einrichtung</field>
+  <field name="ausschuss">Bildung</field>
+<field name="ausschuss">Verwaltung</field>
   <field name="text_de">Der Ausschuss empfiehlt die 
 Annahme
  des Antrages in folgender Fassung:
@@ -113,10 +115,10 @@ Aktive Zusammenarbeit mit den bestehenden Bündnissen und Unterstützung bei der
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3662&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1207</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

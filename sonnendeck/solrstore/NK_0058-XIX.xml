@@ -15,6 +15,7 @@
 <field name="word">welchem</field>
 <field name="word">leiharbeiter</field>
 <field name="word">monaten</field>
+  
   <field name="text_de">Ich frage das Bezirksamt:
  
 1.
@@ -29,10 +30,10 @@ letzten 12 Monaten Leiharbeiter
      
 Wenn Leiharbeiter eingesetzt wurden, in welchem Ressort wurden diese eingesetzt?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3681&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">277</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

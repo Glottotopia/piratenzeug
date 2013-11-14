@@ -109,6 +109,8 @@
 <field name="word">ängste</field>
 <field name="word">radweglösung</field>
 <field name="word">fußweg</field>
+  <field name="ausschuss">Bürgerdienste</field>
+<field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Dem Bezirksamt wird empfohlen
@@ -146,10 +148,10 @@ Auf der südlichen Seite sollte zwischen der Beermannstraße und Straße Am Trep
 von 4,75 Metern, anstatt der bestehenden 3,50 Meter, geprüft werden, welche unter Wegnahme einer
  
 Autospur in östlicher Fahrtrichtung zu realisieren wäre.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  <field name="location">52.4918137,13.4579855</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4618&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2168</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

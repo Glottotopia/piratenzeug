@@ -167,6 +167,7 @@
 <field name="word">schulhalbjahr</field>
 <field name="word">machen</field>
 <field name="word">zweiten</field>
+  <field name="ausschuss">Schule</field>
   <field name="text_de">D
 ie BVV 
 hat in ihrer Sitzung am 
@@ -244,10 +245,10 @@ Bezirksbürgermeister
 Bezirksstadträtin
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4624&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">3234</field>  
-  <field name="parteien">4</field>  
+  <field name="parteien">4</field>   
 </doc></add>

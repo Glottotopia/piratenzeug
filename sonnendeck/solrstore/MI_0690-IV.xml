@@ -84,6 +84,7 @@
 <field name="word">dien</field>
 <field name="word">kultur</field>
 <field name="word">gesundheit</field>
+  <field name="ausschuss">Soziales</field>
   <field name="text_de">Wir bitten zur Kenntnis zu nehmen:
  
  
@@ -201,10 +202,10 @@ Bezirksstadträtin Weißler
  
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5323&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1859</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

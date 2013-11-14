@@ -27,13 +27,14 @@
 <field name="word">variabel</field>
 <field name="word">sprich</field>
 <field name="word">anzahl</field>
+  
   <field name="text_de">Die BVV möge beschließen:
  
 Das Bezirksamt wird ersucht, die Quoren für die priorisierten Vorschläge des Bürgerhaushaltsverfahrens variabel und direkt abhängig von der Anzahl der eingereichten Vorschläge zu gestalten. Als Basis für die Ermittlung des variablen Quorums soll die Formel "Runden([Anzahl der Vorschläge] ^ 0,75)" (sprich: Anzahl der eingereichten Vorschläge hoch 0,75 gerundet auf 0 Nachkommastellen) dienen.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5420&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">421</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

@@ -9,16 +9,17 @@
 <field name="word">vorlage</field>
 <field name="word">kenntnis</field>
 <field name="word">umseitige</field>
+  
   <field name="text_de">Das Bezirksamt bittet di
 e Bezirksverordnetenversammlung
  
 umseitige Vorlage
  zur Kenntnis zu nehmen:
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5025&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">103</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

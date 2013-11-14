@@ -221,6 +221,7 @@
 <field name="word">möglichen</field>
 <field name="word">planung</field>
 <field name="word">dokumente</field>
+  <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird aufgefordert, die Bürgerbeteiligung in Planverfahren (Bereichsentwicklungs- und Flächennutzungsplanung, Bebauungsplanung) auf  Bezirksebene in folgendem Umfang zu erweitern:
@@ -297,10 +298,10 @@ zende oder plan
 konkretisierende Inhalte haben. Ein Nachverfolgen der einzelnen Planungsschritte ist gar nicht möglich.
  
 Der Aufwand hierfür ist gering und die benötigte Infrastruktur ist in den Grundzügen im Bezirk ebenfalls schon vorhanden.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3821&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3941</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

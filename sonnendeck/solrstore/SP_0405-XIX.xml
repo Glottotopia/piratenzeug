@@ -144,6 +144,7 @@
 <field name="word">schulleiterin</field>
 <field name="word">ferner</field>
 <field name="word">schulbaurichtlinie</field>
+  
   <field name="text_de">Das Bezirksamt wurde gebeten, für Schulen und ähnliche Einrichtungen (Hort, Kindertagestätten etc.) einen Leitfaden in Form eines Merkblattes zum Thema Brandschutz zu entwickeln und zu verteilen. Auftragsgemäß hat sich das Bezirksamt Spandau auch mit den Schulträgern anderer Bezirksämter in Verbindung gesetzt und die dortigen Erfahrungen übernommen.
  
 Die Senatsverwaltung für Bildung, Jugend und Wissenschaft hat eine äußerst hilfreiche Broschüre mit dem Thema "
@@ -175,10 +176,10 @@ Hanke
 Bezirksbürgermeister
               
 Bezirksstadtrat</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7009&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">2626</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

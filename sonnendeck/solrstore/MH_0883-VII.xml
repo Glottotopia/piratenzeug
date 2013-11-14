@@ -5,11 +5,12 @@
   <field name="bezirk">Marzahn_Hellersdorf</field>  
   <field name="partei">Piraten</field> 
   
+  
   <field name="text_de"> </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5167&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

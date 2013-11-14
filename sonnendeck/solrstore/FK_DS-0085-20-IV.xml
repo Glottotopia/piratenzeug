@@ -105,6 +105,7 @@
 <field name="word">vorsieht</field>
 <field name="word">notwendig</field>
 <field name="word">doppelungen</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Die Ankündigung von Finanzsenator Nußbaum, die geplante jährliche Erhöhung der bezirklichen Zuweisungen um 50 Millionen Euro zu streichen, ist ein Schlag ins Gesicht aller Bezirksverordneten und Bürgerdeputierten Friedrichshain-Kreuzbergs, die sich in den Ausschussberatungen der letzten Wochen unter großem Zeitdruck bemühten, einen ausgeglichenen Haushaltsentwurf zu erarbeiten.
@@ -155,10 +156,10 @@ Wir fordern die Mitglieder des Abgeordnetenhauses auf, den Plänen des Finanzsen
  zu widersprechen und einen Landeshaushalt zu verabschieden, der eine Erhöhung der bezirklichen Zuweisungen um mindestens 50 Millionen Euro vorsieht.
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4857&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">3829</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

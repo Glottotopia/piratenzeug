@@ -113,6 +113,7 @@
 <field name="word">dürfen</field>
 <field name="word">entsprechende</field>
 <field name="word">politischen</field>
+  
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird gebeten, eine Selbstverpflichtung zum Umgang mit Nebeneinkünften von Bezirksamtsmitgliedern zu erarbeiten und zu beschließen. Kernpunkte dieser Selbstve
@@ -160,10 +161,10 @@ nen Regelungen des Beamtenrechts. Danach gibt es Nebentätigkeiten, die nicht vo
  
 Da es sich hier in vielen Bereichen um Graubereiche handelt, die gesetzlich nicht geregelt sind, wird das Bezirksamt mit diesem Antrag ersucht, eine Selbstverpflichtungserklärung zu erarbeiten, die mindestens die genannten Punkte aufgreift und diese der BVV zur Kenntnis zu geben.
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">abgelehnt</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4064&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2208</field>  
-  <field name="parteien">2</field>  
+  <field name="parteien">2</field>   
 </doc></add>

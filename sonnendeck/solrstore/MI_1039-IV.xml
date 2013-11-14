@@ -52,6 +52,7 @@
 <field name="word">partnerstadt</field>
 <field name="word">propaganda</field>
 <field name="word">geeignete</field>
+  
   <field name="text_de"> 
 Das Bezirksamt wird ersucht, bei Kontakten mit dem zentralen Verwaltungsbezirk Moskaus jede geeignete Möglichkeit und Gelegenheit zu nutzen, um sowohl deutlich zu machen, dass es sich solidarisch erklärt mit den lesbisch, schwul, bisexuell und transgender lebenden Bürgerinnen und Bürgern der Partnerstadt Moskau, denen mit dem "Gesetz gegen Homosexuellen-Propaganda" wesentliche Bürger_innenrechte entzogen werden, als auch offensiv den Standpunkt zu vertreten, dass das Bezirksamt dieses Gesetz als eine massive Verletzung der Meinungs-, Presse-, Kunst- und Versammlungsfreiheit für alle Menschen in Moskau und ganz Russland betrachtet, mit dem gegen die Menschenrechte verstoßen wird.
  
@@ -60,10 +61,10 @@ Das Bezirksamt wird ersucht, bei Kontakten mit dem zentralen Verwaltungsbezirk M
 Erledigungsfrist: 
 19.12.2013
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">angenommen</field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5671&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">727</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

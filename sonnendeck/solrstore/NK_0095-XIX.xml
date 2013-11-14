@@ -74,6 +74,7 @@
 <field name="word">betroffenen</field>
 <field name="word">umfeld</field>
 <field name="word">ersatzmaßnahmen</field>
+  
   <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
  
 1)
@@ -110,10 +111,10 @@ tz notwendig machten, zu lösen
         
 Trifft es zu, dass jetzt erstmals eine Gefahrenanalyse für die Neuköllner Schulen erstellt wird und bis wann sollen deren Ergebnisse vorliegen?
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3718&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">1242</field>  
-  <field name="parteien">3</field>  
+  <field name="parteien">3</field>   
 </doc></add>

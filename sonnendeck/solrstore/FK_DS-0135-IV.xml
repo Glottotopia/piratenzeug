@@ -78,6 +78,7 @@
 <field name="word">verwendung</field>
 <field name="word">solche</field>
 <field name="word">euroforum</field>
+  
   <field name="text_de">Ich frage das Bezirksamt
 :
  
@@ -125,10 +126,10 @@ Ist dem Bezirksamt bekannt, dass am Dienstag, dem 12. Juni 2012 die Jubiläumsfe
 In welchem Umfang erhalten die unter der Anschrift des Umspannwerks Ost in der Palisadenstr. 48 ansässigen Unternehmen seit 2001 Mittel aus europäischen Fonds? Wer war bzw. ist für die sachgerechte Verwendung und Kontrolle zuständig?
  
  </field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4864&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1926</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>

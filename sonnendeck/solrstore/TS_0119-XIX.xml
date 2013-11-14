@@ -12,6 +12,7 @@
 <field name="word">empfiehlt</field>
 <field name="word">verwaltungshandeln</field>
 <field name="word">verfolgt</field>
+  
   <field name="text_de">Der Ausschuss empfiehlt der Bezirksveror
 d
 netenversammlung.
@@ -19,10 +20,10 @@ netenversammlung.
 Die Bezirksverordnetenversammlung wolle beschließen:
  
 Der Antrag wird nicht weiter verfolgt, da er sich durch Verwaltungshandeln erledigt hat.</field> 
-  <field name="status"></field>
-  <field name="location">52.5166,13.3833</field>  
+  <field name="status">None</field>
+  
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=3915&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">206</field>  
-  <field name="parteien">1</field>  
+  <field name="parteien">1</field>   
 </doc></add>
