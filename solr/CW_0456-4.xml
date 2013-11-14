@@ -1,0 +1,52 @@
+<add><doc>
+  <field name="id">CW_0456/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Erläuterung im Haushaltsplan</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">aller</field>
+<field name="word">beschließen</field>
+<field name="word">geregelte</field>
+<field name="word">haushaltsplanes</field>
+<field name="word">kontrolle</field>
+<field name="word">gesetzliche</field>
+<field name="word">grundeliegende</field>
+<field name="word">grundlage</field>
+<field name="word">titel</field>
+<field name="word">annahmen</field>
+<field name="word">kommentar</field>
+<field name="word">resultierende</field>
+<field name="word">möge</field>
+<field name="word">über</field>
+<field name="word">auszuweisen</field>
+<field name="word">bemessungsgrundlage</field>
+<field name="word">nachvollziehbarkeit</field>
+<field name="word">haushaltsplanentwürfen</field>
+<field name="word">berechnungsverfahren</field>
+<field name="word">bemessung</field>
+<field name="word">euro</field>
+<field name="word">begründung</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">gesetz</field>
+<field name="word">ansatzes</field>
+<field name="word">notwendige</field>
+<field name="word">paragraph</field>
+<field name="word">daraus</field>
+<field name="word">zukünftigen</field>
+<field name="word">bezirksamtes</field>
+  <field name="ausschuss">Haushalt</field>
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird aufgefordert, bei zukünftigen Haushaltsplanentwürfen im Kommentar aller Titel über 100.000 Euro die gesetzliche geregelte Bemessungsgrundlage (Gesetz, Paragraph) und das daraus resultierende Berechnungsverfahren sowie zu grundeliegende Annahmen für die Bemessung des Ansatzes mit auszuweisen
+.
+ 
+Begründung:
+Für die Kontrolle des Bezirksamtes durch die Bezirksverordneten ist die Nachvollziehbarkeit des Haushaltsplanes eine notwendige Grundlage.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4720&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">496</field>  
+  <field name="parteien">1</field>   
+</doc></add>

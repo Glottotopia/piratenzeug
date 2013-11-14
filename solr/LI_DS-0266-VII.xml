@@ -1,0 +1,77 @@
+<add><doc>
+  <field name="id">LI_DS/0266/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Teilnahme der Verordneten der BVV Lichtenberg an Abgeordnetenwatch</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">informations</field>
+<field name="word">gesammelt</field>
+<field name="word">spenden</field>
+<field name="word">benö</field>
+<field name="word">fassung</field>
+<field name="word">text</field>
+<field name="word">diskussionsportals</field>
+<field name="word">vereins</field>
+<field name="word">annahme</field>
+<field name="word">vorsteher</field>
+<field name="word">abstimmungsergebnis</field>
+<field name="word">mitgliedern</field>
+<field name="word">bermittelt</field>
+<field name="word">nnen</field>
+<field name="word">folgt</field>
+<field name="word">geänderter</field>
+<field name="word">begr</field>
+<field name="word">empfehlung</field>
+<field name="word">verordnet</field>
+<field name="word">ucksache</field>
+<field name="word">finanziert</field>
+<field name="word">daten</field>
+<field name="word">hauptausschuss</field>
+<field name="word">folgender</field>
+<field name="word">empfiehlt</field>
+<field name="word">ndung</field>
+<field name="word">beteiligen</field>
+<field name="word">fachausschusses</field>
+<field name="word">abgeordnetenwatch</field>
+<field name="word">verein</field>
+<field name="word">lichtenberg</field>
+<field name="word">ihren</field>
+<field name="word">projekt</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">angebot</field>
+<field name="word">ursprungsantrages</field>
+<field name="word">tigten</field>
+<field name="word">parlamentwatch</field>
+  
+  <field name="text_de">Der Hauptausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme der Dr
+ucksache in folgender geänderter
+ Fassung:
+ 
+Die Bezirksverordnetenversammlung empfiehlt ihren Mitgliedern, sich am Angebot des Informations- und Diskussionsportals abgeordnetenwatch.de des Vereins Parlamentwatch e. V. zu beteiligen.
+ 
+Begr
+ü
+ndung:
+Der Hauptausschuss folgt der Empfehlung des Fachausschusses. Das Projekt finanziert sich 
+ü
+ber Spenden, die nicht verordnet werden k
+ö
+nnen.
+ 
+Text des Ursprungsantrages:
+Die Bezirksverordneten der BVV Lichtenberg beteiligen sich am Angebot des Informations- und Diskussionsportals abgeordnetenwatch.de des Verein
+s Parlamentwatch e. V.
+ 
+Die benö
+tigten Daten der Bezirksverordneten werden durch den Vorsteher der BVV gesammelt und an Parlamentwatch e. V. ü
+bermittelt.
+ 
+Abstimmungsergebnis: 5 / 1 / 6
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4927&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">838</field>  
+  <field name="parteien">1</field>   
+</doc></add>

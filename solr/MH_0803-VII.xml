@@ -1,0 +1,42 @@
+<add><doc>
+  <field name="id">MH_0803/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Monatliche Veröffentlichung der aktuellen Haushaltsdaten</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließen</field>
+<field name="word">jeweils</field>
+<field name="word">veröffentlichen</field>
+<field name="word">geben</field>
+<field name="word">dokument</field>
+<field name="word">open</field>
+<field name="word">kenntnis</field>
+<field name="word">haushaltswirtschaft</field>
+<field name="word">weiterhin</field>
+<field name="word">tabellendokument</field>
+<field name="word">möge</field>
+<field name="word">aktuellen</field>
+<field name="word">landes</field>
+<field name="word">werte</field>
+<field name="word">format</field>
+<field name="word">portal</field>
+<field name="word">data</field>
+<field name="word">regelmäßig</field>
+<field name="word">monatlich</field>
+<field name="word">stand</field>
+<field name="word">hauptausschuss</field>
+<field name="word">bezirkes</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht, monatlich den jeweils aktuellen Stand der Haushaltswirtschaft (Ist-Werte) des Bezirkes als Tabellendokument (xls-Format) im Open-Data-Portal des Landes Berlin zu veröffentlichen. 
+Weiterhin wird das Bezirksamt ersucht
+,
+ das Dokument dem Hauptausschuss regelmäßig zur Kenntnis zu geben.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5086&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">343</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -1,0 +1,63 @@
+<add><doc>
+  <field name="id">LI_DS/0613/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Altersdiskriminierung gegenüber Schöffen beenden</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field>
+<field name="partei">CDU</field>
+<field name="partei">SPD</field> 
+  <field name="word">berufung</field>
+<field name="word">anlage</field>
+<field name="word">schreiben</field>
+<field name="word">überlegungen</field>
+<field name="word">kenntnis</field>
+<field name="word">unterstützung</field>
+<field name="word">gewandt</field>
+<field name="word">zwei</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">bekundet</field>
+<field name="word">altershöchstgrenze</field>
+<field name="word">bittet</field>
+<field name="word">sache</field>
+<field name="word">unterbrechung</field>
+<field name="word">nehmen</field>
+<field name="word">gezogen</field>
+<field name="word">betracht</field>
+<field name="word">grundsätzliche</field>
+<field name="word">schöffentätigkeit</field>
+<field name="word">aufhebung</field>
+<field name="word">folgendes</field>
+<field name="word">verbraucherschutz</field>
+<field name="word">bundesministerium</field>
+<field name="word">lassen</field>
+<field name="word">habe</field>
+<field name="word">gerichtsverfassungsgesetz</field>
+<field name="word">hatte</field>
+<field name="word">amtsperioden</field>
+<field name="word">mitteilen</field>
+<field name="word">märz</field>
+<field name="word">justiz</field>
+<field name="word">februar</field>
+<field name="word">senator</field>
+<field name="word">vorschriften</field>
+  
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
+Folgendes
+ zur Kenntnis zu nehmen:
+ 
+Das Bezirksamt hatte sich in der Sache mit einem Schreiben vom am 
+08.03.2013
+ die Senatsverwaltung für Justiz und Verbraucherschutz gewandt.
+ 
+Am 25. März 2013 hat der Senator mitteilen lassen, dass vom Bundesministerium für Justiz die Aufhebung der Vorschriften im Gerichtsverfassungsgesetz zur Altershöchstgrenze für die Berufung sowie zur Unterbrechung der Schöffentätigkeit nach zwei Amtsperioden in Betracht gezogen wird (Anlage: Schreiben vom 18. Februar 2013).
+ 
+Berlin habe die grundsätzliche Unterstützung für diese Überlegungen bekundet.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5275&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">645</field>  
+  <field name="parteien">4</field>   
+</doc></add>

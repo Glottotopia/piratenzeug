@@ -1,0 +1,54 @@
+<add><doc>
+  <field name="id">TK_VII/0206</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Änderung der Geschäftsordnung "Widerspruch zur Konsensliste"</field>  
+  <field name="bezirk">Treptow_Köpenick</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">widerspruch</field>
+<field name="word">gemäß</field>
+<field name="word">braucht</field>
+<field name="word">beschließen</field>
+<field name="word">köpenick</field>
+<field name="word">entsprechenden</field>
+<field name="word">rechte</field>
+<field name="word">fraktionsloses</field>
+<field name="word">streichen</field>
+<field name="word">fraktionslosen</field>
+<field name="word">antragsteller</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">satz</field>
+<field name="word">mitglied</field>
+<field name="word">grundsatz</field>
+<field name="word">worte</field>
+<field name="word">gleichheit</field>
+<field name="word">möge</field>
+<field name="word">treptow</field>
+<field name="word">verbleibt</field>
+<field name="word">einreicher</field>
+<field name="word">heute</field>
+<field name="word">begründung</field>
+<field name="word">genommen</field>
+<field name="word">gelebt</field>
+<field name="word">drucksachen</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">konsensliste</field>
+<field name="word">wort</field>
+<field name="word">praxis</field>
+  <field name="ausschuss">Haushalt</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
+ 
+In §27 (1) Satz 2 sind die Worte " der Antragsteller, Einreicher, einer Fraktion oder" sowie das Wort "fraktionslosen" zu streichen. Es verbleibt:
+"Bei Widerspruch eines Bezirksverordneten werden die entsprechenden Drucksachen von der Konsensliste genommen"
+ 
+Begründung:
+Gemäß dem Grundsatz der Gleichheit kann ein fraktionsloses Mitglied nicht mehr Rechte haben als ein Mitglied einer Fraktion. Antragsteller und Einreicher sind auch Bezirksverordnete. Eine Fraktion braucht es dazu nicht.
+ 
+Diese Praxis wird bereits heute so gelebt.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4305&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">620</field>  
+  <field name="parteien">1</field>   
+</doc></add>

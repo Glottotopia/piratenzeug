@@ -1,0 +1,29 @@
+<add><doc>
+  <field name="id">MI_1035/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Besetzung des Jugendhilfeausschusses</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">piratenfraktion</field>
+<field name="word">kriesel</field>
+<field name="word">mitte</field>
+<field name="word">mitglied</field>
+<field name="word">kirchner</field>
+<field name="word">david</field>
+<field name="word">tobias</field>
+<field name="word">stellvertretendes</field>
+<field name="word">jugendhilfeausschuss</field>
+  
+  <field name="text_de"> 
+Tobias Kriesel ist für David Kirchner stellvertretendes
+Mitglied der Piratenfraktion im Jugendhilfeausschuss der
+BVV- Mitte.
+ 
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5667&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">130</field>  
+  <field name="parteien">1</field>   
+</doc></add>

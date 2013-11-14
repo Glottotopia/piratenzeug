@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">MI_0267/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Eine transparente Verwaltung ermöglichen!</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">untergeordneten</field>
+<field name="word">zugehöriger</field>
+<field name="word">klar</field>
+<field name="word">teilen</field>
+<field name="word">festschreiben</field>
+<field name="word">öffentlich</field>
+<field name="word">beschließen</field>
+<field name="word">seine</field>
+<field name="word">drucksachen</field>
+<field name="word">dokumente</field>
+<field name="word">solche</field>
+<field name="word">richtlinien</field>
+<field name="word">klassifizierung</field>
+<field name="word">klassifizierungskatalog</field>
+<field name="word">bestimmten</field>
+<field name="word">kennzeichnen</field>
+<field name="word">veröffentlichung</field>
+<field name="word">verbindliche</field>
+<field name="word">verwaltungen</field>
+<field name="word">möge</field>
+  
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+ 
+Das Bezirksamt und seine untergeordneten Verwaltungen werden ersucht, alle nicht
+ 
+für die Veröffentlichung bestimmten Dokumente und Drucksachen klar als solche zu
+ 
+kennzeichnen. Ein zugehöriger Klassifizierungskatalog soll verbindliche Richtlinien für
+ 
+die Klassifizierung als öffentlich, nicht öffentlich oder in Teilen öffentlich
+ 
+festschreiben.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4902&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">413</field>  
+  <field name="parteien">1</field>   
+</doc></add>

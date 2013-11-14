@@ -1,0 +1,42 @@
+<add><doc>
+  <field name="id">NK_0267/XIX</field>  
+  <field name="typ">Mitteilung_-_2._Lesung</field>  
+  <field name="titel">Einwohnerfragen als Drucksache im ALLRIS</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">zukunft</field>
+<field name="word">antworten</field>
+<field name="word">anfragen</field>
+<field name="word">form</field>
+<field name="word">gleichen</field>
+<field name="word">fassung</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">einwohnerfragestunde</field>
+<field name="word">vorhanden</field>
+<field name="word">sobald</field>
+<field name="word">einwohnerfragen</field>
+<field name="word">vorfeld</field>
+<field name="word">antragstellenden</field>
+<field name="word">folgender</field>
+<field name="word">allris</field>
+<field name="word">ffentlicht</field>
+<field name="word">piraten</field>
+<field name="word">jeweiligen</field>
+<field name="word">fraktionen</field>
+<field name="word">zurückgezogen</field>
+  
+  <field name="text_de">Der Antrag wird von der antragstellenden Fraktion der PIRATEN in folgender Fassung 
+zurückgezogen
+:
+ 
+Das Bezirksamt wird ersucht, dass in Zukunft die Einwohnerfragen zur Einwohnerfragestunde im Vorfeld der BVV und, sobald vorhanden, die jeweiligen Antworten als Drucksache - in der gleichen Form wie Anfragen von Bezirksverordneten oder Fraktionen - im ALLRIS ver
+ö
+ffentlicht werden sollen.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3890&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">394</field>  
+  <field name="parteien">1</field>   
+</doc></add>

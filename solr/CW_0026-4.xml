@@ -1,0 +1,43 @@
+<add><doc>
+  <field name="id">CW_0026/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Fraktionslose keine Gäste im Ältestenrat</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field> 
+  <field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">stückler</field>
+<field name="word">beschließ</field>
+<field name="word">judith</field>
+<field name="word">satz</field>
+<field name="word">partei</field>
+<field name="word">worte</field>
+<field name="word">letzten</field>
+<field name="word">streichen</field>
+<field name="word">ersatzlos</field>
+<field name="word">wählergemeinschaft</field>
+<field name="word">gast</field>
+  <field name="ausschuss">Geschäftsordnung</field>
+  <field name="text_de">D
+ie 
+BVV
+ beschließ
+t
+:
+ 
+In § 15 (1) sind im letzten Satz: Je Partei oder Wählergemeinschaft,
+ die Worte "
+als Gast" ersatzlos zu streichen.
+ 
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4290&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">197</field>  
+  <field name="parteien">2</field>   
+</doc></add>

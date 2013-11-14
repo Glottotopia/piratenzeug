@@ -1,0 +1,52 @@
+<add><doc>
+  <field name="id">MH_0001/VII-3</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Änderung des Entwurfs zur Geschäftsordnung - § 17 (13)</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">können</field>
+<field name="word">drucksachen</field>
+<field name="word">begründet</field>
+<field name="word">marzahn</field>
+<field name="word">beschließen</field>
+<field name="word">absatz</field>
+<field name="word">satz</field>
+<field name="word">ablehnungen</field>
+<field name="word">geändert</field>
+<field name="word">entwurf</field>
+<field name="word">fassung</field>
+<field name="word">vorläufigen</field>
+<field name="word">hellersdorf</field>
+<field name="word">letzte</field>
+<field name="word">protokoll</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">oktober</field>
+<field name="word">möge</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Im
+ vorläufigen Entwurf zur Geschäftsordnung der BVV Marzahn-Hellersdorf in der Fassung vom
+ 25.
+ Oktober 2011
+ wird
+ in §
+ 
+17 Absatz (13) der letzte
+ Satz 
+geändert 
+von "Ablehnungen zu Drucksachen können
+ 
+im Protokoll begründet werden." 
+in "Ablehnungen zu Drucksachen 
+werden
+ im Protokoll 
+begründet
+.".</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4274&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">337</field>  
+  <field name="parteien">1</field>   
+</doc></add>

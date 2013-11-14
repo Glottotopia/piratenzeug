@@ -1,0 +1,59 @@
+<add><doc>
+  <field name="id">Pa_VII-0189</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Freigabe der Programmschnittstelle API (application programming interface) des ALLRIS-Systems</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">dokumentation</field>
+<field name="word">benötigt</field>
+<field name="word">fraktionen</field>
+<field name="word">schonung</field>
+<field name="word">eingerichtet</field>
+<field name="word">bereitgestellt</field>
+<field name="word">vorhandene</field>
+<field name="word">termine</field>
+<field name="word">vereinfachte</field>
+<field name="word">nutzung</field>
+<field name="word">zugriff</field>
+<field name="word">berechtigung</field>
+<field name="word">entsprechend</field>
+<field name="word">system</field>
+<field name="word">daher</field>
+<field name="word">anstehenden</field>
+<field name="word">auslesbar</field>
+<field name="word">systems</field>
+<field name="word">programmierung</field>
+<field name="word">jede</field>
+<field name="word">zugänglich</field>
+<field name="word">lesenden</field>
+<field name="word">vereinbart</field>
+<field name="word">außerdem</field>
+<field name="word">einmal</field>
+<field name="word">beschlüsse</field>
+<field name="word">lesender</field>
+<field name="word">allris</field>
+<field name="word">softwarebetreiber</field>
+<field name="word">freigeschaltet</field>
+<field name="word">begrenzung</field>
+<field name="word">server</field>
+<field name="word">gemacht</field>
+<field name="word">zeitliche</field>
+<field name="word">testumgebung</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Finanzen</field>
+  <field name="text_de">Für die vereinfachte Nutzung des ALLRIS-Systems durch die Fraktionen soll die API des ALLRIS-Systems zugänglich gemacht werden.
+ 
+ 
+Das Bezirksamt wird ersucht:
+ 
+Jede Fraktion soll eine Berechtigung zum lesenden Zugriff aus dem ALLRIS-System erhalten.
+ 
+Daher soll bei dem Softwarebetreiber von ALLRIS die API entsprechend eingerichtet und freigeschaltet werden. Es wird z. Zt. nur ein lesender Zugriff benötigt, bei dem alle anstehenden Beschlüsse und Termine auslesbar sein sollen. Eine zeitliche Begrenzung zur Server-Schonung kann vereinbart werden (z. B. nur einmal am Tag). Für die Programmierung soll außerdem eine vorhandene Testumgebung und Dokumentation bereitgestellt werden.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3268&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">689</field>  
+  <field name="parteien">1</field>   
+</doc></add>

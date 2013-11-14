@@ -1,0 +1,299 @@
+<add><doc>
+  <field name="id">FK_DS/0586/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bebauungspläne als Open Data veröffentlichen</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">schlussendlich</field>
+<field name="word">namensnennu</field>
+<field name="word">sollte</field>
+<field name="word">netz</field>
+<field name="word">visualisierung</field>
+<field name="word">anliegen</field>
+<field name="word">gestellt</field>
+<field name="word">meisten</field>
+<field name="word">möge</field>
+<field name="word">stadtentwicklung</field>
+<field name="word">namensnennungslizenz</field>
+<field name="word">format</field>
+<field name="word">zugriffe</field>
+<field name="word">transparenz</field>
+<field name="word">begründung</field>
+<field name="word">ermittelt</field>
+<field name="word">geschä</field>
+<field name="word">genü</field>
+<field name="word">lauf</field>
+<field name="word">geprü</field>
+<field name="word">quartiersmanagement</field>
+<field name="word">stadtqm</field>
+<field name="word">soziale</field>
+<field name="word">jedoch</field>
+<field name="word">vorhandenen</field>
+<field name="word">juni</field>
+<field name="word">beschließen</field>
+<field name="word">eignen</field>
+<field name="word">verwaltung</field>
+<field name="word">entsprechenden</field>
+<field name="word">jahres</field>
+<field name="word">lizenzierung</field>
+<field name="word">berweisung</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">gung</field>
+<field name="word">ausserdem</field>
+<field name="word">nnen</field>
+<field name="word">geodaten</field>
+<field name="word">stellung</field>
+<field name="word">schwierigen</field>
+<field name="word">öffnung</field>
+<field name="word">definition</field>
+<field name="word">wesentlichsten</field>
+<field name="word">wäre</field>
+<field name="word">rgerbeteiligung</field>
+<field name="word">bezirksverwaltung</field>
+<field name="word">verwendung</field>
+<field name="word">daten</field>
+<field name="word">sachlichen</field>
+<field name="word">datensätzen</field>
+<field name="word">beschließt</field>
+<field name="word">ressourcen</field>
+<field name="word">open</field>
+<field name="word">bürger</field>
+<field name="word">vektorbasierten</field>
+<field name="word">umgesetzt</field>
+<field name="word">besonders</field>
+<field name="word">umsetzbar</field>
+<field name="word">welchen</field>
+<field name="word">verfü</field>
+<field name="word">nehmen</field>
+<field name="word">beschließ</field>
+<field name="word">ftsordnung</field>
+<field name="word">baut</field>
+<field name="word">nennen</field>
+<field name="word">berl</field>
+<field name="word">nachgefragten</field>
+<field name="word">gestellten</field>
+<field name="word">projekten</field>
+<field name="word">glich</field>
+<field name="word">stadt</field>
+<field name="word">ngslizenz</field>
+<field name="word">generell</field>
+<field name="word">rechtlichen</field>
+<field name="word">viele</field>
+<field name="word">innerhalb</field>
+<field name="word">bebauungsplä</field>
+<field name="word">weiterhin</field>
+<field name="word">prüfauftrag</field>
+<field name="word">personellen</field>
+<field name="word">erfolgt</field>
+<field name="word">status</field>
+<field name="word">mieten</field>
+<field name="word">rechtlich</field>
+<field name="word">probleme</field>
+<field name="word">gehören</field>
+<field name="word">hätten</field>
+<field name="word">kartendaten</field>
+<field name="word">ablauf</field>
+<field name="word">bebauungspläne</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+<field name="ausschuss">Stadtentwicklung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+1)
+      
+Das BA wird beauftragt, zu prü
+fen, welche Bebauungsplä
+ne in daten.berlin.de generell zur Verfü
+gung gestellt werden kö
+nnen. 
+2)
+      
+Weiterhin soll geprü
+ft werden, welche dieser Plä
+ne in einem vektorbasierten Format zur Verfü
+gung gestellt werden kö
+nnen. 
+3)
+      
+Schlussendlich soll geprü
+ft werden, bei welchen Plä
+nen eine Lizenzierung unter eine der Open Definition entsprechenden Namensnennu
+ngslizenz (z.B. CC-BY) mö
+glich ist.
+4)
+      
+Bei Daten, die 2) oder 3) nicht genü
+gen, ist ü
+ber die vorhandenen rechtlichen oder sachlichen Probleme zu berichten.
+ 
+Begründung:
+ 
+Kartendaten gehören zu den am meisten nachgefragten Datensätzen. Sie eignen sich ausserdem besonders gut zur Visualisierung. Innerhalb der Bezirksverwaltung sind Bebauungspläne die wesentlichsten Geodaten, haben jedoch rechtlich einen schwierigen Status. Mit diesem Prüfauftrag soll ermittelt werden, ob sich die Bebauungspläne der Verwaltung für eine Öffnung eignen. 
+ 
+Unter den Projekten, die für Geodaten Verwendung hätten, wäre z. B. Bürger baut Stadt zu nennen. 
+ 
+Der BVV ist bis zur Juni-BVV zu berichten.
+ 
+ 
+BVV 
+27.02.2013
+Die Bezirksverordnetenversammlung beschließ
+t:
+ 
+Ü
+berweisung: Ausschuss
+ fü
+r Bü
+rgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschä
+ftsordnung, Ausschuss fü
+r Stadtentwicklung, Soziale Stadt und Quartiersmanagement, Mieten ff.
+ 
+ 
+Bü
+Tra 
+13.03.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+1)
+      
+Das 
+Bezirksamt  
+wird beauftragt, zu prü
+fen, welche Bebauungsplä
+ne in daten.berlin.de generell zur Verfü
+gung gestellt werden kö
+nnen. 
+ 
+2)
+      
+Weiterhin soll geprü
+ft werden, welche dieser Plä
+ne in einem vektorbasierten Format zur Verfü
+gung gestellt werden kö
+nnen. 
+ 
+3)
+      
+Schlussendlich soll geprü
+ft werden, bei welchen Plä
+nen eine Lizenzierung unter eine der Open Definition entsprechenden Namensnennungslizenz (z.B. CC-BY) mö
+glich ist.
+ 
+4)
+      
+Bei Daten, die 2) oder 3) nicht genü
+gen, ist ü
+ber die vorhandenen rechtlichen oder 
+sachlichen Probleme zu berichten.
+ 
+5)
+      
+Insbesondere soll das Bezirksamt dazu Stellung nehmen, ob das Anliegen mit den vorhandenen personellen Ressourcen umsetzbar ist.
+ 
+6)
+      
+Sollte das Anliegen umgesetzt werden, wird das Bezirksamt beauftragt, der BVV nach Ab
+lauf eines Jahres zu berichten wie viele Zugriffe auf die ins Netz gestellten B-Plä
+ne erfolgt sind.
+ 
+ 
+StadtQM 
+03.04.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+1)
+      
+Das 
+Bezirksamt  
+wird beauftragt, zu prü
+fen, welche Bebauungsplä
+ne in daten.berl
+in.de generell zur Verfü
+gung gestellt werden kö
+nnen. 
+ 
+2)
+      
+Weiterhin soll geprü
+ft werden, welche dieser Plä
+ne in einem vektorbasierten Format zur Verfü
+gung gestellt werden kö
+nnen. 
+ 
+3)
+      
+Schlussendlich soll geprü
+ft werden, bei welchen Plä
+nen eine Lizenzierung unter eine der Open Definition entsprechenden Namensnennungslizenz (z.B. CC-BY) mö
+glich ist.
+ 
+4)
+      
+Bei Daten, die 2) oder 3) nicht genü
+gen, ist ü
+ber die vorhandenen rechtlichen oder sachlichen Probleme zu berichten.
+ 
+5)
+      
+Insbesondere sol
+l das Bezirksamt dazu Stellung nehmen, ob das Anliegen mit den vorhandenen personellen Ressourcen umsetzbar ist.
+ 
+6)
+      
+Sollte das Anliegen umgesetzt werden, wird das Bezirksamt beauftragt, der BVV nach Ablauf eines Jahres zu berichten wie viele Zugriffe auf 
+die ins Netz gestellten B-Plä
+ne erfolgt sind.
+ 
+ 
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
+7)
+      
+Das 
+Bezirksamt  
+wird beauftragt, zu prü
+fen, welche Bebauungsplä
+ne in daten.berl
+in.de generell zur Verfü
+gung gestellt werden kö
+nnen. 
+ 
+8)
+      
+Weiterhin soll geprü
+ft werden, welche dieser Plä
+ne in einem vektorbasierten Format zur Verfü
+gung gestellt werden kö
+nnen. 
+ 
+9)
+      
+Schlussendlich soll geprü
+ft werden, bei welchen Plä
+nen eine Lizenzierung unter eine der Open Definition entsprechenden Namensnennungslizenz (z.B. CC-BY) mö
+glich ist.
+ 
+10)
+ 
+Bei Daten, die 2) oder 3) nicht genü
+gen, ist ü
+ber die vorhandenen rechtlichen oder sachlichen Probleme zu berichten.
+ 
+11)
+ 
+Insbesondere sol
+l das Bezirksamt dazu Stellung nehmen, ob das Anliegen mit den vorhandenen personellen Ressourcen umsetzbar ist.
+ 
+12)
+ 
+Sollte das Anliegen umgesetzt werden, wird das Bezirksamt beauftragt, der BVV nach Ablauf eines Jahres zu berichten wie viele Zugriffe auf 
+die ins Netz gestellten B-Plä
+ne erfolgt sind.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5363&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">4456</field>  
+  <field name="parteien">1</field>   
+</doc></add>

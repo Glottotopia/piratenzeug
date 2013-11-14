@@ -1,0 +1,100 @@
+<add><doc>
+  <field name="id">LI_DS/0725/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Freie Lizenz für die Software des Bürgerhaushaltsportals</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">dokumentation</field>
+<field name="word">aber</field>
+<field name="word">mittel</field>
+<field name="word">durchaus</field>
+<field name="word">notwendigen</field>
+<field name="word">eingestellt</field>
+<field name="word">freien</field>
+<field name="word">momentanen</field>
+<field name="word">general</field>
+<field name="word">bürgerhaushaltsportals</field>
+<field name="word">beraten</field>
+<field name="word">festgestellt</field>
+<field name="word">angebotes</field>
+<field name="word">quelltextes</field>
+<field name="word">steht</field>
+<field name="word">hätte</field>
+<field name="word">dritte</field>
+<field name="word">kenntnis</field>
+<field name="word">einsatz</field>
+<field name="word">ersuchte</field>
+<field name="word">optionen</field>
+<field name="word">realität</field>
+<field name="word">allgemeinen</field>
+<field name="word">ergebnis</field>
+<field name="word">sinne</field>
+<field name="word">wäre</field>
+<field name="word">entsprechende</field>
+<field name="word">geplant</field>
+<field name="word">pflicht</field>
+<field name="word">rechteinhaber</field>
+<field name="word">verändern</field>
+<field name="word">einholung</field>
+<field name="word">überschreiten</field>
+<field name="word">bittet</field>
+<field name="word">euro</field>
+<field name="word">public</field>
+<field name="word">internetseite</field>
+<field name="word">nehmen</field>
+<field name="word">über</field>
+<field name="word">erstellung</field>
+<field name="word">veröffentlichen</field>
+<field name="word">hierzu</field>
+<field name="word">recht</field>
+<field name="word">folgendes</field>
+<field name="word">bezirkshaushalt</field>
+<field name="word">heute</field>
+<field name="word">beschlusses</field>
+<field name="word">sinnvoll</field>
+<field name="word">brachte</field>
+<field name="word">angepasst</field>
+<field name="word">nutzen</field>
+<field name="word">besitz</field>
+<field name="word">grundzügen</field>
+<field name="word">umsetzung</field>
+<field name="word">veröffentlichung</field>
+<field name="word">lichtenberg</field>
+<field name="word">license</field>
+<field name="word">höhe</field>
+<field name="word">drupal</field>
+<field name="word">entwicklern</field>
+<field name="word">möglichkeiten</field>
+<field name="word">nutzbarkeit</field>
+<field name="word">weitergeben</field>
+<field name="word">finanziellen</field>
+<field name="word">lizenz</field>
+<field name="word">allerdings</field>
+<field name="word">gesamtkosten</field>
+<field name="word">verwendung</field>
+<field name="word">entspricht</field>
+<field name="word">erstellt</field>
+<field name="word">dadurch</field>
+<field name="word">software</field>
+  
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, 
+Folgendes 
+zur Kenntnis zu nehmen:
+ 
+In Umsetzung des Beschlusses hat sich das Bezirksamt mit den Entwicklern des Bürgerhaushaltsportals beraten und festgestellt, dass das Ersuchte in Grundzügen bereits der Realität entspricht. Durch die Verwendung von Drupal 7 bei der Erstellung der Internetseite, steht auch die Software des Bürgerhaushaltsportals bereits unter einer freien Lizenz, der 
+GNU General Public License
+ (GPL). 
+ 
+Dadurch ist das Bezirksamt Lichtenberg bereits heute ein Rechteinhaber der Software und in Besitz des Quelltextes, kann ihn nutzen, verändern, weitergeben oder veröffentlichen. Hierzu hätte das Bezirksamt durchaus das Recht, aber nicht die Pflicht.
+ 
+Sinnvoll, im Sinne der Nutzbarkeit durch Dritte, wäre eine Veröffentlichung allerdings nur, wenn die Software für den allgemeinen Einsatz angepasst und hierzu eine entsprechende Dokumentation erstellt wird.
+ 
+Die Einholung eines Angebotes über diese Optionen brachte das Ergebnis, dass die notwendigen Gesamtkosten in Höhe von ca. 13.000 Euro die momentanen finanziellen Möglichkeiten überschreiten. Diese Mittel sind nicht geplant und auch nicht im Bezirkshaushalt eingestellt.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5387&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1218</field>  
+  <field name="parteien">1</field>   
+</doc></add>

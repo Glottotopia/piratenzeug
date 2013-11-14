@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">CW_0722/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Reinigung des Parkplatzes unter der Stadtautobahn am S- und U-Bahnhof Bundesplatz</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field> 
+  <field name="word">bundesplatzes</field>
+<field name="word">entmüllen</field>
+<field name="word">stückler</field>
+<field name="word">weiterhin</field>
+<field name="word">beschließ</field>
+<field name="word">zuständigen</field>
+<field name="word">stadtautobahn</field>
+<field name="word">lassen</field>
+<field name="word">bahnhof</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">autobahnmeisterei</field>
+<field name="word">parkplatz</field>
+<field name="word">reinigen</field>
+<field name="word">judith</field>
+<field name="word">dafür</field>
+<field name="word">november</field>
+  <field name="ausschuss">Wirtschaft</field>
+  <field name="text_de"> 
+D
+ie BVV beschließ
+t
+:
+ 
+Das Bezirksamt wird gebeten, sich weiterhin bei der Autobahnmeisterei bzw. den zuständigen Stellen dafür einzusetzen, den Parkplatz unter der Stadtautobahn am S- und U-Bahnhof Bundesplatzes reinigen und entmüllen zu lassen.
+ 
+Der BVV ist bis zum 30. November 2013 zu berichten.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ </field> 
+  <field name="status">angenommen</field>
+  <field name="location">52.478765,13.3282719</field>
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4988&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">356</field>  
+  <field name="parteien">3</field>   
+</doc></add>

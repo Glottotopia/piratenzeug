@@ -1,0 +1,33 @@
+<add><doc>
+  <field name="id">MH_1125/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bürgerhaushalt, ein großer Erfolg! - Bürgerhaushaltsverfahren nachvollziehbarer gestalten (IX)</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">medien</field>
+<field name="word">besser</field>
+<field name="word">über</field>
+<field name="word">beschließen</field>
+<field name="word">darzustellen</field>
+<field name="word">bürgerhaushalt</field>
+<field name="word">erfolgen</field>
+<field name="word">verwendeten</field>
+<field name="word">verschiedenen</field>
+<field name="word">zukünftige</field>
+<field name="word">abläuft</field>
+<field name="word">möge</field>
+<field name="word">verfahren</field>
+<field name="word">phasen</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht
+,
+ für zukünftige Verfahren besser darzustellen, wie der Bürgerhaushalt in den verschiedenen Phasen abläuft. Dies soll über alle für den Bürgerhaushalt verwendeten Medien erfolgen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5427&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">236</field>  
+  <field name="parteien">1</field>   
+</doc></add>

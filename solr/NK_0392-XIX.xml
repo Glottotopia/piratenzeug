@@ -1,0 +1,55 @@
+<add><doc>
+  <field name="id">NK_0392/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">EFA-Vorbehalt in Neukölln</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">deutschen</field>
+<field name="word">vorbehalt</field>
+<field name="word">gegen</field>
+<field name="word">bürgern</field>
+<field name="word">bitte</field>
+<field name="word">bürger</field>
+<field name="word">vorbehalts</field>
+<field name="word">auskunft</field>
+<field name="word">jahr</field>
+<field name="word">sozialamt</field>
+<field name="word">europäische</field>
+<field name="word">folgende</field>
+<field name="word">fürsorgeabkommen</field>
+<field name="word">neukölln</field>
+<field name="word">eingelegt</field>
+<field name="word">viele</field>
+<field name="word">letzen</field>
+<field name="word">auflisten</field>
+<field name="word">bescheide</field>
+<field name="word">grund</field>
+<field name="word">betroffen</field>
+<field name="word">kläger</field>
+<field name="word">herkunftsland</field>
+<field name="word">bewährte</field>
+<field name="word">klagen</field>
+<field name="word">vielen</field>
+<field name="word">jobcenter</field>
+<field name="word">leistungen</field>
+<field name="word">innen</field>
+<field name="word">verweigert</field>
+  
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+1.
+     
+Wie viele EU-Bürger sind in Neukölln vom Deutschen Vorbehalt gegen das Europäische-Fürsorgeabkommen betroffen?
+2.
+     
+Wie vielen EU-Bürgern wurden im letzen Jahr in Neukölln durch Sozialamt oder JobCenter Leistungen nach SGB II oder SGB XII auf Grund des Vorbehalts verweigert?
+3.
+     
+Wie viele Klagen wurden gegen nicht bewährte Bescheide eingelegt? (Bitte nach Herkunftsland der Kläger_Innen auflisten)</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4015&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">473</field>  
+  <field name="parteien">1</field>   
+</doc></add>

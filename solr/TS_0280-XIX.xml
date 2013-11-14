@@ -1,0 +1,35 @@
+<add><doc>
+  <field name="id">TS_0280/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bauliche Maßnahmen zur Verkehrsberuhigung Maaßenstraße und Winterfeldtstraße</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließ</field>
+<field name="word">weiter</field>
+<field name="word">mehrheit</field>
+<field name="word">empfiehlt</field>
+<field name="word">gefunden</field>
+<field name="word">verfolgt</field>
+  <field name="ausschuss">Verkehr</field>
+<field name="ausschuss">Stadtentwicklung</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung:
+ 
+Die
+ 
+Bezirksverordnetenversammlung
+ 
+mö
+ge
+ 
+beschließ
+en:
+ 
+Der Antrag wird nicht weiter verfolgt, da er keine Mehrheit gefunden hat.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4076&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">198</field>  
+  <field name="parteien">1</field>   
+</doc></add>

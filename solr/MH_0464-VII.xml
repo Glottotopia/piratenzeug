@@ -1,0 +1,37 @@
+<add><doc>
+  <field name="id">MH_0464/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Personelle Stärkung der Bauleitung zur Reduktion der Honorarkosten</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">bauleitung</field>
+<field name="word">mitarbeiterinnen</field>
+<field name="word">externen</field>
+<field name="word">reduzieren</field>
+<field name="word">mitarbeiter</field>
+<field name="word">beschließen</field>
+<field name="word">neue</field>
+<field name="word">dafür</field>
+<field name="word">beauftragung</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">eingestellt</field>
+<field name="word">somit</field>
+<field name="word">gegenüber</field>
+<field name="word">verringern</field>
+<field name="word">anfallenden</field>
+<field name="word">bereich</field>
+<field name="word">grad</field>
+<field name="word">möge</field>
+<field name="word">honorarkosten</field>
+<field name="word">empfohlen</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Dem Bezirksamt wird empfohlen, sich gegenüber der Senatsverwaltung dafür einzusetzen, dass mehr bzw. neue Mitarbeiterinnen und Mitarbeiter im Bereich der Bauleitung eingestellt werden, um den Grad der externen Beauftragung zu verringern und somit die dafür anfallenden Honorarkosten zu reduzieren.</field> 
+  <field name="status">abgelehnt</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4745&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">325</field>  
+  <field name="parteien">1</field>   
+</doc></add>

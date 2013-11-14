@@ -1,0 +1,45 @@
+<add><doc>
+  <field name="id">TS_0787/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Notdurft am Innsbrucker Platz</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">dort</field>
+<field name="word">ggfls</field>
+<field name="word">wegen</field>
+<field name="word">dixie</field>
+<field name="word">statt</field>
+<field name="word">toilettenkabinen</field>
+<field name="word">beschließen</field>
+<field name="word">geben</field>
+<field name="word">wolle</field>
+<field name="word">mobile</field>
+<field name="word">aufzustellen</field>
+<field name="word">beschwerden</field>
+<field name="word">grünanlagen</field>
+<field name="word">anwohnerschaft</field>
+<field name="word">begründung</field>
+<field name="word">notdurft</field>
+<field name="word">kurzfristig</field>
+<field name="word">innsbrucker</field>
+<field name="word">platz</field>
+<field name="word">mündlich</field>
+  
+  <field name="text_de"> 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Das Bezirksamt wird ersucht:
+ 
+Kurzfristig mobile Toilettenkabinen („Dixie-Klo“) am Innsbrucker Platz aufzustellen, um den Beschwerden aus der Anwohnerschaft wegen Notdurft in und um die Grünanlagen dort statt zu geben.
+ 
+ 
+Begründung:
+ggfls mündlich
+ </field> 
+  <field name="status">None</field>
+  <field name="location">52.4789779,13.3436599052601</field>
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4583&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">309</field>  
+  <field name="parteien">1</field>   
+</doc></add>

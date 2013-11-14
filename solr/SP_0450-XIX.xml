@@ -1,0 +1,26 @@
+<add><doc>
+  <field name="id">SP_0450/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Mehr Sicherheit für Kita- und Schulkinder in Staaken</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">CDU</field>
+<field name="partei">SPD</field>
+<field name="partei">Gruene</field> 
+  <field name="word">kenntnisnahme</field>
+<field name="word">anzusehen</field>
+<field name="word">zwischenbericht</field>
+<field name="word">vorlage</field>
+  
+  <field name="text_de">2
+ 
+Die Vorlage - zur Kenntnisnahme - vom 
+10.01.2013
+ ist als Zwischenbericht anzusehen.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7054&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">89</field>  
+  <field name="parteien">4</field>   
+</doc></add>

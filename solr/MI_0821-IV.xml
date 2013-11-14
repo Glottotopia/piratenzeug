@@ -1,0 +1,70 @@
+<add><doc>
+  <field name="id">MI_0821/IV</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">Kein Geld für Blumen</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">eingegangen</field>
+<field name="word">erschienen</field>
+<field name="word">frage</field>
+<field name="word">blumen</field>
+<field name="word">desweiteren</field>
+<field name="word">jahren</field>
+<field name="word">aktion</field>
+<field name="word">einstellen</field>
+<field name="word">über</field>
+<field name="word">erläutert</field>
+<field name="word">geldern</field>
+<field name="word">unternehmen</field>
+<field name="word">gestartet</field>
+<field name="word">weder</field>
+<field name="word">diesen</field>
+<field name="word">können</field>
+<field name="word">also</field>
+<field name="word">erscheinen</field>
+<field name="word">bereitstellten</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">stadträte</field>
+<field name="word">spendenaufruf</field>
+<field name="word">gepflanzt</field>
+<field name="word">viele</field>
+<field name="word">artikel</field>
+<field name="word">warum</field>
+<field name="word">grund</field>
+<field name="word">stadtrat</field>
+<field name="word">letzten</field>
+<field name="word">fototerminen</field>
+<field name="word">spenden</field>
+<field name="word">herr</field>
+<field name="word">spallek</field>
+<field name="word">medien</field>
+<field name="word">kein</field>
+<field name="word">geld</field>
+<field name="word">woche</field>
+  
+  <field name="text_de">Ich frage das Bezirksamt:
+ 
+Im Artikel "Kein Geld für Blumen" aus der Berliner Woche vom 
+07.02.2013
+ wird erläutert, dass die Unternehmen, die in den letzten Jahren im Rahmen einer PR-Aktion Blumen für den Bezirk bereitstellten, diese Aktion einstellen.
+Grund sei u.a. dass weder Bezirksbürgermeister noch Stadträte zu den PR-Fototerminen erschienen sind. Desweiteren soll Herr Stadtrat Spallek zum 
+15.02.2013
+ einen Spendenaufruf gestartet haben.
+Ich frage den Bezirksbürgermeister, sowie die Stadträte:
+ 
+1. Warum sind Sie nicht zu den PR-Fototerminen erschienen?
+ 
+2
+. Wo (also über welche Medien) wird der Spendenaufruf im Bezirk erscheinen?
+ 
+3
+. Sind bereits Spenden eingegangen und wie viele Blumen können mit diesen Geldern gepflanzt werden?
+ 
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5454&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">755</field>  
+  <field name="parteien">1</field>   
+</doc></add>

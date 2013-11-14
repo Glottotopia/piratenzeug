@@ -1,0 +1,55 @@
+<add><doc>
+  <field name="id">MI_1078/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Optimierung des Verkehrs auf der Swinemünder Brücke</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gefährliche</field>
+<field name="word">zudem</field>
+<field name="word">beschließen</field>
+<field name="word">linie</field>
+<field name="word">getrennt</field>
+<field name="word">ausweichen</field>
+<field name="word">ereignen</field>
+<field name="word">fahrbahn</field>
+<field name="word">eingeführt</field>
+<field name="word">situationen</field>
+<field name="word">möge</field>
+<field name="word">swinemünder</field>
+<field name="word">müssen</field>
+<field name="word">radweg</field>
+<field name="word">begründung</field>
+<field name="word">dessen</field>
+<field name="word">einander</field>
+<field name="word">regelmäßig</field>
+<field name="word">realisierung</field>
+<field name="word">brücke</field>
+<field name="word">parkverbot</field>
+<field name="word">verlegt</field>
+<field name="word">fußgänger</field>
+<field name="word">fußweg</field>
+<field name="word">fahrradweg</field>
+  
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die BVV möge beschließen, dass der Fahrradweg auf der
+ 
+Swinemünder Brücke auf die Fahrbahn verlegt wird. Zur
+ 
+Realisierung dessen soll zudem ein Parkverbot auf der
+ 
+Brücke eingeführt werden.
+Begründung:
+Fußgänger- und Radweg sind auf der Swinemünder Brücke
+ 
+nur durch eine Linie getrennt. Der Fußweg ist so eng, dass
+ 
+Fußgänger einander auf den Radweg ausweichen müssen.
+So ereignen sich regelmäßig gefährliche Situationen.</field> 
+  <field name="status">None</field>
+  <field name="location">52.5495674,13.3921319</field>
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5710&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">482</field>  
+  <field name="parteien">1</field>   
+</doc></add>

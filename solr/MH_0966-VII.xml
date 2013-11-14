@@ -1,0 +1,42 @@
+<add><doc>
+  <field name="id">MH_0966/VII</field>  
+  <field name="typ">Mitteilung</field>  
+  <field name="titel">Transparente und maschinenlesbare Haushaltsunterlagen veröffentlichen</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">möglichkeit</field>
+<field name="word">wochen</field>
+<field name="word">beschließen</field>
+<field name="word">text</field>
+<field name="word">veröffentlichen</field>
+<field name="word">gestellt</field>
+<field name="word">seiner</field>
+<field name="word">dateien</field>
+<field name="word">vorlage</field>
+<field name="word">erfolgen</field>
+<field name="word">veröffentlichung</field>
+<field name="word">tabellendokument</field>
+<field name="word">möge</field>
+<field name="word">zeitpunkt</field>
+<field name="word">acht</field>
+<field name="word">haushaltsausschuss</field>
+<field name="word">spätestens</field>
+<field name="word">beschlussfassung</field>
+<field name="word">mindestens</field>
+<field name="word">exportierbares</field>
+<field name="word">maschinenlesbar</field>
+<field name="word">haushaltsplanentwurf</field>
+<field name="word">verfügung</field>
+<field name="word">beschlussvorlage</field>
+<field name="word">eckwertebeschluss</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht, den "Eckwertebeschluss" sowie den "Haushaltsplanentwurf zur Beschlussvorlage der BVV" nach seiner Beschlussfassung maschinenlesbar (d.h. als Text oder als Text exportierbares Tabellendokument) zu veröffentlichen. Die Dateien sollen spätestens zum Zeitpunkt der Vorlage in der Bezirksverordnetenversammlung oder im Haushaltsausschuss zur Verfügung gestellt werden. Die Veröffentlichung soll nach Möglichkeit mindestens acht Wochen vor Beschlussfassung der BVV erfolgen.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5262&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">525</field>  
+  <field name="parteien">1</field>   
+</doc></add>

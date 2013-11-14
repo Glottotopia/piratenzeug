@@ -1,0 +1,70 @@
+<add><doc>
+  <field name="id">CW_0314/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Kostenausweisung bei Anträgen und Anfragen</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">CDU</field> 
+  <field name="word">entstandenen</field>
+<field name="word">ablehnung</field>
+<field name="word">nftig</field>
+<field name="word">beschlie</field>
+<field name="word">allen</field>
+<field name="word">vorlagen</field>
+<field name="word">ckler</field>
+<field name="word">nachzuweisen</field>
+<field name="word">bearbeitungszeit</field>
+<field name="word">inclusive</field>
+<field name="word">zwischenberichten</field>
+<field name="word">aufwendungen</field>
+<field name="word">judith</field>
+<field name="word">kenntnisnahme</field>
+<field name="word">auszuweisen</field>
+<field name="word">ursprungstext</field>
+<field name="word">schlussberichten</field>
+<field name="word">umsetzung</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">gelten</field>
+<field name="word">ausgaben</field>
+<field name="word">gleiches</field>
+<field name="word">haushaltspositionen</field>
+<field name="word">tigten</field>
+  <field name="ausschuss">Haushalt</field>
+  <field name="text_de"> 
+Die 
+BVV 
+beschlie
+ß
+t
+ die Ablehnung.
+ 
+ 
+Judith St
+ü
+ckler
+Bezirksverordnetenvorsteherin
+ 
+ 
+Ursprungstext:
+Das Bezirksamt wird ersucht, k
+ü
+nftig bei allen Schlussberichten die f
+ü
+r die Umsetzung entstandenen Aufwendungen mit Haushaltspositionen inclusive der ben
+ö
+tigten Bearbeitungszeit auszuweisen, bei Zwischenberichten sind die bereits get
+ä
+tigten Ausgaben nachzuweisen. Gleiches soll f
+ü
+r Vorlagen zur Kenntnisnahme gelten.
+ 
+ 
+ 
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4578&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">446</field>  
+  <field name="parteien">2</field>   
+</doc></add>

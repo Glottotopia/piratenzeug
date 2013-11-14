@@ -1,0 +1,653 @@
+<add><doc>
+  <field name="id">FK_DS/0308/IV</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">Filmprojekt im Statthaus Böcklerpark</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">absagen</field>
+<field name="word">außengeländes</field>
+<field name="word">ganz</field>
+<field name="word">gesehen</field>
+<field name="word">würde</field>
+<field name="word">erfahren</field>
+<field name="word">selbst</field>
+<field name="word">nutzungsvertrag</field>
+<field name="word">müsste</field>
+<field name="word">meisten</field>
+<field name="word">waren</field>
+<field name="word">küche</field>
+<field name="word">entsprechend</field>
+<field name="word">aufrechtzuerhalten</field>
+<field name="word">mache</field>
+<field name="word">renovieren</field>
+<field name="word">übrigens</field>
+<field name="word">über</field>
+<field name="word">eingeschätzt</field>
+<field name="word">schritte</field>
+<field name="word">neue</field>
+<field name="word">ihnen</field>
+<field name="word">richtig</field>
+<field name="word">gerade</field>
+<field name="word">jahresende</field>
+<field name="word">doku</field>
+<field name="word">veranlassen</field>
+<field name="word">bezirken</field>
+<field name="word">selber</field>
+<field name="word">beliebt</field>
+<field name="word">worden</field>
+<field name="word">zeit</field>
+<field name="word">schüler</field>
+<field name="word">becker</field>
+<field name="word">fällt</field>
+<field name="word">verwaltung</field>
+<field name="word">trifft</field>
+<field name="word">losgerannt</field>
+<field name="word">anzurechnen</field>
+<field name="word">ausschussarbeit</field>
+<field name="word">kücheneinrichtung</field>
+<field name="word">heißt</field>
+<field name="word">will</field>
+<field name="word">firma</field>
+<field name="word">kreuzberger</field>
+<field name="word">fall</field>
+<field name="word">scripted</field>
+<field name="word">dort</field>
+<field name="word">bestehenden</field>
+<field name="word">bezahlen</field>
+<field name="word">lange</field>
+<field name="word">vorsichtig</field>
+<field name="word">vorher</field>
+<field name="word">vertrages</field>
+<field name="word">herr</field>
+<field name="word">vereinbart</field>
+<field name="word">ergeben</field>
+<field name="word">gelaufen</field>
+<field name="word">kids</field>
+<field name="word">sender</field>
+<field name="word">leistungsvertrag</field>
+<field name="word">selbsthilfe</field>
+<field name="word">akzeptieren</field>
+<field name="word">fragen</field>
+<field name="word">stelle</field>
+<field name="word">angemessener</field>
+<field name="word">müssten</field>
+<field name="word">extra</field>
+<field name="word">außengelände</field>
+<field name="word">angucken</field>
+<field name="word">deswegen</field>
+<field name="word">freitags</field>
+<field name="word">nachfrage</field>
+<field name="word">insoweit</field>
+<field name="word">mitglied</field>
+<field name="word">gecastete</field>
+<field name="word">regel</field>
+<field name="word">förderlich</field>
+<field name="word">hinterhältig</field>
+<field name="word">sondern</field>
+<field name="word">versucht</field>
+<field name="word">bewusst</field>
+<field name="word">wart</field>
+<field name="word">beabsichtigt</field>
+<field name="word">bestandteil</field>
+<field name="word">hinzuwirken</field>
+<field name="word">umfang</field>
+<field name="word">abschluss</field>
+<field name="word">einschränkungen</field>
+<field name="word">beantwortet</field>
+<field name="word">finanzielle</field>
+<field name="word">jugendclubs</field>
+<field name="word">hochkrempeln</field>
+<field name="word">dritte</field>
+<field name="word">kritisieren</field>
+<field name="word">boris</field>
+<field name="word">sanierungsarbeiten</field>
+<field name="word">erhielt</field>
+<field name="word">ablehnung</field>
+<field name="word">kennt</field>
+<field name="word">wann</field>
+<field name="word">unterhalten</field>
+<field name="word">geben</field>
+<field name="word">wirklich</field>
+<field name="word">zurückzuholen</field>
+<field name="word">filmgesellschaft</field>
+<field name="word">mitglieder</field>
+<field name="word">anderes</field>
+<field name="word">kritisch</field>
+<field name="word">zuständigen</field>
+<field name="word">können</field>
+<field name="word">schaut</field>
+<field name="word">vermietet</field>
+<field name="word">leistungsminderung</field>
+<field name="word">okay</field>
+<field name="word">deutlich</field>
+<field name="word">öffnungszeiten</field>
+<field name="word">drehs</field>
+<field name="word">produktionsgesellschaft</field>
+<field name="word">häusern</field>
+<field name="word">frau</field>
+<field name="word">tagen</field>
+<field name="word">schlimm</field>
+<field name="word">trägervertrag</field>
+<field name="word">teile</field>
+<field name="word">raumes</field>
+<field name="word">einzuleiten</field>
+<field name="word">betrügen</field>
+<field name="word">veranstaltungen</field>
+<field name="word">zukünftig</field>
+<field name="word">immer</field>
+<field name="word">orten</field>
+<field name="word">anträge</field>
+<field name="word">mitnehmen</field>
+<field name="word">menge</field>
+<field name="word">hoch</field>
+<field name="word">vertragliche</field>
+<field name="word">kritische</field>
+<field name="word">politische</field>
+<field name="word">drüber</field>
+<field name="word">friedrichshain</field>
+<field name="word">müssen</field>
+<field name="word">trägers</field>
+<field name="word">produktion</field>
+<field name="word">jugendarbeit</field>
+<field name="word">doch</field>
+<field name="word">trägern</field>
+<field name="word">freizeitangebote</field>
+<field name="word">jugendgangs</field>
+<field name="word">zustand</field>
+<field name="word">statthauses</field>
+<field name="word">spielen</field>
+<field name="word">vorgestellt</field>
+<field name="word">finanzierung</field>
+<field name="word">träger</field>
+<field name="word">gedenkt</field>
+<field name="word">gegeben</field>
+<field name="word">verkauft</field>
+<field name="word">solchen</field>
+<field name="word">warum</field>
+<field name="word">vertragstext</field>
+<field name="word">nutzung</field>
+<field name="word">bescheißen</field>
+<field name="word">fiktive</field>
+<field name="word">diesen</field>
+<field name="word">werde</field>
+<field name="word">gedeckt</field>
+<field name="word">absage</field>
+<field name="word">dreharbeiten</field>
+<field name="word">punkt</field>
+<field name="word">zusammenarbeit</field>
+<field name="word">unbedingt</field>
+<field name="word">weniger</field>
+<field name="word">rein</field>
+<field name="word">moment</field>
+<field name="word">gegangen</field>
+<field name="word">abgeschlossen</field>
+<field name="word">bekommen</field>
+<field name="word">beeinträchtigt</field>
+<field name="word">nachhinein</field>
+<field name="word">dingen</field>
+<field name="word">anwendung</field>
+<field name="word">besondere</field>
+<field name="word">voraussichtlich</field>
+<field name="word">gesagt</field>
+<field name="word">hätte</field>
+<field name="word">aufwendige</field>
+<field name="word">schafft</field>
+<field name="word">einfangen</field>
+<field name="word">kinder</field>
+<field name="word">vertrag</field>
+<field name="word">vermietenden</field>
+<field name="word">nehmen</field>
+<field name="word">ganze</field>
+<field name="word">versteckt</field>
+<field name="word">konventionellen</field>
+<field name="word">sachen</field>
+<field name="word">hätten</field>
+<field name="word">böcklerpark</field>
+<field name="word">darüber</field>
+<field name="word">schon</field>
+<field name="word">sicherlich</field>
+<field name="word">filmfirma</field>
+<field name="word">filmprojekt</field>
+<field name="word">vielen</field>
+<field name="word">seitenlange</field>
+<field name="word">ihren</field>
+<field name="word">jugendliche</field>
+<field name="word">möglichkeiten</field>
+<field name="word">dann</field>
+<field name="word">räumen</field>
+<field name="word">stadträtin</field>
+<field name="word">geht</field>
+<field name="word">vieles</field>
+<field name="word">woche</field>
+<field name="word">abgelehnt</field>
+<field name="word">alles</field>
+<field name="word">verabredet</field>
+<field name="word">steht</field>
+<field name="word">entgelte</field>
+<field name="word">seiner</field>
+<field name="word">gewählt</field>
+<field name="word">form</field>
+<field name="word">bürgerdeputierten</field>
+<field name="word">kollegen</field>
+<field name="word">euch</field>
+<field name="word">reale</field>
+<field name="word">während</field>
+<field name="word">später</field>
+<field name="word">überlassungsentgelt</field>
+<field name="word">also</field>
+<field name="word">einbrüche</field>
+<field name="word">herrn</field>
+<field name="word">soap</field>
+<field name="word">negativen</field>
+<field name="word">haltung</field>
+<field name="word">soweit</field>
+<field name="word">offenen</field>
+<field name="word">vorleistung</field>
+<field name="word">vereinbarung</field>
+<field name="word">hochmotiviert</field>
+<field name="word">gemeinsame</field>
+<field name="word">nämlich</field>
+<field name="word">angeblich</field>
+<field name="word">verlässt</field>
+<field name="word">schule</field>
+<field name="word">kleine</field>
+<field name="word">respekt</field>
+<field name="word">drive</field>
+<field name="word">realen</field>
+<field name="word">hütte</field>
+<field name="word">denn</field>
+<field name="word">politischen</field>
+<field name="word">montags</field>
+<field name="word">unseres</field>
+<field name="word">unserer</field>
+<field name="word">tatsächlich</field>
+<field name="word">sage</field>
+<field name="word">ansehen</field>
+<field name="word">aufklären</field>
+<field name="word">aktion</field>
+<field name="word">überlassung</field>
+<field name="word">weitere</field>
+<field name="word">absolut</field>
+<field name="word">diskutiert</field>
+<field name="word">motiviert</field>
+<field name="word">nutzungsverträge</field>
+<field name="word">überlassenen</field>
+<field name="word">neubeschaffungen</field>
+<field name="word">daher</field>
+<field name="word">thema</field>
+<field name="word">sehen</field>
+<field name="word">hatte</field>
+<field name="word">genutzt</field>
+<field name="word">fernsehproduktion</field>
+<field name="word">statthaus</field>
+<field name="word">tatbestände</field>
+<field name="word">viel</field>
+<field name="word">filmaufnahmen</field>
+<field name="word">juristischer</field>
+<field name="word">jahrzehnten</field>
+<field name="word">schauspieler</field>
+<field name="word">vollmert</field>
+<field name="word">nichts</field>
+<field name="word">vier</field>
+<field name="word">möglichkeit</field>
+<field name="word">ausbauen</field>
+<field name="word">geschehnisse</field>
+<field name="word">zeitraum</field>
+<field name="word">jahres</field>
+<field name="word">hintergedanken</field>
+<field name="word">schreiben</field>
+<field name="word">einfach</field>
+<field name="word">kenntnis</field>
+<field name="word">jeden</field>
+<field name="word">sehr</field>
+<field name="word">berechtigt</field>
+<field name="word">ärmel</field>
+<field name="word">informiert</field>
+<field name="word">bekannt</field>
+<field name="word">stall</field>
+<field name="word">sonst</field>
+<field name="word">sehe</field>
+<field name="word">kreuzberg</field>
+<field name="word">schülerinnen</field>
+<field name="word">hohenschönhausen</field>
+<field name="word">geregelt</field>
+<field name="word">august</field>
+<field name="word">ungewöhnlich</field>
+<field name="word">gefilmt</field>
+<field name="word">ende</field>
+<field name="word">kommunikation</field>
+<field name="word">prügeln</field>
+<field name="word">verzichtet</field>
+<field name="word">handhaben</field>
+<field name="word">darin</field>
+<field name="word">sagte</field>
+<field name="word">ausstrahlung</field>
+<field name="word">wäre</field>
+<field name="word">ausgeführt</field>
+<field name="word">beinhaltet</field>
+<field name="word">verzichten</field>
+<field name="word">dadurch</field>
+<field name="word">einblick</field>
+<field name="word">zuschauer</field>
+<field name="word">stattfindende</field>
+<field name="word">vorbeizuführen</field>
+<field name="word">damals</field>
+<field name="word">produktionsergebnis</field>
+<field name="word">gerne</field>
+<field name="word">einschließlich</field>
+<field name="word">beschafft</field>
+<field name="word">weder</field>
+<field name="word">betrifft</field>
+<field name="word">arbeit</field>
+<field name="word">beispiel</field>
+<field name="word">beantwortung</field>
+<field name="word">formen</field>
+<field name="word">besonderer</field>
+<field name="word">echte</field>
+<field name="word">besonderen</field>
+<field name="word">prüfungen</field>
+<field name="word">beanstandungen</field>
+<field name="word">zuständige</field>
+<field name="word">erst</field>
+<field name="word">letztendlich</field>
+<field name="word">schlimmen</field>
+<field name="word">projekt</field>
+<field name="word">glaube</field>
+<field name="word">musikalische</field>
+<field name="word">situation</field>
+<field name="word">unterschrieben</field>
+<field name="word">falsche</field>
+<field name="word">finde</field>
+<field name="word">wollen</field>
+<field name="word">rauskommt</field>
+<field name="word">ansonsten</field>
+<field name="word">veranstaltung</field>
+<field name="word">herrmann</field>
+<field name="word">unterstellung</field>
+<field name="word">sauer</field>
+<field name="word">nummer</field>
+<field name="word">strengere</field>
+<field name="word">renoviert</field>
+<field name="word">film</field>
+<field name="word">ehrenamtlichen</field>
+<field name="word">anschauen</field>
+<field name="word">benutzten</field>
+<field name="word">vertragsabschluss</field>
+<field name="word">verkaufen</field>
+<field name="word">zwar</field>
+<field name="word">strenger</field>
+<field name="word">jetzt</field>
+<field name="word">rechtlich</field>
+<field name="word">nachwuchsschauspielern</field>
+<field name="word">erhebliche</field>
+<field name="word">laiendarsteller</field>
+<field name="word">unterstellungen</field>
+<field name="word">normale</field>
+<field name="word">berichtet</field>
+<field name="word">dürfen</field>
+<field name="word">vereinbarten</field>
+<field name="word">begegne</field>
+<field name="word">gefragt</field>
+<field name="word">drin</field>
+<field name="word">machen</field>
+<field name="word">baulichen</field>
+<field name="word">zweiten</field>
+<field name="word">andere</field>
+<field name="word">konkret</field>
+<field name="word">lasst</field>
+<field name="word">nochmal</field>
+<field name="word">jugendamt</field>
+<field name="word">nachfragen</field>
+<field name="word">verwirklicht</field>
+<field name="word">räumlichkeiten</field>
+<field name="word">jemanden</field>
+<field name="word">frage</field>
+<field name="word">danke</field>
+<field name="word">aktiv</field>
+<field name="word">agiert</field>
+<field name="word">weise</field>
+<field name="word">wissen</field>
+<field name="word">vertraglich</field>
+<field name="word">beratung</field>
+<field name="word">drittmittel</field>
+<field name="word">haus</field>
+<field name="word">verlängert</field>
+<field name="word">eigenverantwortlich</field>
+<field name="word">lassen</field>
+<field name="word">passiert</field>
+<field name="word">darf</field>
+<field name="word">weiß</field>
+<field name="word">besuchen</field>
+<field name="word">gebäude</field>
+<field name="word">verstehe</field>
+<field name="word">sogenannte</field>
+<field name="word">sagen</field>
+<field name="word">gerechtfertigt</field>
+<field name="word">bezirksamtes</field>
+<field name="word">leute</field>
+<field name="word">tasche</field>
+<field name="word">handelt</field>
+<field name="word">auskunft</field>
+<field name="word">wünschen</field>
+<field name="word">bisschen</field>
+<field name="word">privatsender</field>
+<field name="word">wunderbarer</field>
+<field name="word">kleinem</field>
+<field name="word">jeweiligen</field>
+<field name="word">meiner</field>
+<field name="word">auswirken</field>
+<field name="word">außergewöhnlichen</field>
+<field name="word">mehrere</field>
+<field name="word">vielleicht</field>
+<field name="word">zuwachs</field>
+<field name="word">arbeiten</field>
+<field name="word">habt</field>
+<field name="word">korrekt</field>
+<field name="word">weil</field>
+<field name="word">gefunden</field>
+<field name="word">raum</field>
+<field name="word">habe</field>
+<field name="word">vermietung</field>
+<field name="word">darunter</field>
+<field name="word">bezirksverordneten</field>
+<field name="word">darauf</field>
+<field name="word">anfrage</field>
+<field name="word">stecken</field>
+<field name="word">allerdings</field>
+<field name="word">imago</field>
+<field name="word">aber</field>
+<field name="word">diejenigen</field>
+<field name="word">vorhaben</field>
+<field name="word">bewerten</field>
+<field name="word">pferde</field>
+<field name="word">dachbrand</field>
+<field name="word">entrichtet</field>
+<field name="word">sinne</field>
+<field name="word">bitte</field>
+<field name="word">welcher</field>
+<field name="word">aufgrund</field>
+<field name="word">stark</field>
+<field name="word">mieteinnahmen</field>
+<field name="word">kräften</field>
+<field name="word">filmproduktionsgesellschaft</field>
+<field name="word">mehrfach</field>
+<field name="word">anfangs</field>
+<field name="word">jugendclub</field>
+<field name="word">längerer</field>
+<field name="word">renovierungs</field>
+<field name="word">mich</field>
+<field name="word">beleuchtungsanlage</field>
+<field name="word">ausrüstungsgegenständen</field>
+<field name="word">seit</field>
+<field name="word">sozusagen</field>
+<field name="word">dampf</field>
+<field name="word">gehört</field>
+<field name="word">anlass</field>
+<field name="word">alltag</field>
+<field name="word">renovierung</field>
+<field name="word">haushalt</field>
+<field name="word">gemacht</field>
+<field name="word">gelände</field>
+<field name="word">rausnehmen</field>
+<field name="word">entstehende</field>
+<field name="word">davon</field>
+<field name="word">angefragt</field>
+<field name="word">aussieht</field>
+<field name="word">innerhalb</field>
+<field name="word">maßnahmen</field>
+<field name="word">garten</field>
+<field name="word">hochanzurechnen</field>
+<field name="word">freuen</field>
+<field name="word">eigentlich</field>
+<field name="word">verstehen</field>
+<field name="word">informieren</field>
+<field name="word">wohl</field>
+<field name="word">gesetzt</field>
+<field name="word">etwas</field>
+<field name="word">jugendlichen</field>
+<field name="word">marode</field>
+<field name="word">eltern</field>
+<field name="word">leisten</field>
+<field name="word">tricky</field>
+<field name="word">meinerseits</field>
+<field name="word">abzugeben</field>
+<field name="word">amused</field>
+<field name="word">vertragsverhältnis</field>
+<field name="word">involviert</field>
+<field name="word">abschlussarbeiten</field>
+<field name="word">möglichen</field>
+<field name="word">leidet</field>
+<field name="word">gedreht</field>
+  
+  <field name="text_de">Ich frage das Bezirksamt:
+ 
+1
+                     
+Trifft es zu, dass der Träger Kreuzberger Musikalische Aktion (KMA) einen Vertrag mit der 
+              
+Imago TV abgeschlossen hat, der eine Produktion für den Privatsender rtl2 in den 
+              
+Räumlichkeiten und auf dem Gelände des Statthaus Böcklerpark beinhaltet, bei der
+              
+gecastete Schauspieler und Laiendarsteller angeblich echte Mitglieder von Kreuzberger
+              
+ Jugendgangs spielen (sogenannte scripted Doku-Soap) und dass Imago TV in anderen 
+              
+Berliner Bezirken für dieses Projekt angefragt hatte und Absagen erhielt, weil dieses 
+              
+Vorhaben als nicht förderlich für das Ansehen des jeweiligen Bezirks und seiner Jugendarbeit 
+              
+eingeschätzt wurde?
+ 
+2
+                     
+Trifft es zu, dass sich durch den Umfang und Zeitraum für diese Fernsehproduktion erhebliche 
+              
+Einschränkungen für die sonst möglichen Freizeitangebote und Formen der offenen 
+              
+Jugendarbeit im Statthaus Böcklerpark ergeben, die sich als Leistungsminderung auf den 
+              
+Leistungsvertrag und die Finanzierung des Trägers auswirken können?
+ 
+3
+                     
+Trifft es zu, dass weder die zuständigen Bezirksverordneten und Bürgerdeputierten im 
+              
+Rahmen ihrer Ausschussarbeit noch das zuständige Mitglied des Bezirksamtes vor dem 
+              
+Vertragsabschluss zwischen KMA und Imago TV von dem Projekt und dem Vertragstext in 
+              
+Kenntnis gesetzt wurden?
+ 
+Nachfragen:
+ 
+1
+                     
+Gab es in der seit längerer Zeit bestehenden Zusammenarbeit mit der KMA im Bezirk 
+              
+Friedrichshain-Kreuzberg Beanstandungen, die Anlass für strengere Prüfungen der KMA-
+              
+Projekt gegeben hätten?
+ 
+2
+                     
+Welche Schritte gedenkt das Bezirksamt einzuleiten, um bei der Imago TV darauf 
+              
+hinzuwirken, dass das Ansehen unseres Bezirk und seiner Jugendarbeit durch die Art und 
+              
+Weise dieser Fernsehproduktion nicht beeinträchtigt wird, einschließlich der Anwendung 
+              
+juristischer Maßnahmen, die den Sender zu veranlassen, während der Ausstrahlung mehrfach 
+              
+und in angemessener Form die Zuschauer zu informieren, dass es sich bei dieser Produktion 
+              
+nicht um reale, sondern um fiktive Geschehnisse handelt?
+ 
+ 
+Gemeinsame Beratung:
+DS/
+0308
+/IV
+ 
+              
+Filmprojekt im Statthaus Böcklerpark
+DS/
+0313
+/IV
+              
+Ton- und Filmaufnahmen im Statthaus Böcklerpark
+ 
+Beantwortung:  Frau Herrmann
+ 
+Zu Frage 1:
+  Ja, es trifft zu, dass die KMA mit der Imago TV eine vertragliche Vereinbarung zur Nutzung eines Raumes und des Außengeländes bis zum 15. August 2012 an vier Tagen die Woche bis zu 16.00 Uhr abgeschlossen hat. Bestandteil der Vereinbarung ist, dass die Firma eine neue Küche für das Statthaus beschafft und den benutzten einen Raum renoviert verlässt. Innerhalb des Drehs ist das Thema ein Jugendclub, welcher mit Nachwuchsschauspielern verwirklicht wird. Kinder und Jugendliche aus dem Statthaus haben Einblick in die Arbeit, werden aber nicht gefilmt. Gedreht wird mit kleinem Set, also zum Beispiel keine aufwendige Beleuchtungsanlage etc. Imago ist eine kleine Produktionsgesellschaft, die versucht, ihre Produktion später zu verkaufen. Nach Auskunft der KMA ist das Produktionsergebnis noch nicht an rtl2 oder einen anderen Sender verkauft worden. Die Produktion hat nichts mit der KMA oder Jugendlichen des Statthauses Böcklerpark zu tun. Kinder und Jugendliche, die das Statthaus besuchen, dürfen dort nicht gefilmt werden. Das ist vertraglich geregelt. Der entstehende Film hat auch nichts mit der realen KMA oder mit dem realen Statthaus zu tun. 
+Der Abschluss des Vertrages mit Imago TV durch die KMA wurde sehr stark dadurch motiviert, für das Statthaus Böcklerpark eine neue Küche zu bekommen bzw. finanzielle Möglichkeiten für weitere Neubeschaffungen von Ausrüstungsgegenständen und andere zu haben. 
+Von der Ablehnung bzw. Absage aus anderen Bezirken ist uns nichts bekannt, ist auch der KMA nichts bekannt. Allerdings hat Imago TV berichtet, dass sie von Hohenschönhausen angefragt worden sind, ob sie es dort machen wollen und das haben sie wohl abgelehnt. 
+So, Ihr wart ja da. Das heißt, Ihr habt gesehen, wie die Hütte aussieht. Okay. 
+ 
+Zu Frage 2: 
+Es ist der KMA hoch anzurechnen, das will ich an dieser Stelle sehr deutlich sagen, dass sie es tatsächlich schafft, unter dem baulichen Zustand, die das Haus hat, die vereinbarten Öffnungszeiten aufrechtzuerhalten. Die Kinder- und Jugendarbeit leidet darunter gar nicht, weil das, was vereinbart worden ist, tatsächlich passiert. Die Öffnungszeiten sind montags bis freitags von 13.00 Uhr bis 20.00 Uhr bzw. bis 21.00 Uhr. 
+ 
+ 
+Zu Frage 3:
+ Das, was verabredet worden ist passiert. Allerdings muss man auch sehr deutlich sagen und deswegen sage ich auch hochanzurechnen, nicht nur, dass es die konventionellen Renovierungs- und Sanierungsarbeiten gibt, das hat ja einen Dachbrand gegeben, es hat mehrere Einbrüche gegeben etc.. Das Haus ist an sich marode, sondern die KMA ist auch in Selbsthilfe aktiv. Das heißt also, sie renovieren und  na ja, renovieren muss man an der Stelle sagen, sie renovieren auch tatsächlich ganz viel mit ehrenamtlichen Kräften, was zu machen geht. Und deswegen sagte ich, es ist hoch anzurechnen letztendlich, dass das da auch passiert. So, also Einschränkungen, was den Umfang etc. betrifft, gibt es nicht. 
+Was nicht passiert ist, und das ist der Punkt, der auch deutlich zu kritisieren ist, ich kann vieles verstehen letztendlich, dass man versucht über Drittmittel etc., das ist Alltag von Trägern, das wissen die meisten von Ihnen. Von dem, was wir ihnen geben, würde ein Träger nicht unbedingt das auch tatsächlich leisten können, was wir uns dann immer alle so wünschen. Was der Träger nicht gemacht hat, ist einen Antrag zu stellen, weil es ist eine besondere Situation. Das ist keine Frage, also das Nachfragen, da ist eine Filmfirma drin, was passiert da eigentlich, die finde ich absolut berechtigt und der Träger hätte sehr wohl nachfragen müssen und eigentlich einen Antrag stellen müssen, weil es fällt nicht unter die normale Vermietung von Räumen, die der Träger tatsächlich eigenverantwortlich machen kann. Also da muss die BVV nicht vorher gefragt werden. Das steht im Nutzungsvertrag drin. Das kann der Träger machen. Allerdings und ich glaube, als ich davon gehört habe, ihm Nachhinein war ich auch nicht amused, aber sie haben tatsächlich nur den Raum vermietet und das Außengelände. Das heißt, da wird nicht die KMA gefilmt, wie damals bei Boris Becker die Schule, da war ja sozusagen alles involviert. Schüler, Eltern und Schülerinnen und Schüler. Darüber haben wir ja hier auch diskutiert, sondern es ist tatsächlich so, dass das Haus bzw. ein Raum und der Garten genutzt wird für eine Produktion, die ansonsten mit KMA, den Kids und dem Statthaus nichts zu tun hat. Von daher ist es nicht zu akzeptieren, wie es gelaufen ist, aber ich finde, es ist nicht ganz so schlimm, wie ich mir das anfangs vorgestellt habe, nämlich dass da die schlimmen Kreuzberger Jugendclubs und nun schaut euch mal an, was am Ende dabei rauskommt. 
+Ich habe im Nachhinein auch selber erst davon erfahren, das werden wir aber mit der KMA auch aufklären. Die KMA ist ein Träger, das wissen wir auch von anderen Orten, die gerne die Ärmel hochkrempeln, sozusagen hochmotiviert sind und die Kommunikation dann mit der Verwaltung ist vielleicht nicht ganz so beliebt, aber ich glaube, das werden wir dann doch zukünftig ein bisschen strenger handhaben müssen.
+ 
+So, zur Anfrage von Herrn Vollmert, habe ich eigentlich mehr oder weniger schon beantwortet. 
+ 
+Herr Vollmert:
+ Bis wann sind Dreharbeiten?
+ 
+Zu Frage 2:
+ Die Dreharbeiten sind voraussichtlich 31. August 2012. Also es war 14. / 15. August 2012 und für so Abschlussarbeiten haben sie gebeten, noch mal wohl , also bis 31. August 2012. Soweit okay? Also 
+ 
+Herr Vollmert:
+ Frau Herrmann, wenn ich Sie richtig verstehe, ist das Bezirksamt vor Vertragsabschluss zwischen der KMA und der Filmproduktionsgesellschaft nicht informiert worden. Von daher frage ich mich, ob die KMA, weil die Überlassung von Gebäude als auch von Räumlichkeiten an Dritte, wie Sie ausgeführt haben, nicht durch den Leistungsvertrag gedeckt ist, frage ich mich, ob die KMA bewusst diesen Weg gewählt hat, keine Entgelte zu nehmen, sondern darauf zu verzichten und die Renovierung und die Kücheneinrichtung sich von der Filmgesellschaft bezahlen zu lassen?
+ 
+Zu Nachfrage 1:
+ Bin ich vielleicht die Falsche, die Sie da fragen?
+ 
+Herr Vollmert:
+ Bitte?
+ 
+Zu Nachfrage 1:
+ Müssten Sie vielleicht die KMA fragen. Ich wäre ein bisschen vorsichtig, mit solchen Unterstellungen. Das muss ich an der Stelle wirklich mal sagen. Also was hier einfach nicht gut gelaufen ist, sie hätten, weil es ein besonderer Fall ist, ansonsten muss man nicht für jeden zu vermietenden Raum, das geben Nutzungsverträge her, sozusagen seitenlange Anträge schreiben. So. 
+Ich bin als Stadträtin in der Regel bis auf den Moment, wo es politische Veranstaltungen sind, nicht involviert darin, ob Träger in ihren von uns überlassenen Häusern welche Veranstaltung sie da machen. Dann hätte ich glaube ich jeden Tag eine ganze Menge zu tun. Bei politischen Veranstaltungen ist es in der Tat was anderes. 
+In diesem Fall teile ich eine kritische Haltung insoweit, dass es schon eine etwas besondere Vermietung ist. Aber ob die KMA das jetzt hinterhältig und tricky extra gemacht hat, um das am Haushalt vorbeizuführen oder so, das werde ich hier an dieser Stelle nicht zu bewerten haben, sondern das müssen Sie diejenigen dann schon selber fragen. Und ich sage nochmal: Wenn Sie sich die Arbeit, und zwar die seit vielen Jahrzehnten stattfindende Arbeit der KMA bei uns im Bezirk anschauen, ich glaube, die haben , also ich begegne den Kollegen einfach mit Respekt, auch wenn ich das kritisch sehe, was sie da gerade sozusagen gemacht haben. Aber mit Unterstellung würde ich an der Stelle nicht arbeiten wollen.
+ 
+Herr Vollmert:
+ Frau Herrmann, das war meinerseits keine Unterstellung, sondern eine Frage, weil Sie selbst sagen, dieses Vertragsverhältnis ist ungewöhnlich. Deswegen frage ich jetzt doch noch mal konkret nach meiner zweiten Nachfrage: Beabsichtigt denn das Bezirksamt, wenn sie denn das Überlassungsentgelt rein rechtlich bekommen müsste, sich das von der KMA zurückzuholen oder zu sagen, aufgrund der besonderen Tatbestände dieses außergewöhnlichen Vertrages, verzichtet man darauf? Danke.
+ 
+Zu Nachfrage 2:
+  Wie mache ich das mit der Küche? Die darf die KMA übrigens nicht mitnehmen, wenn der Trägervertrag nicht , wenn der Vertrag nicht verlängert wird. Wenn der Vertrag , wir haben ein Ein-Jahres-Vertrag, wenn der Vertrag am Jahresende nicht verlängert wird, dann ist diese Küche ein wunderbarer Zuwachs im Statthaus Böcklerpark, wo wir uns dann alle drüber freuen und die KMA wird diese Küche nicht ausbauen dürfen. Also lasst mal die Pferde im Stall Leute. Lasst die Pferde im Stall. Ich glaube, da prügeln wir jetzt auf jemanden rum, wo es nicht gerechtfertigt ist. 
+Wir werden uns das angucken. Das, was abzugeben ist entsprechend unserer Nutzungsverträge, also Mieteinnahmen werden auch an uns entrichtet, werden müssen, ganz korrekt, aber bitte ein bisschen Dampf aus der Nummer rausnehmen ja, weil es ist wirklich ein Träger, der hier in vielen Dingen bereits seit vielen Jahrzehnten in Vorleistung gegangen ist. Ich werde einfach ein bisschen  ja. Wir können uns darüber unterhalten, was hat das Jugendamt gemacht. Wir können uns darüber unterhalten, warum ist die Stadträtin nicht darüber informiert worden etc., etc., über all die Sachen. Aber alles andere würde ich ganz gerne einfach ein bisschen den drive rausnehmen.
+Die wollen uns nicht bescheißen, die wollen uns nicht betrügen, die wollen sich nichts in die Tasche stecken, sondern die sind einfach losgerannt, haben eine Möglichkeit für Drittmittel gefunden, haben das gemacht, haben nicht lange mit uns diskutiert, haben einen Vertrag unterschrieben und wer den Kollegen von der KMA kennt, weiß, dass er so agiert und wir werden ihn sicherlich einfangen müssen, ist keine Frage so. Wie gesagt, also ich bin sauer auch darüber. Das geht so nicht. Aber dass da  ja, dass da sozusagen Hintergedanken im negativen Sinne versteckt waren, das würde ich so nicht sehen wollen. Gut.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5054&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">12487</field>  
+  <field name="parteien">1</field>   
+</doc></add>

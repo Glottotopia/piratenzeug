@@ -1,0 +1,55 @@
+<add><doc>
+  <field name="id">Pa_VII-0006</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Zeitweiliger Geschäftsordnungsausschuss</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">basis</field>
+<field name="word">erarbeitung</field>
+<field name="word">aufgabe</field>
+<field name="word">grünen</field>
+<field name="word">zeitweiliger</field>
+<field name="word">mitgliedern</field>
+<field name="word">linksfraktion</field>
+<field name="word">mitglieder</field>
+<field name="word">mitglied</field>
+<field name="word">wahlperiode</field>
+<field name="word">besteht</field>
+<field name="word">entwurfs</field>
+<field name="word">geschäftsordnungsausschuss</field>
+<field name="word">vorläufigen</field>
+<field name="word">ausschusses</field>
+<field name="word">piraten</field>
+<field name="word">bündnis</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">gebildet</field>
+<field name="word">bestehender</field>
+<field name="word">davon</field>
+  
+  <field name="text_de">Es wird ein aus 
+13
+ 
+Mitgliedern bestehender zeitweiliger Geschäftsordnungsausschuss gebildet. Davon sind 
+ 
+ 
+ 
+4 Mitglieder der Fraktion der SPD 
+3 Mitglieder der Fraktion Bündnis 90 / Die Grünen 
+3 Mitglieder der Linksfraktion
+2 Mitglieder der Fraktion der CDU 
+1 Mitglied der Piraten-Fraktion 
+ 
+ 
+Die Aufgabe des Ausschusses besteht in der Erarbeitung eines Entwurfs einer Geschäftsordnung für die VII. Wahlperiode auf der Basis der vorläufigen Geschäftsordnung. 
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3085&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">471</field>  
+  <field name="parteien">5</field>   
+</doc></add>

@@ -1,0 +1,49 @@
+<add><doc>
+  <field name="id">Pa_VII-0311</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bessere und transparentere Arbeitsbedingungen für Beschäftigte</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">nein</field>
+<field name="word">abschließend</field>
+<field name="word">beschließen</field>
+<field name="word">beraten</field>
+<field name="word">unternehmen</field>
+<field name="word">seiner</field>
+<field name="word">setzt</field>
+<field name="word">statt</field>
+<field name="word">abstimmungsergebnis</field>
+<field name="word">personal</field>
+<field name="word">innen</field>
+<field name="word">beschäftigt</field>
+<field name="word">immobilien</field>
+<field name="word">einfluss</field>
+<field name="word">enthaltungen</field>
+<field name="word">aushilfen</field>
+<field name="word">direkt</field>
+<field name="word">festangestellte</field>
+<field name="word">bezirklichen</field>
+<field name="word">finanzen</field>
+<field name="word">möge</field>
+<field name="word">leiharbeitnehmer</field>
+  <field name="ausschuss">Finanzen</field>
+  <field name="text_de">Der Ausschuss für Finanzen, Personal und Immobilien hat die Drucksache in seiner Sitzung am 30. Mai 2013 abschließend beraten.
+ 
+Abstimmungsergebnis Ausschuss
+für Finanzen, Personal und Immobilien:
+ 
+4 JA   / 10  NEIN    / 1 ENTHALTUNGEN  
+ 
+Die BVV möge beschließen:
+ 
+Das Bezirksamt setzt sich daf
+ür
+ ein, dass in bezirklichen Unternehmen, auf die das Bezirksamt direkt Einfluss hat, keine Leiharbeitnehmer*innen beschäftigt werden. Festangestellte Aushilfen sollen statt Leiharbeitnehmer*innen beschäftigt werden.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3395&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">519</field>  
+  <field name="parteien">1</field>   
+</doc></add>

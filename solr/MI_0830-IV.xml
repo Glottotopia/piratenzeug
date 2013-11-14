@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">MI_0830/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Gut erreichbare Wickelmöglichkeit im Rathaus Mitte schaffen!</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">möglichkeit</field>
+<field name="word">eltern</field>
+<field name="word">toilettenräumen</field>
+<field name="word">geschlechter</field>
+<field name="word">rathauses</field>
+<field name="word">mitte</field>
+<field name="word">beide</field>
+<field name="word">bereitzustellen</field>
+<field name="word">zugänglichen</field>
+<field name="word">kindes</field>
+<field name="word">erledigungsfrist</field>
+<field name="word">einrichtung</field>
+<field name="word">alternativ</field>
+<field name="word">öffentlich</field>
+<field name="word">jeweil</field>
+<field name="word">wickelkommode</field>
+<field name="word">wickeln</field>
+<field name="word">wickelkommoden</field>
+<field name="word">ihres</field>
+<field name="word">stelle</field>
+  
+  <field name="text_de"> 
+Das Bezirksamt wird ersucht, Eltern im EG oder 1. OG des
+Rathauses Mitte öffentlich eine Möglichkeit zum Wickeln ihres
+Kindes bereitzustellen durch Einrichtung einer Wickelkommode
+an einer für beide Geschlechter zugänglichen Stelle/ alternativ:
+Wickelkommoden in den jeweil
+i
+gen Toilettenräumen.
+ 
+Erledigungsfrist: 
+13.06.2013
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5463&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">332</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -1,0 +1,61 @@
+<add><doc>
+  <field name="id">NK_0182/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Schulpflicht</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">plätze</field>
+<field name="word">aller</field>
+<field name="word">beschließen</field>
+<field name="word">freien</field>
+<field name="word">nachzukommen</field>
+<field name="word">schulplätze</field>
+<field name="word">schwerpunktmäßig</field>
+<field name="word">schulen</field>
+<field name="word">nutzung</field>
+<field name="word">herrscht</field>
+<field name="word">beschulungspflicht</field>
+<field name="word">schülerinnen</field>
+<field name="word">schülern</field>
+<field name="word">schulpflichtigen</field>
+<field name="word">ausreichend</field>
+<field name="word">begründung</field>
+<field name="word">derzeit</field>
+<field name="word">deutschland</field>
+<field name="word">möge</field>
+<field name="word">schüler</field>
+<field name="word">umgehend</field>
+<field name="word">schulplatz</field>
+<field name="word">gegenüber</field>
+<field name="word">verfügung</field>
+<field name="word">roma</field>
+<field name="word">keinen</field>
+<field name="word">wohnhaften</field>
+<field name="word">schulpflicht</field>
+  
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, umgehend ihrer Beschulungspflicht
+ 
+gegenüber den derzeit ca. 45 Schülerinnen und Schülern (schwerpunktmäßig
+ 
+Roma), die noch keinen Schulplatz haben, unter Nutzung aller freien
+ 
+Plätze an Schulen im Bezirk nachzukommen.
+ 
+Begründung:
+Es herrscht Schulpflicht in Deutschland und das Bezirksamt muss
+ 
+ausreichend Schulplätze für alle hier wohnhaften schulpflichtigen
+ 
+Schülerinnen und Schüler zur Verfügung stellen.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3805&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">506</field>  
+  <field name="parteien">3</field>   
+</doc></add>

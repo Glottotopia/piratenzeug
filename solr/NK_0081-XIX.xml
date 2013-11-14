@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">NK_0081/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Mieterberatung erhalten</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">beratung</field>
+<field name="word">mieterberatungen</field>
+<field name="word">zukunft</field>
+<field name="word">angeboten</field>
+<field name="word">angemessene</field>
+<field name="word">beschließen</field>
+<field name="word">notwendig</field>
+<field name="word">dafür</field>
+<field name="word">kostenlose</field>
+<field name="word">mieten</field>
+<field name="word">steigenden</field>
+<field name="word">ermöglichen</field>
+<field name="word">quartiersmanagement</field>
+<field name="word">gebieten</field>
+<field name="word">begründung</field>
+<field name="word">betroffenen</field>
+<field name="word">kiezen</field>
+<field name="word">möge</field>
+<field name="word">mieterberatung</field>
+  <field name="ausschuss">Bürgerdienste</field>
+<field name="ausschuss">Stadtentwicklung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+ 
+Das Bezirksamt wird gebeten, sich dafür einzusetzen, dass auch in Zukunft eine Mieterberatung in den Quartiersmanagement-Gebieten angeboten wird.
+ 
+ 
+ 
+Begründung:
+ 
+Um den Betroffenen von steigenden Mieten eine angemessene Beratung zu ermöglichen, sind kostenlose Mieterberatungen in den Kiezen notwendig.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3704&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">362</field>  
+  <field name="parteien">3</field>   
+</doc></add>

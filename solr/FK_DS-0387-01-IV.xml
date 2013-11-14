@@ -1,0 +1,95 @@
+<add><doc>
+  <field name="id">FK_DS/0387-01/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">"Projekte-Haus"</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">interessenbekundungsverfahren</field>
+<field name="word">stehenden</field>
+<field name="word">auswahl</field>
+<field name="word">beschließen</field>
+<field name="word">hierzu</field>
+<field name="word">derer</field>
+<field name="word">schrittes</field>
+<field name="word">fraktionen</field>
+<field name="word">stadtqm</field>
+<field name="word">anwendung</field>
+<field name="word">veranstaltung</field>
+<field name="word">nutzungsarten</field>
+<field name="word">berücksichtigenden</field>
+<field name="word">projektehauses</field>
+<field name="word">verfahren</field>
+<field name="word">bürger</field>
+<field name="word">auswahlverfahren</field>
+<field name="word">bürgerversammlung</field>
+<field name="word">auswahlkommission</field>
+<field name="word">nutzer</field>
+<field name="word">prioritätenliste</field>
+<field name="word">abstimmen</field>
+<field name="word">angewandt</field>
+<field name="word">bisher</field>
+<field name="word">vorlage</field>
+<field name="word">können</field>
+<field name="word">jugendamt</field>
+<field name="word">entscheidet</field>
+<field name="word">entwickelt</field>
+<field name="word">analog</field>
+<field name="word">stufiges</field>
+<field name="word">bewerbern</field>
+<field name="word">änderungsantrag</field>
+<field name="word">möge</field>
+<field name="word">gleiche</field>
+<field name="word">vorschlägen</field>
+<field name="word">über</field>
+<field name="word">vorschläge</field>
+<field name="word">benannter</field>
+<field name="word">eingegangenen</field>
+<field name="word">ihnen</field>
+<field name="word">einfügen</field>
+<field name="word">finden</field>
+<field name="word">vertreter</field>
+<field name="word">hand</field>
+<field name="word">beschließt</field>
+<field name="word">liste</field>
+<field name="word">solches</field>
+<field name="word">ergebnis</field>
+<field name="word">ergeben</field>
+<field name="word">hervorragende</field>
+<field name="word">beteiligt</field>
+<field name="word">worden</field>
+<field name="word">ersten</field>
+<field name="word">anzahl</field>
+<field name="word">ergänzt</field>
+<field name="word">grundlagen</field>
+<field name="word">abgelehnt</field>
+<field name="word">eigentlichen</field>
+<field name="word">schritt</field>
+<field name="word">zweiten</field>
+  <field name="ausschuss">Stadtentwicklung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Einfügen in die Vorlage:
+ 
+Hierzu soll ein 2-Stufiges Verfahren angewandt werden. Im ersten Schritt können auf einer Bürgerversammlung die Bürger übe
+r
+ die zu berücksichtigenden Nutzungsarten abstimmen. Die zur Auswahl stehenden Nutzungsarten ergeben sich aus den Vorschlägen der bisher eingegangenen Bewerbern. Diese Liste kann auf der Veranstaltung  durch Vorschläge der Bürger ergänzt werden. Ergebnis dieses ersten Schrittes ist eine Prioritätenliste an Hand derer im zweiten Schritt eine Auswahlkommission mit einem Interessenbekundungsverfahren über die eigentlichen Nutzer des Projektehauses entscheidet. Hervorragende Grundlagen für ein solches Verfahren sind im Jugendamt entwickelt worden, die hier analog Anwendung finden sollen. Die Fraktionen der BVV bzw. je ein von ihnen benannter Vertreter/in sowie eine gleiche Anzahl Bürger sollen am Auswahlverfahren beteiligt werden.
+ 
+StadtQM 
+20.02.2013
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Der Änderungsantrag wird abgelehnt.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Der Änderungsantrag wird abgelehnt.
+ </field> 
+  <field name="status">abgelehnt</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5367&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1145</field>  
+  <field name="parteien">1</field>   
+</doc></add>

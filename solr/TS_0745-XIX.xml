@@ -1,0 +1,56 @@
+<add><doc>
+  <field name="id">TS_0745/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Antrag auf Einwohnerversammlung nach § 42 BezVG - Zum Stadtentwicklungsplan Wohnen</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">einberufen</field>
+<field name="word">wohnen</field>
+<field name="word">organisieren</field>
+<field name="word">beschließen</field>
+<field name="word">wolle</field>
+<field name="word">einstieg</field>
+<field name="word">information</field>
+<field name="word">ggfls</field>
+<field name="word">identifizierten</field>
+<field name="word">mündlich</field>
+<field name="word">erörterung</field>
+<field name="word">einwohnerversammlungen</field>
+<field name="word">bereichsentwicklungspläne</field>
+<field name="word">aufgeteilt</field>
+<field name="word">einwohner</field>
+<field name="word">gebiete</field>
+<field name="word">gezielt</field>
+<field name="word">möge</field>
+<field name="word">durchführen</field>
+<field name="word">flächen</field>
+<field name="word">aktualisierung</field>
+<field name="word">step</field>
+<field name="word">begründung</field>
+<field name="word">stadtentwicklungsplan</field>
+<field name="word">bereichsentwicklungsplänen</field>
+<field name="word">speziell</field>
+<field name="word">bezirklichen</field>
+<field name="word">einzelne</field>
+<field name="word">eingeladen</field>
+<field name="word">bezvg</field>
+<field name="word">position</field>
+<field name="word">vier</field>
+  
+  <field name="text_de"> 
+Die Bezirksverordnetenversammlung wolle beschließen:
+Das Bezirksamt möge vier 
+einzelne Einwohnerversammlungen nach §42 BezVG einberufen, organisieren und durchführen, zur Information und Erörterung der bezirklichen Position zum Stadtentwicklungsplan (StEP) Wohnen, sowie zum Einstieg in die Aktualisierung der Bereichsentwicklungspläne.
+ 
+Dazu sollen speziell und gezielt die Einwohner  u.a. der Gebiete der 19 für den StEP Wohnen identifizierten Flächen, aufgeteilt nach den vier Bereichsentwicklungsplänen eingeladen werden.
+ 
+Begründung:
+ggfls mündlich
+ </field> 
+  <field name="status">abgelehnt</field>
+  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4541&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">560</field>  
+  <field name="parteien">1</field>   
+</doc></add>

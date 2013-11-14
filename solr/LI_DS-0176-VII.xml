@@ -1,0 +1,140 @@
+<add><doc>
+  <field name="id">LI_DS/0176/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Offene und maschinenlesbare Bezirkshaushaltsrechnungen</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">stehen</field>
+<field name="word">umgang</field>
+<field name="word">filtern</field>
+<field name="word">nderter</field>
+<field name="word">veröffentlichen</field>
+<field name="word">weiterverwendung</field>
+<field name="word">gestellt</field>
+<field name="word">zuwider</field>
+<field name="word">erleichtert</field>
+<field name="word">gewährleistet</field>
+<field name="word">gewährleisten</field>
+<field name="word">text</field>
+<field name="word">haushaltspläne</field>
+<field name="word">veröffentlichung</field>
+<field name="word">tabellendokument</field>
+<field name="word">format</field>
+<field name="word">transparenz</field>
+<field name="word">folgender</field>
+<field name="word">empfiehlt</field>
+<field name="word">begründung</field>
+<field name="word">vielmehr</field>
+<field name="word">informationen</field>
+<field name="word">jedoch</field>
+<field name="word">bezirkshaushalts</field>
+<field name="word">möglichkeit</field>
+<field name="word">vorherigen</field>
+<field name="word">fassung</field>
+<field name="word">rechnungsprü</field>
+<field name="word">bürgern</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">überprüfbarkeit</field>
+<field name="word">kriterien</field>
+<field name="word">annahme</field>
+<field name="word">publizieren</field>
+<field name="word">internet</field>
+<field name="word">frei</field>
+<field name="word">geschaffene</field>
+<field name="word">entwurf</field>
+<field name="word">ansatz</field>
+<field name="word">kommunikation</field>
+<field name="word">beschlussfassung</field>
+<field name="word">textdatei</field>
+<field name="word">rechnungen</field>
+<field name="word">datenmengen</field>
+<field name="word">rgerbeteiligung</field>
+<field name="word">stelle</field>
+<field name="word">einreichung</field>
+<field name="word">dadurch</field>
+<field name="word">abstimmungsergebnis</field>
+<field name="word">bürgernahe</field>
+<field name="word">durchgeführte</field>
+<field name="word">bürger</field>
+<field name="word">vorlage</field>
+<field name="word">offenerhaushalt</field>
+<field name="word">gründe</field>
+<field name="word">bezirkshaushaltsrechnungen</field>
+<field name="word">fung</field>
+<field name="word">festzulegenden</field>
+<field name="word">spätestens</field>
+<field name="word">ermöglicht</field>
+<field name="word">plain</field>
+<field name="word">geschaffenen</field>
+<field name="word">haushaltsfragen</field>
+<field name="word">maschinenlesbar</field>
+<field name="word">dann</field>
+<field name="word">anspruch</field>
+<field name="word">verfügung</field>
+<field name="word">maschinenlesbaren</field>
+<field name="word">zukünftig</field>
+<field name="word">handhabbaren</field>
+<field name="word">bezirkshaushaltsrechnung</field>
+<field name="word">zugehörigen</field>
+<field name="word">bund</field>
+<field name="word">stärkt</field>
+<field name="word">zuständigen</field>
+<field name="word">visualisierungen</field>
+<field name="word">beschlossenen</field>
+<field name="word">http</field>
+<field name="word">deutlich</field>
+<field name="word">beispielsweise</field>
+<field name="word">rgerdienste</field>
+<field name="word">dafür</field>
+<field name="word">existieren</field>
+<field name="word">offenen</field>
+<field name="word">änderungen</field>
+<field name="word">lichtenberg</field>
+<field name="word">ursprungsantrages</field>
+<field name="word">dokumente</field>
+  
+  <field name="text_de">Der Ausschuss
+ Rechnungsprü
+fung, Bü
+rgerbeteiligung, Bü
+rgerdienste und Verwaltungsmodernisierung
+ empfiehlt
+ der Bezirksverordnetenversammlung
+ die Annahme der Drucksache DS/0176/VII
+ in folgender geä
+nderter Fassung:
+Das Bezirksamt wird ersucht sich be
+i der zuständigen Stelle dafür 
+einzusetzen, dass die Bezirkshaushalts
+rechnungen von Lichtenberg dem 
+Bezirksamt zukünftig in einem offenen un
+d maschinenlesbaren Format zur 
+Verfügung gestellt werden, um sie dann im Internet zu veröffentlichen.
+Begründung: 
+Durch die Veröffentlichung der Bezirkshaushaltsrechnung und der damit geschaffenen Möglichkeit die zugehörigen Dokumente nach frei festzulegenden Kriterien zu filtern, kann bürgernahe Transparenz in Haushaltsfragen gewährleistet werden.
+Gründe, die einer Veröffentlichung zuwider stehen, existieren nicht. Vielmehr haben die Bürger einen Anspruch auf diese Informationen. Die durch die Veröffentlichung geschaffene Transparenz erleichtert die Kommunikation mit den Bürgern und stärkt den beschlossenen Entwurf der BVV.
+Um einen handhabbaren Umgang mit den Datenmengen zu gewährleisten, sind die Haushaltspläne und die Bezirkshaushaltsrechnungen maschinenlesbar zu publizieren, beispielsweise als Tabellendokument (ods, ...) oder ggf. als Textdatei (csv, plain, ...), jedoch nicht (nur) als pdf.
+Dadurch wird die Weiterverwendung sowie die Überprüfbarkeit der Dokumente auf durchgeführte Änderungen zum vorherigen Ansatz, deutlich erleichtert und z. B. Visualisierungen wie 
+http://bund.offenerhaushalt.de/
+ ermöglicht.
+ 
+Text des Ursprungsantrages:
+Das Bezirksamt wird ersucht die Bezirkshaushaltsrechnungen von Lichtenberg zukünftig spätestens mit ihrer Einreichung als Vorlage zur Beschlussfassung der BVV in einem offenen und maschinenlesbaren Format im Internet zu veröffentlichen.
+ 
+Abstimmungsergebnis: 12
+ 
+/
+ 
+0
+ 
+/
+ 
+0
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4837&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1845</field>  
+  <field name="parteien">1</field>   
+</doc></add>

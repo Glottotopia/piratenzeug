@@ -1,0 +1,322 @@
+<add><doc>
+  <field name="id">FK_DS/0870/IV</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">"Touristenbusse bleiben draußen!"</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gewerbes</field>
+<field name="word">beckers</field>
+<field name="word">fahrzeuge</field>
+<field name="word">denen</field>
+<field name="word">oranienstraß</field>
+<field name="word">ganz</field>
+<field name="word">bieten</field>
+<field name="word">verbot</field>
+<field name="word">beobachtet</field>
+<field name="word">verkehrsbehinderungen</field>
+<field name="word">auszunehmen</field>
+<field name="word">vielleicht</field>
+<field name="word">hauptsä</field>
+<field name="word">abwarten</field>
+<field name="word">zinn</field>
+<field name="word">hoch</field>
+<field name="word">stehen</field>
+<field name="word">vermuten</field>
+<field name="word">hohe</field>
+<field name="word">frage</field>
+<field name="word">bisher</field>
+<field name="word">gleich</field>
+<field name="word">zweifel</field>
+<field name="word">fahrrad</field>
+<field name="word">umbaumaß</field>
+<field name="word">hlung</field>
+<field name="word">genutzt</field>
+<field name="word">darstellt</field>
+<field name="word">friedrichshain</field>
+<field name="word">belastung</field>
+<field name="word">ihnen</field>
+<field name="word">nochmal</field>
+<field name="word">beschweren</field>
+<field name="word">bussen</field>
+<field name="word">kochstraß</field>
+<field name="word">gemengelage</field>
+<field name="word">gefä</field>
+<field name="word">bereich</field>
+<field name="word">worden</field>
+<field name="word">angetragen</field>
+<field name="word">verträ</field>
+<field name="word">friedrichstraß</field>
+<field name="word">anzahl</field>
+<field name="word">stadtrundfahrten</field>
+<field name="word">gefü</field>
+<field name="word">verkehrszä</field>
+<field name="word">frequentieren</field>
+<field name="word">kottbusser</field>
+<field name="word">ordnungsamt</field>
+<field name="word">eben</field>
+<field name="word">nachkommen</field>
+<field name="word">sage</field>
+<field name="word">rlich</field>
+<field name="word">nger</field>
+<field name="word">anwohnerinnen</field>
+<field name="word">beka</field>
+<field name="word">ausnahme</field>
+<field name="word">umgebende</field>
+<field name="word">liegen</field>
+<field name="word">unterstehen</field>
+<field name="word">nken</field>
+<field name="word">verkehren</field>
+<field name="word">sehr</field>
+<field name="word">hren</field>
+<field name="word">querstraß</field>
+<field name="word">natü</field>
+<field name="word">schä</field>
+<field name="word">bekannt</field>
+<field name="word">kreuzung</field>
+<field name="word">belastet</field>
+<field name="word">kreuzberg</field>
+<field name="word">zunehmende</field>
+<field name="word">denke</field>
+<field name="word">mehrere</field>
+<field name="word">dort</field>
+<field name="word">aktuellen</field>
+<field name="word">parkender</field>
+<field name="word">touristenbusse</field>
+<field name="word">funktion</field>
+<field name="word">gesamt</field>
+<field name="word">here</field>
+<field name="word">tatsä</field>
+<field name="word">beschwerden</field>
+<field name="word">herr</field>
+<field name="word">habe</field>
+<field name="word">parkende</field>
+<field name="word">dienstleistungen</field>
+<field name="word">einschrä</field>
+<field name="word">tzen</field>
+<field name="word">bzgl</field>
+<field name="word">weil</field>
+<field name="word">busverkehr</field>
+<field name="word">allerdings</field>
+<field name="word">verbote</field>
+<field name="word">bezirksregionen</field>
+<field name="word">anliegern</field>
+<field name="word">derzeit</field>
+<field name="word">usse</field>
+<field name="word">ausflugswagen</field>
+<field name="word">onkreten</field>
+<field name="word">verkehrsbelastung</field>
+<field name="word">berlegungen</field>
+<field name="word">augenblick</field>
+<field name="word">entgehen</field>
+<field name="word">glichen</field>
+<field name="word">unternehmen</field>
+<field name="word">endeckung</field>
+<field name="word">sinne</field>
+<field name="word">nahmen</field>
+<field name="word">sightseeing</field>
+<field name="word">endlich</field>
+<field name="word">nnten</field>
+<field name="word">aufgrund</field>
+<field name="word">gesagt</field>
+<field name="word">zielorten</field>
+<field name="word">bergeordnete</field>
+<field name="word">besonders</field>
+<field name="word">beantwortung</field>
+<field name="word">welchen</field>
+<field name="word">viele</field>
+<field name="word">grund</field>
+<field name="word">sperrung</field>
+<field name="word">puttkamerstraß</field>
+<field name="word">diesbezü</field>
+<field name="word">zimmerstraß</field>
+<field name="word">anwohner</field>
+<field name="word">angesehen</field>
+<field name="word">richten</field>
+<field name="word">chfahrt</field>
+<field name="word">rdigkeiten</field>
+<field name="word">abgefahren</field>
+<field name="word">kombination</field>
+<field name="word">dann</field>
+<field name="word">teilweise</field>
+<field name="word">verkehrssituation</field>
+<field name="word">situation</field>
+<field name="word">bestehen</field>
+<field name="word">touristische</field>
+<field name="word">chlich</field>
+<field name="word">gegen</field>
+<field name="word">verwehren</field>
+<field name="word">fragestellung</field>
+<field name="word">einzuschrä</field>
+<field name="word">verkehrslage</field>
+<field name="word">allem</field>
+<field name="word">hrdung</field>
+<field name="word">abstellen</field>
+<field name="word">sehenswü</field>
+<field name="word">straß</field>
+<field name="word">verkehrslenkung</field>
+<field name="word">kritisch</field>
+<field name="word">busse</field>
+<field name="word">fahrten</field>
+<field name="word">betreffen</field>
+<field name="word">bekannteren</field>
+<field name="word">aber</field>
+<field name="word">auto</field>
+<field name="word">ausgesprochen</field>
+<field name="word">glicherweise</field>
+<field name="word">motoren</field>
+<field name="word">kreuzungsverkehr</field>
+<field name="word">betroffen</field>
+<field name="word">ohne</field>
+<field name="word">frau</field>
+<field name="word">beschwerdelage</field>
+<field name="word">insofern</field>
+<field name="word">sperren</field>
+<field name="word">ufig</field>
+<field name="word">gerade</field>
+<field name="word">unseres</field>
+<field name="word">tonnen</field>
+<field name="word">ihren</field>
+<field name="word">meine</field>
+<field name="word">eigentlichen</field>
+<field name="word">hotels</field>
+<field name="word">abgeschlo</field>
+<field name="word">letztlich</field>
+<field name="word">unterwegs</field>
+<field name="word">treffen</field>
+<field name="word">fahrradfahrer</field>
+<field name="word">hlaggrega</field>
+  
+  <field name="text_de">Ich frage das Bezirksamt:
+ 
+Welche Straß
+en in Friedrichshain-Kreuzberg sind dem Bezirksamt bekannt, in denen s
+ich Anwohner ü
+ber "Sightseeing-B
+usse" auf Grund des Gefü
+hls "wie im Zoo" und der Verkehrsbehinderungen beschweren?
+ 
+Auf welchen Straß
+en
+ bzw. in welchen Bezirksregionen wird die Verkehrsbelastung durch eine zunehmende Anzahl von Stadtrundfahrten aufgrund der aktuellen Verkehrssituation als kritisch angesehen?
+ 
+Welche Ü
+berlegungen gibt es im Bezirksamt Straß
+en, die nicht als ü
+bergeordnete Straß
+en der Verkehrslenkung Berlin unterstehen, ganz oder teilweise fü
+r Fahrten des Ausflugswagen-(Stadtrundfahrten)Gewerbes zu sperren, z.B. durch ein Verbot fü
+r Fahrzeuge ü
+ber 7,5t Tonnen mit Ausnahme von Ö
+PNV und Anliegern (z.B. Busse mit 
+k
+onkreten Zielorten wie Hotels)?
+ 
+ 
+ 
+ 
+Beantwortung
+ Herr Dr. Beckers
+ 
+Zu Frage 1:
+              
+Im Bezirksamt, hier Ordnungsamt, sind Beschwerden im Bezirk, die sich auf das Verkehren von Sightseeing-Bussen und dem Gefü
+hl von AnwohnerInnen, "
+wie im Zoo beobachtet zu werden"
+, 
+nicht bekannt. Allerdings liegen Beschwerden im Bereich der Friedrichstraß
+e mit ihren Querstraß
+en vor, die Sightseeing-Busse betreffen. Diese Beschwerden richten sich hauptsä
+chlich gegen den Lä
+rm, durch das Nicht-Abstellen der Motoren oder der Kü
+hlaggrega
+t
+e parkender Busse. 
+ 
+Zu Frage 2:
+ 
+              
+In Berlin bieten mehrere Unternehmen Stadtrundfahrten an, in denen vor allem die bekannteren Sehenswü
+rdigkeiten abgefahren werden. Wie viele dieser Sightseeing-Busse dann letztlich auf Straß
+en unseres Bezirks frequentieren
+, ist dem Bezirksamt nicht bekannt. Aufgrund von Verkehrslage und Beschwerdelage, das war ja hier auch Kombination, ist aber zu vermuten, dass hauptsä
+chlich die Friedrichstraß
+e im Bereich zwischen Puttkamerstraß
+e und Zimmerstraß
+e, insbesondere im Kreuzung
+s
+bereich Kochstraß
+e, besonders mit Bussen fü
+r touristische Dienstleistungen belastet ist. 
+ 
+Zu Frage 3
+:
+              
+Verbote 
+fü
+r Fahrzeuge ü
+ber 7,5 t werden ausgesprochen, wenn die Straß
+endeckung eine hö
+here Belastung nicht verträ
+gt. Welche Straß
+en von einer Sperrung im Sinne der Fragestellung betroffen sein kö
+nnten, ist dem Bezirksamt aufgrund der Gesamt-Gemengelage nicht beka
+n
+nt. Insofern gibt es auch bisher keine diesbezü
+glichen Ü
+berlegungen, Straß
+en fü
+r Busse zu sperren, Sightseeing-Busse zu sperren oder einzuschrä
+nken.
+ 
+Frau Zinn
+:
+ Mir sind gerade Beschwerden angetragen worden bzgl. SO36 Oranienstraß
+e und umgebende Straß
+en. W
+ie schä
+tzen Sie die Situation in dem Bereich ein? Gerade die Oranienstraß
+e als Straß
+e, wie gesagt, wo viele parkende Fahrzeuge stehen, wo wir bereits Busverkehr haben, ob wir dort vielleicht die Touristenbusse einschrä
+nken kö
+nnten oder Ihnen gleich die Du
+r
+chfahrt verwehren kö
+nnten.
+ 
+Herr Dr. Beckers
+: 
+Die Oranienstraß
+e wird ja derzeit sehr hä
+ufig genutzt, um den Kreuzungsverkehr am Kottbusser Tor zu entgehen und.
+ ob mit Fahrrad, mit dem Auto, zu Fuß
+, wenn man dort unterwegs ist, ist in der Tat eine sehr hohe
+ Verkehrsbelastung, ohne Zweifel. Ob die Verkehrsbelastung dann dazu fü
+hren kann, den Busverkehr auszunehmen, da habe ich so meine Zweifel. Letztlich und endlich ist die Frage nochmal zu klä
+ren, wie hoch die Belastung mit Bussen tatsä
+chlich ist und ob das
+ 
+dazu fü
+hrt, dass dann eben eine Straß
+e in ihrer eigentlichen, sage ich mal Funktion als Straß
+e nicht mehr nachkommen kann und mö
+glicherweise auch Gefä
+hrdung fü
+r Anwohner oder fü
+r Fuß
+gä
+nger, Fahrradfahrer etc. bestehen. Im Augenblick kann ich dazu keine Au
+s
+sage treffen, weil wir keine Verkehrszä
+hlung von Bussen haben in diesem Bereich und zum anderen muss man natü
+rlich auch - wie gesagt - abwarten denke ich auch, wie sich die Situation am Kottbusser Tor dann darstellt, wenn dort die Umbaumaß
+nahmen abgeschlo
+s
+sen sind.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5672&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">3838</field>  
+  <field name="parteien">1</field>   
+</doc></add>

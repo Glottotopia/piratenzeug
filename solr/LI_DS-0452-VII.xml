@@ -1,0 +1,58 @@
+<add><doc>
+  <field name="id">LI_DS/0452/VII</field>  
+  <field name="typ">Dringliche_Beschlussempfehlung</field>  
+  <field name="titel">Wandbild in der Skandinavischen Straße wieder herstellen</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field> 
+  <field name="word">möglichkeit</field>
+<field name="word">abstimmungsergebnis</field>
+<field name="word">handeln</field>
+<field name="word">innerhalb</field>
+<field name="word">einreichungsfrist</field>
+<field name="word">anliegen</field>
+<field name="word">frühzeitigeren</field>
+<field name="word">wegen</field>
+<field name="word">annahme</field>
+<field name="word">bejaht</field>
+<field name="word">freie</field>
+<field name="word">üblichen</field>
+<field name="word">wiederherstellung</field>
+<field name="word">weise</field>
+<field name="word">sonst</field>
+<field name="word">kultur</field>
+<field name="word">skandinavischen</field>
+<field name="word">antrages</field>
+<field name="word">straße</field>
+<field name="word">eigneter</field>
+<field name="word">tätig</field>
+<field name="word">unterstützen</field>
+<field name="word">empfiehlt</field>
+<field name="word">begründung</field>
+<field name="word">november</field>
+<field name="word">hand</field>
+<field name="word">dringlichkeit</field>
+<field name="word">sitzungstermins</field>
+<field name="word">möglichen</field>
+<field name="word">wandbildes</field>
+  
+  <field name="text_de">Der Ausschuss Kultur empfiehlt der Bezirksverordnetenversammlung die Annahme der DS/0452/VII:
+ 
+Das Bezirksamt wird ersucht
+ die Wiederherstellung des Wandbildes in der Skandinavischen Straße 26 in ge
+eigneter Weise zu unterstützen.
+ 
+Begründung:
+Der Ausschuss bejaht das Anliegen des Antrages. Das Bezirksamt hat freie Hand im Rahmen des ihm Möglichen tätig zu werden.
+ 
+Begründung der Dringlichkeit:
+Wegen des frühzeitigeren BVV-Sitzungstermins hat der Ausschuss Kultur im November 2012 keine Möglichkeit innerhalb der sonst üblichen Einreichungsfrist zu handeln.
+ 
+Abstimmungsergebnis: 11 / 0 / 0</field> 
+  <field name="status">angenommen</field>
+  <field name="location"></field>
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5114&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">599</field>  
+  <field name="parteien">2</field>   
+</doc></add>

@@ -1,0 +1,43 @@
+<add><doc>
+  <field name="id">LI_DS/0177/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Offener und maschinenlesbarer Haushaltsplan</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">nehmen</field>
+<field name="word">lichtenberg</field>
+<field name="word">sorge</field>
+<field name="word">licht</field>
+<field name="word">verö</field>
+<field name="word">internet</field>
+<field name="word">dafür</field>
+<field name="word">entsprechend</field>
+<field name="word">tragen</field>
+<field name="word">zirkshaushaltsplan</field>
+<field name="word">folgendes</field>
+<field name="word">zukünftig</field>
+<field name="word">planjahr</field>
+<field name="word">ersuchen</field>
+<field name="word">bittet</field>
+<field name="word">bezirkes</field>
+<field name="word">kenntnis</field>
+  
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung
+, Folgendes 
+zur Kenntnis zu nehmen:
+ 
+Das Bezirksamt wird zukünftig (ab Planjahr 2014/2015) dafür Sorge tragen, dass der B
+e
+zirkshaushaltsplan des Bezirkes Lichtenberg entsprechend o. g.  Ersuchen im Internet verö
+f
+fen
+t
+licht wird.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4838&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">293</field>  
+  <field name="parteien">1</field>   
+</doc></add>

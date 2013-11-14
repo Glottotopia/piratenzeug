@@ -1,0 +1,50 @@
+<add><doc>
+  <field name="id">CW_0185/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Erinnerung zur Ehrung von Konrad Zuse</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">CDU</field> 
+  <field name="word">stückler</field>
+<field name="word">ablehnung</field>
+<field name="word">konrad</field>
+<field name="word">beschließt</field>
+<field name="word">erinnerung</field>
+<field name="word">jahre</field>
+<field name="word">rechenmaschine</field>
+<field name="word">otto</field>
+<field name="word">angebracht</field>
+<field name="word">judith</field>
+<field name="word">elektronischen</field>
+<field name="word">zuse</field>
+<field name="word">straße</field>
+<field name="word">haus</field>
+<field name="word">gedenktafel</field>
+<field name="word">tübinger</field>
+<field name="word">funktionierenden</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">ursprungstext</field>
+<field name="word">erbauer</field>
+<field name="word">ersten</field>
+<field name="word">ernst</field>
+  <field name="ausschuss">Weiterbildung</field>
+  <field name="text_de">Die BVV beschließt die Ablehnung. 
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ 
+ 
+Ursprungstext
+:
+Am Haus Tübinger Straße 2 wird zur Erinnerung an Konrad Ernst Otto Zuse, dem Erbauer der ersten funktionierenden elektronischen Rechenmaschine Z3 im Jahre 1941, eine Gedenktafel angebracht.
+ 
+ 
+ </field> 
+  <field name="status">angenommen</field>
+  <field name="location">52.4805364,13.3303113</field>
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4449&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">300</field>  
+  <field name="parteien">2</field>   
+</doc></add>

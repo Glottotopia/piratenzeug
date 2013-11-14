@@ -1,0 +1,39 @@
+<add><doc>
+  <field name="id">LI_DS/0488/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Sanierung der Lindenberger Straße zwischen Straße 10 und Straße 11</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">vorgesehen</field>
+<field name="word">nehmen</field>
+<field name="word">beseitigen</field>
+<field name="word">firma</field>
+<field name="word">jahr</field>
+<field name="word">landschaftsamt</field>
+<field name="word">schäden</field>
+<field name="word">fahrbahndecke</field>
+<field name="word">benötigt</field>
+<field name="word">beabsichtigt</field>
+<field name="word">straße</field>
+<field name="word">lindenberger</field>
+<field name="word">baubeginn</field>
+<field name="word">folgendes</field>
+<field name="word">maßnahme</field>
+<field name="word">anfang</field>
+<field name="word">benannten</field>
+<field name="word">bittet</field>
+<field name="word">oktober</field>
+<field name="word">kenntnis</field>
+<field name="word">tiefbau</field>
+  
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung, Folgendes zur Kenntnis zu nehmen:
+ 
+Das Tiefbau- und Landschaftsamt beabsichtigt, noch in diesem Jahr die hier benannten Schäden in der Fahrbahndecke der Lindenberger Straße zu beseitigen. Eine Firma wurde bereits beauftragt und der Baubeginn ist für Anfang Oktober 2013 vorgesehen. Für diese Maßnahme werden ca. 30.000 ? benötigt.
+ </field> 
+  <field name="status">angenommen</field>
+  <field name="location">52.5919723,13.5273007</field>
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5150&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">390</field>  
+  <field name="parteien">1</field>   
+</doc></add>

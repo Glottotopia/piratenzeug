@@ -1,0 +1,23 @@
+<add><doc>
+  <field name="id">SP_0151/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Mehr Transparenz: Veröffentlichung der Protokolle und Beschlüsse der Bezirksamtssitzungen im Internet</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">Gruene</field> 
+  <field name="word">kenntnisnahme</field>
+<field name="word">schlussbericht</field>
+<field name="word">anzusehen</field>
+<field name="word">vorlage</field>
+  
+  <field name="text_de">Die Vorlage - zur Kenntnisnahme - vom 
+22.03.2013
+ ist als Schlussbericht anzusehen.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=6755&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">84</field>  
+  <field name="parteien">3</field>   
+</doc></add>

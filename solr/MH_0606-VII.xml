@@ -1,0 +1,47 @@
+<add><doc>
+  <field name="id">MH_0606/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Dokumente mit klaren Lizenzangaben versehen</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">expliziten</field>
+<field name="word">beschließen</field>
+<field name="word">commons</field>
+<field name="word">alternativen</field>
+<field name="word">lizenzmodelle</field>
+<field name="word">weiterverwertungsmöglichkeit</field>
+<field name="word">sinne</field>
+<field name="word">vorlagen</field>
+<field name="word">angabe</field>
+<field name="word">denkbar</field>
+<field name="word">weiter</field>
+<field name="word">zugleich</field>
+<field name="word">creative</field>
+<field name="word">geschehen</field>
+<field name="word">punktes</field>
+<field name="word">dokumenten</field>
+<field name="word">veröffentlichung</field>
+<field name="word">möge</field>
+<field name="word">hinzufügung</field>
+<field name="word">zukünftig</field>
+<field name="word">versehen</field>
+<field name="word">weiterleitung</field>
+<field name="word">veröffentlichungen</field>
+<field name="word">verwendung</field>
+<field name="word">daten</field>
+<field name="word">prüfen</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht, Veröffentlichungen von Dokumenten und anderen Daten zukünftig mit einer expliziten Angabe zur Weiterverwertungsmöglichkeit zu versehen. Dies kann z. B. durch Hinzufügung eines Punktes in den BA-Vorlagen nach "C.2 Weiterleitung an die BVV zugleich Veröffentlichung" geschehen.
+ 
+Das Bezirksamt wird weiter ersucht zu prüfen, welche alternativen Lizenzmodelle zur Verwendung in 
+diesem Sinne denkbar sind (z.B
+. creative commons).</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4889&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">485</field>  
+  <field name="parteien">1</field>   
+</doc></add>

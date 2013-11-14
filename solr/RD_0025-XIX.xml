@@ -1,0 +1,87 @@
+<add><doc>
+  <field name="id">RD_0025/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bildung von Ausschüssen</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Gruene</field>
+<field name="partei">CDU</field>
+<field name="partei">SPD</field> 
+  <field name="word">korrigierte</field>
+<field name="word">gemäß</field>
+<field name="word">beschließen</field>
+<field name="word">gerdeputierte</field>
+<field name="word">dert</field>
+<field name="word">wolle</field>
+<field name="word">bestimmt</field>
+<field name="word">kjhg</field>
+<field name="word">vorgelegt</field>
+<field name="word">bürgerdeputierte</field>
+<field name="word">gewählt</field>
+<field name="word">mitgliedern</field>
+<field name="word">reinickendorf</field>
+<field name="word">verbindung</field>
+<field name="word">bestehend</field>
+<field name="word">gebildet</field>
+<field name="word">neun</field>
+<field name="word">fassung</field>
+<field name="word">jugendhilfegesetzes</field>
+<field name="word">punkt</field>
+<field name="word">sachverhalt</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">folgender</field>
+<field name="word">begründung</field>
+<field name="word">kinder</field>
+<field name="word">bezirksverwaltungsgesetzes</field>
+<field name="word">geso</field>
+<field name="word">sechs</field>
+<field name="word">jugendhilfeausschuss</field>
+<field name="word">ausführung</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">angehören</field>
+<field name="word">gesetzes</field>
+  
+  <field name="text_de">Sachverhalt:
+ 
+Die Bezirksverordnetenversammlung 
+wolle beschließen:
+ 
+Gemäß § 9 des Bezirksverwaltungsgesetzes in Verbindung mit § 18 der Geschäftsordnung der BVV Reinickendorf 
+wird folgender Ausschuss gebildet:
+ 
+ 
+7.
+              
+Jugendhilfeausschuss
+              
+bestehend aus 9 Mitgliedern
+ (4/3/1/1 
+und
+ 6 Bürgerdeputierte
+n,
+die geso
+n
+dert gewählt werden
+)
+ 
+ 
+Begründung: 
+ 
+Es wird eine korrigierte Fassung zum 
+  
+Punkt 7. Jugendhilfeausschuss 
+   
+vorgelegt. 
+ 
+§ 35 des Gesetzes zur Ausführung des Kinder- und Jugendhilfegesetzes (AG KJHG) bestimmt, dass dem Jugendhilfeausschuss neun Bezirksverordnete 
+und
+ sechs Bü
+r
+gerdeputierte angehören.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3074&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">663</field>  
+  <field name="parteien">4</field>   
+</doc></add>

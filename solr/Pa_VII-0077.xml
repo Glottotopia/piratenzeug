@@ -1,0 +1,35 @@
+<add><doc>
+  <field name="id">Pa_VII-0077</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Veröffentlichung der Sitzungen</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">pankow</field>
+<field name="word">beantragt</field>
+<field name="word">sitzungen</field>
+<field name="word">bezirksverordnete</field>
+<field name="word">dürfen</field>
+<field name="word">zugänglich</field>
+<field name="word">öffentlich</field>
+<field name="word">piratenfraktion</field>
+<field name="word">öffentlichen</field>
+<field name="word">internet</field>
+<field name="word">machen</field>
+<field name="word">audioaufzeichnungen</field>
+  
+  <field name="text_de">Die Piratenfraktion beantragt, da
+ss
+ Bezirksverordnete die
+ 
+Audioaufzeichnungen der öffentlichen Sitzungen der
+ 
+Bezirksverordnetenversammlung Pankow von Berlin im Internet öffentlich
+ zugänglich machen dürfen.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3156&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">214</field>  
+  <field name="parteien">1</field>   
+</doc></add>

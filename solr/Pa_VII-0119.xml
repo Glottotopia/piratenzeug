@@ -1,0 +1,32 @@
+<add><doc>
+  <field name="id">Pa_VII-0119</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Erhöhung der bezirklichen Zuweisungen - Resolution BVV Friedrichshain-Kreuzberg</field>  
+  <field name="bezirk">Pankow</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">widersprechen</field>
+<field name="word">finanzsenators</field>
+<field name="word">millionen</field>
+<field name="word">vorsieht</field>
+<field name="word">deutlich</field>
+<field name="word">bezirklichen</field>
+<field name="word">abgeordnetenhauses</field>
+<field name="word">zuweisungen</field>
+<field name="word">fordern</field>
+<field name="word">erhöhung</field>
+<field name="word">plänen</field>
+<field name="word">euro</field>
+<field name="word">mindestens</field>
+<field name="word">mitglieder</field>
+<field name="word">verabschieden</field>
+<field name="word">landeshaushalt</field>
+  
+  <field name="text_de">Wir fordern die Mitglieder des Abgeordnetenhauses auf, den Plänen des Finanzsenators deutlich zu widersprechen und einen Landeshaushalt zu verabschieden, der eine Erhöhung der bezirklichen Zuweisungen um mindestens 50 Millionen Euro vorsieht.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3198&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">244</field>  
+  <field name="parteien">1</field>   
+</doc></add>

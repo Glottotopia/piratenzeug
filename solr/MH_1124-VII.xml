@@ -1,0 +1,33 @@
+<add><doc>
+  <field name="id">MH_1124/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bürgerhaushalt, ein großer Erfolg! - Verbesserung des Prinzips der Sparvorschläge im Bürgerhaushaltverfahren (VIII)</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">umsetzung</field>
+<field name="word">zukunft</field>
+<field name="word">führen</field>
+<field name="word">tatsächlich</field>
+<field name="word">beschließen</field>
+<field name="word">anzuwenden</field>
+<field name="word">darauf</field>
+<field name="word">geachtet</field>
+<field name="word">verringerung</field>
+<field name="word">ausgaben</field>
+<field name="word">außerdem</field>
+<field name="word">stärker</field>
+<field name="word">quoren</field>
+<field name="word">sparvorschläge</field>
+<field name="word">variable</field>
+<field name="word">möge</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht, für Sparvorschläge variable Quoren anzuwenden. Außerdem soll in Zukunft stärker darauf geachtet werden, dass Sparvorschläge in der Umsetzung tatsächlich zur Verringerung bei Ausgaben für den Bezirk führen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5426&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">262</field>  
+  <field name="parteien">1</field>   
+</doc></add>

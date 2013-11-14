@@ -1,0 +1,51 @@
+<add><doc>
+  <field name="id">NK_0266/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Konsensliste als Drucksache im ALLRIS</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">benutzt</field>
+<field name="word">beschließen</field>
+<field name="word">niederschrift</field>
+<field name="word">dokument</field>
+<field name="word">ntlicht</field>
+<field name="word">eigenes</field>
+<field name="word">aufgefunden</field>
+<field name="word">leichter</field>
+<field name="word">zukunft</field>
+<field name="word">allris</field>
+<field name="word">ffentlichung</field>
+<field name="word">bisher</field>
+<field name="word">tzliche</field>
+<field name="word">konsensliste</field>
+<field name="word">findet</field>
+<field name="word">möge</field>
+<field name="word">sondern</field>
+<field name="word">zusä</field>
+<field name="word">verö</field>
+<field name="word">besser</field>
+<field name="word">begrü</field>
+<field name="word">ndung</field>
+<field name="word">zeitnah</field>
+  
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+D
+as Bezirksamt wird ersucht, dass in Zukunft die Konsensliste nach Beschluss durch die BVV nicht nur in der Niederschrift zur BVV-Sitzung, sondern auch als Drucksache im ALLRIS zeitnah verö
+ffe
+ntlicht werden soll.
+ 
+Begrü
+ndung
+:
+Bisher findet sich die Konsensliste in der Niederschrift zur BVV-Sitzung. Durch die zusä
+tzliche Verö
+ffentlichung als Drucksache kann sie leichter aufgefunden, sowie als eigenes Dokument besser benutzt werden.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3889&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">498</field>  
+  <field name="parteien">1</field>   
+</doc></add>

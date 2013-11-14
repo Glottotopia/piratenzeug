@@ -1,0 +1,26 @@
+<add><doc>
+  <field name="id">TS_0791/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Landschaftsschutzgebiet 7-69</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließen</field>
+<field name="word">weiter</field>
+<field name="word">mehrheit</field>
+<field name="word">wolle</field>
+<field name="word">empfiehlt</field>
+<field name="word">gefunden</field>
+<field name="word">verfolgt</field>
+  <field name="ausschuss">Verkehr</field>
+  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung:
+ 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Der Antrag wird nicht weiter verfolgt, da er keine Mehrheit gefunden hat.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4587&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">189</field>  
+  <field name="parteien">1</field>   
+</doc></add>

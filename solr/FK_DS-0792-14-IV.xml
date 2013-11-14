@@ -1,0 +1,51 @@
+<add><doc>
+  <field name="id">FK_DS/0792-14/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Entwurf des Bezirkshaushaltsplans für die Haushaltsjahre 2014 und 2015 Hier: Instandsetzung Wasserpumpenanlage auf dem Spielplatz vor dem Kreuzberg-Museum</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">erläuterung</field>
+<field name="word">kapitel</field>
+<field name="word">titel</field>
+<field name="word">spielplatz</field>
+<field name="word">haushaltsplan</field>
+<field name="word">beschließen</field>
+<field name="word">museum</field>
+<field name="word">wasserpumpenanlage</field>
+<field name="word">bestritten</field>
+<field name="word">beschließt</field>
+<field name="word">eingefügt</field>
+<field name="word">abgelehnt</field>
+<field name="word">änderungsantrag</field>
+<field name="word">instandsetzung</field>
+<field name="word">davon</field>
+<field name="word">möge</field>
+<field name="word">kreuzberg</field>
+  <field name="ausschuss">Personal</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Im Haushaltsplan wird im Kapitel 3810 zum Titel 52110 die Erläuterung eingefügt: " Die Instandsetzung der Wasserpumpenanlage auf dem Spielplatz vor dem Kreuzberg-Museum wird davon mit bis zu 500 ? bestritten."
+ 
+ 
+PHI 
+17.09.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Der Änderungsantrag wird abgelehnt.
+ 
+ 
+BVV 
+18.09.2013
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
+Der Änderungsantrag wird abgelehnt.
+ </field> 
+  <field name="status">abgelehnt</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5678&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">481</field>  
+  <field name="parteien">1</field>   
+</doc></add>

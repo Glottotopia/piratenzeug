@@ -1,0 +1,47 @@
+<add><doc>
+  <field name="id">MH_0466/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bürgerversammlung zur Vermittlung der Problemlage um die Bürgerämter</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">teilnehmerinnen</field>
+<field name="word">beratung</field>
+<field name="word">stadtteilen</field>
+<field name="word">über</field>
+<field name="word">informieren</field>
+<field name="word">beschließen</field>
+<field name="word">einwohnerversammlungen</field>
+<field name="word">teilnehmern</field>
+<field name="word">problemlage</field>
+<field name="word">diskutiert</field>
+<field name="word">sachstand</field>
+<field name="word">berücksichtigt</field>
+<field name="word">bürgerämter</field>
+<field name="word">versammlung</field>
+<field name="word">vorschläge</field>
+<field name="word">erfasst</field>
+<field name="word">präsentiert</field>
+<field name="word">ausgewertet</field>
+<field name="word">weitere</field>
+<field name="word">möge</field>
+<field name="word">aktuelle</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht
+,
+ 
+im Rahmen der Einwohnerversammlungen in den Stadtteilen auch über die
+ 
+Problemlage um die Bürgerämter 
+zu informieren
+. Dabei soll der aktuelle Sachstand präsentiert und mit den 
+Teilnehmerinnen und 
+Teilnehmern der Versammlung diskutiert werden. Vorschläge der Versammlung sollen erfasst, ausgewertet und für die weitere Beratung berücksichtigt werden.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4747&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">414</field>  
+  <field name="parteien">1</field>   
+</doc></add>

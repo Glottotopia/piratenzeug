@@ -1,0 +1,90 @@
+<add><doc>
+  <field name="id">MI_0640/IV</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Aktenverzeichnisse</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">dezentral</field>
+<field name="word">führen</field>
+<field name="word">informationsfreiheitsgesetz</field>
+<field name="word">mitte</field>
+<field name="word">vorhaben</field>
+<field name="word">bisher</field>
+<field name="word">veröffentlichen</field>
+<field name="word">zeitraum</field>
+<field name="word">informationsfreiheitsgesetzes</field>
+<field name="word">öffentlichen</field>
+<field name="word">bitte</field>
+<field name="word">erfolgen</field>
+<field name="word">möglichkei</field>
+<field name="word">bürger</field>
+<field name="word">welcher</field>
+<field name="word">seitens</field>
+<field name="word">ktenverzeichnisse</field>
+<field name="word">führt</field>
+<field name="word">umgesetzt</field>
+<field name="word">aktenpläne</field>
+<field name="word">aktenverzeichnisse</field>
+<field name="word">welchem</field>
+<field name="word">angedacht</field>
+<field name="word">zentral</field>
+<field name="word">form</field>
+<field name="word">besteht</field>
+<field name="word">internet</field>
+<field name="word">öffentlic</field>
+<field name="word">falls</field>
+<field name="word">fragen</field>
+<field name="word">unterteilen</field>
+<field name="word">zukünftig</field>
+<field name="word">datenschutzes</field>
+<field name="word">forderung</field>
+<field name="word">einsichtnahme</field>
+<field name="word">berücksichtigung</field>
+<field name="word">gründen</field>
+<field name="word">bezirksverwaltung</field>
+<field name="word">geführt</field>
+<field name="word">bestehen</field>
+<field name="word">bezirksamtes</field>
+  
+  <field name="text_de">Wir fragen das Bezirksamt:
+ 
+1. In welcher Form führt die Bezirksverwaltung
+A
+ktenverzeichnisse gem. § 17 (5) 
+Informationsfreiheitsgesetz Berlin?
+ 
+1.2 Falls keine Aktenverzeichnisse geführt werden. -
+Aus welche
+n Gründen wurde diese Forderung 
+des Informationsfreiheitsgesetzes
+Berlin bisher in Mitte nicht umgesetzt?
+ 
+2. Welche öffentlic
+hen Stellen im Bezirksamt Mitte 
+führen diese Aktenpläne zentral, welche führen
+ 
+diese dezentral?
+ 
+3. Welche Möglichkei
+ten bestehen für den Bürger zur 
+Einsichtnahme in die Aktenpläne? (Bitte nach
+ 
+öffentlichen Stellen im Bezirk unterteilen!)
+ 
+4. Besteht seitens
+ des Bezirksamtes das Vorhaben, 
+Aktenpläne zukünftig zentral im Internet unter
+ 
+Berücksichtigung des Datenschutzes
+zu veröffentlichen?
+ 
+4.1 Falls ja, in welcher Form wird dies erfolgen und
+in welchem Zeitraum ist es angedacht?
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5273&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">841</field>  
+  <field name="parteien">1</field>   
+</doc></add>

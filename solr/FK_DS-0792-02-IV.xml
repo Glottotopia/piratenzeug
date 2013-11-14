@@ -1,0 +1,79 @@
+<add><doc>
+  <field name="id">FK_DS/0792-02/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Entwurf des Bezirkshaushaltsplans für die Haushaltsjahre 2014 und 2015 Hier: Haushaltsehrlichkeit statt heimliche Verschrottung</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">aber</field>
+<field name="word">titel</field>
+<field name="word">entsorgung</field>
+<field name="word">sollten</field>
+<field name="word">monitore</field>
+<field name="word">umweltverträ</field>
+<field name="word">hardware</field>
+<field name="word">verursachen</field>
+<field name="word">gliche</field>
+<field name="word">bisher</field>
+<field name="word">ckgezogen</field>
+<field name="word">hrung</field>
+<field name="word">vorschriftsmäß</field>
+<field name="word">zahlreiche</field>
+<field name="word">drucke</field>
+<field name="word">aufgefü</field>
+<field name="word">beschließ</field>
+<field name="word">einfü</field>
+<field name="word">angesetzt</field>
+<field name="word">begrü</field>
+<field name="word">technik</field>
+<field name="word">ersetzt</field>
+<field name="word">ndung</field>
+<field name="word">neuer</field>
+<field name="word">kapitel</field>
+<field name="word">haushaltsentwurf</field>
+<field name="word">zurü</field>
+<field name="word">ausgaben</field>
+<field name="word">altgerä</field>
+<field name="word">eingefü</field>
+<field name="word">windows</field>
+<field name="word">merkposten</field>
+<field name="word">haushaltsehrlichkeit</field>
+<field name="word">abgebildet</field>
+  <field name="ausschuss">Personal</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung mö
+ge beschließ
+en:
+ 
+Im Kapitel 3306 
+wird ein neuer Ausgaben-Titel "Entsorgung IT-Technik" eingefü
+gt und mit einem Merkposten von 1000
+ 
+?
+ angesetzt.
+ 
+Begrü
+ndung:
+ 
+Im Rahmen der Windows 7 Einfü
+hrung soll zahlreiche IT-Hardware (PCs, Monitore, Drucke
+r etc) ersetzt werden. Die vorschriftsmäß
+ige und umweltverträ
+gliche Entsorgung der Altgerä
+te wird Kosten verursachen. Diese sind bisher im Haushaltsentwurf nicht abgebildet, sollten aber im Rahmen der Haushaltsehrlichkeit mit aufgefü
+hrt werden.
+ 
+PHI 
+17.09.2013
+Die 
+Drucksache
+ 
+wird zurü
+ckgezogen.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5648&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">599</field>  
+  <field name="parteien">1</field>   
+</doc></add>

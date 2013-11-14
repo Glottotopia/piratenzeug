@@ -1,0 +1,162 @@
+<add><doc>
+  <field name="id">FK_DS/0484/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Kollaborative Textarbeit ermöglichen</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">text</field>
+<field name="word">kollaborative</field>
+<field name="word">immer</field>
+<field name="word">länglich</field>
+<field name="word">selbst</field>
+<field name="word">erläuterungen</field>
+<field name="word">diskutiert</field>
+<field name="word">änderungsantrags</field>
+<field name="word">personal</field>
+<field name="word">diskussion</field>
+<field name="word">nachfragen</field>
+<field name="word">gleichberechtigung</field>
+<field name="word">möge</field>
+<field name="word">textarbeit</field>
+<field name="word">internetzugriff</field>
+<field name="word">begonnen</field>
+<field name="word">rechnungsprüfung</field>
+<field name="word">antrages</field>
+<field name="word">transparenz</field>
+<field name="word">begründung</field>
+<field name="word">elektronisches</field>
+<field name="word">wobei</field>
+<field name="word">absätze</field>
+<field name="word">zeit</field>
+<field name="word">sachlichern</field>
+<field name="word">abhilfe</field>
+<field name="word">teil</field>
+<field name="word">server</field>
+<field name="word">überweisung</field>
+<field name="word">lösungen</field>
+<field name="word">ausschussräumen</field>
+<field name="word">möglichkeit</field>
+<field name="word">reibungsverluste</field>
+<field name="word">beschließen</field>
+<field name="word">technischen</field>
+<field name="word">datenschutzaspekte</field>
+<field name="word">investitionen</field>
+<field name="word">schreiben</field>
+<field name="word">missverständnisse</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">antragsteller</field>
+<field name="word">feder</field>
+<field name="word">zulässigkeit</field>
+<field name="word">rückfragen</field>
+<field name="word">anspruch</field>
+<field name="word">interner</field>
+<field name="word">version</field>
+<field name="word">bedeutet</field>
+<field name="word">aktuellen</field>
+<field name="word">gemeinsames</field>
+<field name="word">erhebt</field>
+<field name="word">zeitersparnis</field>
+<field name="word">zurückgezogen</field>
+<field name="word">drahtlose</field>
+<field name="word">schätzt</field>
+<field name="word">vorliegen</field>
+<field name="word">textversion</field>
+<field name="word">entweder</field>
+<field name="word">änderungsvorschlägen</field>
+<field name="word">technische</field>
+<field name="word">beinhaltet</field>
+<field name="word">schaffen</field>
+<field name="word">aktuelle</field>
+<field name="word">betragen</field>
+<field name="word">aber</field>
+<field name="word">googledocs</field>
+<field name="word">ausschüssen</field>
+<field name="word">lesend</field>
+<field name="word">häufig</field>
+<field name="word">beschließt</field>
+<field name="word">ausschussteilnehmer</field>
+<field name="word">gerne</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">sicht</field>
+<field name="word">achten</field>
+<field name="word">bütra</field>
+<field name="word">folgende</field>
+<field name="word">ausschusssitzungen</field>
+<field name="word">internetverbindung</field>
+<field name="word">viele</field>
+<field name="word">rechner</field>
+<field name="word">liste</field>
+<field name="word">schon</field>
+<field name="word">umsetzung</field>
+<field name="word">ermöglicht</field>
+<field name="word">auftreten</field>
+<field name="word">änderungsanträge</field>
+<field name="word">haushalt</field>
+<field name="word">zuverlässige</field>
+<field name="word">teilweise</field>
+<field name="word">verfügung</field>
+<field name="word">vollständigkeit</field>
+<field name="word">geht</field>
+<field name="word">grundlagen</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">prüfen</field>
+<field name="word">rechtlichen</field>
+<field name="word">sicherheits</field>
+<field name="word">längst</field>
+<field name="word">sobald</field>
+<field name="word">dokument</field>
+<field name="word">steht</field>
+<field name="word">rechtlicher</field>
+<field name="word">schreibend</field>
+<field name="word">vorsitzende</field>
+<field name="word">vorsitzenden</field>
+<field name="word">weiterhin</field>
+<field name="word">während</field>
+<field name="word">piratenfraktion</field>
+<field name="word">können</field>
+<field name="word">schreibzugriff</field>
+<field name="word">drittanbieters</field>
+<field name="word">diktiert</field>
+<field name="word">gemeinsame</field>
+<field name="word">konkurrierenden</field>
+<field name="word">steller</field>
+<field name="word">anträgen</field>
+<field name="word">etherpad</field>
+<field name="word">beamer</field>
+<field name="word">zugreifen</field>
+  <field name="ausschuss">Personal</field>
+<field name="ausschuss">Bürgerbeteiligung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die BVV beauftragt das Bezirksamt, die rechtlichen, technischen und sachlichern Grundlagen für eine kollaborative Textarbeit an Anträgen während von Ausschusssitzungen zu prüfen. Dabei ist insbesondere auf Gleichberechtigung der Ausschussteilnehmer, Sicherheits- und Datenschutzaspekte zu achten. Bei rechtlicher Zulässigkeit soll mit der technischen Umsetzung begonnen werden, sobald in den Ausschussräumen eine zuverlässige drahtlose Internetverbindung zur Verfügung steht.
+ 
+Begründung:
+ 
+Kollaborative Textarbeit bedeutet, dass alle Ausschussteilnehmer auf ein gemeinsames elektronisches Dokument lesend und schreibend zugreifen können. Zur Zeit ist es in den Ausschüssen so, dass der Vorsitzende die aktuelle Textversion mit, zum Teil konkurrierenden, Änderungsvorschlägen vorliegen hat. Die Diskussion im Ausschuss geht aber nicht immer um die aktuelle Version. So werden teilweise länglich Absätze diskutiert, die schon längst nicht mehr Teil des Antrages sind. Eine gemeinsame Sicht auf den aktuellen Text kann hier Abhilfe schaffen. Eine gemeinsame Sicht kann entweder durch einen Beamer oder durch Internetzugriff auf das gemeinsame Dokument ermöglicht werden.
+ 
+Weiterhin werden Änderungsanträge häufig dem Vorsitzenden in die Feder diktiert, wobei viele Reibungsverluste auftreten (Nachfragen, Missverständnisse etc). Ein Schreibzugriff auf ein elektronisches Dokument kann hier Abhilfe schaffen, da der Steller des Änderungsantrags selbst schreiben kann. Die Piratenfraktion schätzt, dass die Zeitersparnis ca. 50% betragen kann und steht für Rückfragen gerne zur Verfügung.
+ 
+Technische Erläuterungen:
+ 
+Die folgende Liste beinhaltet technische Lösungen. Sie erhebt nicht den Anspruch auf Vollständigkeit.
+ 
+Möglichkeit 1) GoogleDocs 
+Möglichkeit 2) Etherpad-Server eines Drittanbieters 
+Möglichkeit 3) interner Etherpad-Server auf einem Rechner des Bezirks
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: Ausschuss für Bürgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschäftsordnung, Ausschuss für Personal, Haushalt und Investitionen, Rechnungsprüfung ff.
+ 
+BüTra 
+13.12.2012
+ 
+Vom Antragsteller zurückgezogen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5244&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">2219</field>  
+  <field name="parteien">1</field>   
+</doc></add>

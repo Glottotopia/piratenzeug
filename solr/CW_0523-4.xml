@@ -1,0 +1,45 @@
+<add><doc>
+  <field name="id">CW_0523/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Barrierefreie Aufzüge ausschildern</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field> 
+  <field name="word">orientierung</field>
+<field name="word">stückler</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">beschließ</field>
+<field name="word">erleichtert</field>
+<field name="word">charlottenburg</field>
+<field name="word">ursprungstext</field>
+<field name="word">aufzüge</field>
+<field name="word">installieren</field>
+<field name="word">beschilderung</field>
+<field name="word">verwaltungshandeln</field>
+<field name="word">rollstuhlfahrer</field>
+<field name="word">rathaus</field>
+<field name="word">judith</field>
+<field name="word">nutzende</field>
+  <field name="ausschuss">Bürgerdienste</field>
+  <field name="text_de">D
+ie BVV beschließ
+t
+:
+ 
+Die Drucksache ist durch Verwaltungshandeln erledigt.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ 
+ 
+Ursprungstext:
+Das Bezirksamt wird gebeten, im Rathaus Charlottenburg eine Beschilderung zu installieren, die eine Orientierung für Aufzüge nutzende Rollstuhlfahrer erleichtert.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4787&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">312</field>  
+  <field name="parteien">2</field>   
+</doc></add>

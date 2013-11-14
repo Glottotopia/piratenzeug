@@ -1,0 +1,20 @@
+<add><doc>
+  <field name="id">CW_0077/4</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Integrationspreis Charlottenburg-Wilmersdorf</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  
+  
+  <field name="text_de"> </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4341&amp;options=4</field>  
+  <field name="#words">5</field>  
+  <field name="#chars">1</field>  
+  <field name="parteien">5</field>   
+</doc></add>

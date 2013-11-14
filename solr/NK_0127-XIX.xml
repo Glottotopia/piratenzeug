@@ -1,0 +1,40 @@
+<add><doc>
+  <field name="id">NK_0127/XIX</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_-_SB</field>  
+  <field name="titel">Verkehr vor Kita beruhigen</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field>
+<field name="partei">CDU</field> 
+  <field name="word">kita</field>
+<field name="word">absprache</field>
+<field name="word">schneeballenweg</field>
+<field name="word">strecke</field>
+<field name="word">worden</field>
+<field name="word">tempo</field>
+<field name="word">höchstgeschwindigkeit</field>
+<field name="word">versetzte</field>
+<field name="word">flurweg</field>
+<field name="word">kitaleitung</field>
+<field name="word">sieht</field>
+<field name="word">eingerichtet</field>
+<field name="word">orchideenweg</field>
+<field name="word">vorgeschriebener</field>
+<field name="word">hiermit</field>
+<field name="word">elternvertretung</field>
+<field name="word">erfolgt</field>
+<field name="word">parken</field>
+  
+  <field name="text_de">Eine Strecke mit Tempo 10 als vorgeschriebener Höchstgeschwindigkeit ist vor der Kita im Orchideenweg vom Schneeballenweg bis zum Flurweg am 
+26.07.2012
+ eingerichtet worden. Das versetzte Parken ist nach Absprache mit der Kitaleitung und Elternvertretung nicht erfolgt.
+ 
+Das Bezirksamt sieht hiermit den Beschluss der BVV als erledigt an.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3750&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">340</field>  
+  <field name="parteien">4</field>   
+</doc></add>

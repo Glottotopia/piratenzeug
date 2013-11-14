@@ -1,0 +1,43 @@
+<add><doc>
+  <field name="id">TS_0755/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Dokumente zur Säntisstrasse auf die Bezirksamtsseiten</field>  
+  <field name="bezirk">Tempelhof_Schöneberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">bürgerschaft</field>
+<field name="word">information</field>
+<field name="word">bezirksamtsseiten</field>
+<field name="word">beschließen</field>
+<field name="word">säntisstrasse</field>
+<field name="word">auftrag</field>
+<field name="word">wolle</field>
+<field name="word">säntispark</field>
+<field name="word">mündlich</field>
+<field name="word">angefertigte</field>
+<field name="word">zustimmung</field>
+<field name="word">internet</field>
+<field name="word">begründung</field>
+<field name="word">grüner</field>
+<field name="word">vereins</field>
+<field name="word">einwohnerantrag</field>
+<field name="word">rechtsgutachten</field>
+  
+  <field name="text_de"> 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Das Bezirksamt wird ersucht, den Einwohnerantrag zur Säntisstrasse und das im Auftrag des Grüner Säntispark e.V. angefertigte Rechtsgutachten
+ nach Zustimmung des Vereins
+ auf den Bezirksamtsseiten im Internet der Bürgerschaft zur Information zu stellen.
+ 
+ 
+Begründung
+:
+ggf. mündlich
+ </field> 
+  <field name="status">abgelehnt</field>
+  <field name="location">52.4121565,13.3760178</field>
+  <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4551&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">344</field>  
+  <field name="parteien">1</field>   
+</doc></add>

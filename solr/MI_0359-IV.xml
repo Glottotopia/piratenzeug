@@ -1,0 +1,55 @@
+<add><doc>
+  <field name="id">MI_0359/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Konsequente Transparenz statt Lippenbekenntnissen</field>  
+  <field name="bezirk">Mitte</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">beschließen</field>
+<field name="word">absatz</field>
+<field name="word">mitte</field>
+<field name="word">verwaltung</field>
+<field name="word">stattfindender</field>
+<field name="word">formulierung</field>
+<field name="word">ersetzen</field>
+<field name="word">satz</field>
+<field name="word">diesen</field>
+<field name="word">umstände</field>
+<field name="word">verschieben</field>
+<field name="word">möge</field>
+<field name="word">schutz</field>
+<field name="word">sitzungen</field>
+<field name="word">personenbezogener</field>
+<field name="word">soweit</field>
+<field name="word">änderung</field>
+<field name="word">seine</field>
+<field name="word">rechtlich</field>
+<field name="word">besonderen</field>
+<field name="word">ende</field>
+<field name="word">ältestenrat</field>
+<field name="word">nichtöffentlicher</field>
+<field name="word">vorliegen</field>
+<field name="word">geregelten</field>
+<field name="word">beziehende</field>
+<field name="word">gesetz</field>
+<field name="word">teil</field>
+<field name="word">gründen</field>
+<field name="word">öffentlich</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">daten</field>
+  
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+Die Bezirksverordnetenversammlung möge eine Änderung des
+§ 12, Absatz 4 der Geschäftsordnung der Bezirksverordnetenversammlung Mitte von Berlin beschließen:
+Der sich auf den Ältestenrat beziehende Satz Seine Sitzungen sind nicht öffentlich. ist zu ersetzen durch die Formulierung Seine Sitzungen sind öffentlich, soweit keine besonderen,
+rechtlich geregelten Umstände vorliegen, wie der Schutz personenbezogener Daten nach dem Gesetz zum Schutz personenbezogener Da
+ten in der Berliner Verwaltung. Ein aus diesen Gründen stattfindender 
+nichtöffentlicher Teil
+ ist an das Ende einer Sitzung zu verschieben.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=4994&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">663</field>  
+  <field name="parteien">1</field>   
+</doc></add>

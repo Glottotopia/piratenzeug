@@ -1,0 +1,22 @@
+<add><doc>
+  <field name="id">SP_0777/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Tempo 30 auf Eiswerder - bevor jemand zu Schaden kommt</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">zuständigen</field>
+<field name="word">eiswerder</field>
+<field name="word">tempo</field>
+<field name="word">insel</field>
+  
+  <field name="text_de">Das Bezirksamt wird beauftragt, sich bei den zuständigen Stellen für Tempo 30
+ 
+km/h auf der Insel Eiswerder einzusetzen
+.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7381&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">122</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -1,0 +1,48 @@
+<add><doc>
+  <field name="id">CW_0201/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Ferienbetreuung für Schüler/innen der 5. und 6. Klassen bei Schließung der "Hortlücke" erhalten</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">ergänzenden</field>
+<field name="word">weiterhin</field>
+<field name="word">stückler</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">beschließ</field>
+<field name="word">förderung</field>
+<field name="word">dafür</field>
+<field name="word">ursprungstext</field>
+<field name="word">betreuung</field>
+<field name="word">klassen</field>
+<field name="word">ferienbetreuung</field>
+<field name="word">verwaltungshandeln</field>
+<field name="word">angeboten</field>
+<field name="word">judith</field>
+  <field name="ausschuss">Schule</field>
+  <field name="text_de"> 
+D
+ie BVV beschließ
+t
+:
+ 
+Die Drucksache ist durch Verwaltungshandeln erledigt.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ 
+ 
+Ursprungstext:
+Das Bezirksamt wird gebeten, sich dafür einzusetzen, dass bei der ergänzenden Förderung und Betreuung für die 5. und 6. Klassen weiterhin eine Ferienbetreuung angeboten wird. 
+Der BVV ist bis zum 31. Mai 2012 zu berichten.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4465&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">374</field>  
+  <field name="parteien">4</field>   
+</doc></add>

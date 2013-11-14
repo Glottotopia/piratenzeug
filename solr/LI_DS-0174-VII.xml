@@ -1,0 +1,40 @@
+<add><doc>
+  <field name="id">LI_DS/0174/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Bezirkshaushaltsrechnung 2010 im Internet veröffentlichen</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">nehmen</field>
+<field name="word">http</field>
+<field name="word">index</field>
+<field name="word">veröffentlicht</field>
+<field name="word">bezirkshaushaltsrechnung</field>
+<field name="word">html</field>
+<field name="word">folgendes</field>
+<field name="word">internet</field>
+<field name="word">digitalisiert</field>
+<field name="word">bittet</field>
+<field name="word">lichtenberg</field>
+<field name="word">kenntnis</field>
+<field name="word">aktuelles</field>
+  
+  <field name="text_de">Das Bezirksamt bittet die Bezirksverordnetenversammlung
+, Folgendes
+ zur Kenntnis zu nehmen:
+ 
+ 
+Die Bezirkshaushaltsrechnung wurde digitalisiert und ist im Internet u
+n
+ter
+ 
+http://www.berlin.de/ba-lichtenberg/aktuelles/index.html
+ 
+veröffentlicht.
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=4835&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">252</field>  
+  <field name="parteien">1</field>   
+</doc></add>

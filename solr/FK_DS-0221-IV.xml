@@ -1,0 +1,96 @@
+<add><doc>
+  <field name="id">FK_DS/0221/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Öffentliche Bezirksamtsitzungen</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">möglichkeit</field>
+<field name="word">beantragt</field>
+<field name="word">hinweis</field>
+<field name="word">interessierte</field>
+<field name="word">beschließen</field>
+<field name="word">begründung</field>
+<field name="word">öffentlichkeit</field>
+<field name="word">tsprechenden</field>
+<field name="word">ändern</field>
+<field name="word">kommen</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">bürger</field>
+<field name="word">bezirksbürgermeisters</field>
+<field name="word">verfolgen</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">genannte</field>
+<field name="word">bütra</field>
+<field name="word">gründe</field>
+<field name="word">sorgt</field>
+<field name="word">beispiel</field>
+<field name="word">erfolgt</field>
+<field name="word">zeitpunkt</field>
+<field name="word">sitzungen</field>
+<field name="word">nenn</field>
+<field name="word">jedem</field>
+<field name="word">beschließ</field>
+<field name="word">ausschluss</field>
+<field name="word">beim</field>
+<field name="word">seine</field>
+<field name="word">nachvollziehbarkeit</field>
+<field name="word">stadtrat</field>
+<field name="word">inzelpersonenangelegenheiten</field>
+<field name="word">oben</field>
+<field name="word">transparenz</field>
+<field name="word">zurückgezogen</field>
+<field name="word">tagesordnungspunkt</field>
+<field name="word">abstimmung</field>
+<field name="word">beratung</field>
+<field name="word">entscheidungen</field>
+<field name="word">verwaltungshandeln</field>
+<field name="word">möge</field>
+<field name="word">maßnahme</field>
+<field name="word">bürgerinnen</field>
+<field name="word">überweisung</field>
+<field name="word">stadträte</field>
+<field name="word">bezirksamts</field>
+<field name="word">öffentlich</field>
+<field name="word">möglichen</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">abgelehnt</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird ersucht
+,
+ seine Geschäftsordnung so zu ändern, dass die Sitzungen des  Bezirksamts öffentlich sind. Der Ausschluss der Öffentlichkeit kann von jedem Stadtrat zu jedem Zeitpunkt der Sitzung beantragt werden. Nach Nenn
+ung der Gründe, zum Beispiel dem
+ Hinweis, dass beim en
+tsprechenden Tagesordnungspunkt E
+inzelpersonenangelegenheiten zur Beratung kommen werden, erfolgt nach einer möglichen Beratung die Abstimmung.
+ 
+Begründung:
+ 
+Diese oben genannte Maßnahme sorgt für mehr Transparenz und Nachvollziehbarkeit von Verwaltungshandeln. Interessierte Bürgerinnen und Bürger sollen die Möglichkeit erhalten, die Entscheidungen des Bezirksbürgermeisters 
+und der Stadträte zu verfolgen.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließ
+t
+:
+ 
+Überweisung: Ausschuss für Bürgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschäftsordnung 
+ 
+BüTra 
+07.06.2012
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Der Antrag wird abgelehnt.
+ 
+ÄR 
+19.06.2012
+Antrag zurückgezogen.</field> 
+  <field name="status">abgelehnt</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4958&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1070</field>  
+  <field name="parteien">1</field>   
+</doc></add>

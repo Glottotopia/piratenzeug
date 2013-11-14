@@ -1,0 +1,62 @@
+<add><doc>
+  <field name="id">CW_0118/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Otto-Grüneberg-Weg</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">Gruene</field>
+<field name="partei">Linke</field> 
+  <field name="word">postadresse</field>
+<field name="word">villa</field>
+<field name="word">ffentliche</field>
+<field name="word">offizielle</field>
+<field name="word">beheimatete</field>
+<field name="word">museum</field>
+<field name="word">entsprechend</field>
+<field name="word">benennen</field>
+<field name="word">widmen</field>
+<field name="word">schloss</field>
+<field name="word">beschlie</field>
+<field name="word">oppenheim</field>
+<field name="word">charlottenburg</field>
+<field name="word">otto</field>
+<field name="word">hebbelstra</field>
+<field name="word">wilmersdorf</field>
+<field name="word">stra</field>
+<field name="word">neberg</field>
+  <field name="ausschuss">Haushalt</field>
+<field name="ausschuss">Tiefbau</field>
+  <field name="text_de">Die BVV m
+ö
+ge beschlie
+ß
+en:
+ 
+Das Bezirksamt wird beauftragt, den Otto-Gr
+ü
+neberg-Weg zwischen Schloss- und Hebbelstra
+ß
+e als 
+ö
+ffentliche Stra
+ß
+e zu widmen und entsprechend zu benennen. Das in der Villa Oppenheim beheimatete Museum Charlottenburg-Wilmersdorf erh
+ä
+lt d
+a
+durch den Otto-Gr
+ü
+neberg-Weg. als offizielle Postadresse.
+ 
+Der BVV ist bis zum 
+30.04.2012
+ zu berichten.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4382&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">389</field>  
+  <field name="parteien">4</field>   
+</doc></add>

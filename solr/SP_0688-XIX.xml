@@ -1,0 +1,16 @@
+<add><doc>
+  <field name="id">SP_0688/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bezirkliche Haushaltsdaten für alle einsehbar machen</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">abgelehnt</field>
+  
+  <field name="text_de">Der Antrag wird abgelehnt.</field> 
+  <field name="status">abgelehnt</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7292&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">26</field>  
+  <field name="parteien">1</field>   
+</doc></add>

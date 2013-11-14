@@ -1,0 +1,66 @@
+<add><doc>
+  <field name="id">LI_DS/0442/VII</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">Bahnhof Lichtenberg</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">zurzeit</field>
+<field name="word">mülleimern</field>
+<field name="word">bereitstellung</field>
+<field name="word">schein</field>
+<field name="word">immer</field>
+<field name="word">allee</field>
+<field name="word">frankfurter</field>
+<field name="word">auskunft</field>
+<field name="word">weitere</field>
+<field name="word">alten</field>
+<field name="word">finden</field>
+<field name="word">statt</field>
+<field name="word">eingängen</field>
+<field name="word">ausgang</field>
+<field name="word">nördliche</field>
+<field name="word">daher</field>
+<field name="word">geplant</field>
+<field name="word">folgende</field>
+<field name="word">bahnhof</field>
+<field name="word">östliche</field>
+<field name="word">dort</field>
+<field name="word">bäumen</field>
+<field name="word">einbecker</field>
+<field name="word">gebaut</field>
+<field name="word">zielsetzung</field>
+<field name="word">welcher</field>
+<field name="word">pflanzung</field>
+<field name="word">maßnahmen</field>
+<field name="word">lichtenberg</field>
+<field name="word">fertig</field>
+<field name="word">umbaumaßnahmen</field>
+  
+  <field name="text_de">Am
+ Bahnhof Lichtenberg finden
+ 
+zurzeit
+ an den Eingängen immer noch Umbaumaßnahmen statt. 
+ 
+Das Bezirksamt wird daher um folgende Auskunft gebeten:
+ 
+1. Am nördliche
+n
+ Ausgang, zur alten Frankfurter Allee, wird
+ 
+mit welcher Zielsetzung gebaut?
+ 
+2. Der östliche Ausgang, zur Einbecker Str., schein
+t fertig zu sein, sind dort
+ noch weitere Maßnahmen, z.
+ 
+B. die Bereitstellung von Mülleimern und Pflanzung von Bäumen geplant?
+ 
+ </field> 
+  <field name="status">None</field>
+  <field name="location">52.5108977,13.5029164</field>
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5104&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">435</field>  
+  <field name="parteien">1</field>   
+</doc></add>

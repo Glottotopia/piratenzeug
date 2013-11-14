@@ -1,0 +1,83 @@
+<add><doc>
+  <field name="id">FK_DS/0480/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Budget für laufende Kosten des Bezirkselternausschuss Kita</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">kosten</field>
+<field name="word">kita</field>
+<field name="word">versand</field>
+<field name="word">beschließen</field>
+<field name="word">landeselternausschuss</field>
+<field name="word">bezirkselternausschuss</field>
+<field name="word">investitionen</field>
+<field name="word">beschließt</field>
+<field name="word">zuständigkeit</field>
+<field name="word">jugendhilfeausschuss</field>
+<field name="word">jährliche</field>
+<field name="word">haushalt</field>
+<field name="word">ohne</field>
+<field name="word">druck</field>
+<field name="word">personal</field>
+<field name="word">erforderlich</field>
+<field name="word">verfügen</field>
+<field name="word">arbeit</field>
+<field name="word">bezirksebene</field>
+<field name="word">kreuzberg</field>
+<field name="word">elternausschüsse</field>
+<field name="word">rückmeldebögen</field>
+<field name="word">zuwendungen</field>
+<field name="word">über</field>
+<field name="word">friedrichshain</field>
+<field name="word">erhält</field>
+<field name="word">rechnungsprüfung</field>
+<field name="word">dessen</field>
+<field name="word">unterstützung</field>
+<field name="word">zurückgezogen</field>
+<field name="word">finanzieren</field>
+<field name="word">beak</field>
+<field name="word">begründung</field>
+<field name="word">eltern</field>
+<field name="word">einrichtungen</field>
+<field name="word">euro</field>
+<field name="word">info</field>
+<field name="word">summe</field>
+<field name="word">eigene</field>
+<field name="word">möge</field>
+<field name="word">künftig</field>
+<field name="word">rechtsform</field>
+<field name="word">überweisung</field>
+<field name="word">spandau</field>
+<field name="word">laufende</field>
+<field name="word">solche</field>
+<field name="word">bezirkshaushalt</field>
+<field name="word">fallen</field>
+<field name="word">laufenden</field>
+  <field name="ausschuss">Personal</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Der 
+Bezirkselternausschuss
+ Kita (BEAK) erhält künftig aus dem Bezirkshaushalt (ab 2014/2015) eine jährliche Summe von 1.000 Euro, um Kosten der laufenden Arbeit (z.B. Druck und Versand von Eltern-
+Info
+s und Rückmeldebögen) zu finanzieren.
+ 
+Begründung: 
+Der Landeselternausschuss und auch Elternausschüsse auf Bezirksebene (z.B. in Spandau) erhalten, ohne dass sie über eine eigene Rechtsform verfügen, Zuwendungen für die laufende Arbeit. Auch für den BEAK Friedrichshain-Kreuzberg, in dessen Zuständigkeit über 200 Einrichtungen fallen, ist eine solche Unterstützung erforderlich.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: Jugendhilfeausschuss, Ausschuss für Personal, Haushalt und Investitionen, Rechnungsprüfung ff.
+ 
+Jugendhilfeausschuss 
+04.12.2012
+ 
+Drucksache zurückgezogen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5239&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">862</field>  
+  <field name="parteien">1</field>   
+</doc></add>

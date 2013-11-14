@@ -1,0 +1,86 @@
+<add><doc>
+  <field name="id">NK_0047/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Kompetenzbarrieren in Neuköllner Bibliotheken</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">überlässt</field>
+<field name="word">administration</field>
+<field name="word">blockieren</field>
+<field name="word">kostenneutral</field>
+<field name="word">alternativen</field>
+<field name="word">sieht</field>
+<field name="word">auskunft</field>
+<field name="word">eingesetzt</field>
+<field name="word">welcher</field>
+<field name="word">wortliste</field>
+<field name="word">rechner</field>
+<field name="word">getrennten</field>
+<field name="word">könnte</field>
+<field name="word">minderjährige</field>
+<field name="word">bekannt</field>
+<field name="word">realisierbarkeit</field>
+<field name="word">folgende</field>
+<field name="word">bibliotheken</field>
+<field name="word">internet</field>
+<field name="word">hinsicht</field>
+<field name="word">unbedenklichen</field>
+<field name="word">eigentlich</field>
+<field name="word">overblocking</field>
+<field name="word">kinderschutzfilter</field>
+<field name="word">automatisierten</field>
+<field name="word">internetarbeitsplätzen</field>
+<field name="word">internetseiten</field>
+<field name="word">neuköllner</field>
+<field name="word">arbeitet</field>
+<field name="word">ermöglicht</field>
+<field name="word">sperren</field>
+<field name="word">nutzen</field>
+<field name="word">bibliothekaren</field>
+<field name="word">verzichtet</field>
+<field name="word">zentrale</field>
+<field name="word">theoretisch</field>
+<field name="word">umgegangen</field>
+<field name="word">erwachsene</field>
+<field name="word">arbeitsplätze</field>
+<field name="word">wieso</field>
+<field name="word">gründen</field>
+<field name="word">problem</field>
+<field name="word">welchen</field>
+<field name="word">inhalte</field>
+  
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+1.
+     
+Aus welchen Gründen wird in Neuköllner Bibliotheken an den Internetarbeitsplätzen ein Kinderschutzfilter, welcher mit einer Wortliste arbeitet, zum Sperren von Internetseiten eingesetzt, auch wenn Erwachsene die Arbeitsplätze nutzen?
+ 
+2.
+     
+Ist das Problem des Overblocking, dem automatisierten Sperren von eigentlich unbedenklichen Internetseiten, bekannt und wie wird damit umgegangen?
+ 
+3.
+     
+Sind 
+dem Bezirksamt
+ Alternativen bekannt
+,
+ um in Bibliotheken Inhalte aus dem Internet zu sperren oder zu blockieren?
+ 
+4.
+     
+Wie 
+sieht das Bezirksamt
+ in dieser Hinsicht die Realisierbarkeit von getrennten Internetarbeitsplätzen für Erwachsene und Minderjährige?
+ 
+5.
+     
+Wieso verzichtet das Bezirksamt in den Bibliotheken auf eine zentrale Administration der Rechner, welche theoretisch kostenneutral ermöglicht werden könnte, und überlässt die Administration Bibliothekaren?
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3670&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">953</field>  
+  <field name="parteien">1</field>   
+</doc></add>

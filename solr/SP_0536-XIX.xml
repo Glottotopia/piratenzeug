@@ -1,0 +1,25 @@
+<add><doc>
+  <field name="id">SP_0536/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Projekte "Notinsel" und "Familienfreundlichkeit in der Altstadt" bekannter machen</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">projekte</field>
+<field name="word">vermarktung</field>
+<field name="word">zuständigen</field>
+<field name="word">altstadt</field>
+<field name="word">familienfreundlichkeit</field>
+<field name="word">spandau</field>
+<field name="word">notinsel</field>
+<field name="word">verbesserte</field>
+<field name="word">erneute</field>
+<field name="word">partnern</field>
+  
+  <field name="text_de">Das Bezirksamt wird beauftragt, sich bei den zuständigen Partnern für eine erneute und verbesserte Vermarktung der Projekte "Notinsel" und "Familienfreundlichkeit in der Altstadt Spandau" einzusetzen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7140&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">200</field>  
+  <field name="parteien">1</field>   
+</doc></add>

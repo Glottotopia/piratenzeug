@@ -1,0 +1,90 @@
+<add><doc>
+  <field name="id">TK_VII/0200</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Änderung der Geschäftsordnung "Protokollbestätigung"</field>  
+  <field name="bezirk">Treptow_Köpenick</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">möglichkeit</field>
+<field name="word">protokollbestätigungen</field>
+<field name="word">anfragen</field>
+<field name="word">beschließen</field>
+<field name="word">lauten</field>
+<field name="word">großen</field>
+<field name="word">köpenick</field>
+<field name="word">bisherigen</field>
+<field name="word">fraktionen</field>
+<field name="word">streichen</field>
+<field name="word">regelung</field>
+<field name="word">verfahren</field>
+<field name="word">büro</field>
+<field name="word">folgesitzung</field>
+<field name="word">beschlussprotokolle</field>
+<field name="word">abgestimmt</field>
+<field name="word">satz</field>
+<field name="word">dazugehöriges</field>
+<field name="word">widersprüche</field>
+<field name="word">liegt</field>
+<field name="word">folgt</field>
+<field name="word">erfolgen</field>
+<field name="word">nächsten</field>
+<field name="word">protokoll</field>
+<field name="word">schriftführer</field>
+<field name="word">möge</field>
+<field name="word">geregelt</field>
+<field name="word">treptow</field>
+<field name="word">über</field>
+<field name="word">ausschüsse</field>
+<field name="word">protokollbestätigung</field>
+<field name="word">unterzeichnen</field>
+<field name="word">zwar</field>
+<field name="word">folgenden</field>
+<field name="word">praxis</field>
+<field name="word">widerspruches</field>
+<field name="word">bestätigung</field>
+<field name="word">begründung</field>
+<field name="word">zugestellt</field>
+<field name="word">bspw</field>
+<field name="word">einzureichen</field>
+<field name="word">vorliegen</field>
+<field name="word">bestätigt</field>
+<field name="word">nennt</field>
+<field name="word">leiter</field>
+<field name="word">darauf</field>
+<field name="word">derzeitige</field>
+<field name="word">dann</field>
+<field name="word">konsensliste</field>
+<field name="word">ergänzt</field>
+<field name="word">entspricht</field>
+<field name="word">sinnvolles</field>
+<field name="word">beginn</field>
+<field name="word">protokolle</field>
+  <field name="ausschuss">Haushalt</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
+ 
+§ 39 (1) Satz 2 soll wie folgt lauten:
+Dieses Protokoll ist vom Leiter der Sitzung und dem Schriftführer zu unterzeichnen. 
+Es
+ liegt bis zur nächsten Sitzung der BVV im Büro der BVV aus und wird den Fraktionen zugestellt.
+§ 39 (1): Satz 3 ist zu streichen
+§ 39 (2) soll wie folgt lauten:
+Beschlussprotokolle werden zu Beginn der darauf
+ 
+folgenden BVV-Sitzung bestätigt. Widersprüche sind bis zur Bestätigung einzureichen und werden in der BVV abgestimmt.
+§ 39 (3) entspricht dem bisherigen § 39 (2)
+§ 39 (4) entspricht dem bisherigen § 39 (3)
+§ 27 (2) wird nach "Großen Anfragen," ergänzt um "Protokollbestätigungen,".
+ 
+Begründung:
+1.
+        
+Die derzeitige Regelung nennt zwar die Möglichkeit des Widerspruches. Ein dazugehöriges Verfahren ist nicht geregelt. Ein sinnvolles Verfahren ist die Bestätigung der Protokolle in der Folgesitzung, wie es bspw. für Ausschüsse bereits Praxis ist. Zu dieser werden dann die Widersprüche abgestimmt.
+2.
+        
+Wenn keine Widersprüche vorliegen, kann die Protokollbestätigung über die Konsensliste erfolgen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4299&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">1135</field>  
+  <field name="parteien">1</field>   
+</doc></add>

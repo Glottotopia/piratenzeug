@@ -1,0 +1,36 @@
+<add><doc>
+  <field name="id">SP_0637/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Gefahrenprävention für Spandauer Schülerinnen und Schüler</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">bedarf</field>
+<field name="word">status</field>
+<field name="word">spandauer</field>
+<field name="word">schulen</field>
+<field name="word">eltern</field>
+<field name="word">direkt</field>
+<field name="word">schule</field>
+<field name="word">schülern</field>
+<field name="word">gegeben</field>
+<field name="word">entsprechende</field>
+<field name="word">ergebnis</field>
+<field name="word">schülerinnen</field>
+<field name="word">ermitteln</field>
+<field name="word">unterstützung</field>
+<field name="word">bekannt</field>
+<field name="word">verhaltenshinweise</field>
+<field name="word">präventionsarbeit</field>
+<field name="word">jeweiligen</field>
+<field name="word">erforderliche</field>
+  
+  <field name="text_de">Das Bezirksamt 
+wird beauftragt, den Bedarf, Status und die erforderliche Unterstützung der Spandauer Schulen an Präventionsarbeit zu ermitteln.
+Das Ergebnis und entsprechende Verhaltenshinweise sollen den Eltern und Schülerinnen und Schülern der jeweiligen Schule direkt bekannt gegeben werden.</field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7241&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">295</field>  
+  <field name="parteien">1</field>   
+</doc></add>

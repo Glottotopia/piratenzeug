@@ -1,0 +1,50 @@
+<add><doc>
+  <field name="id">RD_0506/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Buslinie 124 Richtung Heiligensee</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">setzen</field>
+<field name="word">einz</field>
+<field name="word">entsprechenden</field>
+<field name="word">einsetzen</field>
+<field name="word">buslinie</field>
+<field name="word">empfohlen</field>
+<field name="word">richtung</field>
+<field name="word">bezirksverordne</field>
+<field name="word">gensee</field>
+<field name="word">anzunehmen</field>
+<field name="word">dafür</field>
+<field name="word">morgen</field>
+<field name="word">doppeldecker</field>
+<field name="word">zusammenarbeit</field>
+<field name="word">tenversammlung</field>
+<field name="word">sachverhalt</field>
+<field name="word">heil</field>
+<field name="word">stoßzeiten</field>
+<field name="word">empfiehlt</field>
+<field name="word">empfehlung</field>
+<field name="word">frühen</field>
+<field name="word">verkehrsausschuss</field>
+<field name="word">prüfen</field>
+  
+  <field name="text_de">Sachverhalt:
+ 
+Der Verkehrsausschuss empfiehlt der
+ Bezirksverordne
+tenversammlung, die Empfehlung - Drucksache Nr. 0506/XIX - 
+ 
+Dem Bezirksamt wird empfohlen, sich bei den entsprechenden Stellen dafür einz
+u
+setzen, in Zusammenarbeit mit der BVG zu prüfen, ob man nicht bei der Buslinie 124 Richtung Heil
+i
+gensee, in den Stoßzeiten am frühen Morgen, Doppeldecker einsetzen kann.
+ 
+anzunehmen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3645&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">395</field>  
+  <field name="parteien">1</field>   
+</doc></add>

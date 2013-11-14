@@ -1,0 +1,37 @@
+<add><doc>
+  <field name="id">MH_0461/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Hissen der Regenbogenfahne am Alice-Salomon-Platz zum Weltfriedenstag/Antikriegstag</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">salomon</field>
+<field name="word">zeichen</field>
+<field name="word">weltfriedenstag</field>
+<field name="word">beschließen</field>
+<field name="word">gegen</field>
+<field name="word">alice</field>
+<field name="word">rassismus</field>
+<field name="word">nationalismus</field>
+<field name="word">antikriegstag</field>
+<field name="word">september</field>
+<field name="word">vielfalt</field>
+<field name="word">regenbogenfahne</field>
+<field name="word">rechtsextremismus</field>
+<field name="word">homophobie</field>
+<field name="word">rathaus</field>
+<field name="word">hissen</field>
+<field name="word">möge</field>
+<field name="word">platz</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht
+,
+ am 1. September 2012 zum Weltfriedenstag/Antikriegstag vor dem Rathaus am Alice-Salomon-Platz die Regenbogenfahne als Zeichen der Vielfalt und gegen Rassismus, Homophobie, Rechtsextremismus und Nationalismus zu hissen.</field> 
+  <field name="status">angenommen</field>
+  <field name="location"></field>
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=4742&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">277</field>  
+  <field name="parteien">1</field>   
+</doc></add>

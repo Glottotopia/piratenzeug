@@ -1,0 +1,88 @@
+<add><doc>
+  <field name="id">LI_DS/0744/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Nutzung der Druckstraße des Landes Berlin</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">automatisieren</field>
+<field name="word">routin</field>
+<field name="word">abte</field>
+<field name="word">wolle</field>
+<field name="word">bietet</field>
+<field name="word">vorhandenen</field>
+<field name="word">gliche</field>
+<field name="word">reduziert</field>
+<field name="word">versenden</field>
+<field name="word">zulagern</field>
+<field name="word">bescheiden</field>
+<field name="word">itdz</field>
+<field name="word">drucker</field>
+<field name="word">aufgabenverdic</field>
+<field name="word">bearbeitung</field>
+<field name="word">beschließ</field>
+<field name="word">nnten</field>
+<field name="word">verbundener</field>
+<field name="word">verse</field>
+<field name="word">umschlagerstellung</field>
+<field name="word">nutzen</field>
+<field name="word">drucken</field>
+<field name="word">erscheint</field>
+<field name="word">druckstraß</field>
+<field name="word">soweit</field>
+<field name="word">unterhaltskosten</field>
+<field name="word">beim</field>
+<field name="word">ersparnis</field>
+<field name="word">http</field>
+<field name="word">bringt</field>
+<field name="word">begrü</field>
+<field name="word">gleichzeitig</field>
+<field name="word">sinnvoll</field>
+<field name="word">vorhandene</field>
+<field name="word">ndung</field>
+<field name="word">tung</field>
+<field name="word">vorhand</field>
+<field name="word">bescheiderteilung</field>
+<field name="word">glich</field>
+<field name="word">land</field>
+<field name="word">erfolgter</field>
+<field name="word">dienstleistungszentrum</field>
+<field name="word">personaleinsparungen</field>
+<field name="word">eablä</field>
+<field name="word">ilungen</field>
+  
+  <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließ
+en:
+ 
+Das Bezirksamt wird ersucht
+ die Bescheiderteilung soweit mö
+glich au
+s
+zulagern und die beim IT-Dienstleistungszentrum Berlin (ITDZ) vorhand
+e
+ne Druckstraß
+e zu nutzen.
+ 
+Begrü
+ndung:
+Durch Personaleinsparungen und damit verbundener Aufgabenverdic
+h
+tung erscheint es sinnvoll mö
+gliche Routin
+eablä
+ufe (hier das Drucken, Umschlagerstellung und Versenden) zu automatisieren. Die hier bereits im Land Berlin vorhandene Druckstraß
+e bietet sich hier fü
+r das Verse
+n
+den von Bescheiden nach erfolgter Bearbeitung an. Gleichzeitig kö
+nnten so die in den Abte
+ilungen vorhandenen Drucker reduziert werden, was eine Ersparnis an Unterhaltskosten mit sich bringt.
+ITDZ: 
+http://www.itdz-berlin.de/
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5406&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">752</field>  
+  <field name="parteien">1</field>   
+</doc></add>

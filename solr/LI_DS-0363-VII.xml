@@ -1,0 +1,25 @@
+<add><doc>
+  <field name="id">LI_DS/0363/VII</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme_(Abb.)</field>  
+  <field name="titel">Online-Angebote der Bürgerämter schaffen, um Vorsprachezeiten zu verringern</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">nehmen</field>
+<field name="word">bittet</field>
+<field name="word">vorlage</field>
+<field name="word">kenntnis</field>
+<field name="word">umseitige</field>
+  
+  <field name="text_de">Das Bezirksamt bittet di
+e Bezirksverordnetenversammlung
+ 
+umseitige Vorlage
+ zur Kenntnis zu nehmen:
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5025&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">103</field>  
+  <field name="parteien">1</field>   
+</doc></add>

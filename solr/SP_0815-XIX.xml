@@ -1,0 +1,46 @@
+<add><doc>
+  <field name="id">SP_0815/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Vergaberichtlinien der Ehrennadel-Verleihung ändern</field>  
+  <field name="bezirk">Spandau</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">streichen</field>
+<field name="word">aussieht</field>
+<field name="word">zeitraum</field>
+<field name="word">öffentlichen</field>
+<field name="word">auszeichnen</field>
+<field name="word">spandauer</field>
+<field name="word">zwei</field>
+<field name="word">satz</field>
+<field name="word">religiösen</field>
+<field name="word">folgt</field>
+<field name="word">kulturellen</field>
+<field name="word">bereich</field>
+<field name="word">gesellschaftspolitischen</field>
+<field name="word">über</field>
+<field name="word">punkt</field>
+<field name="word">längeren</field>
+<field name="word">außergewöhnliche</field>
+<field name="word">ehrende</field>
+<field name="word">vergaberichtlinien</field>
+<field name="word">vollbracht</field>
+<field name="word">wirtschaftlichen</field>
+<field name="word">sportlichen</field>
+<field name="word">leistungen</field>
+<field name="word">person</field>
+<field name="word">ehrennadel</field>
+<field name="word">wort</field>
+<field name="word">sozialen</field>
+<field name="word">dadurch</field>
+<field name="word">zweiten</field>
+  
+  <field name="text_de">Das Bezirksamt wird beauftragt, aus den Vergaberichtlinien für die Spandauer Ehrennadel unter Punkt zwei im zweiten Satz das Wort "religiösen" zu streichen, so dass dieser wie folgt aussieht:
+ 
+"Die zu ehrende Person soll sich dadurch auszeichnen, dass sie insbesondere im sozialen, wirtschaftlichen, kulturellen, sportlichen oder gesellschaftspolitischen (öffentlichen) Bereich über einen längeren Zeitraum außergewöhnliche Leistungen vollbracht hat."</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-spandau/bvv-online/vo020.asp?VOLFDNR=7419&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">452</field>  
+  <field name="parteien">1</field>   
+</doc></add>

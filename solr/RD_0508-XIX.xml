@@ -1,0 +1,39 @@
+<add><doc>
+  <field name="id">RD_0508/XIX</field>  
+  <field name="typ">Empfehlung</field>  
+  <field name="titel">Verlängerung der Buslinie 324</field>  
+  <field name="bezirk">Reinickendorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">schulzendorfer</field>
+<field name="word">über</field>
+<field name="word">beschließen</field>
+<field name="word">reinickendorf</field>
+<field name="word">möglich</field>
+<field name="word">wolle</field>
+<field name="word">bahnhofes</field>
+<field name="word">schluss</field>
+<field name="word">sachverhalt</field>
+<field name="word">schulzendorf</field>
+<field name="word">lassen</field>
+<field name="word">traße</field>
+<field name="word">empfohlen</field>
+<field name="word">buslinie</field>
+<field name="word">prüfen</field>
+  
+  <field name="text_de">Sachverhalt:
+ 
+Die Bezirksverordnetenversammlung wolle beschließen:
+ 
+Dem Bezirksamt Reinickendorf wird empfohlen, durch die BVG prüfen zu lassen, ob ein A
+n
+schluss des S-Bahnhofes Schulzendorf über die Schulzendorfer
+ S
+traße durch die Buslinie 324 möglich ist.
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3648&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">265</field>  
+  <field name="parteien">1</field>   
+</doc></add>

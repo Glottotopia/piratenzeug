@@ -1,0 +1,78 @@
+<add><doc>
+  <field name="id">FK_DS/0425/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Einwohnerversammlung zur geplanten Verlegung der Tram 21</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">immobilien</field>
+<field name="word">rahmenplan</field>
+<field name="word">sonntagstraße</field>
+<field name="word">beschließen</field>
+<field name="word">sollten</field>
+<field name="word">mitte</field>
+<field name="word">straßenbahnlinie</field>
+<field name="word">begründung</field>
+<field name="word">stadtqm</field>
+<field name="word">beschließt</field>
+<field name="word">hergestellt</field>
+<field name="word">legitimiert</field>
+<field name="word">soziale</field>
+<field name="word">stattfinden</field>
+<field name="word">enthaltenen</field>
+<field name="word">boxhagener</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">durchzuführen</field>
+<field name="word">geplante</field>
+<field name="word">gestaltungswettbewerb</field>
+<field name="word">klimaschutz</field>
+<field name="word">antragsteller</field>
+<field name="word">möge</field>
+<field name="word">stadtentwicklung</field>
+<field name="word">viele</field>
+<field name="word">mieten</field>
+<field name="word">verlegung</field>
+<field name="word">umwelt</field>
+<field name="word">demokratisch</field>
+<field name="word">verkehr</field>
+<field name="word">straße</field>
+<field name="word">dezember</field>
+<field name="word">bezüglich</field>
+<field name="word">anwohner</field>
+<field name="word">derzeit</field>
+<field name="word">geplanten</field>
+<field name="word">tram</field>
+<field name="word">darin</field>
+<field name="word">vorgaben</field>
+<field name="word">besorgt</field>
+<field name="word">quartiersmanagement</field>
+<field name="word">überweisung</field>
+<field name="word">stadt</field>
+<field name="word">februar</field>
+<field name="word">ostkreuz</field>
+<field name="word">einwohnerversammlung</field>
+<field name="word">zurückgezogen</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Stadtentwicklung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt wird beauftragt, eine Einwohnerversammlung zur geplanten Verlegung der Straßenbahnlinie 21 von der Boxhagener Straße in die Sonntagstraße durchzuführen. Diese soll bis Mitte Dezember 2012 stattfinden.
+Begründung: 
+Die geplante Verlegung der Straßenbahnlinie 21 von der Boxhagener Straße in die Sonntagstraße besorgt derzeit viele Anwohner. Bis Mitte Februar 2013 soll der Rahmenplan für einen Ostkreuz-Gestaltungswettbewerb der Senatsverwaltung hergestellt sein. Die darin enthaltenen Vorgaben bezüglich der Tram 21 sollten demokratisch legitimiert sein.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+ 
+Überweisung: Ausschuss für Umwelt, Klimaschutz, Verkehr und Immobilien, Ausschuss für Stadtentwicklung, Soziale Stadt und Quartiersmanagement, Mieten ff.
+ 
+StadtQM 
+12.12.2012
+ 
+Vom Antragsteller zurückgezogen.</field> 
+  <field name="status">None</field>
+  <field name="location">52.505424,13.4666233</field>
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5182&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">888</field>  
+  <field name="parteien">1</field>   
+</doc></add>

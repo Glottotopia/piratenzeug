@@ -1,0 +1,55 @@
+<add><doc>
+  <field name="id">LI_DS/0553/VII</field>  
+  <field name="typ">Mündliche_Anfrage</field>  
+  <field name="titel">Betreuung von Obdachlosen im Bezirk und deren Schutz vor Kälte in dieser Wintersaison</field>  
+  <field name="bezirk">Lichtenberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">zusammenarbeit</field>
+<field name="word">obdachlosen</field>
+<field name="word">kurzfristig</field>
+<field name="word">gender</field>
+<field name="word">weitere</field>
+<field name="word">gegen</field>
+<field name="word">gern</field>
+<field name="word">glichkeiten</field>
+<field name="word">reserven</field>
+<field name="word">bitte</field>
+<field name="word">betreffs</field>
+<field name="word">folgende</field>
+<field name="word">aufgestellt</field>
+<field name="word">notfallpl</field>
+<field name="word">schaffen</field>
+<field name="word">auskunft</field>
+<field name="word">hinweisen</field>
+<field name="word">unterbringungsm</field>
+<field name="word">lteschutz</field>
+  
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+1. Wie ist das Bezirksamt gegen
+ü
+ber Obdachlosen betreffs gen
+ü
+gender Unterbringungsm
+ö
+glichkeiten und K
+ä
+lteschutz aufgestellt (Hier bitte ggf. auch auf die Zusammenarbeit mit Tr
+ä
+gern hinweisen)? 
+ 
+2. Gibt es Reserven bzw. Notfallpl
+ä
+ne, um ggf. kurzfristig weitere W
+ä
+rme-/Unterbringungsm
+ö
+glichkeiten zu schaffen? 
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5215&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">381</field>  
+  <field name="parteien">1</field>   
+</doc></add>

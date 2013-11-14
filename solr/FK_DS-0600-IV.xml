@@ -1,0 +1,482 @@
+<add><doc>
+  <field name="id">FK_DS/0600/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Baumfällungen</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field> 
+  <field name="word">ganz</field>
+<field name="word">weshalb</field>
+<field name="word">verfahrensverlauf</field>
+<field name="word">mitverantwortlichen</field>
+<field name="word">fällung</field>
+<field name="word">scheidet</field>
+<field name="word">sieht</field>
+<field name="word">selbst</field>
+<field name="word">stehen</field>
+<field name="word">grünflächen</field>
+<field name="word">jahre</field>
+<field name="word">immobilien</field>
+<field name="word">abschluss</field>
+<field name="word">übrigens</field>
+<field name="word">über</field>
+<field name="word">neue</field>
+<field name="word">sichergestellt</field>
+<field name="word">gerade</field>
+<field name="word">hatten</field>
+<field name="word">unterstützung</field>
+<field name="word">zweck</field>
+<field name="word">antragstellern</field>
+<field name="word">fall</field>
+<field name="word">entsprechende</field>
+<field name="word">bürgerinnenbeteiligung</field>
+<field name="word">überweisung</field>
+<field name="word">geschwiegen</field>
+<field name="word">ehrenamtliche</field>
+<field name="word">zuletzt</field>
+<field name="word">sanierungsvariante</field>
+<field name="word">gerettet</field>
+<field name="word">ohne</field>
+<field name="word">seitens</field>
+<field name="word">kriterium</field>
+<field name="word">baumschutz</field>
+<field name="word">mediationsforum</field>
+<field name="word">hinaus</field>
+<field name="word">indem</field>
+<field name="word">mediationsverfahrens</field>
+<field name="word">rechtzeitig</field>
+<field name="word">lange</field>
+<field name="word">vertreten</field>
+<field name="word">abschlussvereinbarung</field>
+<field name="word">herr</field>
+<field name="word">vorliegen</field>
+<field name="word">sichtung</field>
+<field name="word">forum</field>
+<field name="word">vereinbarungen</field>
+<field name="word">geschah</field>
+<field name="word">mediationsforums</field>
+<field name="word">erhalt</field>
+<field name="word">forums</field>
+<field name="word">schaden</field>
+<field name="word">mitglied</field>
+<field name="word">genießt</field>
+<field name="word">gesonderte</field>
+<field name="word">zugehen</field>
+<field name="word">bringt</field>
+<field name="word">baustadträtin</field>
+<field name="word">fledermäuse</field>
+<field name="word">grünen</field>
+<field name="word">bestmöglichen</field>
+<field name="word">trotz</field>
+<field name="word">märz</field>
+<field name="word">intakt</field>
+<field name="word">sicherheit</field>
+<field name="word">notwendigkeit</field>
+<field name="word">hinreichend</field>
+<field name="word">rechtzeitige</field>
+<field name="word">wieder</field>
+<field name="word">gescheitert</field>
+<field name="word">geben</field>
+<field name="word">frühestens</field>
+<field name="word">unsensibles</field>
+<field name="word">eklatant</field>
+<field name="word">hochstubbens</field>
+<field name="word">hundert</field>
+<field name="word">regelt</field>
+<field name="word">mitglieder</field>
+<field name="word">zuständigen</field>
+<field name="word">zweite</field>
+<field name="word">möge</field>
+<field name="word">beschlossenen</field>
+<field name="word">überhaupt</field>
+<field name="word">klar</field>
+<field name="word">deutlich</field>
+<field name="word">information</field>
+<field name="word">bekennt</field>
+<field name="word">kurz</field>
+<field name="word">mediationsverfahren</field>
+<field name="word">getroffene</field>
+<field name="word">immer</field>
+<field name="word">studentenbad</field>
+<field name="word">hergestellt</field>
+<field name="word">beschlüsse</field>
+<field name="word">insekten</field>
+<field name="word">zahlreicher</field>
+<field name="word">tragen</field>
+<field name="word">uferbäume</field>
+<field name="word">halterung</field>
+<field name="word">belassen</field>
+<field name="word">musste</field>
+<field name="word">friedrichshain</field>
+<field name="word">beim</field>
+<field name="word">mitarbeiterin</field>
+<field name="word">mitglieds</field>
+<field name="word">fälllisten</field>
+<field name="word">anfänglichen</field>
+<field name="word">begründung</field>
+<field name="word">hauptmotiv</field>
+<field name="word">vetos</field>
+<field name="word">fünf</field>
+<field name="word">unklar</field>
+<field name="word">nötigen</field>
+<field name="word">teilnehmenden</field>
+<field name="word">konsultierung</field>
+<field name="word">gemeinsam</field>
+<field name="word">beginnen</field>
+<field name="word">einlegung</field>
+<field name="word">götterbaum</field>
+<field name="word">baumfällung</field>
+<field name="word">zwischenbericht</field>
+<field name="word">zuständig</field>
+<field name="word">stunden</field>
+<field name="word">fahrt</field>
+<field name="word">werde</field>
+<field name="word">leichtfertiger</field>
+<field name="word">baumfällliste</field>
+<field name="word">gesonderten</field>
+<field name="word">gesichert</field>
+<field name="word">unabgestimmten</field>
+<field name="word">fass</field>
+<field name="word">uferbaumbestands</field>
+<field name="word">fälschlich</field>
+<field name="word">engagement</field>
+<field name="word">unangekündigten</field>
+<field name="word">kündigte</field>
+<field name="word">öffentlichkeit</field>
+<field name="word">provozierender</field>
+<field name="word">voraussichtlich</field>
+<field name="word">landwehrkanal</field>
+<field name="word">hätte</field>
+<field name="word">vorgehen</field>
+<field name="word">bürgerinitiativen</field>
+<field name="word">millionen</field>
+<field name="word">immerhin</field>
+<field name="word">gefahr</field>
+<field name="word">jener</field>
+<field name="word">gefährdet</field>
+<field name="word">fordert</field>
+<field name="word">angeblich</field>
+<field name="word">liste</field>
+<field name="word">darüber</field>
+<field name="word">schon</field>
+<field name="word">vollkommen</field>
+<field name="word">aufwändigen</field>
+<field name="word">befahrung</field>
+<field name="word">bezirklicher</field>
+<field name="word">stehenden</field>
+<field name="word">vertrauen</field>
+<field name="word">baumfällungen</field>
+<field name="word">ebenfalls</field>
+<field name="word">geschützt</field>
+<field name="word">unterhaltungsplan</field>
+<field name="word">allen</field>
+<field name="word">fünftel</field>
+<field name="word">ufer</field>
+<field name="word">baumsachverständige</field>
+<field name="word">beabsichtigten</field>
+<field name="word">derart</field>
+<field name="word">herstellung</field>
+<field name="word">hinweise</field>
+<field name="word">vertreterinnen</field>
+<field name="word">deren</field>
+<field name="word">sukzessive</field>
+<field name="word">geltende</field>
+<field name="word">zumindest</field>
+<field name="word">dafür</field>
+<field name="word">wiederholt</field>
+<field name="word">genügt</field>
+<field name="word">höhlenbrüter</field>
+<field name="word">eschenahorns</field>
+<field name="word">fahrlässiger</field>
+<field name="word">betreffenden</field>
+<field name="word">biotop</field>
+<field name="word">beharrlich</field>
+<field name="word">denn</field>
+<field name="word">explizit</field>
+<field name="word">vorherige</field>
+<field name="word">eschenahorn</field>
+<field name="word">umgang</field>
+<field name="word">dessen</field>
+<field name="word">veranlasst</field>
+<field name="word">nachdem</field>
+<field name="word">früchte</field>
+<field name="word">umwelt</field>
+<field name="word">kritisiert</field>
+<field name="word">etwa</field>
+<field name="word">fällkommando</field>
+<field name="word">wasser</field>
+<field name="word">vegetationspflegearbeiten</field>
+<field name="word">seit</field>
+<field name="word">bezirksamts</field>
+<field name="word">vier</field>
+<field name="word">menschenmenge</field>
+<field name="word">bürgervertreterinnen</field>
+<field name="word">gefällt</field>
+<field name="word">stammholz</field>
+<field name="word">forumsbeschluss</field>
+<field name="word">kenntnis</field>
+<field name="word">baumgutachter</field>
+<field name="word">zukunft</field>
+<field name="word">beteiligenden</field>
+<field name="word">maschutz</field>
+<field name="word">informiert</field>
+<field name="word">kreuzberg</field>
+<field name="word">uferbäumen</field>
+<field name="word">anbeginn</field>
+<field name="word">weiden</field>
+<field name="word">jahresfrist</field>
+<field name="word">jedem</field>
+<field name="word">stadtrat</field>
+<field name="word">fällungen</field>
+<field name="word">versichert</field>
+<field name="word">vegetationsperiode</field>
+<field name="word">jährlichen</field>
+<field name="word">dadurch</field>
+<field name="word">teuren</field>
+<field name="word">treffen</field>
+<field name="word">konnten</field>
+<field name="word">bewilligter</field>
+<field name="word">frist</field>
+<field name="word">interessierte</field>
+<field name="word">vorlage</field>
+<field name="word">einzuhalten</field>
+<field name="word">zugesichert</field>
+<field name="word">teilnehmen</field>
+<field name="word">anberaumt</field>
+<field name="word">baum</field>
+<field name="word">abnahme</field>
+<field name="word">spricht</field>
+<field name="word">spätestens</field>
+<field name="word">erst</field>
+<field name="word">ortstermin</field>
+<field name="word">weide</field>
+<field name="word">panhoff</field>
+<field name="word">hintergrund</field>
+<field name="word">bäumen</field>
+<field name="word">überlaufen</field>
+<field name="word">einvernehmensbereisung</field>
+<field name="word">fotos</field>
+<field name="word">nachdrücklich</field>
+<field name="word">geführt</field>
+<field name="word">umgehende</field>
+<field name="word">verkehr</field>
+<field name="word">schifffahrtsamts</field>
+<field name="word">regelungen</field>
+<field name="word">euro</field>
+<field name="word">finanzmittel</field>
+<field name="word">sachverständiger</field>
+<field name="word">betonquadern</field>
+<field name="word">fällen</field>
+<field name="word">künftig</field>
+<field name="word">bäume</field>
+<field name="word">einhält</field>
+<field name="word">abzustimmen</field>
+<field name="word">glaubwürdigkeit</field>
+<field name="word">empfiehlt</field>
+<field name="word">vertreterin</field>
+<field name="word">zusammenhang</field>
+<field name="word">zuständigkeit</field>
+<field name="word">konkreten</field>
+<field name="word">unangekündigt</field>
+<field name="word">kanalbereisung</field>
+<field name="word">obwohl</field>
+<field name="word">fragliche</field>
+<field name="word">uvki</field>
+<field name="word">gleich</field>
+<field name="word">stadtnatur</field>
+<field name="word">weise</field>
+<field name="word">besetzt</field>
+<field name="word">artenschutzgründen</field>
+<field name="word">beurteilt</field>
+<field name="word">folgenden</field>
+<field name="word">neuen</field>
+<field name="word">konsensual</field>
+<field name="word">lassen</field>
+<field name="word">dennoch</field>
+<field name="word">teil</field>
+<field name="word">bezirksamtes</field>
+<field name="word">handele</field>
+<field name="word">bezirke</field>
+<field name="word">beschließen</field>
+<field name="word">hain</field>
+<field name="word">hatte</field>
+<field name="word">allgemein</field>
+<field name="word">erfolglos</field>
+<field name="word">konfliktsituation</field>
+<field name="word">zwei</field>
+<field name="word">klimaschutz</field>
+<field name="word">mehrere</field>
+<field name="word">erläuterung</field>
+<field name="word">bricht</field>
+<field name="word">wahrung</field>
+<field name="word">seine</field>
+<field name="word">ersparnis</field>
+<field name="word">nachhaltig</field>
+<field name="word">blieben</field>
+<field name="word">verzug</field>
+<field name="word">gehandelt</field>
+<field name="word">gründen</field>
+<field name="word">aber</field>
+<field name="word">einvernehmens</field>
+<field name="word">übernommen</field>
+<field name="word">beschließt</field>
+<field name="word">jene</field>
+<field name="word">verfahren</field>
+<field name="word">passieren</field>
+<field name="word">einvernehmen</field>
+<field name="word">verabredungen</field>
+<field name="word">fast</field>
+<field name="word">eingehend</field>
+<field name="word">welchem</field>
+<field name="word">naturschutz</field>
+<field name="word">welchen</field>
+<field name="word">fünfjährigen</field>
+<field name="word">mehrfach</field>
+<field name="word">haushaltsunterlage</field>
+<field name="word">getroffenen</field>
+<field name="word">evtl</field>
+<field name="word">forumsarbeitskreises</field>
+<field name="word">kurzfristigen</field>
+<field name="word">schätzungen</field>
+<field name="word">konsequent</field>
+<field name="word">notwendige</field>
+<field name="word">bürgerinnen</field>
+<field name="word">gegenüber</field>
+<field name="word">anrainerbezirke</field>
+<field name="word">interesse</field>
+<field name="word">tempelhofer</field>
+<field name="word">maßnahmen</field>
+<field name="word">baumsachverständigen</field>
+<field name="word">sorge</field>
+<field name="word">unangekündigte</field>
+<field name="word">genehmigter</field>
+<field name="word">neukölln</field>
+<field name="word">untersucht</field>
+<field name="word">informieren</field>
+<field name="word">genommen</field>
+<field name="word">lang</field>
+<field name="word">ungeachtet</field>
+<field name="word">involviert</field>
+<field name="word">möglichen</field>
+  <field name="text_de">Die BVV Friedrichshain-Kreuzberg spricht sich nachdrücklich dafür aus, dass das Bezirksamt die im Mediationsforum "Zukunft Landwehrkanal" getroffenen Vereinbarungen konsequent einhält. Im Zusammenhang mit der unangekündigten und unabgestimmten Fällung eines jener Bäume am Tempelhofer Ufer, die von BürgerInnen 2007 besetzt, von einer Menschenmenge geschützt und dadurch vor dem Fällkommando des Wasser- und Schifffahrtsamts (WSA) gerettet werden konnten, fordert die
+ 
+BVV das 
+Bezirksamt 
+auf, hinreichend dafür Sorge zu tragen, dass sich ein gegenüber Stadtnatur und BürgerInnenbeteiligung derart unsensibles Vorgehen künftig nicht wiederholt.
+ 
+ 
+ 
+Begründung:
+ 
+Die Baumfällung gefährdet, indem sie gleich mehrere getroffene Vereinbarungen eklatant bricht, die Früchte des aufwändigen, über fünfjährigen, kurz vor einer Abschlussvereinbarung stehenden Mediationsverfahrens "Zukunft Landwehrkanal", das nicht zuletzt durch jene Konfliktsituation veranlasst wurde, in leichtfertiger, fahrlässiger und provozierender Weise.
+ 
+Hintergrund:
+Das BA Friedrichshain-Kreuzberg ist seit Anbeginn Mitglied des Mediationsforums "Zukunft Landwehrkanal", vertreten durch die/den Baustadträtin/rat und eine Mitarbeiterin des FB Naturschutz und Grünflächen, und hat die Beschlüsse dieses Forums selbst mit beschlossen. Der zweite Forumsbeschluss von 2008 regelt den Umgang bei Gefahr im Verzug, wenn Uferbäume involviert sind. Er sieht umgehende Information der Mitglieder des Forumsarbeitskreises zum "Umgang mit kurzfristigen Maßnahmen" vor, die Wahrung der Frist zur Einlegung eines evtl. Vetos seitens eines AK-Mitglieds, in welchem Fall frühestens nach zwei Stunden ein Ortstermin anberaumt wird, wo mit sachverständiger Unterstützung durch den Baumgutachter, der das Vertrauen des Forums genießt, über Notwendigkeit der Fällung oder möglichen (Teil-)Erhalt mit den für den betreffenden Baum Zuständigen sowie VertreterInnen des WSA-Abz Neukölln und der BürgerInnen Einvernehmen hergestellt wird.
+ 
+Über notwendige Fällungen ohne Vorliegen von Gefahr im Verzug informieren die fünf Anrainerbezirke, deren VertreterInnen an der jährlichen Kanalbereisung zur Herstellung des Einvernehmens über notwendige Baum- und Vegetationspflegearbeiten teilnehmen, die ebenfalls teilnehmenden VertreterInnen des WSA-Abz, der BürgerInnen sowie den Baumsachverständigen, um die nötigen Maßnahmen gemeinsam abzustimmen.
+ 
+Dass über Fällungen das Mediationsforum in jedem Fall rechtzeitig informiert wird, haben alle fünf Anrainerbezirke im Verfahrensverlauf mehrfach zugesichert und auch so gehandelt.
+ 
+Im März hatten BürgervertreterInnen den FB Naturschutz und Grünflächen veranlasst, eine gesonderte Liste der beabsichtigten Fällungen am LWK dem Forum zugehen zu lassen, was auch geschah. Bei der Einvernehmensbereisung am 25. Mai 2012 wurde deutlich, dass der neuen Vertreterin des BA F'hain-Kreuzberg der Zweck dieser Befahrung trotz Erläuterung nicht klar war, denn erst nach Abschluss der Fahrt kündigte sie ganz allgemein Fällungen von Uferbäumen in bezirklicher Zuständigkeit an, hatte aber beim Passieren der immerhin 26 vom BA am LWK beabsichtigten Fällungen geschwiegen. 
+ 
+Herr Stadtrat Panhoff hat wiederholt versichert, dass es keine Fällungen geben werde, ohne die beschlossenen Regelungen des Mediationsverfahrens einzuhalten, und schon gar nicht, ohne rechtzeitige vorherige Information.
+ 
+Der fragliche Eschenahorn am Tempelhofer Ufer mit der Nr. 126 wurde spätestens ab dem 5. März 2012 und in allen folgenden Fälllisten fälschlich als "Götterbaum" geführt, gerade auch in der gesonderten Liste zu LWK-Bäumen, weshalb bis zuletzt unklar war, um welchen konkreten Baum es sich überhaupt handele. - Entsprechende Hinweise von BaL-VertreterInnen blieben erfolglos. Ein Fall von Gefahr im Verzug aber scheidet mit Sicherheit aus.
+ 
+Bereits am Studentenbad wurde in der Vegetationsperiode 2012 unangekündigt eine Weide gefällt, obwohl der geltende Unterhaltungsplan LWK von 2001 aus Artenschutzgründen bei Weiden das Belassen eines Hochstubbens als Biotop-Baum für Höhlenbrüter, Fledermäuse und Insekten empfiehlt. - Auch diese unangekündigte Fällung und ihre Art und Weise haben BürgervertreterInnen im Forum deutlich kritisiert.
+ 
+Die Fällung des Eschenahorns am Tempelhofer Ufer, der fast fünf Jahre lang mit 20.000 Euro teuren Betonquadern (angeblich) gesichert werden musste und dessen Stammholz übrigens der Baumsachverständige des Forums nach Sichtung zahlreicher Fotos als vollkommen intakt beurteilt (er hat den Baum bereits nach Abnahme der Halterung etwa vor Jahresfrist eingehend untersucht) -, diese Fällung bringt das Fass zum Überlaufen!
+ 
+Gerade das Interesse am Erhalt des Uferbaumbestands am Landwehrkanal ist ein Hauptmotiv für das lange ehrenamtliche Engagement der BürgerInnen im Mediationsverfahren. Wenn nun, nachdem sich das WSA immer wieder explizit zum "bestmöglichen Baumschutz" bekennt und eine Sanierungsvariante konsensual beschlossen wurde, die diesem Kriterium genügt, die Bezirke, die für vier Fünftel des Uferbaumbestands zuständig sind, ihn ohne Konsultierung des Forums sukzessive, aus welchen Gründen auch immer, zu fällen beginnen, ist das Verfahren zumindest für die BürgerInnen und die interessierte Öffentlichkeit ungeachtet genehmigter Haushaltsunterlage, bewilligter Finanzmittel und einer Ersparnis (gegenüber anfänglichen Schätzungen) von voraussichtlich über hundert Millionen Euro dennoch gescheitert. Seine Glaubwürdigkeit und nicht zuletzt auch die der sich beharrlich beteiligenden und für seine Beschlüsse mitverantwortlichen BürgerInnen hätte nachhaltig Schaden genommen.
+ 
+BVV 
+27.02.2013
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: Ausschuss für Umwelt, Klimaschutz, Verkehr und Immobilien
+ 
+UVKI 
+06.03.2013
+ 
+ÄA B'90/Die Grünen wird von den Antragstellern übernommen.
+ 
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die BVV Friedrichshain-Kreuzberg spricht sich nachdrücklich dafür aus, dass das Bezirksamt die im Mediationsforum "Zukunft Landwehrkanal" getroffenen Vereinbarungen konsequent einhält. Darüber hinaus wird das Bezirksamt beauftragt, im Mediationsforum Landwehrkanal Verabredungen zu treffen, wie sichergestellt werden kann Öffentlichkeit und Bürgerinitiativen rechtzeitig über Baumfällungen informiert werden, auch wenn die betreffenden Bäume bereits auf der Baumfällliste stehen.
+ 
+ 
+BVV 
+20.03.2013
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Die BVV Friedrichshain-Kreuzberg spricht sich nachdrücklich dafür aus, dass das Bezirksamt die im Mediationsforum "Zukunft Landwehrkanal" getroffenen Vereinbarungen konsequent einhält. Darüber hinaus wird das Bezirksamt beauftragt, im Mediationsforum Landwehrkanal Verabredungen zu treffen, wie sichergestellt werden kann Öffentlichkeit und Bürgerinitiativen rechtzeitig über Baumfällungen informiert werden, auch wenn die betreffenden Bäume bereits auf der Baumfällliste stehen.
+ 
+ 
+BVV 
+12.06.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird beschlossen.
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: Ausschuss für Umwelt, Kli
+maschutz, Verkehr und Immobilien
+ 
+ 
+UVKI 
+14.08.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird als Zwischenbericht zur Kenntnis genommen.
+ 
+ 
+BVV 
+28.08.2013
+ (neue Vorlage des Bezirksamts)
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+BVV 
+28.08.2013
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
+Der Zwischenbericht wird zur Kenntnis genommen.
+ 
+ 
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
+Überweisung: Ausschuss für Umwelt, Klimaschutz, Verkehr und Immobilien. 
+ 
+ 
+UVKI 
+11.09.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+BVV 
+18.09.2013
+Die Bezirksverordnetenversammlung 
+beschließt
+:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+ </field> 
+  <field name="status"></field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5380&amp;options=4</field>  
+  <field name="#words">2</field>  
+  <field name="#chars">7986</field>  
+  <field name="parteien">2</field>   
+</doc></add>

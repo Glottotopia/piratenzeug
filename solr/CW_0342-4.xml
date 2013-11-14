@@ -1,0 +1,64 @@
+<add><doc>
+  <field name="id">CW_0342/4</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Resolution Kleingartenkolonie Oeynhausen</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">SPD</field>
+<field name="partei">CDU</field>
+<field name="partei">Gruene</field> 
+  <field name="word">stückler</field>
+<field name="word">ablehnung</field>
+<field name="word">beschließt</field>
+<field name="word">ändern</field>
+<field name="word">erhalt</field>
+<field name="word">zwingend</field>
+<field name="word">kolonie</field>
+<field name="word">unterstützt</field>
+<field name="word">oeynhausen</field>
+<field name="word">senatsverwaltung</field>
+<field name="word">kenntnis</field>
+<field name="word">voraussetzung</field>
+<field name="word">senat</field>
+<field name="word">fordert</field>
+<field name="word">absicherung</field>
+<field name="word">bemühungen</field>
+<field name="word">kleingartenanlage</field>
+<field name="word">seine</field>
+<field name="word">bestürzung</field>
+<field name="word">nimmt</field>
+<field name="word">finanziellen</field>
+<field name="word">festsetzung</field>
+<field name="word">entsprechende</field>
+<field name="word">wilmersdorf</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">judith</field>
+<field name="word">finanzen</field>
+<field name="word">charlottenburg</field>
+<field name="word">risikos</field>
+<field name="word">derzeitige</field>
+<field name="word">wäre</field>
+<field name="word">bebauungsplans</field>
+<field name="word">position</field>
+<field name="word">bezirksamtes</field>
+  
+  <field name="text_de">Die BVV 
+beschließt
+:
+ 
+Die BVV Charlottenburg-Wilmersdorf unterstützt die Bemühungen des Bezirksamtes zum Erhalt der Kolonie Oeynhausen als Kleingartenanlage.
+ 
+Die BVV nimmt die derzeitige Ablehnung der Absicherung des finanziellen Risikos durch die Senatsverwaltung für Finanzen, die für eine Festsetzung eines entsprechende
+n Bebauungsplans zwingend
+ Voraussetzung wäre, mit Bestürzung zur Kenntnis und fordert den Senat auf, seine Position zu ändern.
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4606&amp;options=4</field>  
+  <field name="#words">4</field>  
+  <field name="#chars">505</field>  
+  <field name="parteien">4</field>   
+</doc></add>

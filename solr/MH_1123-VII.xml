@@ -1,0 +1,29 @@
+<add><doc>
+  <field name="id">MH_1123/VII</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Bürgerhaushalt, ein großer Erfolg! - Kostengünstige Werbematerialen für das Bürgerhaushaltsverfahren bereitstellen (VII)</field>  
+  <field name="bezirk">Marzahn_Hellersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">zukünftiger</field>
+<field name="word">beschließen</field>
+<field name="word">bewerbung</field>
+<field name="word">beschaffen</field>
+<field name="word">bisherigen</field>
+<field name="word">auszuwählen</field>
+<field name="word">alternativen</field>
+<field name="word">werbematerialien</field>
+<field name="word">kostengünstige</field>
+<field name="word">portfolio</field>
+<field name="word">bürgerhaushaltsverfahren</field>
+<field name="word">möge</field>
+  
+  <field name="text_de">Die BVV möge beschließen:
+ 
+Das Bezirksamt wird ersucht, für die Bewerbung zukünftiger Bürgerhaushaltsverfahren kostengünstige Alternativen zum bisherigen Portfolio an Werbematerialien auszuwählen und zu beschaffen. </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5425&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">216</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -1,0 +1,86 @@
+<add><doc>
+  <field name="id">FK_DS/0001-30/IV</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Änderung der vorläufigen Geschäftsordnung Hier: §53 (Protokolle)</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">tagenden</field>
+<field name="word">bürgernähe</field>
+<field name="word">beschließen</field>
+<field name="word">absatz</field>
+<field name="word">ebenfalls</field>
+<field name="word">wahlperiode</field>
+<field name="word">beschließt</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">bütra</field>
+<field name="word">veröffentlicht</field>
+<field name="word">verwaltungsmodernisierung</field>
+<field name="word">einiger</field>
+<field name="word">angewandt</field>
+<field name="word">überweisung</field>
+<field name="word">gleich</field>
+<field name="word">vergangenen</field>
+<field name="word">ausschusssitzungen</field>
+<field name="word">veröffentlichung</field>
+<field name="word">möge</field>
+<field name="word">darstellt</field>
+<field name="word">ausschüsse</field>
+<field name="word">mehrfach</field>
+<field name="word">erhält</field>
+<field name="word">folgenden</field>
+<field name="word">regelungen</field>
+<field name="word">tage</field>
+<field name="word">transparenz</field>
+<field name="word">zurückgezogen</field>
+<field name="word">zensur</field>
+<field name="word">begründung</field>
+<field name="word">vorsteher</field>
+<field name="word">problem</field>
+<field name="word">sieben</field>
+<field name="word">womit</field>
+<field name="word">kein</field>
+<field name="word">vereinbar</field>
+<field name="word">anspruch</field>
+<field name="word">vorläufigen</field>
+<field name="word">öffentlich</field>
+<field name="word">erweitert</field>
+<field name="word">kommt</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">protokolle</field>
+  <field name="ausschuss">Bürgerbeteiligung</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+§53 der vorläufigen Geschäftsordnung wird um den folgenden Absatz erweitert:
+ 
+(6) Diese Regelungen werden ebenfalls für die Protokolle der öffentlich tagenden Ausschüsse angewandt.
+ 
+ 
+ 
+Begründung:
+ 
+Der/die BVV
+‑
+ 
+Vorsteher(in) erhält die Protokolle der Ausschüsse sieben Tage nach Sitzung (§15
+ 
+Abs.
+ 
+10), womit eine Veröffentlichung kein Problem darstellt. In der vergangenen Wahlperiode wurden mehrfach keine Protokolle einiger Ausschusssitzungen veröffentlicht. Dies kommt einer Zensur gleich und ist nicht mit dem Anspruch von Bürgernähe und Transparenz der BVV vereinbar. 
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+ 
+Überweisung: Ausschuss für Bürgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschäftsordnung
+ 
+BüTra 
+15.03.2012
+ 
+Zurückgezogen.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4767&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">842</field>  
+  <field name="parteien">1</field>   
+</doc></add>

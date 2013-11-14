@@ -1,0 +1,26 @@
+<add><doc>
+  <field name="id">FK_DS/0045-65/IV</field>  
+  <field name="typ">Wahlvorlage</field>  
+  <field name="titel">Wahl eines Bürgerdeputierten</field>  
+  <field name="bezirk">Friedrichshain_Kreuzberg</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">gewählt</field>
+<field name="word">bürgerdeputierten</field>
+<field name="word">beschließen</field>
+<field name="word">eingaben</field>
+<field name="word">beschwerden</field>
+<field name="word">wolf</field>
+<field name="word">henning</field>
+<field name="word">herr</field>
+<field name="word">möge</field>
+  <field name="ausschuss">Eingaben</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Herr Henning Wolf wird zum Bürgerdeputierten im Ausschuss für Eingaben und Beschwerden gewählt.</field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4737&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">149</field>  
+  <field name="parteien">1</field>   
+</doc></add>

@@ -1,0 +1,38 @@
+<add><doc>
+  <field name="id">NK_0216/XIX</field>  
+  <field name="typ">Beschlussempfehlung_-_2._Lesung</field>  
+  <field name="titel">Neukölln fahrrad- und fußgänger/innenfreundlich (7): Hinweis auf Rechtsabbieger/innen an der Autobahnauffahrt</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field>
+<field name="partei">Linke</field>
+<field name="partei">Gruene</field> 
+  <field name="word">autobahnauffahrten</field>
+<field name="word">fahrzeugen</field>
+<field name="word">radfahrer</field>
+<field name="word">buschkrugallee</field>
+<field name="word">beschließen</field>
+<field name="word">britzer</field>
+<field name="word">zuständigen</field>
+<field name="word">antrages</field>
+<field name="word">innen</field>
+<field name="word">dafür</field>
+<field name="word">fassung</field>
+<field name="word">damm</field>
+<field name="word">aufgestellt</field>
+<field name="word">folgender</field>
+<field name="word">sichtbare</field>
+<field name="word">empfiehlt</field>
+<field name="word">warnung</field>
+<field name="word">möge</field>
+<field name="word">rechtsabbiegenden</field>
+<field name="word">annahme</field>
+  <field name="ausschuss">Verkehr</field>
+  <field name="text_de"> 11.7.0.0" />Die Bezirksverordnetenversammlung möge beschließen:Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme des Antrages in folgender Fassung:&#xa0;Das Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass an den Autobahnauffahrten Buschkrugallee und Britzer Damm für Radfahrer/innen eine sichtbare Warnung vor rechtsabbiegenden Fahrzeugen aufgestellt wird.&#xa0;&#xa0;
+</field> 
+  <field name="status">angenommen</field>
+  <field name="location">52.4573446,13.4488846</field>
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3839&amp;options=4</field>  
+  <field name="#words">3</field>  
+  <field name="#chars">425</field>  
+  <field name="parteien">3</field>   
+</doc></add>

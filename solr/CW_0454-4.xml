@@ -1,0 +1,63 @@
+<add><doc>
+  <field name="id">CW_0454/4</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
+  <field name="titel">Infrastrukturkostenberichte</field>  
+  <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">laufende</field>
+<field name="word">rückwirkend</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">veröffentlichen</field>
+<field name="word">computer</field>
+<field name="word">fünf</field>
+<field name="word">ändern</field>
+<field name="word">liegen</field>
+<field name="word">anliegend</field>
+<field name="word">hohenzollerndamm</field>
+<field name="word">geschäftsjahr</field>
+<field name="word">auszugehen</field>
+<field name="word">weiter</field>
+<field name="word">infrastrukturkostenberichte</field>
+<field name="word">kenntnisnahme</field>
+<field name="word">naumann</field>
+<field name="word">form</field>
+<field name="word">dienstgebäude</field>
+<field name="word">beigefügt</field>
+<field name="word">teilt</field>
+<field name="word">folgendes</field>
+<field name="word">rathaus</field>
+<field name="word">geeigneter</field>
+<field name="word">maschinenlesbarer</field>
+<field name="word">charlottenburg</field>
+<field name="word">ersten</field>
+<field name="word">weiterverarbeitung</field>
+<field name="word">monate</field>
+<field name="word">davon</field>
+<field name="word">daten</field>
+  <field name="ausschuss">Haushalt</field>
+  <field name="text_de"> 
+Die Bezirksverordnetenversammlung hat am 
+18.04.2013
+ beschlossen:
+ 
+Das Bezirksamt wird beauftragt, zum 
+30.06.2013
+ die Infrastrukturkostenberichte für die Dienstgebäude Rathaus Charlottenburg und Hohenzollerndamm in maschinenlesbarer (d.h. für die Weiterverarbeitung am Computer) geeigneter Form zu veröffentlichen. 
+ 
+Das Bezirksamt teilt dazu folgendes mit:
+ 
+Die Infrastrukturkostenberichte für 2012 und für die ersten fünf Monate 2013 sind anliegend für die Dienstgebäude Rathaus Charlottenburg und Hohenzollerndamm zur Kenntnisnahme beigefügt.
+ 
+Weiter Daten für das laufende Geschäftsjahr liegen noch nicht vor. Es ist davon auszugehen, dass sie die Daten für die ersten fünf Monate noch rückwirkend ändern werden.
+ 
+Naumann
+Bezirksbürgermeister                                                                                  
+ 
+ </field> 
+  <field name="status">angenommen</field>
+  
+  <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4718&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">842</field>  
+  <field name="parteien">1</field>   
+</doc></add>

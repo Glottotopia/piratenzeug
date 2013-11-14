@@ -1,0 +1,63 @@
+<add><doc>
+  <field name="id">NK_0683/XIX</field>  
+  <field name="typ">Antrag</field>  
+  <field name="titel">Mut zu neuen Wegen - Weigandufer als Fahrradstraße</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">pannierstraße</field>
+<field name="word">frequentiert</field>
+<field name="word">radwege</field>
+<field name="word">beschließen</field>
+<field name="word">fahrradwegen</field>
+<field name="word">kiehlufer</field>
+<field name="word">einsetzen</field>
+<field name="word">kreuzungen</field>
+<field name="word">alternative</field>
+<field name="word">radfahrern</field>
+<field name="word">attraktive</field>
+<field name="word">sehr</field>
+<field name="word">wäre</field>
+<field name="word">stark</field>
+<field name="word">straße</field>
+<field name="word">sonnenallee</field>
+<field name="word">verkehr</field>
+<field name="word">frei</field>
+<field name="word">treptower</field>
+<field name="word">strecke</field>
+<field name="word">ecke</field>
+<field name="word">dafür</field>
+<field name="word">weigandufer</field>
+<field name="word">schlechtem</field>
+<field name="word">radfahrerunfreundliche</field>
+<field name="word">außerdem</field>
+<field name="word">ausgeschildert</field>
+<field name="word">zugeparkt</field>
+<field name="word">parallelstraße</field>
+<field name="word">weserstraße</field>
+<field name="word">begründung</field>
+<field name="word">zustand</field>
+<field name="word">kostengünstige</field>
+<field name="word">jetzt</field>
+<field name="word">möge</field>
+<field name="word">wildenbruchstraße</field>
+<field name="word">unterbrochen</field>
+<field name="word">teilweise</field>
+<field name="word">fahrradstraße</field>
+  <field name="ausschuss">Verkehr</field>
+  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Das Bezirksamt möge sich dafür einsetzen,
+dass das Weigandufer von der Ecke Kiehlufer bis zur Pannierstraße, unterbrochen durch die Kreuzungen Treptower Straße und Wildenbruchstraße, als Fahrradstraße - frei für KFZ-Verkehr - ausgeschildert wird.
+ 
+Begründung
+:
+Da die Sonnenallee eine sehr radfahrerunfreundliche Straße ist und die Weserstraße als Parallelstraße mit Fahrradwegen sehr oft zugeparkt und die Radwege teilweise in schlechtem Zustand sind, wäre eine Fahrradstraße hier eine kostengünstige und attraktive Alternative. Außerdem wird die Strecke bereits jetzt stark von Radfahrern frequentiert.
+ 
+ </field> 
+  <field name="status">None</field>
+  <field name="location">52.4859653,13.4301048</field>
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4306&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">663</field>  
+  <field name="parteien">1</field>   
+</doc></add>

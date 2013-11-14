@@ -1,0 +1,60 @@
+<add><doc>
+  <field name="id">NK_0467/XIX</field>  
+  <field name="typ">Große_Anfrage</field>  
+  <field name="titel">Open Data für Neukölln?</field>  
+  <field name="bezirk">Neukölln</field>  
+  <field name="partei">Piraten</field> 
+  <field name="word">steht</field>
+<field name="word">haltung</field>
+<field name="word">ffentlichung</field>
+<field name="word">vorbehalte</field>
+<field name="word">verö</field>
+<field name="word">projekt</field>
+<field name="word">open</field>
+<field name="word">gegen</field>
+<field name="word">wann</field>
+<field name="word">bekannt</field>
+<field name="word">verwaltung</field>
+<field name="word">geplant</field>
+<field name="word">sitive</field>
+<field name="word">folgende</field>
+<field name="word">agenda</field>
+<field name="word">herzustellen</field>
+<field name="word">neukö</field>
+<field name="word">auskunft</field>
+<field name="word">data</field>
+<field name="word">beteiligen</field>
+<field name="word">daten</field>
+  
+  <field name="text_de">Das Bezirksamt wird um folgende Auskunft gebeten:
+ 
+1.
+         
+Ist dem Bezirksamt die Berliner Open Data Agenda bekannt
+,
+ und wie steht es dazu?
+2.
+         
+Wann ist es fü
+r Neukö
+lln geplant, sich am Open Data Berlin Projekt zu beteiligen?
+3.
+         
+Was tut das Bezirksamt, um eine po
+sitive Haltung der Verwaltung zur Verö
+ffentlichung von Daten herzustellen?
+4.
+         
+Hat das Bezirksamt Vorbehalte gegen die Open Data Agenda, wenn ja
+,
+ welche?
+ 
+ 
+ </field> 
+  <field name="status">None</field>
+  
+  <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=4090&amp;options=4</field>  
+  <field name="#words">1</field>  
+  <field name="#chars">464</field>  
+  <field name="parteien">1</field>   
+</doc></add>
