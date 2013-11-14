@@ -512,3 +512,8 @@ div.tag span.value{
 .untermenge{
     padding:1px;
 }
+
+#dym{
+    position:relative;
+    left:250px;
+}
