@@ -1,0 +1,59 @@
+function testjson(){  
+    host = "http://127.0.0.1:8085";
+    fct = "add";	 
+//     value= document.getElementById(field+id).value;
+    id = 'taa.0.1';
+    field = 'participant'
+    value = "jtest"
+    address = [host,fct,id,field,value].join('/') 
+    alert(addres)
+    YAHOO.util.Connect.asyncRequest('GET', address, { 
+        success: function(o){ 
+            try {
+                r = YAHOO.lang.JSON.parse(o.responseText);
+		alert(r)
+            }
+            catch (x) {
+                alert("An error occured: The information retrieved from the server could not be parsed. Please inform the webmaster");
+                return;
+            }
+        },
+        failure: function(o){ 
+            if (!YAHOO.util.Connect.isCallInProgress(o)) {
+                alert("Error: The database failed to return results");
+            }
+        },
+        timeout: 212
+    }); 
+}
+
+function loadXMLDoc(){
+    var xmlhttp;
+
+    host = "http://127.0.0.1:8085";
+    fct = "add";	 
+//     value= document.getElementById(field+id).value;
+    id = 'taa.0.1';
+    field = 'participant'
+    value = "jtest"
+    address = [host,fct,id,field,value].join('/') 
+    alert(address)
+    if (window.XMLHttpRequest){
+    // code for IE7+, Firefox, Chrome, Opera, Safari
+	xmlhttp=new XMLHttpRequest();
+    }
+    else{// code for IE6, IE5
+	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xmlhttp.onreadystatechange=function(){
+	alert(xmlhttp.readyState)
+	alert(xmlhttp.status)
+	if (xmlhttp.readyState==4 && xmlhttp.status==200){
+	    alert(234)
+	    alert(xmlhttp.statusText)
+	    alert(xmlhttp.responseText)  document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
+	    }
+	}
+    xmlhttp.open("GET",address,true);
+    xmlhttp.send();
+    }

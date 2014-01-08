@@ -20,7 +20,7 @@
 		<ul id="ul$field.name" name="facetul" style="display:none;">
 	    #else
 		<ul id="ul$field.name" name="facetul">
-		#set ($flag = true)
+## 		#set ($flag = true)
 	    #end
 
 	    #foreach($facet in $field.values)

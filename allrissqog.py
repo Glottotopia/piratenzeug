@@ -96,8 +96,8 @@ class ALLRis:
 	    antrag.typ = unicode(typ)  
 	    antrag.html = self.getAntragHTML(href,bezirk)
 	    antrag.text = self.getAntragText(antrag.html)
-	    antrag.status = getStatus(antrag.html)
-	    antrag.ausschuss = getAusschuss(antrag.html)
+	    antrag.status = self.getStatus(antrag.html)
+	    antrag.ausschuss = self.getAusschussFields(antrag.html)
 	    antrag.updateLengths()
 	    antraege.append(antrag)
 	return antraege
@@ -111,6 +111,7 @@ class ALLRis:
 	    return "abgelehnt"
 	if u"ohne Änderungen in der BVV beschlossen" in html:
 	    return "angenommen"
+	    
 	    
     def getAusschussFields(self, html):
 	ausschuesse =  list(set(re.findall(u"Ausschuss für ([A-Za-zÄÖÜäöüß]+)", html)))
@@ -305,8 +306,20 @@ erhalten  """.split()]
 		a.wordfields = '\n'.join(['<field name="word">%s</field>'%word for word in self.getWords(a.text)])
 		a.status = self.getStatus(a.html)
 		a.ausschussfields = self.getAusschussFields(a.html)
+		a.text = a.text.replace('& ','&amp;')\
+				    .replace('<','&lt;')\
+				    .replace('>','&gt;')\
+				    .replace('&uuml;',u'ü')\
+				    .replace('&ouml;',u'ü')\
+				    .replace('&auml;',u'ü')\
+				    .replace('&Uuml;',u'Ü')\
+				    .replace('&Ouml;',u'Ö')\
+				    .replace('&Auml;',u'Ä')\
+				    .replace('&szlig;',u'ß')\
+				    .replace('&nbsp;','')\
+				    .replace('&copy;','(c)')
 		d = a.__dict__	
-		if d['location'] in (None,'52.5166,13.3833'):
+		if d['location'] == None or d['location'].strip() in ('52.5166,13.3833',''):
 		    d['locationfield'] = ''
 		else:
 		    d['locationfield'] = '<field name="location">%s</field>' % d['location']
@@ -360,10 +373,9 @@ class Antrag:
     def getLocation(self): 	
 	def queryNominatim(p): 
 	    via, number = p
-	    locationstore = {} #change this to global 
 	    coords = None
 	    try:
-		coords = locationstore[via]
+		coords = self.bezirk.geodict[via]
 	    except KeyError: 
 		urlstring = u'http://nominatim.openstreetmap.org/search/de/berlin/{}/{}?format=xml'.format(self.bezirk.name.replace(u'_',u'-').replace(u'ö',u'%C3%B6'),urllib1.quote(via.encode('utf8'))) 
 		if number != '':  
@@ -378,10 +390,10 @@ class Antrag:
 		except AttributeError:
 		    #print via, number,
 		    print urlstring, "noresults"	
-		    locationstore[via] = ''
+		    self.bezirk.geodict[via] = ''
 		    return ''
 		coords = '%s,%s'%(latitude,longitude)
-	    locationstore[via] = coords
+	    self.bezirk.geodict[via] = coords
 	    return coords
 	    
 	nonstrasse = [u"Einbahnstraße","Einkaufsstraße",u"Fahrradstraße", u"Hauptverkehrsstraße", "Spielplatz", "Schulplatz", u"Hauptstraße", "Der Platz", "Den Platz", u"Die Straße", u"Der Straße", "Serviceplatz", "Stellplatz", "Arbeitsplatz", "Sportplatz", "Parkplatz"]
@@ -425,6 +437,7 @@ class Bezirk:
 	self.name = name
 	self.kuerzel = kuerzel
 	self.atlfdnrs = atlfdnrs
+	self.geodict = {}
 
 class Land:
     """We use the Land class for Berlin, even if other Laender do not have Bezirke as immediate constituents """    
@@ -672,18 +685,25 @@ class Land:
  
 if __name__ == '__main__':
     store = []
-    berlin = Land()
+    try:
+	berlin = pickle.load( open( "berlin.pkl", "rb" ) )
+    except IOError:
+	berlin = Land()
     allris = ALLRis()
+    #online = True	
     online = False	 
     if online:
-	for bezirk in berlin.bezirke: 
+	for i,bezirk in enumerate(berlin.bezirke): 
 	    #if bezirk.kuerzel!='FK':
 		#continue
-	    print bezirk.kuerzel
+	    print bezirk.kuerzel, bezirk.geodict
 	    for atlfdnr in bezirk.atlfdnrs:  
 		print  atlfdnr,bezirk.atlfdnrs[atlfdnr]  
-		store += allris.getantraege(bezirk,atlfdnr,bezirk.atlfdnrs[atlfdnr]) 
+		store += allris.getantraege(bezirk,atlfdnr,bezirk.atlfdnrs[atlfdnr])  
+	    print bezirk.geodict
 	    print ''
+	    berlin.bezirke[i] = bezirk
+	pickle.dump(berlin, open( "berlin.pkl", "wb" ) ) 
 	pickle.dump(store, open( "allris.pkl", "wb" ) ) 
     else:
 	store = pickle.load( open( "allris.pkl", "rb" ) )
