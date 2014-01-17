@@ -4,24 +4,31 @@
   <field name="titel">(neu) Umgestaltung der Unterführungen am S-Bahnhof Nikolassee</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">nikolassee</field>
+  <field name="word">antrags</field>
+<field name="word">nikolassee</field>
 <field name="word">lüders</field>
 <field name="word">beste</field>
 <field name="word">strandbad</field>
 <field name="word">kilometer</field>
 <field name="word">aufzüge</field>
 <field name="word">treppen</field>
+<field name="word">landschaftsplanung</field>
 <field name="word">möge</field>
 <field name="word">genutzt</field>
 <field name="word">behindertengerechte</field>
 <field name="word">über</field>
+<field name="word">umwelt</field>
 <field name="word">hippe</field>
 <field name="word">trasse</field>
 <field name="word">pendler</field>
 <field name="word">begründung</field>
+<field name="word">nnahme</field>
+<field name="word">keiner</field>
 <field name="word">schüler</field>
+<field name="word">kronhagel</field>
 <field name="word">unterführungen</field>
 <field name="word">jedoch</field>
+<field name="word">nein</field>
 <field name="word">beschließen</field>
 <field name="word">villenkolonie</field>
 <field name="word">bezieht</field>
@@ -31,34 +38,47 @@
 <field name="word">zwei</field>
 <field name="word">besuchern</field>
 <field name="word">führt</field>
+<field name="word">rögner</field>
 <field name="word">maßgeblich</field>
+<field name="word">enthaltung</field>
 <field name="word">dafür</field>
 <field name="word">schiebehilfen</field>
 <field name="word">barrierefrei</field>
 <field name="word">seiten</field>
 <field name="word">wannsee</field>
+<field name="word">angenommen</field>
 <field name="word">bahn</field>
+<field name="word">tiefbau</field>
 <field name="word">ausgestaltung</field>
 <field name="word">stellt</field>
+<field name="word">stimme</field>
 <field name="word">entweder</field>
 <field name="word">barriere</field>
 <field name="word">wäre</field>
 <field name="word">zugang</field>
 <field name="word">geeignet</field>
 <field name="word">vordereingang</field>
+<field name="word">empfohlen</field>
 <field name="word">fahrrädern</field>
 <field name="word">europaradweg</field>
 <field name="word">personen</field>
 <field name="word">erschließung</field>
 <field name="word">kinderwagen</field>
 <field name="word">rückseite</field>
+<field name="word">ausschussvorsitzender</field>
 <field name="word">nutzen</field>
+<field name="word">grüne</field>
+<field name="word">naturschutz</field>
 <field name="word">überwinden</field>
 <field name="word">erreichen</field>
 <field name="word">außerdem</field>
 <field name="word">beiden</field>
 <field name="word">parallelstraße</field>
+<field name="word">francke</field>
+<field name="word">abstimmung</field>
+<field name="word">beigetreten</field>
 <field name="word">sommerhalbjahr</field>
+<field name="word">beraten</field>
 <field name="word">unterbrochen</field>
 <field name="word">verbessert</field>
 <field name="word">zehlendorf</field>
@@ -69,6 +89,8 @@
 <field name="word">allee</field>
 <field name="word">anwohnern</field>
 <field name="word">gestaltet</field>
+<field name="word">bezirksverordnetenvorsteher</field>
+<field name="word">stim</field>
 <field name="word">zuständigen</field>
 <field name="word">ausgang</field>
 <field name="word">beide</field>
@@ -90,6 +112,7 @@
 <field name="word">barrierefreien</field>
 <field name="word">lang</field>
 <field name="word">fußgänger</field>
+<field name="word">ausschusses</field>
 <field name="word">steglitz</field>
   <field name="ausschuss">Umwelt</field>
   <field name="text_de"> 
@@ -133,11 +156,45 @@ Müller
               
               
 Hippe
+ 
+---------------------------------------------------------------------------------------------------
+ 
+Der Antrag 
+wurde am 
+14.11.2013
+ in der
+ 19. Sitzung des Ausschusses für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung beraten und 
+bei einer Abstimmung mit 13
+ Ja-Stim
+men und keiner Nein-Stimme bei keiner Enthaltung
+ angenommen.
+ 
+Die GRÜNE-Fraktion ist dem Antrag beigetreten.
+ 
+Der Bezirksverordnetenversammlung wird die A
+nnahme des Antrags 
+empfohlen.
+ 
+ 
+Kronhagel
+Ausschussvorsitzender
+ 
+--------------------------------------------------------------------------------
+ 
+Die BVV hat in ihrer 23. Sitzung am 
+11.12.2013
+ beschlossen:
+ 
+Das Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass entweder die Unterführung Parallelstraße oder die S-Bahnhof-Unterführung Borussenstraße zum Hohenzollernplatz barrierefrei gestaltet wird. 
+ 
+ 
+Rögner-Francke
+Bezirksverordnetenvorsteher
  </field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   <field name="location">52.4314168,13.1942833</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4740&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1876</field>  
+  <field name="#chars">2803</field>  
   <field name="parteien">1</field>   
 </doc></add>

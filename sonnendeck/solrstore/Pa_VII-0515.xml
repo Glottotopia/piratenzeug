@@ -4,23 +4,80 @@
   <field name="titel">Bestätigung der Antragsabgabe für Sozialleistungen</field>  
   <field name="bezirk">Pankow</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">bürger</field>
-<field name="word">beantragt</field>
-<field name="word">jedem</field>
+  <field name="word">beantragt</field>
+<field name="word">rend</field>
+<field name="word">abstimmungsergebnis</field>
 <field name="word">antragsabgabe</field>
 <field name="word">datum</field>
+<field name="word">sozialleistu</field>
+<field name="word">ligung</field>
 <field name="word">bescheinigen</field>
-<field name="word">sozialleistungen</field>
+<field name="word">senioren</field>
+<field name="word">bürgerbeteiligung</field>
+<field name="word">seiner</field>
+<field name="word">bürger</field>
+<field name="word">nein</field>
+<field name="word">wohnen</field>
+<field name="word">abgabe</field>
+<field name="word">arbeit</field>
+<field name="word">sache</field>
+<field name="word">enthaltungen</field>
+<field name="word">jedem</field>
 <field name="word">bürgerin</field>
+<field name="word">bürgerbete</field>
 <field name="word">jeder</field>
+<field name="word">sozi</field>
+<field name="word">mitberatend</field>
+<field name="word">bürgerdienste</field>
+<field name="word">druc</field>
+<field name="word">beraten</field>
+<field name="word">persönlicher</field>
+<field name="word">federfü</field>
+<field name="word">gesundheit</field>
+<field name="word">ämtern</field>
   <field name="ausschuss">Arbeit</field>
 <field name="ausschuss">Bürgerbeteiligung</field>
-  <field name="text_de">Das Bezirksamt wird ersucht, jedem Bürger und jeder Bürgerin der/die Sozialleistungen beantragt, bei Antragsabgabe, die Abg
-abe mit Datum zu bescheinigen.</field> 
-  <field name="status">None</field>
+<field name="ausschuss">Bürgerbete</field>
+  <field name="text_de">Der Ausschuss für Bürgerbeteiligung, Bürgerdienste, Wohnen und GO hat die Druc
+k
+sache auf seiner Sitzung am 
+24.10.2013
+ beraten. 
+ 
+Abstimmungsergebnis Ausschuss für Bürgerbete
+i
+ligung, Bürgerdienste, Wohnen und GO
+ (federfü
+h
+rend)
+:
+ 
+JA 12  /  NEIN 0  /  ENTHALTUNGEN 0
+ 
+Abstimmungsergebnis
+ Ausschuss für Arbeit, Sozi
+a
+les, Gesundheit und Senioren
+ (mitberatend)
+:
+ 
+JA 
+10
+  /  NEIN 2
+ 
+ /  ENTHALTUNGEN 3
+ 
+ 
+Das Bezirksamt wird ersucht, jedem Bürger und jeder Bürgerin der/die Sozialleistu
+n
+gen beantragt, bei persönlicher
+ 
+Antragsabgabe in den Ämtern, die Abgabe mit Datum zu bescheinigen.
+ </field> 
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3599&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">154</field>  
+  <field name="#chars">606</field>  
   <field name="parteien">1</field>   
 </doc></add>

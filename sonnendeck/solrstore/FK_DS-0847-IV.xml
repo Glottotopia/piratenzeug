@@ -11,8 +11,6 @@
 <field name="word">vergessenheit</field>
 <field name="word">ppelbahn</field>
 <field name="word">kompletten</field>
-<field name="word">gewerbeausstell</field>
-<field name="word">preetunnels</field>
 <field name="word">jahre</field>
 <field name="word">bildung</field>
 <field name="word">genutzt</field>
@@ -40,8 +38,8 @@
 <field name="word">zunehmend</field>
 <field name="word">bewiesen</field>
 <field name="word">berweisung</field>
-<field name="word">erstmalig</field>
 <field name="word">wikipedia</field>
+<field name="word">erstmali</field>
 <field name="word">ntgenstrahlen</field>
 <field name="word">dort</field>
 <field name="word">treptow</field>
@@ -74,89 +72,106 @@
 <field name="word">vielen</field>
 <field name="word">tunnel</field>
 <field name="word">breites</field>
+<field name="word">spreetunnels</field>
 <field name="word">ffnung</field>
 <field name="word">erkennbar</field>
+<field name="word">untergrundb</field>
 <field name="word">veranstaltung</field>
 <field name="word">erinnert</field>
-<field name="word">straß</field>
+<field name="word">leichter</field>
 <field name="word">gerä</field>
 <field name="word">aufzustellen</field>
 <field name="word">geschichte</field>
-<field name="word">ichter</field>
 <field name="word">fuhr</field>
 <field name="word">http</field>
 <field name="word">beleuchtung</field>
 <field name="word">deutlich</field>
 <field name="word">vorgestellten</field>
 <field name="word">begrü</field>
+<field name="word">straß</field>
 <field name="word">innovationen</field>
+<field name="word">kubi</field>
 <field name="word">nstreifen</field>
 <field name="word">vorfü</field>
 <field name="word">ehem</field>
 <field name="word">licht</field>
-  
+  <field name="ausschuss">Kultur</field>
   <field name="text_de">Die Bezirksverordnetenversammlung mö
 ge beschließ
 en:
  
-Das Bezirksamt wird ersucht, eine Infotafel zur Geschichte des ehem. S
-preetunnels aufzustellen.
+Das Bezirksamt wird ersucht, eine Infotafel zur Geschichte des ehem. Spreetunnels aufzustellen.
  
 Begrü
 ndung:
  
 Im Jahre 1896 wurde im heutigen Treptower Park die Berliner Gewerbeausstellung durchgefü
 hrt. 
-http://de.wikipedia.org/wiki/Berliner_Gewerbeausstell
-ung
- Neben vielen anderen dort erstmalig vorgestellten Innovationen, z.B. der Vorfü
+http://de.wikipedia.org/wiki/Berliner_Gewerbeausstellung
+ Neben vielen anderen dort erstmali
+g vorgestellten Innovationen, z.B. der Vorfü
 hrung von Rö
 ntgenstrahlen fü
-r ein breites Publikum, Inkubatoren oder der erstmaligen kompletten Beleuchtung der Veranstaltung mit elektrischem Licht u.v.a.m., wurde mit le
-ichter Verzö
-gerung auch eine Untergrundbahn erö
+r ein breites Publikum, Inkubatoren oder der erstmaligen kompletten Beleuchtung der Veranstaltung mit elektrischem Licht u.v.a.m., wurde mit leichter Verzö
+gerung auch eine Untergrundb
+a
+hn erö
 ffnet. Ein Tunnel, der Stralau mit Treptow verband. Hier wurde bewiesen, dass der Mä
 rkische Boden fü
 r den Bau einer Untergrundbahn geeignet ist. Heute erinnert auf Treptower Seite nur noch ein Erdhü
-gel an die
- 
-dortige Rampe. Auf Stralauer Seite ist der Ort der Einfahrtsrampe durch einen Grü
+gel an die dortige Rampe. Auf Stralauer Seite ist d
+e
+r Ort der Einfahrtsrampe durch einen Grü
 nstreifen auf der Tunnelstr. bis heute deutlich erkennbar. In den Jahren ab der Erö
 ffnung fuhr durch den Tunnel eine Straß
 enbahn (Knü
 ppelbahn) spä
 ter noch als Fuß
 gä
-ngertunnel
+ngertunnel und Luftschutzbunker genutzt, heute z.
  
-und Luftschutzbunker genutzt, heute z.
- 
-T. abgetragen oder mit Wasser vollgelaufen. Dieser erste erfolgreiche Versuch, Berlin zu verkehrstechnisch zu 
+T.
+ abgetragen oder mit Wasser vollgelaufen. Dieser erste erfolgreiche Versuch, Berlin zu verkehrstechnisch zu 
 untertunneln, gerä
 t zunehmend in
  Vergessenheit und sollte durch eine Infotafel wach gehalten werden.
-siehe 
-auch: 
+siehe auch: 
 http://de.wikipedia.org/wiki/Spreetunnel_Stralau
  
 BVV 
 18.09.2013
-Die Bezirksverordnetenversammlung 
-b
-eschließ
+Die Bezirksverordnetenversammlung beschließ
 t:
  
 Ü
 berweisung
-: 
-Ausschuss fü
-r Kultur und Bildung
-.
+: Ausschuss fü
+r Kultur und Bildung.
+ 
+ 
+KuBi 
+19.11.2013
+Die Bezirksverordnetenversammlung mö
+ge beschließ
+en:
+ 
+Das Bezirksamt wird ersucht, eine Infotafel zur Geschichte des ehem. Spreetunnels aufzustellen.
+ 
+ 
+BVV 
+27.11.2013
+Die Bezirksverordnetenversammlung 
+b
+eschließ
+t
+:
+ 
+Das Bezirksamt wird ersucht, eine Infotafel zur Geschichte des ehem. Spreetunnels aufzustellen.
  </field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5640&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1545</field>  
+  <field name="#chars">1880</field>  
   <field name="parteien">1</field>   
 </doc></add>

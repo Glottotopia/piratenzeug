@@ -6,11 +6,12 @@
   <field name="partei">Piraten</field> 
   
   
-  <field name="text_de"> </field> 
+  <field name="text_de"> 11.7.0.0" /&gt;&#xa0;
+</field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5044&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1</field>  
+  <field name="#chars">21</field>  
   <field name="parteien">1</field>   
 </doc></add>

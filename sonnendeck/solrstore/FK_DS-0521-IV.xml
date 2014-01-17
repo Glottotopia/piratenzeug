@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">FK_DS/0521/IV</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">Zusammenarbeit mit "Bürger baut Stadt"</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 

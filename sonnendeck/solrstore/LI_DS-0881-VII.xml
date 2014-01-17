@@ -73,7 +73,7 @@ esultierend das Ordnungsamt zurzeit
  
  </field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5543&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">792</field>  

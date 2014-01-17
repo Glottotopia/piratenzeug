@@ -5,99 +5,62 @@
   <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
   <field name="partei">Piraten</field>
 <field name="partei">Gruene</field> 
-  <field name="word">gegeben</field>
-<field name="word">grundstückseigentümers</field>
-<field name="word">aber</field>
-<field name="word">zeitpunkt</field>
+  <field name="word">stückler</field>
 <field name="word">bewegen</field>
-<field name="word">ortstermins</field>
-<field name="word">handlungsbedarf</field>
-<field name="word">würde</field>
 <field name="word">hierzu</field>
-<field name="word">gefährdung</field>
-<field name="word">begründung</field>
-<field name="word">somit</field>
-<field name="word">denkmalamtes</field>
-<field name="word">wertvollen</field>
 <field name="word">versprechungen</field>
-<field name="word">zwischenzeitlich</field>
-<field name="word">festzustellen</field>
-<field name="word">dach</field>
-<field name="word">keinerlei</field>
 <field name="word">eigentümers</field>
 <field name="word">leerstehenden</field>
 <field name="word">haubachstraße</field>
-<field name="word">bemühe</field>
 <field name="word">vertrösten</field>
-<field name="word">pflanzen</field>
-<field name="word">während</field>
 <field name="word">durchzuführen</field>
-<field name="word">beschließen</field>
-<field name="word">vorläge</field>
-<field name="word">einige</field>
 <field name="word">denkmalbeirat</field>
 <field name="word">bausubstanz</field>
-<field name="word">letzte</field>
-<field name="word">stellungnahme</field>
-<field name="word">gründungszeit</field>
-<field name="word">historisch</field>
+<field name="word">judith</field>
 <field name="word">denkmalgeschützten</field>
-<field name="word">erfolgt</field>
-<field name="word">nehmen</field>
-<field name="word">thema</field>
-<field name="word">inzwischen</field>
+<field name="word">hinhaltenden</field>
+<field name="word">beschließ</field>
 <field name="word">erhaltung</field>
-<field name="word">laut</field>
-<field name="word">gebäudes</field>
 <field name="word">grundstückseigentümer</field>
-<field name="word">angeblich</field>
-<field name="word">eckgebäudes</field>
-<field name="word">einschätzung</field>
+<field name="word">ursprungstext</field>
 <field name="word">bezüglich</field>
-<field name="word">akute</field>
 <field name="word">lassen</field>
-<field name="word">denkmalamts</field>
 <field name="word">sanierungsmaßnahmen</field>
-<field name="word">charlottenburgs</field>
 <field name="word">ortstermin</field>
-<field name="word">persönlich</field>
-<field name="word">anzunehmen</field>
+<field name="word">bezirksverordnetenvorsteherin</field>
 <field name="word">seit</field>
-<field name="word">zeit</field>
 <field name="word">baldigst</field>
 <field name="word">bezirklichem</field>
-<field name="word">besagt</field>
-<field name="word">möge</field>
 <field name="word">langem</field>
 <field name="word">umgehend</field>
-<field name="word">anspruch</field>
 <field name="word">wilmersdorfer</field>
-<field name="word">stand</field>
-<field name="word">hinhaltenden</field>
-<field name="word">april</field>
-<field name="word">festgestellt</field>
-<field name="word">wachsen</field>
-<field name="word">damaligen</field>
-<field name="word">eigentümer</field>
+<field name="word">eckgebäudes</field>
+<field name="word">verwaltungshandeln</field>
   <field name="ausschuss">Stadtentwicklung</field>
-  <field name="text_de">Die BVV möge beschließen:
+  <field name="text_de"> 
+Die BVV 
+beschließ
+t
+:
  
+ 
+Die Drucksache ist durch Verwaltungshandeln erledigt.
+ 
+ 
+Judith Stückler
+Bezirksverordnetenvorsteherin
+ 
+ 
+Ursprungstext:
 Das Bezirksamt wird aufgefordert, den Grundstückseigentümer des seit langem leerstehenden denkmalgeschützten Eckgebäudes Wilmersdorfer- und Haubachstraße dazu zu bewegen, umgehend Sanierungsmaßnahmen bezüglich der Erhaltung der Bausubstanz durchzuführen und hierzu baldigst einen Ortstermin mit Amt und bezirklichem Denkmalbeirat durchzuführen und sich nicht von hinhaltenden Versprechungen des Eigentümers vertrösten zu lassen.
- 
 Der BVV ist bis zum 
 31.10.2012
  zu berichten.
- 
-Begründung:
- 
-Der letzte Stand des Denkmalamtes zu diesem Thema, der durch eine Stellungnahme des Grundstückseigentümers und eines Ortstermins festgestellt wurde, ist von April 2011. Dieser Stand besagt, dass sich der Eigentümer angeblich persönlich um die Erhaltung des Gebäudes bemühe, was einige Zeit in Anspruch nehmen würde, aber laut Einschätzung des Denkmalamts zum damaligen Zeitpunkt keine akute Gefährdung der Bausubstanz vorläge.
-Inzwischen ist festzustellen, dass aus dem Dach Pflanzen wachsen, während keinerlei Sanierungsmaßnahmen des Eigentümers zwischenzeitlich erfolgt sind. Eine akute Gefährdung der Bausubstanz dieses historisch wertvollen Gebäudes aus der Gründungszeit Charlottenburgs ist somit anzunehmen  Handlungsbedarf ist gegeben.
- 
  </field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   <field name="location">52.515387,13.300782</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4569&amp;options=4</field>  
   <field name="#words">2</field>  
-  <field name="#chars">1269</field>  
+  <field name="#chars">629</field>  
   <field name="parteien">2</field>   
 </doc></add>

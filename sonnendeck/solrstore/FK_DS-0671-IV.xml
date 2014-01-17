@@ -6,21 +6,22 @@
   <field name="partei">Piraten</field> 
   <field name="word">laufende</field>
 <field name="word">bertragen</field>
-<field name="word">gefasst</field>
 <field name="word">feedback</field>
-<field name="word">lassen</field>
 <field name="word">derzeitigen</field>
 <field name="word">hierzu</field>
 <field name="word">andererseits</field>
-<field name="word">merkmale</field>
+<field name="word">lassen</field>
+<field name="word">abgedeckt</field>
 <field name="word">pilotversuch</field>
 <field name="word">weitere</field>
 <field name="word">pilotprojekt</field>
 <field name="word">stadträ</field>
-<field name="word">beginnend</field>
+<field name="word">diskussionsprozess</field>
+<field name="word">zahl</field>
 <field name="word">personal</field>
 <field name="word">immobilien</field>
 <field name="word">signalisiert</field>
+<field name="word">ojekt</field>
 <field name="word">unterstü</field>
 <field name="word">mittels</field>
 <field name="word">tzerinnen</field>
@@ -38,17 +39,17 @@
 <field name="word">schulung</field>
 <field name="word">etwa</field>
 <field name="word">ansiedlung</field>
-<field name="word">diskussionsprozess</field>
+<field name="word">entscheidungsfindung</field>
 <field name="word">abschließ</field>
 <field name="word">geschä</field>
 <field name="word">bietet</field>
 <field name="word">zeit</field>
 <field name="word">inwiefern</field>
 <field name="word">anliegende</field>
-<field name="word">erfü</field>
 <field name="word">praxistauglich</field>
 <field name="word">quartiersmanagement</field>
 <field name="word">personalaufwand</field>
+<field name="word">überweisung</field>
 <field name="word">tzung</field>
 <field name="word">bernommen</field>
 <field name="word">alternativ</field>
@@ -56,6 +57,8 @@
 <field name="word">kommt</field>
 <field name="word">phasen</field>
 <field name="word">bestimmte</field>
+<field name="word">bezirksamtes</field>
+<field name="word">bütra</field>
 <field name="word">landkreis</field>
 <field name="word">beantragt</field>
 <field name="word">eventuell</field>
@@ -66,17 +69,18 @@
 <field name="word">senzveranstaltungen</field>
 <field name="word">rechnungsprü</field>
 <field name="word">ngen</field>
-<field name="word">anstehende</field>
 <field name="word">transparenz</field>
 <field name="word">neben</field>
+<field name="word">bürgerbeteiligung</field>
 <field name="word">berweisung</field>
 <field name="word">verwaltungsmodernisierung</field>
+<field name="word">kenntnis</field>
 <field name="word">haushalt</field>
 <field name="word">statt</field>
 <field name="word">vorteile</field>
-<field name="word">mittelfristig</field>
 <field name="word">gestartet</field>
 <field name="word">kiez</field>
+<field name="word">ntwicklung</field>
 <field name="word">senatsverwaltung</field>
 <field name="word">hinaus</field>
 <field name="word">nnen</field>
@@ -96,18 +100,17 @@
 <field name="word">seine</field>
 <field name="word">ndert</field>
 <field name="word">tzern</field>
-<field name="word">schaft</field>
+<field name="word">bevö</field>
 <field name="word">erwartenden</field>
 <field name="word">erreicht</field>
 <field name="word">verä</field>
 <field name="word">brauchen</field>
 <field name="word">weniger</field>
 <field name="word">methoden</field>
-<field name="word">bevö</field>
 <field name="word">ohnehin</field>
 <field name="word">bahn</field>
 <field name="word">zusammenhä</field>
-<field name="word">bestreitung</field>
+<field name="word">gefa</field>
 <field name="word">enkiezprojekt</field>
 <field name="word">gesichtspunkten</field>
 <field name="word">darauf</field>
@@ -123,24 +126,27 @@
 <field name="word">software</field>
 <field name="word">anträ</field>
 <field name="word">kosten</field>
-<field name="word">abgedeckt</field>
-<field name="word">aber</field>
+<field name="word">hner</field>
 <field name="word">bewohner</field>
 <field name="word">kreuzberg</field>
 <field name="word">frage</field>
 <field name="word">unterschiedliche</field>
 <field name="word">abstimmungsphase</field>
 <field name="word">geeignet</field>
-<field name="word">entscheidungsfindung</field>
+<field name="word">stadtpla</field>
 <field name="word">angemerkt</field>
+<field name="word">beschließt</field>
+<field name="word">ationsbereitschaft</field>
 <field name="word">miteinbezogen</field>
 <field name="word">soziale</field>
+<field name="word">genommen</field>
 <field name="word">verfahren</field>
 <field name="word">andocken</field>
 <field name="word">welches</field>
 <field name="word">innen</field>
 <field name="word">engagement</field>
-<field name="word">verbind</field>
+<field name="word">vorlage</field>
+<field name="word">anstehenden</field>
 <field name="word">sofern</field>
 <field name="word">besonders</field>
 <field name="word">verspricht</field>
@@ -156,7 +162,7 @@
 <field name="word">kostenvorteile</field>
 <field name="word">findet</field>
 <field name="word">fung</field>
-<field name="word">anwohner</field>
+<field name="word">merkmale</field>
 <field name="word">sinnvoll</field>
 <field name="word">ndung</field>
 <field name="word">schon</field>
@@ -165,23 +171,27 @@
 <field name="word">glich</field>
 <field name="word">vertraute</field>
 <field name="word">beantwortet</field>
+<field name="word">pilotpr</field>
 <field name="word">kostengü</field>
 <field name="word">investitionen</field>
+<field name="word">koope</field>
 <field name="word">notwendige</field>
+<field name="word">beginnend</field>
 <field name="word">stadt</field>
 <field name="word">eruieren</field>
-<field name="word">beginn</field>
+<field name="word">geschäftsordnung</field>
+<field name="word">stadte</field>
 <field name="word">finanzierungsmö</field>
 <field name="word">glichkeit</field>
 <field name="word">erscheinen</field>
 <field name="word">mitte</field>
 <field name="word">lkerungsschichten</field>
 <field name="word">neue</field>
-<field name="word">kooperationsberei</field>
 <field name="word">seiner</field>
 <field name="word">vorgesehen</field>
 <field name="word">ehrenamtliches</field>
 <field name="word">turmstraß</field>
+<field name="word">federführend</field>
 <field name="word">infrastruktur</field>
 <field name="word">personalmittel</field>
 <field name="word">verbindung</field>
@@ -200,6 +210,7 @@
 <field name="word">funktionen</field>
 <field name="word">auge</field>
 <field name="word">begrü</field>
+<field name="word">bestreitung</field>
 <field name="word">offenen</field>
 <field name="word">ausreichend</field>
 <field name="word">modell</field>
@@ -212,6 +223,7 @@
 <field name="word">weitreichend</field>
 <field name="word">liquid</field>
 <field name="word">nachbarschaftszentrum</field>
+<field name="word">mittelfristi</field>
 <field name="word">neugestaltung</field>
 <field name="word">kommunen</field>
 <field name="word">geltung</field>
@@ -224,26 +236,26 @@
 <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
-Das Bezirksamt wird beauftragt, bei der mittelfristig anstehende
-n Neugestaltung des Rudolfplatzes neue Methoden der Bü
+Das Bezirksamt wird beauftragt, bei der mittelfristi
+g anstehenden Neugestaltung des Rudolfplatzes neue Methoden der Bü
 rgerbeteiligung einzusetzen. Hierzu soll beim Senat darauf hingewirkt werden, dass das im Bezirk Mitte (Turmstraß
-e) begonnene Pilotprojekt zur Verwendung von Liquid Feedback in der Stadtplanung fü
-r den
- 
-Rudolfkiez ü
+e) begonnene Pilotprojekt zur Verwendung von Liquid Feedback in der Stadtpla
+n
+ung fü
+r den Rudolfkiez ü
 bernommen wird. Das Andocken an das Modell der Stadtentwicklung und Umwelt ist fü
 r die Evaluation des Projektes ohnehin sinnvoll und darü
 ber hinaus fü
 r den Bezirk kostengü
 nstig. Personalmittel fü
-r die Schulung und Betreuung der Anwohner*Innen 
-k
-ö
+r die Schulung und Betreuung der Anw
+o
+hner*Innen kö
 nnen eventuell als Drittmittel beantragt werden, oder alternativ durch ehrenamtliches Engagement abgedeckt werden. Die Prä
 senzveranstaltungen kö
-nnen im weitreichend bekannten Nachbarschaftszentrum RuDi abgehalten werden, welches bereits Kooperationsberei
-t
-schaft signalisiert hat.
+nnen im weitreichend bekannten Nachbarschaftszentrum RuDi abgehalten werden, welches bereits Koope
+r
+ationsbereitschaft signalisiert hat.
  
 Begrü
 ndung
@@ -251,14 +263,15 @@ ndung
  
 Umgestaltung des Rudolfplatzes 
  
-Der Rudolfplatz kommt in seiner derzeitigen Form nur schlecht zur Geltung und erfü
+Der Rudolfplatz kommt in seiner derzeitigen Form nur schlecht zur Geltung und e
+rfü
 llt seine stä
 dtebaulichen Funktionen nur unzureichend. Aus stadtplanerischen Gesichtspunkten ist die Umgestaltung geboten, wie schon im Ausschuss fü
 r Umwelt, Verkehr, Immobilien und Klimaschutz angemerkt. Diese Umgestaltung ist fü
 r 2014/
 1
-5 ins Auge gefasst
-. Dies lä
+5 ins Auge gefa
+sst. Dies lä
 sst ausreichend Zeit fü
 r eine frü
 hzeitige Bü
@@ -269,27 +282,27 @@ Liquid Feedback
 Die Software "
 Liquid Feedback"
  wurde in Berlin entwickelt und hat sich in verschiedenen Vereinen und politischen Zusammenhä
-ngen, aber a
-uch in Kommunen (etwa Landkreis Friesland[2]) als praxistauglich bei der Entscheidungsfindung erwiesen. Fü
+ngen, abe
+r auch in Kommunen (etwa Landkreis Friesland[2]) als praxistauglich bei der Entscheidungsfindung erwiesen. Fü
 r die Diskussionen zu den Anträ
 g
-en (bzw. Initiativen) sind in der Software unterschiedliche Phasen vorgesehen: Initiativen brauchen eine bestimmte Zah
-l an Unterstü
+en (bzw. Initiativen) sind in der Software unterschiedliche Phasen vorgesehen: Initiativen brauchen eine bestimmte 
+Zahl an Unterstü
 tzerinnen und Unterstü
 tzern. Sofern sie diese notwendige Relevanzgrenze erreicht haben, kö
 nnen sie in einem offenen Diskussionsprozess verä
 ndert werden. Abschließ
 end findet eine Abstimmungsphase statt, in der weitere Verä
-nderungen nicht mehr 
-m
-ö
+nderungen nicht me
+h
+r mö
 glich sind. 
  
 Der Bezirk Mitte hat bereits mit Unterstü
 tzung der Senatsverwaltung Stadtentwicklung und Umwelt ein Pilotprojekt gestartet. Dieser Pilotversuch ist aussagekrä
 ftiger, wenn ein sozialrä
-umlich anderer Kiez, hier der Rudolfkiez, miteinbezogen wi
-rd. Die Ansiedlung beim Senat verspricht hier fü
+umlich anderer Kiez, hier der Rudolfkiez, miteinbezogen
+ wird. Die Ansiedlung beim Senat verspricht hier fü
 r den Bezirk Kostenvorteile, einerseits durch die zentrale Bestreitung von Kosten aus dem Landeshaushalt, andererseits durch Synergieeffekte mit dem Turmstraß
 enkiezprojekt.
  
@@ -300,10 +313,10 @@ Der Rudolfkiez verfü
 gt ü
 ber einige Merkmale, die ihn fü
 r einen Pilotversuch besonders geeignet erscheinen lassen. Einerseits ist er stadträ
-umlich durch S-Bahn
-, U-Bahn und Spree klar abgegrenzt, so dass die Frage, welche Bewohner in die Entscheidungsfindung einbezogen werden sollen, klar beantwortet werden kann. Andererseits bietet das anliegende Nachbarschaftszentrum RuDi die notwendige Infrastruktur, um auch 
-m
-it der modernen Kommunikationstechnik weniger vertraute Bevö
+umlich durch S-B
+ahn, U-Bahn und Spree klar abgegrenzt, so dass die Frage, welche Bewohner in die Entscheidungsfindung einbezogen werden sollen, klar beantwortet werden kann. Andererseits bietet das anliegende Nachbarschaftszentrum RuDi die notwendige Infrastruktur, um au
+c
+h mit der modernen Kommunikationstechnik weniger vertraute Bevö
 lkerungsschichten durch Schulungen und Prä
 senzveranstaltungen gut einbinden zu kö
 nnen.
@@ -315,15 +328,15 @@ t:
 Ü
 berweisung: Ausschuss fü
 r Bü
-rgerbeteiligung und Transparenz
-, Verwaltungsmodernisierung und IT, Geschä
+rgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschä
 ftsordnung, 
 Ausschuss fü
 r Stadtentwicklung, Soziale Stadt und Quartiersmanagement, Mieten
 , Ausschuss fü
 r Umwelt, Klimaschutz, Verkehr und Immobilien, 
 Ausschuss fü
-r Personal, Haushalt und Investitionen, Rechnungsprü
+r Personal, Haushalt 
+und Investitionen, Rechnungsprü
 fung 
 ff.
  
@@ -334,16 +347,14 @@ Tra
 Die Bezirksverordnetenversammlung möge beschließen:
  
 Das Bezirksamt wird beauftragt, sich mit der Senatsverwaltung fü
-r Stadtentwicklung in Verbind
-ung zu setzen, um zu eruieren, inwiefern das derzeit im Bezirk Mitte laufende Pilotprojekt zur Bü
+r Stadte
+ntwicklung in Verbindung zu setzen, um zu eruieren, inwiefern das derzeit im Bezirk Mitte laufende Pilotprojekt zur Bü
 rgerbeteiligung mittels Liquid Feedback bei der Stadtplanung (Turmstraß
 e) auf den Bezirk Friedrichshain-Kreuzberg ü
 bertragen werden kann 
 -
  wenn mö
-glich beginn
-e
-nd mit der Neugestaltung des Rudolfplatzes. Neben dem generellen Verfahren ist auch ü
+glich beginnend mit der Neugestaltung des Rudolfplatzes. Neben dem generellen Verfahren ist auch ü
 ber die Finanzierungsmö
 glichkeit und den zu erwartenden Personalaufwand zu berichten.
  
@@ -352,19 +363,19 @@ PHI
 27.08.2013
 Die Bezirksverordnetenversammlung möge beschließen:
  
-Das Bezirksamt 
-wird beauftragt, sich mit der Senatsverwaltung fü
+Das Bezirksamt wird beauftragt, sich mit der Senatsverwaltung fü
 r Stadtentwicklung in Verbindung zu setzen, um zu eruieren, inwiefern das derzeit im Bezirk Mitte laufende Pilotprojekt zur Bü
-rgerbeteiligung mittels Liquid Feedback bei der Stadtplanung (Turmstraß
-e) auf de
-n
- Bezirk Friedrichshain-Kreuzberg ü
+rgerbeteiligung mittels Liquid Feedback bei der Stadtplanung
+ (Turmstraß
+e) auf den Bezirk Friedrichshain-Kreuzberg ü
 bertragen werden kann 
 -
  wenn mö
 glich beginnend mit der Neugestaltung des Rudolfplatzes. Neben dem generellen Verfahren ist auch ü
 ber die Finanzierungsmö
-glichkeit und den zu erwartenden Personalaufwand zu berichten.
+glichkeit und den zu erwartenden Personalaufwand
+ 
+zu berichten.
  
  
 BVV 
@@ -372,24 +383,54 @@ BVV
 Die Bezirksverordnetenversammlung beschließ
 t:
  
-Das Bezirksamt 
-wird beauftragt, sich mit der Senatsverwaltung fü
-r Stadtentwicklung in Verbindung zu setzen, um zu eruieren, inwiefern das derzeit im Bezirk Mitte laufende Pilotprojekt zur Bü
+Das Bezirksamt wird beauftragt, sich mit der Senatsverwaltung fü
+r Stadtentwicklung in Verbindung zu setzen, um zu eruieren, inwiefern das derzeit im Bezirk Mitte laufende Pilotpr
+ojekt zur Bü
 rgerbeteiligung mittels Liquid Feedback bei der Stadtplanung (Turmstraß
-e) auf de
-n
- Bezirk Friedrichshain-Kreuzberg ü
+e) auf den Bezirk Friedrichshain-Kreuzberg ü
 bertragen werden kann 
 -
  wenn mö
-glich beginnend mit der Neugestaltung des Rudolfplatzes. Neben dem generellen Verfahren ist auch ü
+glich beginnend mit der Neugestaltung des Rudolfplatzes. Neben dem generellen Verfahren ist auch 
+ü
 ber die Finanzierungsmö
 glichkeit und den zu erwartenden Personalaufwand zu berichten.
+ 
+ 
+BVV 
+27.11.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Überweisung: 
+Ausschuss für Umwelt, Klimaschutz, Verkehr und Immobilien, Ausschuss für Bürgerbeteiligung und Transparenz, Verwaltungsmodernisierung und IT, Geschäftsordnung (federführend).
+ 
+ 
+BüTra 
+12.12.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird 
+nicht
+ zur Kenntnis genommen.
+ 
+ 
+BVV 
+18.12.2013
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Die Vorlage des Bezirksamtes wird 
+nicht
+ zur Kenntnis genommen.
  </field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   <field name="location">52.5030024,13.4557270839723</field>
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5456&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">5405</field>  
+  <field name="#chars">6049</field>  
   <field name="parteien">1</field>   
 </doc></add>

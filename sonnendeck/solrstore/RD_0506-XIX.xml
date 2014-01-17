@@ -8,12 +8,14 @@
 <field name="word">einz</field>
 <field name="word">entsprechenden</field>
 <field name="word">einsetzen</field>
+<field name="word">beschließt</field>
 <field name="word">buslinie</field>
 <field name="word">empfohlen</field>
-<field name="word">richtung</field>
+<field name="word">bezirksverordnetenvorsteher</field>
+<field name="word">reinickendorf</field>
 <field name="word">bezirksverordne</field>
 <field name="word">gensee</field>
-<field name="word">anzunehmen</field>
+<field name="word">hinrich</field>
 <field name="word">dafür</field>
 <field name="word">morgen</field>
 <field name="word">doppeldecker</field>
@@ -22,17 +24,16 @@
 <field name="word">sachverhalt</field>
 <field name="word">heil</field>
 <field name="word">stoßzeiten</field>
-<field name="word">empfiehlt</field>
-<field name="word">empfehlung</field>
+<field name="word">lühmann</field>
 <field name="word">frühen</field>
-<field name="word">verkehrsausschuss</field>
+<field name="word">richtung</field>
 <field name="word">prüfen</field>
   
   <field name="text_de">Sachverhalt:
  
-Der Verkehrsausschuss empfiehlt der
+Die
  Bezirksverordne
-tenversammlung, die Empfehlung - Drucksache Nr. 0506/XIX - 
+tenversammlung Reinickendorf von Berlin beschließt:
  
 Dem Bezirksamt wird empfohlen, sich bei den entsprechenden Stellen dafür einz
 u
@@ -40,11 +41,18 @@ setzen, in Zusammenarbeit mit der BVG zu prüfen, ob man nicht bei der Buslinie 
 i
 gensee, in den Stoßzeiten am frühen Morgen, Doppeldecker einsetzen kann.
  
-anzunehmen.</field> 
-  <field name="status">None</field>
+ 
+ 
+Berlin, den 
+13.11.2013
+ 
+_________________________________________
+Dr. Hinrich Lühmann (Bezirksverordnetenvorsteher)
+ </field> 
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-reinickendorf/bvv-online/vo020.asp?VOLFDNR=3645&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">395</field>  
+  <field name="#chars">467</field>  
   <field name="parteien">1</field>   
 </doc></add>

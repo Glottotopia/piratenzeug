@@ -4,27 +4,111 @@
   <field name="titel">Wahl eines stellv. Bürgerdeputierten</field>  
   <field name="bezirk">Friedrichshain_Kreuzberg</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">quartiermanagement</field>
-<field name="word">mieten</field>
+  <field name="word">anfragen</field>
+<field name="word">beschl</field>
+<field name="word">beschließen</field>
+<field name="word">auszug</field>
+<field name="word">anwesenheit</field>
+<field name="word">niederschrift</field>
+<field name="word">quartiermanagement</field>
+<field name="word">nbsp</field>
+<field name="word">soziale</field>
 <field name="word">gewählt</field>
 <field name="word">bürgerdeputierten</field>
-<field name="word">stellv</field>
-<field name="word">beschließen</field>
+<field name="word">while</field>
+<field name="word">kommunalpolitiker</field>
+<field name="word">legende</field>
+<field name="word">kreuzberg</field>
+<field name="word">tagesordnung</field>
+<field name="word">möge</field>
+<field name="word">drucksachenlebenslauf</field>
+<field name="word">mieten</field>
+<field name="word">friedrichshain</field>
+<field name="word">processing</field>
+<field name="word">occurred</field>
+<field name="word">uuml</field>
+<field name="word">herr</field>
+<field name="word">copy</field>
 <field name="word">zedler</field>
+<field name="word">realisierung</field>
+<field name="word">directive</field>
+<field name="word">stellv</field>
+<field name="word">this</field>
+<field name="word">aktenmappe</field>
+<field name="word">stadtbezirk</field>
 <field name="word">ulli</field>
 <field name="word">stadt</field>
-<field name="word">herr</field>
-<field name="word">soziale</field>
-<field name="word">möge</field>
+<field name="word">error</field>
 <field name="word">stadtentwicklung</field>
+<field name="word">kleine</field>
   <field name="ausschuss">Stadtentwicklung</field>
-  <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
- 
-Herr Ulli Zedler wird zum stellv. Bürgerdeputierten im Ausschuss für Stadtentwicklung, Soziale Stadt und Quartiermanagement, Mieten gewählt.</field> 
+  <field name="text_de"> 9.3.0.0" /&gt;Die Bezirksverordnetenversammlung möge beschließen:Die Bezirksverordnetenversammlung möge beschließen:&#xa0;Herr Ulli Zedler wird zum stellv. Bürgerdeputierten im Ausschuss für Stadtentwicklung, Soziale Stadt und Quartiermanagement, Mieten gewählt.
+
+	
+	
+		
+		
+		
+	
+
+
+Legende
+
+
+			
+				Ausschuss
+				Tagesordnung
+				Drucksache
+			
+			
+				Stadtbezirk
+				Aktenmappe
+				Drucksachenlebenslauf
+			
+			
+				Fraktion
+				Niederschrift
+				Beschlüsse
+			
+			
+				Kommunalpolitiker
+				Auszug
+				Realisierung
+			
+			
+				
+				Anwesenheit
+				Kleine Anfragen
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+(c) Bezirksamt Friedrichshain-Kreuzberg
+ 
+
+
+
+
+
+
+
+[an error occurred while processing this directive]
+
+
+	</field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=4733&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">194</field>  
+  <field name="#chars">804</field>  
   <field name="parteien">1</field>   
 </doc></add>

@@ -77,7 +77,7 @@ Um eine für alle nutzbare Form zu schaffen, sind dabei gängige Datenformate wi
 http://bund.offenerhaushalt.de/
 [2] beispielhaft Frankfurt/Main: 
 http://openspending.org/frankfurt-budget</field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4222&amp;options=4</field>  
   <field name="#words">1</field>  

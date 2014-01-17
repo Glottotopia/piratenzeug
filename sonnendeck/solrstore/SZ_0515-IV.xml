@@ -129,7 +129,7 @@ Kronhagel
 Ausschussvorsitzender
  </field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4551&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1059</field>  

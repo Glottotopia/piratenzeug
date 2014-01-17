@@ -148,7 +148,7 @@ Bezirksstadtrat
  
  </field> 
   <field name="status">angenommen</field>
-  <field name="location">52.4774153,13.3283935</field>
+  <field name="location">52.497889,13.3307925</field>
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4427&amp;options=4</field>  
   <field name="#words">4</field>  
   <field name="#chars">1262</field>  

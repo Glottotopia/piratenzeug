@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">MH_1126/VII</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Stellungnahme_an_den_federführenden</field>  
   <field name="titel">Bürgerhaushalt, ein großer Erfolg! - Informationen zum Bürgerhaushalt barrierearm gestalten (X)</field>  
   <field name="bezirk">Marzahn_Hellersdorf</field>  
   <field name="partei">Piraten</field> 
@@ -20,6 +20,7 @@
 <field name="word">möglich</field>
 <field name="word">möge</field>
 <field name="word">erstellen</field>
+<field name="word">abstimmungsverfahren</field>
 <field name="word">schrift</field>
 <field name="word">barrierearm</field>
 <field name="word">material</field>
@@ -36,7 +37,10 @@
   <field name="ausschuss">Gleichstellung</field>
   <field name="text_de">Die BVV möge beschließen:
  
-Das Bezirksamt wird ersucht, die Informationen und die Zugänglichkeit zum Bürgerhaushalt möglichst barrierearm zu konzipieren. Dabei ist sowohl der Internetauftritt, als auch das analoge Informationsmaterial zu berücksichtigen.
+Das Bezirksamt wird ersucht, die Informationen und die Zugänglichkeit 
+und auch das Abstimmungsverfahren
+ 
+zum Bürgerhaushalt möglichst barrierearm zu konzipieren. Dabei ist sowohl der Internetauftritt, als auch das analoge Informationsmaterial zu berücksichtigen.
  
 Außerdem wird das Bezirksamt ersucht, Materialien zum Bürgerhaushalt auch in leichter Sprache zu erstellen. Zusätzlich wird angeregt, dieses Material in Braille-Schrift und
 , wenn möglich, akustisch,
@@ -45,6 +49,6 @@ Außerdem wird das Bezirksamt ersucht, Materialien zum Bürgerhaushalt auch in l
   
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5428&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">505</field>  
+  <field name="#chars">542</field>  
   <field name="parteien">1</field>   
 </doc></add>

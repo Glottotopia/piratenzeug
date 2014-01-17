@@ -1,11 +1,12 @@
 <add><doc>
   <field name="id">SZ_0705/IV</field>  
-  <field name="typ">Beschlussempfehlung_von_Ausschüssen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Umsteigesituation in Lichterfelde-West</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
   <field name="word">busverkehr</field>
 <field name="word">stimme</field>
+<field name="word">rögner</field>
 <field name="word">kruse</field>
 <field name="word">goethe</field>
 <field name="word">montessori</field>
@@ -37,6 +38,7 @@
 <field name="word">viele</field>
 <field name="word">fassung</field>
 <field name="word">antrags</field>
+<field name="word">bezirksverordnetenvorsteher</field>
 <field name="word">müller</field>
 <field name="word">betroffen</field>
 <field name="word">dafür</field>
@@ -44,6 +46,7 @@
 <field name="word">tigen</field>
 <field name="word">wannsee</field>
 <field name="word">gerade</field>
+<field name="word">francke</field>
 <field name="word">begründung</field>
 <field name="word">abstimmung</field>
 <field name="word">lilienthal</field>
@@ -134,11 +137,28 @@ Der Bezirksverordnetenversammlung wird die Ablehnung des Antrags in der geänder
  
 Köhne
 Ausschussvorsitzender
- </field> 
-  <field name="status">None</field>
-  <field name="location">52.4455371,13.2940144</field>
+ 
+--------------------------------------------------------------------------------
+ 
+Die BVV hat in ihrer 22. Sitzung am 
+13.11.2013
+ beschlossen:
+ 
+Das Bezirksamt wird ersucht
+,
+ sich bei den zuständigen Stellen dafür einzusetzen, die Umsteigesituation zwischen der 
+S-Bahn aus Wannsee und dem Bus
+ 
+M 11 
+zu verbessern.
+ 
+ 
+Rögner-Francke
+Bezirksverordnetenvorsteher</field> 
+  <field name="status">angenommen</field>
+  <field name="location">52.4457657,13.2935078</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4741&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1432</field>  
+  <field name="#chars">1799</field>  
   <field name="parteien">1</field>   
 </doc></add>

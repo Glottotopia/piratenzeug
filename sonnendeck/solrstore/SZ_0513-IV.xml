@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">SZ_0513/IV</field>  
-  <field name="typ">Beschlussempfehlung_von_Ausschüssen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Fortbildung für Leitungspersonal des Bezirksamts</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
@@ -9,7 +9,7 @@
 <field name="word">positiv</field>
 <field name="word">nein</field>
 <field name="word">ablehnung</field>
-<field name="word">fall</field>
+<field name="word">leitungsebene</field>
 <field name="word">ders</field>
 <field name="word">fortbildung</field>
 <field name="word">teure</field>
@@ -18,35 +18,37 @@
 <field name="word">selbst</field>
 <field name="word">fortbildungen</field>
 <field name="word">empfohlen</field>
-<field name="word">ausw</field>
+<field name="word">bezirksverordnetenvorsteher</field>
 <field name="word">fehlplanungen</field>
-<field name="word">abstimmung</field>
-<field name="word">gementaufgaben</field>
+<field name="word">ausschussvorsitzender</field>
 <field name="word">personal</field>
-<field name="word">wirtschaft</field>
+<field name="word">frakt</field>
+<field name="word">gner</field>
 <field name="word">wesentlichen</field>
 <field name="word">haushaltsausschus</field>
 <field name="word">antr</field>
 <field name="word">vermieden</field>
-<field name="word">enthaltung</field>
+<field name="word">auswirken</field>
 <field name="word">buchta</field>
-<field name="word">ausschussvorsitzender</field>
 <field name="word">sarazenu</field>
+<field name="word">etenversammlung</field>
 <field name="word">stimmen</field>
+<field name="word">fall</field>
 <field name="word">projektmanagement</field>
 <field name="word">europa</field>
 <field name="word">beschließ</field>
 <field name="word">bezirksverordn</field>
 <field name="word">qualifiziert</field>
 <field name="word">professionelle</field>
+<field name="word">bgelehnt</field>
 <field name="word">begrü</field>
-<field name="word">leitungsebene</field>
-<field name="word">ndung</field>
+<field name="word">francke</field>
+<field name="word">enthaltung</field>
+<field name="word">ndun</field>
+<field name="word">abstimmung</field>
 <field name="word">stimme</field>
-<field name="word">ersammlung</field>
 <field name="word">veranlassen</field>
 <field name="word">ller</field>
-<field name="word">etenv</field>
 <field name="word">keiner</field>
 <field name="word">bezirklichen</field>
 <field name="word">federfü</field>
@@ -55,11 +57,11 @@
 <field name="word">dementsprechend</field>
 <field name="word">somit</field>
 <field name="word">haushalt</field>
-<field name="word">mana</field>
-<field name="word">irken</field>
 <field name="word">ausschusses</field>
+<field name="word">wirtschaft</field>
 <field name="word">steglitz</field>
 <field name="word">zehlendorf</field>
+<field name="word">managementaufgaben</field>
 <field name="word">llen</field>
 <field name="word">walther</field>
 <field name="word">abgelehnt</field>
@@ -75,13 +77,12 @@ r die Leitungsebene Fortbildungen im Projektmanagement zu veranlassen
 .
  
 Begrü
-ndung:
+ndun
+g:
  
-Die Leitungsebene des BA hat im Wesentlichen Mana
-gementaufgaben zu erfü
+Die Leitungsebene des BA hat im Wesentlichen Managementaufgaben zu erfü
 llen und muss auch dementsprechend qualifiziert sein.
-Fehlplanungen wie im Fall SARAZENU sollen so vermieden werden. Selbst eine teure Fortbildung durch professionelle Trainer wird sich somit positiv auf den bezirklichen Haushalt ausw
-irken.
+Fehlplanungen wie im Fall SARAZENU sollen so vermieden werden. Selbst eine teure Fortbildung durch professionelle Trainer wird sich somit positiv auf den bezirklichen Haushalt auswirken.
  
  
  
@@ -90,7 +91,8 @@ Berlin Steglitz-Zehlendorf, den
  
  
 Fü
-r die Piraten-Fraktion
+r die Piraten-Frakt
+ion
  
  
 Lü
@@ -108,48 +110,55 @@ Der Antrag wurde am
 r Wirtschaft, Personal und Europa beraten und bei einer Abstimmung mit 4 Ja-Stimmen und 8 Nein-Stimmen bei keiner Enthaltung abgelehnt.
  
 Dem federfü
-hrenden Ausschuss wird die Ablehnung des
- Antrags empfohlen.
+hrenden Ausschuss wird die Ablehnung des Antrags empfohlen.
  
  
 Walther
 Ausschussvorsitzender
  
-------------------------------------------------------------------------------------------------------
+---------------
+---------------------------------------------------------------------------------------
  
 Der Antr
 ag
  wurde am 
 10.10.2013
- in der 32
-. 
-Sitzung des 
+ in der 32. Sitzung des 
 Haushaltsausschus
-ses beraten und b
-ei einer Abstimmung 
-mit 1 Ja-Stimme
- und 13
- Nein-Stimme
-n
- 
-bei keiner Enthaltung abgelehnt
+ses beraten und bei einer Abstimmung 
+mit 1 Ja-Stimme und 13
+ Nein-Stimmen 
+bei keiner Enthaltung a
+bgelehnt
 .
  
 Der Bezirksverordn
-etenv
-ersammlung wird die Ablehnung
- des Antrags
- 
-empfohlen.
+etenversammlung wird die Ablehnung
+ des Antrags empfohlen.
  
  
 Buchta
 Ausschussvorsitzender
+ 
+-
+-------------------------------------------------------------------------
+------
+ 
+Die BVV hat in ihrer 22
+. Sitzung am 13.11
+.2013 beschlossen:
+ 
+Der Antrag ist abgelehnt.
+ 
+ 
+Rö
+gner-Francke
+Bezirksverordnetenvorsteher
  </field> 
-  <field name="status">None</field>
+  <field name="status">abgelehnt</field>
   
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4549&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1438</field>  
+  <field name="#chars">1655</field>  
   <field name="parteien">1</field>   
 </doc></add>

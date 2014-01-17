@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">RD_0107/XIX-16</field>  
-  <field name="typ">Vorlage_z._Kenntnisnahme/Zwischenbericht</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt)</field>  
   <field name="bezirk">Reinickendorf</field>  
   <field name="partei">Piraten</field>
@@ -9,7 +9,7 @@
 <field name="word">text</field>
 <field name="word">siehe</field>
 <field name="word">sachverhalt</field>
-  
+  <field name="ausschuss">Bauwesen</field>
   <field name="text_de">Sachverhalt:
  
  

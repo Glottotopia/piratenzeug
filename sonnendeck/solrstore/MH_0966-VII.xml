@@ -30,13 +30,12 @@
 <field name="word">beschlussvorlage</field>
 <field name="word">eckwertebeschluss</field>
   
-  <field name="text_de">Die BVV möge beschließen:
- 
-Das Bezirksamt wird ersucht, den "Eckwertebeschluss" sowie den "Haushaltsplanentwurf zur Beschlussvorlage der BVV" nach seiner Beschlussfassung maschinenlesbar (d.h. als Text oder als Text exportierbares Tabellendokument) zu veröffentlichen. Die Dateien sollen spätestens zum Zeitpunkt der Vorlage in der Bezirksverordnetenversammlung oder im Haushaltsausschuss zur Verfügung gestellt werden. Die Veröffentlichung soll nach Möglichkeit mindestens acht Wochen vor Beschlussfassung der BVV erfolgen.</field> 
+  <field name="text_de"> 13.2.0.0" /&gt;Die BVV möge beschließen:&#xa0;Das Bezirksamt wird ersucht, den "Eckwertebeschluss" sowie den "Haushaltsplanentwurf zur Beschlussvorlage der BVV" nach seiner Beschlussfassung maschinenlesbar (d.h. als Text oder als Text exportierbares Tabellendokument) zu veröffentlichen. Die Dateien sollen spätestens zum Zeitpunkt der Vorlage in der Bezirksverordnetenversammlung oder im Haushaltsausschuss zur Verfügung gestellt werden. Die Veröffentlichung soll nach Möglichkeit mindestens acht Wochen vor Beschlussfassung der BVV erfolgen.
+</field> 
   <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/vo020.asp?VOLFDNR=5262&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">525</field>  
+  <field name="#chars">543</field>  
   <field name="parteien">1</field>   
 </doc></add>

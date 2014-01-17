@@ -55,7 +55,7 @@ verbotsregelung zu finden, die einen Parkplatz in der entsprechenden Zeit für d
 a. bereits in der Karl-Marx-Straße.
  </field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3822&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">659</field>  

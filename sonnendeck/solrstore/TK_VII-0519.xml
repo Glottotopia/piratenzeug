@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">TK_VII/0519</field>  
-  <field name="typ">Stellungnahme</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Sicherer Radverkehr in der Elsenstraße zwischen der Straße Am Treptower Park und Karl-Kunger-Straße</field>  
   <field name="bezirk">Treptow_Köpenick</field>  
   <field name="partei">Piraten</field>
@@ -148,8 +148,8 @@ Auf der südlichen Seite sollte zwischen der Beermannstraße und Straße Am Trep
 von 4,75 Metern, anstatt der bestehenden 3,50 Meter, geprüft werden, welche unter Wegnahme einer
  
 Autospur in östlicher Fahrtrichtung zu realisieren wäre.</field> 
-  <field name="status">None</field>
-  <field name="location">52.4918137,13.4579855</field>
+  <field name="status">angenommen</field>
+  <field name="location">52.4935466,13.4603363</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4618&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">2168</field>  

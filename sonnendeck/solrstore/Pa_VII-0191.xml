@@ -142,7 +142,7 @@ Das Portal soll grundsätzlich so angelegt werden, dass es in Zukunft auch für 
  
  </field> 
   <field name="status">abgelehnt</field>
-  <field name="location">52.5414168,13.4275612236432</field>
+  <field name="location">52.5419657,13.4280096530364</field>
   <field name="url">http://www.berlin.de/ba-pankow/bvv-online/vo020.asp?VOLFDNR=3270&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1755</field>  

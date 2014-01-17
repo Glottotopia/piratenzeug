@@ -404,7 +404,7 @@ Zu den fachlich notwendigen Voraussetzungen gehören
 fünf
  Räume, darunter zwei Konsumräume
 1) 
-i.v. Konsum, für intravenös Konsumierende  => im Rahmen von safer 
+i.v. Konsum, für intravenös Konsumierende  =&gt; im Rahmen von safer 
     use
 -Beratungen
 , 
@@ -503,7 +503,7 @@ Bezirksstadtrat
  
  </field> 
   <field name="status">angenommen</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4808&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">7204</field>  

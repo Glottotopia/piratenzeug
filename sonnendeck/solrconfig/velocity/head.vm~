@@ -11,7 +11,16 @@
   <link rel="stylesheet" type="text/css" href="#{url_for_solr}/admin/file?file=/velocity/main.css&contentType=text/css"/>
   <link rel="stylesheet" href="#{url_for_solr}/admin/file?file=/velocity/jquery.autocomplete.css&contentType=text/css" type="text/css" />
   <script type="text/javascript" src="#{url_for_solr}/admin/file?file=/velocity/jquery.autocomplete.js&contentType=text/javascript"></script>
+  
 
+<script>
+$("#map").geomap();
+ 
+$("#map").geomap({
+  center: [ -71.037598, 42.363281 ],
+  zoom: 10
+}); 
+</script>
 
     <script>
     $(document).ready(function(){
@@ -34,3 +43,10 @@
     });
 
     </script>
+
+<script>
+function toggleFacets(id){   
+    $( "ul[name='facetul']" ).hide('slow')
+    $( "#"+ id ).show('slow') 
+}
+</script>

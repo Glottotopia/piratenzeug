@@ -61,20 +61,22 @@ body {
 
 
 .tabs-bar {
-  padding: 5px;
+/*  padding: 5px;
   width: 100%;
   border: 1px solid;
-  border-width: 0px 0px 1px 0px;
+  border-width: 0px 0px 1px 0px;*/ 
+  position:absolute;
+  right:0px;
 }
 
 .tab {
   font-weight: bold;
   padding: 5px;
-  margin: 0px 5px;
+/*  margin: 0px 5px;
   border: 1px solid;
   background-color: #dddddd;
   border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
+  border-top-right-radius: 4px;*/
 }
 
 .tab:hover {
@@ -82,8 +84,8 @@ body {
 }
 
 .tab.selected {
-  background-color: #ffffff;
-  border-bottom: 1px solid #ffffff;
+/*  background-color: #ffffff;
+  border-bottom: 1px solid #ffffff;*/
 }
 
 
@@ -511,4 +513,17 @@ div.tag span.value{
 
 .untermenge{
     padding:1px;
+}
+
+#dym{
+    position:relative;
+    left:250px;
+}
+
+.abgelehnt{
+    color:darkred;
+}
+
+.angenommen{ 
+    color:darkgreen;       
 }

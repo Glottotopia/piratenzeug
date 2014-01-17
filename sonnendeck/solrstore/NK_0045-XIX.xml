@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">NK_0045/XIX</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Beschlussempfehlung_-_2._Lesung</field>  
   <field name="titel">Ehemalige Frauenklinik retten</field>  
   <field name="bezirk">Neukölln</field>  
   <field name="partei">Piraten</field>
@@ -10,8 +10,10 @@
 <field name="word">verpflichtung</field>
 <field name="word">dauerhaftem</field>
 <field name="word">ehemalige</field>
+<field name="word">ablehnung</field>
 <field name="word">beschließen</field>
 <field name="word">tatsächlich</field>
+<field name="word">empfhielt</field>
 <field name="word">verwaltung</field>
 <field name="word">breites</field>
 <field name="word">stadtbad</field>
@@ -33,9 +35,10 @@
 <field name="word">zuständigen</field>
 <field name="word">hinaus</field>
 <field name="word">wahrendes</field>
-<field name="word">einzusetzten</field>
-<field name="word">können</field>
 <field name="word">maßnahmenorientierte</field>
+<field name="word">können</field>
+<field name="word">fassung</field>
+<field name="word">einzusetzten</field>
 <field name="word">aktueller</field>
 <field name="word">suche</field>
 <field name="word">erhaltungs</field>
@@ -43,15 +46,17 @@
 <field name="word">jahrhunderts</field>
 <field name="word">denkmalgeschützten</field>
 <field name="word">erfolgt</field>
+<field name="word">entsteht</field>
 <field name="word">nutzungskonzept</field>
 <field name="word">alten</field>
 <field name="word">immobilieninvestor</field>
 <field name="word">dafür</field>
-<field name="word">entsteht</field>
+<field name="word">antrages</field>
 <field name="word">neuköllner</field>
 <field name="word">sicherung</field>
 <field name="word">baudenkmal</field>
 <field name="word">nutzung</field>
+<field name="word">folgender</field>
 <field name="word">anfang</field>
 <field name="word">begründung</field>
 <field name="word">darüber</field>
@@ -79,6 +84,12 @@
 <field name="word">immobilieninvestors</field>
   <field name="ausschuss">Stadtentwicklung</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
+ 
+ 
+Der Ausschuss empfhielt der Bezirksverordnetenversammlung die 
+Ablehnung
+ des Antrages in folgender Fassung.
+ 
  
 Das Bezirksamt wird gebeten
 , sich dafür einzusetzten, dass
@@ -111,6 +122,6 @@ Um sie tatsächlich für das Neuköllner Stadtbild erhalten zu können, scheint 
   
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3668&amp;options=4</field>  
   <field name="#words">3</field>  
-  <field name="#chars">1206</field>  
+  <field name="#chars">1321</field>  
   <field name="parteien">3</field>   
 </doc></add>

@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">MH_0803/VII</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">Monatliche Veröffentlichung der aktuellen Haushaltsdaten</field>  
   <field name="bezirk">Marzahn_Hellersdorf</field>  
   <field name="partei">Piraten</field> 

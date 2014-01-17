@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">MH_0884/VII</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Mitteilung</field>  
   <field name="titel">Anonymisierte Bewerbungsverfahren</field>  
   <field name="bezirk">Marzahn_Hellersdorf</field>  
   <field name="partei">Piraten</field> 

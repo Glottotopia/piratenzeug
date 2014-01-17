@@ -26,6 +26,7 @@
 <field name="word">paul</field>
 <field name="word">sport</field>
 <field name="word">ufer</field>
+<field name="word">kenntnis</field>
 <field name="word">personengruppen</field>
 <field name="word">freitags</field>
 <field name="word">tisches</field>
@@ -33,6 +34,7 @@
 <field name="word">kreuzberginnen</field>
 <field name="word">genutzt</field>
 <field name="word">unterschiedlichsten</field>
+<field name="word">federführend</field>
 <field name="word">daher</field>
 <field name="word">schulklassen</field>
 <field name="word">entwickelt</field>
@@ -51,11 +53,13 @@
 <field name="word">fußgängerpromenade</field>
 <field name="word">ruhebedürfnis</field>
 <field name="word">touristen</field>
+<field name="word">ordnungsamt</field>
 <field name="word">nutzt</field>
 <field name="word">beschließt</field>
 <field name="word">anwohnerschaft</field>
 <field name="word">vereinzelte</field>
 <field name="word">öffentliche</field>
+<field name="word">genommen</field>
 <field name="word">spielerinnen</field>
 <field name="word">geräuschkulisse</field>
 <field name="word">erarbeiten</field>
@@ -67,12 +71,19 @@
 <field name="word">raum</field>
 <field name="word">berücksichtigung</field>
 <field name="word">nächtlichen</field>
+<field name="word">vorlage</field>
+<field name="word">überweisung</field>
+<field name="word">wirtschaft</field>
 <field name="word">kommt</field>
 <field name="word">forster</field>
 <field name="word">kompromissvorschlag</field>
 <field name="word">konzept</field>
 <field name="word">runden</field>
+<field name="word">bezirksamtes</field>
 <field name="word">prüfen</field>
+  <field name="ausschuss">Umwelt</field>
+<field name="ausschuss">Wirtschaft</field>
+<field name="ausschuss">Sport</field>
   <field name="text_de">Sport 
 08.08.2013
 Die Bezirksverordnetenversammlung möge beschließen:
@@ -97,14 +108,35 @@ Die Bezirksverordnetenversammlung beschließt:
  
 Das Bezirksamt wird aufgefordert zu prüfen, inwieweit mit den Anwohnern und der Polizei ein Konzept zur Reduzierung der nächtlichen Geräuschkulisse an der Forster Str. 36/Paul-Lincke-Ufer entwickelt werden kann. Der ortsanssäsige Bouleverein, der wochentags die öffentliche Bouleanlage bis 22.00 Uhr und freitags bis 23.00 Uhr und für vereinzelte Wochenendturniere nutzt, sollte unter der Wahrung der Spielzeiten hinzugezogen werden.
  
+BVV 
+27.11.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
  
  
+Die Bezirksverordnetenversammlung beschließt:
  
+Überweisung: Ausschuss Sport, Ausschuss für Wirtschaft und Ordnungsamt (federführend).
+ 
+ 
+WiO 
+05.12.2013
+Die Bezirksverordnetenversammlung möge beschließen:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
+ 
+ 
+BVV 
+18.12.2013
+Die Bezirksverordnetenversammlung beschließt:
+ 
+Die Vorlage des Bezirksamtes wird zur Kenntnis genommen.
  </field> 
-  <field name="status"></field>
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5610&amp;options=4</field>  
   <field name="#words">4</field>  
-  <field name="#chars">2214</field>  
+  <field name="#chars">2730</field>  
   <field name="parteien">4</field>   
 </doc></add>

@@ -40,8 +40,8 @@
     <div class="constraints" #annTitle("Lists out the &fq filters.  Click to remove.")>
         #set($nongreen=127)
 	
-    #set($red= 136 )
-    #set($green= 137 )
+    #set($red= 180 )
+    #set($green= 100 )
     #set($blue= 12 )
       #foreach($fq in $params.getParams('fq'))
         #set($previous_fq_count=$velocityCount - 1) 

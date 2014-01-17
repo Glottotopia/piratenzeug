@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">SZ_0702/IV</field>  
-  <field name="typ">Beschlussempfehlung_von_Ausschüssen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Straßenmarkierung Sundgauer Straße</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
@@ -10,10 +10,12 @@
 <field name="word">sundgauer</field>
 <field name="word">beschließen</field>
 <field name="word">gesehen</field>
+<field name="word">francke</field>
 <field name="word">beraten</field>
 <field name="word">piraten</field>
 <field name="word">köhne</field>
 <field name="word">annahme</field>
+<field name="word">bezirksverordnetenvorsteher</field>
 <field name="word">besser</field>
 <field name="word">ausschussvorsitzender</field>
 <field name="word">lüders</field>
@@ -31,6 +33,7 @@
 <field name="word">ordnung</field>
 <field name="word">antrags</field>
 <field name="word">halt</field>
+<field name="word">rögner</field>
 <field name="word">dafür</field>
 <field name="word">straße</field>
 <field name="word">gerade</field>
@@ -102,11 +105,32 @@ Der Bezirksverordnetenversammlung wird die Annahme des Antrags empfohlen.
  
  
 Köhne
-Ausschussvorsitzender</field> 
-  <field name="status">None</field>
+Ausschussvorsitzender
+--------------------------------------------------------------------------------
+ 
+Die BVV hat in ihrer 22. Sitzung am 
+13.11.2013
+ beschlossen:
+ 
+D
+as Bezirksamt wird ersucht
+,
+ sich bei den zuständigen Stellen
+ dafür
+ einzusetzen, dass die Halt
+elininie Sundgauer Straße
+ zur Clayallee um mindestens 1 m wei
+ter zurück in die Sundgauer Straße
+ versetzt wird.
+ 
+ 
+Rögner-Francke
+Bezirksverordnetenvorsteher
+ </field> 
+  <field name="status">angenommen</field>
   <field name="location">52.4442128,13.269515</field>
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4738&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1049</field>  
+  <field name="#chars">1459</field>  
   <field name="parteien">1</field>   
 </doc></add>

@@ -75,7 +75,7 @@
 <field name="word">baulichen</field>
 <field name="word">aufzubringen</field>
 <field name="word">praxis</field>
-  
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, in der Straße Am Bahndamm für die südliche, entlang des Bahndamms führende Fahrtrichtung zwischen Einfahrt Parkhaus Forum Köpenick und Kreuzung Alte Kaulsdorfer Straße einen Radfahrstreifen, notfalls Angebotsstreifen herzustellen.
@@ -85,7 +85,7 @@ Das Bezirksamt wird ersucht, in der Straße Am Bahndamm für die südliche, entl
 Begründung:
 Mit dieser Radspur würde die derzeit leider übliche Praxis, dass in Richtung Bahnhof Köpenick fahrende Radfahrerinnen und Radfahrer den dort sehr schmalen Gehweg benutzen, um anschließend auf den baulichen Radweg ab der Kreuzung mit der Alten Kaulsdorfer Straße zu kommen, beendet. Ende der vergangenen Legislaturperiode ist an der Kreuzung bereits die notwendige Bordsteinabsenkung vorgenommen worden, sodass anschließend an die Radspur problemlos auf den baulichen Radweg gewechselt werden kann. Die Straße und insbesondere die Fahrspur Richtung Bahnhof Köpenick ist ausreichend breit um die Radspur dort aufzubringen. Es sind auch sonst keine weiteren baulichen Maßnahmen notwendig, so dass die Maßnahme mit geringen Mittel erfolgen kann, und außerdem darf in diesem Bereich nicht geparkt werden. </field> 
   <field name="status">None</field>
-  <field name="location">52.4735968,13.5705679</field>
+  <field name="location">52.4695548,13.5735439</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4670&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1160</field>  

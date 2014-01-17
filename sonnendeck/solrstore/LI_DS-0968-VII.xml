@@ -54,29 +54,12 @@
 <field name="word">wichtigen</field>
 <field name="word">notwendig</field>
   
-  <field name="text_de">Die Bezirksverordnetenversammlung wolle beschließen:
- 
-Das Bezirksamt wird ersucht sich bei dem Jobcenter Lichtenberg für eine Veröffentlichung der Mitglieder des örtlichen Beirates nach § 18d SGB II mit Namen, Funktion und Institution 
-gut sichtbar 
-auf der Webseite des Jobcenters einzusetzen.
- 
- 
-Begründung:
-Der Beirat trägt zu wichtigen Entscheidungen (Auswahl und Gestaltung der Eingliederungsinstrumente und -maßnahmen) bei, die die Bürger in ihrem Lebensweg schwerwiegend beeinflussen. Es ist daher notwendig transparent zu veröffentlichen, welche Institutionen hinter diesen Entscheidungen stehen.
-In
- 
- den Bezirken Pankow, Reinickendorf, Charlottenburg-Wilmersdorf und
- 
- Mitte sind die Mitgliederlisten bereits veröffentlicht. In Neukölln und
- 
- Marzahn-Hellersdorf werden die Mitglieder lediglich mit Funktion und
- 
- Institution aufgelistet. 
- </field> 
+  <field name="text_de"> 13.2.0.0" /&gt;Die Bezirksverordnetenversammlung wolle beschließen:Die Bezirksverordnetenversammlung wolle beschließen:&#xa0;Das Bezirksamt wird ersucht sich bei dem Jobcenter Lichtenberg für eine Veröffentlichung der Mitglieder des örtlichen Beirates nach § 18d SGB II mit Namen, Funktion und Institution gut sichtbar auf der Webseite des Jobcenters einzusetzen.&#xa0;&#xa0;Begründung:Der Beirat trägt zu wichtigen Entscheidungen (Auswahl und Gestaltung der Eingliederungsinstrumente und -maßnahmen) bei, die die Bürger in ihrem Lebensweg schwerwiegend beeinflussen. Es ist daher notwendig transparent zu veröffentlichen, welche Institutionen hinter diesen Entscheidungen stehen.In&#xa0; den Bezirken Pankow, Reinickendorf, Charlottenburg-Wilmersdorf und&#xa0; Mitte sind die Mitgliederlisten bereits veröffentlicht. In Neukölln und&#xa0; Marzahn-Hellersdorf werden die Mitglieder lediglich mit Funktion und&#xa0; Institution aufgelistet. &#xa0;
+</field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5630&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">857</field>  
+  <field name="#chars">946</field>  
   <field name="parteien">1</field>   
 </doc></add>

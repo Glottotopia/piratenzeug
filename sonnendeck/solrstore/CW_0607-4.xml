@@ -1,30 +1,80 @@
 <add><doc>
   <field name="id">CW_0607/4</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">Kunst am Bau</field>  
   <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
   <field name="partei">Piraten</field>
 <field name="partei">SPD</field>
 <field name="partei">Gruene</field> 
-  <field name="word">bedeutung</field>
+  <field name="word">möglichkeit</field>
+<field name="word">iche</field>
+<field name="word">durchführung</field>
+<field name="word">hingewiesen</field>
 <field name="word">öffentlicher</field>
-<field name="word">beschließ</field>
-<field name="word">bauvorhaben</field>
-<field name="word">stückler</field>
+<field name="word">reinhard</field>
+<field name="word">hierzu</field>
 <field name="word">private</field>
-<field name="word">möglichkeiten</field>
+<field name="word">maßnahmen</field>
+<field name="word">beratend</field>
+<field name="word">bauungsplan</field>
+<field name="word">abau</field>
+<field name="word">positiven</field>
+<field name="word">aufgaben</field>
+<field name="word">mächtigung</field>
+<field name="word">kunst</field>
+<field name="word">erstellung</field>
+<field name="word">allgemeine</field>
+<field name="word">betrachten</field>
+<field name="word">bezirksstadtrat</field>
+<field name="word">bedeutung</field>
+<field name="word">marc</field>
+<field name="word">normative</field>
+<field name="word">während</field>
+<field name="word">vorbereitung</field>
+<field name="word">daher</field>
+<field name="word">hinaus</field>
+<field name="word">besteht</field>
+<field name="word">momente</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">bauhe</field>
+<field name="word">bittet</field>
+<field name="word">regelung</field>
+<field name="word">vergleichbare</field>
+<field name="word">naumann</field>
+<field name="word">über</field>
+<field name="word">interessenten</field>
+<field name="word">august</field>
+<field name="word">zwar</field>
+<field name="word">kommission</field>
+<field name="word">wohl</field>
+<field name="word">effekte</field>
+<field name="word">lins</field>
+<field name="word">teilt</field>
 <field name="word">motivieren</field>
 <field name="word">bauherren</field>
-<field name="word">kunst</field>
-<field name="word">bezirksverordnetenvorsteherin</field>
-<field name="word">maßnahmen</field>
-<field name="word">judith</field>
+<field name="word">folgendes</field>
+<field name="word">tätig</field>
+<field name="word">bewirken</field>
+<field name="word">gestalterischen</field>
+<field name="word">ergänzung</field>
+<field name="word">gleic</field>
+<field name="word">enthält</field>
+<field name="word">ihres</field>
+<field name="word">schulte</field>
+<field name="word">einbindung</field>
+<field name="word">bauten</field>
+<field name="word">baugenehmigungsverfahren</field>
+<field name="word">eingefordert</field>
+<field name="word">bauvorhaben</field>
+<field name="word">zusätzl</field>
+<field name="word">möglichkeiten</field>
+<field name="word">architektonisch</field>
+<field name="word">jektes</field>
+<field name="word">anweisung</field>
 <field name="word">suchen</field>
+<field name="word">explizite</field>
   <field name="ausschuss">Stadtentwicklung</field>
-  <field name="text_de">D
-ie BVV beschließ
-t
-:
+  <field name="text_de">Die BVV hat in ihrer Sitzung am 15. August 2013 beschlossen:
  
 Das Bezirksamt wird aufgefordert, nach Möglichkeiten zu suchen, private Bauherren bei Bauvorhaben mit öffentlicher Bedeutung zu Maßnahmen für Kunst am Bau zu motivieren.
  
@@ -32,13 +82,58 @@ Der BVV ist bis zum
 30.11.2013
  zu berichten.
  
+Das Bezirksamt teilt hierzu Folgendes mit:
  
-Judith Stückler
-Bezirksverordnetenvorsteherin</field> 
+Während die Allgemeine Anweisung für die Vorbereitung und Durchführung von Ba
+u
+aufgaben Be
+r
+lins (Abau) eine explizite Regelung für die Einbindung von Kunst bei der Erstellung öffentlicher Bauten 
+enthält, gibt es eine vergleichbare normative E
+r
+mächtigung für private Bauvorhaben nicht. 
+Daher kann Kunst am Bau zwar in B
+e
+bauungsplan- oder Baugenehmigungsverfahren nicht eingefordert werden, gleic
+h
+wohl werden Interessenten auf die positiven Effekte, die eine Ergänzung ihres Pr
+o
+jektes über die architektonisch-gestalterischen Momente hinaus durch zusätzl
+iche Kunst am Bau bewirken kan
+n, hingewiesen.
+ 
+A
+uch 
+besteht für private Bauhe
+r
+ren 
+die Möglichkeit, die Kommission "Kunst am Bau" beratend tätig werden zu la
+s
+sen.
+ 
+Das Bezirksamt bittet, den Beschluss damit als erledigt zu betrachten.
+ 
+Reinhard Naumann
+              
+              
+              
+              
+              
+              
+              
+Marc Schulte
+Bezirksbürgermeister
+              
+              
+              
+              
+              
+              
+Bezirksstadtrat</field> 
   <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4871&amp;options=4</field>  
   <field name="#words">3</field>  
-  <field name="#chars">293</field>  
+  <field name="#chars">1402</field>  
   <field name="parteien">3</field>   
 </doc></add>

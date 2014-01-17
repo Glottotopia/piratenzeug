@@ -24,7 +24,7 @@
 <field name="word">senat</field>
 <field name="word">radweg</field>
 <field name="word">prüfen</field>
-  
+  <field name="ausschuss">Bauwesen</field>
   <field name="text_de">Sachverhalt:
  
 Die Bezirksverordnetenversammlung wolle beschließen:

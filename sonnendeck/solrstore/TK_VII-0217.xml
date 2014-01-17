@@ -76,7 +76,7 @@ haben, so spart das Bezirksamt Arbeitszeit ein, den neben
  Mülleimern angesammelten Unrat einzusammeln.
  </field> 
   <field name="status">angenommen</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4316&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">670</field>  

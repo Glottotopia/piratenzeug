@@ -7,63 +7,43 @@
   <field name="word">abstimmungsergebnis</field>
 <field name="word">ablehnung</field>
 <field name="word">text</field>
-<field name="word">sitzungen</field>
+<field name="word">vorstandes</field>
 <field name="word">mehrheit</field>
 <field name="word">vorgeschlagenen</field>
 <field name="word">brigen</field>
 <field name="word">finden</field>
-<field name="word">ndung</field>
 <field name="word">ltestenrates</field>
 <field name="word">beratungen</field>
 <field name="word">zustimmende</field>
 <field name="word">daher</field>
 <field name="word">sinngemäß</field>
 <field name="word">fanden</field>
-<field name="word">begr</field>
 <field name="word">thematisierten</field>
 <field name="word">beantragung</field>
-<field name="word">nderung</field>
-<field name="word">ftsordnung</field>
+<field name="word">sitzungen</field>
+<field name="word">vorschläge</field>
+<field name="word">änderung</field>
 <field name="word">ndert</field>
-<field name="word">vorstandes</field>
 <field name="word">beschwerden</field>
+<field name="word">änderungen</field>
 <field name="word">empfiehlt</field>
-<field name="word">nderungen</field>
+<field name="word">begründung</field>
 <field name="word">vorgeschlagen</field>
-<field name="word">vorschl</field>
 <field name="word">anzuzeigen</field>
 <field name="word">ursprungsantrages</field>
 <field name="word">bestimmungen</field>
-<field name="word">gesch</field>
 <field name="word">eingaben</field>
 <field name="word">gestrichen</field>
 <field name="word">anwendung</field>
+<field name="word">geschäftsordnung</field>
 <field name="word">satz</field>
 <field name="word">abgelehnt</field>
   
-  <field name="text_de">Der Ausschuss Gesch
-ä
-ftsordnung, Eingaben und Beschwerden empfiehlt der Bezirksverordnetenversammlung die Ablehnung der Drucksache:
-Begr
-ü
-ndung: 
-Die in der DS thematisierten Vorschl
-ä
-ge fanden im Ausschuss keine zustimmende Mehrheit. Die vorgeschlagenen 
-Ä
-nderungen
+  <field name="text_de">Der Ausschuss Geschäftsordnung, Eingaben und Beschwerden empfiehlt der Bezirksverordnetenversammlung die Ablehnung der Drucksache:
+Begründung: 
+Die in der DS thematisierten Vorschläge fanden im Ausschuss keine zustimmende Mehrheit. Die vorgeschlagenen Änderungen
  
- des 
-§ 
-4 und 
-§ 
-9 wurden mit 2/9/1 abgelehnt. Die 
-Ä
-nderung des 
-§ 
-39 wurde mit 6/6/0 abgelehnt. Eine 
-Ä
-nderung der GO wird daher
+ des § 4 und § 9 wurden mit 2/9/1 abgelehnt. Die Änderung des § 39 wurde mit 6/6/0 abgelehnt. Eine Änderung der GO wird daher
  nicht vorgeschlagen. 
  
 Text des Ursprungsantrages:
@@ -109,6 +89,6 @@ Abstimmungsergebnis: 8
   
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5213&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">928</field>  
+  <field name="#chars">910</field>  
   <field name="parteien">1</field>   
 </doc></add>

@@ -78,7 +78,7 @@ Die Bezirksverordnetenversammlung beschließt:
  
 Das Bezirksamt wird aufgefordert, zukünftig Fristverlängerungsersuchen vor Ablauf der zu verlängernden Frist zu stellen.
  </field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5242&amp;options=4</field>  
   <field name="#words">1</field>  

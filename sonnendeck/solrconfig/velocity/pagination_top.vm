@@ -27,3 +27,4 @@
     of <span class="page-count">$page.page_count</span>
 
 #end   ## end else non-grouped results, normal pagination
+ 

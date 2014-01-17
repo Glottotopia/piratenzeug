@@ -280,7 +280,7 @@ erhalten  """.split()]
 	    print out
 	if format=='solr':     
 	    for a in s:
-		path = 'solr/%s_%s.xml' % (a.bezirk.kuerzel,a.dsnr.replace('/','-'))
+		path = './bvvsolr/%s_%s.xml' % (a.bezirk.kuerzel,a.dsnr.replace('/','-'))
 		#print path 
 		out = open(path, 'w')
 		try:

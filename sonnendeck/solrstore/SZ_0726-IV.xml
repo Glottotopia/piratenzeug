@@ -12,6 +12,7 @@
 <field name="word">bezirksämter</field>
 <field name="word">datensaetze</field>
 <field name="word">lüders</field>
+<field name="word">personal</field>
 <field name="word">thalten</field>
 <field name="word">senat</field>
 <field name="word">möge</field>
@@ -35,12 +36,14 @@
 <field name="word">vorteile</field>
 <field name="word">zulässigkeit</field>
 <field name="word">grafiker</field>
+<field name="word">wirtschaft</field>
 <field name="word">kreativen</field>
 <field name="word">senatsverwaltung</field>
 <field name="word">kreuzberg</field>
 <field name="word">geodaten</field>
 <field name="word">dort</field>
 <field name="word">frei</field>
+<field name="word">europa</field>
 <field name="word">zugänglich</field>
 <field name="word">finden</field>
 <field name="word">ergeben</field>
@@ -48,15 +51,18 @@
 <field name="word">übertragen</field>
 <field name="word">beachtung</field>
 <field name="word">kommen</field>
+<field name="word">vertagt</field>
 <field name="word">portal</field>
 <field name="word">daten</field>
 <field name="word">ntwickler</field>
 <field name="word">strategie</field>
+<field name="word">antr</field>
 <field name="word">öffentlichkeit</field>
 <field name="word">breite</field>
 <field name="word">zurz</field>
 <field name="word">unternehmen</field>
 <field name="word">open</field>
+<field name="word">ausschussvorsitzende</field>
 <field name="word">bürger</field>
 <field name="word">gewinn</field>
 <field name="word">berlins</field>
@@ -66,6 +72,7 @@
 <field name="word">vielfältige</field>
 <field name="word">schöneberg</field>
 <field name="word">regelmäßig</field>
+<field name="word">beigetreten</field>
 <field name="word">umsetzung</field>
 <field name="word">sowohl</field>
 <field name="word">marzahn</field>
@@ -73,11 +80,14 @@
 <field name="word">projekt</field>
 <field name="word">stadt</field>
 <field name="word">arne</field>
+<field name="word">usschusses</field>
 <field name="word">zehlendorf</field>
 <field name="word">wiederum</field>
+<field name="word">walther</field>
 <field name="word">rechtlichen</field>
 <field name="word">interessierte</field>
 <field name="word">oftware</field>
+<field name="word">beraten</field>
 <field name="word">eric</field>
 <field name="word">können</field>
 <field name="word">http</field>
@@ -92,7 +102,7 @@
 <field name="word">zugute</field>
 <field name="word">steglitz</field>
 <field name="word">weiterzuverarbeitenden</field>
-  
+  <field name="ausschuss">Wirtschaft</field>
   <field name="text_de"> 
 Die BVV möge beschließen:
  
@@ -150,11 +160,33 @@ Für die Piraten-Fraktion
  
  
 Eric Lüders, Arne Müller
+ 
+----------------------------------------------------------------------------------------------------------------
+ 
+Der Antr
+ag wurde am 
+21.11.2013
+ in der 15
+. Sitzung des 
+A
+usschusses 
+für Wirtschaft, Personal und Europa 
+beraten
+.
+ 
+Die SPD-Fraktion ist dem Antrag beigetreten.
+ 
+Der Antrag wurde vertagt.
+ 
+ 
+Walther
+Ausschussvorsitzende
+r
  </field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4762&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1484</field>  
+  <field name="#chars">1831</field>  
   <field name="parteien">1</field>   
 </doc></add>

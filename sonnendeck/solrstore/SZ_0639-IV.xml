@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">SZ_0639/IV</field>  
-  <field name="typ">Beschlussempfehlung_von_Ausschüssen</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Vorgaben von Sen Fin im Haushaltsplan kennzeichnen</field>  
   <field name="bezirk">Steglitz_Zehlendorf</field>  
   <field name="partei">Piraten</field> 
@@ -25,6 +25,7 @@
 <field name="word">haushaltes</field>
 <field name="word">ergänzen</field>
 <field name="word">bürger</field>
+<field name="word">bezirksverordnetenvorsteher</field>
 <field name="word">besser</field>
 <field name="word">positionen</field>
 <field name="word">lüders</field>
@@ -50,6 +51,8 @@
 <field name="word">seiten</field>
 <field name="word">nein</field>
 <field name="word">angenommen</field>
+<field name="word">rögner</field>
+<field name="word">francke</field>
 <field name="word">begründung</field>
 <field name="word">haushaltsausschusses</field>
 <field name="word">abstimmung</field>
@@ -137,11 +140,25 @@ empfohlen.
  
 Buchta
 Ausschussvorsitzender
- </field> 
-  <field name="status">None</field>
+ 
+--------------------------------------------------------------------------------
+ 
+Die BVV hat in ihrer 22. Sitzung am 
+13.11.2013
+ beschlossen:
+ 
+Das
+ Bezirksamt wird ersucht,
+ 
+den Haushaltsplanentwurf durch eine Unterlage zu ergänzen, in der die Vorgaben von Sen Fin für die Haushaltsplanaufstellung erläutert werden und diese gemeinsam mit den entsprechenden Rundschreiben der Finanzverwaltung auf den Internet-seiten des Bezirks zu veröffentlichen.
+ 
+ 
+Rögner-Francke
+Bezirksverordnetenvorsteher</field> 
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4675&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1543</field>  
+  <field name="#chars">2044</field>  
   <field name="parteien">1</field>   
 </doc></add>

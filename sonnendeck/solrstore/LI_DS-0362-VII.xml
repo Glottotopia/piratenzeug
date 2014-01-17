@@ -7,8 +7,9 @@
   <field name="word">verengt</field>
 <field name="word">abstimmungsergebnis</field>
 <field name="word">ablehnung</field>
-<field name="word">september</field>
+<field name="word">beschließen</field>
 <field name="word">text</field>
+<field name="word">wolle</field>
 <field name="word">kommenden</field>
 <field name="word">einsetzen</field>
 <field name="word">feiertagen</field>
@@ -17,6 +18,7 @@
 <field name="word">möge</field>
 <field name="word">zuständigen</field>
 <field name="word">abschließend</field>
+<field name="word">september</field>
 <field name="word">dafür</field>
 <field name="word">ordnung</field>
 <field name="word">innenstadt</field>
@@ -30,21 +32,12 @@
 <field name="word">ursprungsantrages</field>
 <field name="word">straßenbahnlinien</field>
   
-  <field name="text_de">Der Ausschuss Öffentliche Ordnung und Verkehr empfiehlt der Bezirksverordnetenversammlung die Ablehnung der DS/0362/VII:
- 
-Begründung:
-Der Ausschuss Öffentliche Ordnung und Verkehr hat am 25. September 2012 die Drucksache abschließend beraten und 
-empfiehlt der BVV die Ablehnung.
- 
-Text des Ursprungsantrages:
-Das Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass in den Nächten Fr/Sa und Sa/So sowie an Feiertagen die Taktdichte der aus der Innenstadt kommenden Straßenbahnlinien von einem 30-Minuten- auf einen 20-Minuten-Takt verengt wird.
- 
-Abstimmungsergebnis: 7 / 4 / 1
- </field> 
+  <field name="text_de"> 13.2.0.0" /&gt;Die Bezirksverordnetenversammlung wolle beschließen:Der Ausschuss Öffentliche Ordnung und Verkehr empfiehlt der Bezirksverordnetenversammlung die Ablehnung der DS/0362/VII:&#xa0;Begründung:Der Ausschuss Öffentliche Ordnung und Verkehr hat am 25. September 2012 die Drucksache abschließend beraten und empfiehlt der BVV die Ablehnung.&#xa0;Text des Ursprungsantrages:Das Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass in den Nächten Fr/Sa und Sa/So sowie an Feiertagen die Taktdichte der aus der Innenstadt kommenden Straßenbahnlinien von einem 30-Minuten- auf einen 20-Minuten-Takt verengt wird.&#xa0;Abstimmungsergebnis: 7 / 4 / 1&#xa0;
+</field> 
   <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-lichtenberg/bvv-online/vo020.asp?VOLFDNR=5024&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">599</field>  
+  <field name="#chars">676</field>  
   <field name="parteien">1</field>   
 </doc></add>

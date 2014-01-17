@@ -6,11 +6,9 @@
   <field name="partei">Piraten</field> 
   <field name="word">interkulturellen</field>
 <field name="word">mitarbeiterinnen</field>
-<field name="word">anfragen</field>
 <field name="word">sportvereine</field>
 <field name="word">stärken</field>
 <field name="word">großen</field>
-<field name="word">auszug</field>
 <field name="word">berücksichtigen</field>
 <field name="word">themen</field>
 <field name="word">vertreterin</field>
@@ -22,17 +20,13 @@
 <field name="word">weitere</field>
 <field name="word">insgesamt</field>
 <field name="word">folgejahren</field>
-<field name="word">copy</field>
 <field name="word">bundesprogramm</field>
 <field name="word">jahre</field>
-<field name="word">beschl</field>
 <field name="word">frage</field>
 <field name="word">publikationen</field>
-<field name="word">kommunalpolitiker</field>
 <field name="word">thema</field>
 <field name="word">fanden</field>
 <field name="word">generelle</field>
-<field name="word">directive</field>
 <field name="word">einzelnen</field>
 <field name="word">über</field>
 <field name="word">friedrichshain</field>
@@ -60,7 +54,6 @@
 <field name="word">schulungen</field>
 <field name="word">gesundheitssystem</field>
 <field name="word">sportliche</field>
-<field name="word">niederschrift</field>
 <field name="word">bezirkes</field>
 <field name="word">organisationsentwicklung</field>
 <field name="word">außendarstellung</field>
@@ -68,7 +61,6 @@
 <field name="word">grundschulen</field>
 <field name="word">wirtschaftsförderung</field>
 <field name="word">tätigkeiten</field>
-<field name="word">anwesenheit</field>
 <field name="word">freien</field>
 <field name="word">diesbezügliche</field>
 <field name="word">zeitraum</field>
@@ -98,10 +90,9 @@
 <field name="word">ordnung</field>
 <field name="word">menschen</field>
 <field name="word">fördern</field>
-<field name="word">sportbroschüren</field>
 <field name="word">finanziert</field>
 <field name="word">zusammenarbeit</field>
-<field name="word">nbsp</field>
+<field name="word">dung</field>
 <field name="word">ansprache</field>
 <field name="word">handelte</field>
 <field name="word">kollegin</field>
@@ -110,6 +101,7 @@
 <field name="word">beantworte</field>
 <field name="word">bibliotheksarbeit</field>
 <field name="word">kommunikation</field>
+<field name="word">sportbrosch</field>
 <field name="word">existieren</field>
 <field name="word">training</field>
 <field name="word">gesundheitlichen</field>
@@ -118,13 +110,10 @@
 <field name="word">etliche</field>
 <field name="word">behindertenbeauftragte</field>
 <field name="word">referenten</field>
-<field name="word">stadtbezirk</field>
 <field name="word">anfrage</field>
 <field name="word">innendienstes</field>
 <field name="word">allerdings</field>
-<field name="word">legende</field>
 <field name="word">bezirksamtes</field>
-<field name="word">this</field>
 <field name="word">referentin</field>
 <field name="word">bereiche</field>
 <field name="word">mehrtägigen</field>
@@ -144,6 +133,7 @@
 <field name="word">sportamt</field>
 <field name="word">innen</field>
 <field name="word">erzieherinnen</field>
+<field name="word">fortbi</field>
 <field name="word">folgt</field>
 <field name="word">landesbeauftragten</field>
 <field name="word">offiziell</field>
@@ -156,7 +146,6 @@
 <field name="word">ordnungsamtes</field>
 <field name="word">folgeprogramm</field>
 <field name="word">längeren</field>
-<field name="word">uuml</field>
 <field name="word">unsere</field>
 <field name="word">jahren</field>
 <field name="word">schul</field>
@@ -165,16 +154,12 @@
 <field name="word">einrichtungen</field>
 <field name="word">organisationen</field>
 <field name="word">sowohl</field>
-<field name="word">realisierung</field>
 <field name="word">einschränkungen</field>
 <field name="word">wert</field>
 <field name="word">weiterführenden</field>
 <field name="word">migrantinnen</field>
-<field name="word">aktenmappe</field>
 <field name="word">entwicklungspartnerschaft</field>
 <field name="word">außendienstes</field>
-<field name="word">while</field>
-<field name="word">error</field>
 <field name="word">grundlagen</field>
 <field name="word">richtet</field>
 <field name="word">interessierten</field>
@@ -200,13 +185,10 @@
 <field name="word">überwiegend</field>
 <field name="word">schulbroschüren</field>
 <field name="word">zugängen</field>
-<field name="word">tagesordnung</field>
-<field name="word">drucksachenlebenslauf</field>
+<field name="word">divers</field>
 <field name="word">dozenten</field>
 <field name="word">zwar</field>
 <field name="word">schulz</field>
-<field name="word">processing</field>
-<field name="word">occurred</field>
 <field name="word">migranten</field>
 <field name="word">richtlinien</field>
 <field name="word">prointegration</field>
@@ -216,7 +198,6 @@
 <field name="word">mitarbeiter</field>
 <field name="word">ihren</field>
 <field name="word">schule</field>
-<field name="word">kleine</field>
 <field name="word">kompetenz</field>
 <field name="word">zertifikat</field>
 <field name="word">abteilungen</field>
@@ -227,73 +208,71 @@
 <field name="word">darstellung</field>
 <field name="word">veranstaltungen</field>
   
-  <field name="text_de"> 10.8.0.0" />Ich frage das Bezirksamt:Ich frage das Bezirksamt:&#xa0;1.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; Verfügt das Bezirksamt Friedrichshain-Kreuzberg über Richtlinien für die Außendarstellung, die auf das Ziel "Darstellung von Diversity" Bezug nehmen und/oder gibt es diesbezügliche Zusammenarbeit mit Migrant_Innenorganisationen bzw. der Queer Community und ihren Organisationen?&#xa0;&#xa0;Bezirksamt Friedrichshain-Kreuzberg von Berlin                                                                      03.12.2012Bezirksbürgermeister&#xa0;&#xa0;Ihre Anfrage beantworte ich für das Bezirksamt wie folgt:&#xa0;1. Verfügt das Bezirksamt Friedrichshain-Kreuzberg über Richtlinien für die Außendarstellung, die auf das Ziel "Darstellung von Diversity" Bezug nehmen und/oder gibt es diesbezügliche Zusammenarbeit mit Migrant_Innenorganisationen bzw. der Queer Community und ihren Organisationen?&#xa0;Generelle Richtlinien des Bezirksamtes für die Außendarstellung in Bezug auf das Thema "Diversity" liegen nicht vor. Allerdings hat eine AG aus Mitarbeiterinnen des Bezirksamtes (Behindertenbeauftragte / IntMig), freien Trägern, einer Migrantenselbsthilfeorganisation und einer Vertreterin des Landesbeauftragten für Menschen mit Behinderungen eine Arbeitshilfe für die Ansprache von Migrantinnen und Migranten mit dem Titel  Interkulturelle Öffentlichkeitsarbeit erarbeitet.  Diese Arbeitshilfe richtet sich an soziale Einrichtungen, Verbände und Initiativen.Im Übrigen existieren etliche abteilungsbezogene Initiativen. So wurden im Jahre 2009 gemeinsam mit dem Beauftragten des Senats für Integration und Migration Grundlagen für eine prozessunterstützende Organisationsentwicklung im Bezirksamt Friedrichshain-Kreuzberg erarbeitet. In diesem Zusammenhang wurden zwei Projekte durchgeführt, und zwar zur Bibliotheksarbeit im interkulturellen Umfeld sowie zu Zugängen und Einblicken in das Gesundheitssystem von Migranten mit Behinderungen oder gesundheitlichen Einschränkungen. &#xa0;Zu Themen wie Kommunikation im Zusammenhang mit Diversity fanden darüber hinaus etliche Schulungen für unsere Mitarbeiterinnen und Mitarbeiter in den unterschiedlichen Abteilungen statt.In den Jahren 2006/2007 nahmen insgesamt über 100 Mitarbeiter/innen an einem Diversity - Training teil (überwiegend 1. und 2. Leitungsebene) In den Folgejahren haben weitere Qualifizierungen stattgefunden, die über die einzelnen Bereiche initiiert wurden (Jug etc.) &#xa0;Im Rahmen des LAP Friedrichshain - Kreuzberg (Lokaler Aktionsplan, finanziert über das Bundesprogramm "VIELFALT TUT GUT" und das Folgeprogramm "TOLERANZ FÖRDERN - KOMPETENZ STÄRKEN") wurden verschiedene Diversity Schulungen durchgeführt. (darunter Lehrer/innen, Erzieherinnen etc. sowie auch Mitarbeiterinnen und Mitarbeiter des Ordnungsamtes sowohl des Außendienstes als auch des Gewerbeservice des Innendienstes, die häufig Bürgerkontakte haben - diese Schulungen fanden in 2010 statt, bei den Dozenten bzw. Referenten handelte es sich um Migrantinnen bzw. Migranten).&#xa0;Im Bereich Schule und Sport fand Jahr 2011 über einen längeren Zeitraum die Fortbildung zur Diversity-Beauftragten statt, an der eine Mitarbeiterin aus dem Fachbereich Sport teilgenommen hat. Die Fortbildung beinhaltete ca. 20 verschiedene Module und fand an unterschiedlichen Orten, z.B. Bars, Rotes Rathaus usw. statt. Nach Beendigung des Lehrgangs erhielt die Kollegin ein Zertifikat und darf offiziell als Diversityberaterin für das Schul- und Sportamt fungieren. &#xa0;In den vom Schul- und Sportamt z.B. herausgegebenen Schulbroschüren und Sportbroschüren werden die jeweiligen Grundschulen, weiterführenden Schulen und Sportvereine bzw. sportliche Veranstaltungen den Kindern, Schüler/innen, Eltern und anderen Interessierten vorgestellt. Darin wird auf das Thema Diversity nicht speziell eingegangen, da alle Schulen und Vereine des Bezirkes und das Schul- und Sportamt selbst großen Wert auf die Diversity legen. &#xa0;Die Wirtschaftsförderung und z.B. der Geschäftsbereich des Bezirksstadtrates für Wirtschaft, Ordnung, Schule und Sport berücksichtigen in ihren Tätigkeiten und in ihren Publikationen auch das Thema Diversity. Die Referentin des Bezirksstadtrates, welche auch für die Öffentlichkeitsarbeit des Geschäftsbereiches zuständig ist, hat an einem mehrtägigen Seminar "ProIntegration im Rahmen der Equal Entwicklungspartnerschaft teilgenommen.&#xa0;&#xa0;&#xa0;&#xa0;Mit freundlichen Grüßen&#xa0;&#xa0;Dr. Franz Schulz Bezirksbürgermeister&#xa0;&#xa0;
-&nbsp;
-	
-	
-		
-		&nbsp;
-		
-	
-
-
-Legende
-
-
-			
-				Ausschuss
-				Tagesordnung
-				Drucksache
-			
-			
-				Stadtbezirk
-				Aktenmappe
-				Drucksachenlebenslauf
-			
-			
-				Fraktion
-				Niederschrift
-				Beschl&uuml;sse
-			
-			
-				Kommunalpolitiker
-				Auszug
-				Realisierung
-			
-			
-				&nbsp;&nbsp;
-				Anwesenheit
-				Kleine Anfragen
-				&nbsp;&nbsp;
-			
-
-
-
-
-
-
-
-
-
-
-
-&copy; Bezirksamt Friedrichshain-Kreuzberg
+  <field name="text_de">Ich frage das Bezirksamt:
+ 
+1.
+      
+Verfügt das Bezirksamt Friedrichshain-Kreuzberg über Richtlinien für
  
-
-
-
-
-&nbsp;&nbsp;
-
-
-[an error occurred while processing this directive]
-
-
-	</field> 
+die Außendarstellung, die auf das Ziel "Darstellung von Diversity"
+ 
+Bezug nehmen und/oder gibt es diesbezügliche Zusammenarbeit mit
+ 
+Migrant_Innenorganisationen bzw. der Queer Community und ihren
+ 
+Organisationen?
+ 
+ 
+Bezirksamt Friedrichshain-Kreuzberg von Berlin
+              
+              
+              
+              
+              
+03.12.2012
+Bezirksbürgermeister
+ 
+ 
+Ihre Anfrage beantworte ich für das Bezirksamt wie folgt:
+ 
+1. Verfügt das Bezirksamt Friedrichshain-Kreuzberg über Richtlinien für die Außendarstellung, die auf das Ziel "Darstellung von Diversity" Bezug nehmen und/oder gibt es diesbezügliche Zusammenarbeit mit Migrant_Innenorganisationen bzw. der Queer Community und ihren Organisationen?
+ 
+Generelle Richtlinien des Bezirksamtes für die Außendarstellung in Bezug auf das Thema "Diversity" liegen nicht vor. Allerdings hat eine AG aus Mitarbeiterinnen des Bezirksamtes (Behindertenbeauftragte / IntMig), freien Trägern, einer Migrantenselbsthilfeorganisation und einer Vertreterin des Landesbeauftragten für Menschen mit Behinderungen eine Arbeitshilfe für die Ansprache von Migrantinnen und Migranten mit dem Titel  Interkulturelle Öffentlichkeitsarbeit erarbeitet.  Diese Arbeitshilfe richtet sich an soziale Einrichtungen, Verbände und Initiativen.
+Im Übrigen existieren etliche abteilungsbezogene Initiativen. So wurden im Jahre 2009 gemeinsam mit dem Beauftragten des Senats für Integration und Migration Grundlagen für eine prozessunterstützende Organisationsentwicklung im Bezirksamt Friedrichshain-Kreuzberg erarbeitet. In diesem Zusammenhang wurden zwei Projekte durchgeführt, und zwar zur Bibliotheksarbeit im interkulturellen Umfeld sowie zu Zugängen und Einblicken in das Gesundheitssystem von Migranten mit Behinderungen oder gesundheitlichen Einschränkungen. 
+ 
+Zu Themen wie Kommunikation im Zusammenhang mit Diversity fanden darüber hinaus etliche Schulungen für unsere Mitarbeiterinnen und Mitarbeiter in den unterschiedlichen Abteilungen statt.
+In den Jahren 2006/2007 nahmen insgesamt über 100 Mitarbeiter/innen an einem Diversity - Training teil (überwiegend 1. und 2. Leitungsebene) 
+In den Folgejahren haben weitere Qualifizierungen stattgefunden, die über die einzelnen Bereiche initiiert wurden (Jug etc.) 
+ 
+Im Rahmen des LAP Friedrichshain - Kreuzberg (Lokaler Aktionsplan, finanziert über das Bundesprogramm "VIELFALT TUT GUT" und das Folgeprogramm "TOLERANZ FÖRDERN - KOMPETENZ STÄRKEN") wurden verschiedene Diversity Schulungen durchgeführt. (darunter Lehrer/innen, Erzieherinnen etc. sowie auch Mitarbeiterinnen und Mitarbeiter des Ordnungsamtes sowohl des Außendienstes als auch des Gewerbeservice des Innendienstes, die häufig Bürgerkontakte haben - diese Schulungen fanden in 2010 statt, bei den Dozenten bzw. Referenten handelte es sich um Migrantinnen bzw. Migranten).
+ 
+Im Bereich Schule und Sport fand 
+Jahr 2011 über einen längeren Zeitraum die Fortbildung zur Diversity-Beauftragten statt, an der eine Mitarbeiterin aus dem Fachbereich Sport teilgenommen hat. Die Fortbi
+l
+dung beinhaltete ca. 20 verschiedene Module und fand an unterschiedlichen Orten, z.B. Bars, Rotes Rathaus usw. statt. Nach Beendigung des Lehrgangs erhielt die Kollegin ein Zertifikat und darf offiziell als Diversityberaterin für das Schul- und Sportamt fungieren. 
+ 
+In den vom Schul- und Sportamt z.B. herausgegebenen Schulbroschüren und Sportbrosch
+ü
+ren werden die jeweiligen Grundschulen, weiterführenden Schulen und Sportvereine bzw. sportliche Veranstaltungen den Kindern, Schüler/innen, Eltern und anderen Interessierten vorgestellt. Darin wird auf das Thema Diversity nicht speziell eingegangen, da alle Schulen und Vereine des Bezirkes und das Schul- und Sportamt selbst großen Wert auf die Divers
+i
+ty legen. 
+ 
+Die Wirtschaftsförderung und z.B. der Geschäftsbereich des Bezirksstadtrates für Wirtschaft, Ordnung, Schule und Sport berücksichtigen in ihren Tätigkeiten und in ihren Publikationen auch das Thema Diversity. Die Referentin des Bezirksstadtrates, welche auch für die Öffentlichkeitsarbeit des Geschäftsbereiches zuständig ist, hat an einem mehrtägigen Seminar "ProIntegration im Rahmen der Equal Entwicklungspartnerschaft teilgenommen.
+ 
+ 
+ 
+ 
+Mit freundlichen Grüßen
+ 
+ 
+Dr. Franz Schulz 
+Bezirksbürgermeister
+ 
+ </field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5264&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">5042</field>  
+  <field name="#chars">4395</field>  
   <field name="parteien">1</field>   
 </doc></add>

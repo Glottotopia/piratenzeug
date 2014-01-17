@@ -80,7 +80,7 @@
 <field name="word">thema</field>
 <field name="word">bezirksamtes</field>
 <field name="word">ersichtlich</field>
-  
+  <field name="ausschuss">Haushalt</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Das Bezirksamt wird ersucht, auf der Webseite des Bezirksamtes nicht nur die Beschlüsse aller Kiezkassen zu veröffentlichen, sondern auch deren Umsetzungen. Daraus sollte spätestens mit der Bezirkshaushaltsrechnung im Folgejahr zusätzlich ein Bericht entstehen.
@@ -98,7 +98,7 @@ welche weiteren Vorschläge außerhalb der Kiezkasse aufgegriffen und umgesetzt 
 Begründung:
 Wenn die Kiezkasse in der Bevölkerung stärker verankert werden soll, braucht es vor allem eine öffentlichkeitswirksame Reflexion und Veranschaulichung. Diese sollte nicht nur die Verwendung der Mittel dokumentieren, sondern auch den Prozess der Umsetzung. Mit Hilfe der Webseite können Bürgerinnen und Bürger sich jederzeit darüber informieren. Mit Hilfe des Berichtes bekommt das Thema zusätzliche Aufmerksamkeit.
  </field> 
-  <field name="status">None</field>
+  <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4676&amp;options=4</field>  
   <field name="#words">1</field>  

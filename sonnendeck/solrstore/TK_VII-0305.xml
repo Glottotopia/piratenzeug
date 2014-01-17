@@ -64,12 +64,18 @@
 <field name="word">zehlendorf</field>
 <field name="word">flughafen</field>
   
-  <field name="text_de"> 11.7.0.0" />Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:&#xa0;Die Bezirksverordnetenversammlung fordert den Senat und das Abgeordnetenhaus auf, sich erneut mit der Forderung eines Nachtflugverbotes zwischen 22 und 6 Uhr am künftigen Flughafen BER zu befassen.&#xa0;&#xa0;&#xa0;Begründung:Zwar sind die erforderlichen 173.233 Stimmen für ein Volksbegehren nicht zusammengekommen, gleichwohl sind 139.129 gültige Unterschriften, darunter allein 42.615 aus Treptow-Köpenick, ein eindrucksvolles Zeichen. Es ist die Aufgabe des Senates und des Abgeordnetenhauses, auf gleiche Lebensbedingungen in der gesamten Stadt hinzuwirken. Bei der Belastung durch den künftigen Flughafen ist dies nicht zu erwarten, wie auch die Unterschriften aus Tempelhof-Schöneberg und Steglitz-Zehlendorf belegen. Daher sollte auf politischem Weg wenigstens eine angemessene Nachtruhe durchgesetzt werden. Darüber hinaus sind die passiven Schallschutzmaßnahmen endlich und zwar noch vor Inbetriebnahme des Flughafens in zufriedenstellendem Umfang umzusetzen.
-</field> 
+  <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
+ 
+Die Bezirksverordnetenversammlung fordert den Senat und das Abgeordnetenhaus auf, sich erneut mit der Forderung eines Nachtflugverbotes zwischen 22 und 6 Uhr am künftigen Flughafen BER zu befassen.
+ 
+ 
+ 
+Begründung:
+Zwar sind die erforderlichen 173.233 Stimmen für ein Volksbegehren nicht zusammengekommen, gleichwohl sind 139.129 gültige Unterschriften, darunter allein 42.615 aus Treptow-Köpenick, ein eindrucksvolles Zeichen. Es ist die Aufgabe des Senates und des Abgeordnetenhauses, auf gleiche Lebensbedingungen in der gesamten Stadt hinzuwirken. Bei der Belastung durch den künftigen Flughafen ist dies nicht zu erwarten, wie auch die Unterschriften aus Tempelhof-Schöneberg und Steglitz-Zehlendorf belegen. Daher sollte auf politischem Weg wenigstens eine angemessene Nachtruhe durchgesetzt werden. Darüber hinaus sind die passiven Schallschutzmaßnahmen endlich und zwar noch vor Inbetriebnahme des Flughafens in zufriedenstellendem Umfang umzusetzen.</field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4404&amp;options=4</field>  
   <field name="#words">2</field>  
-  <field name="#chars">1148</field>  
+  <field name="#chars">1041</field>  
   <field name="parteien">2</field>   
 </doc></add>

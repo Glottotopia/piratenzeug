@@ -1,62 +1,145 @@
 <add><doc>
   <field name="id">CW_0581/4</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">Künstler/-innenateliers retten!</field>  
   <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
   <field name="partei">Piraten</field>
 <field name="partei">SPD</field>
 <field name="partei">Gruene</field> 
-  <field name="word">hohenzollerndamm</field>
-<field name="word">gesamte</field>
-<field name="word">bezirksverordnetenvorsteherin</field>
-<field name="word">ckler</field>
-<field name="word">ateliers</field>
-<field name="word">arbeiten</field>
+  <field name="word">gefasst</field>
+<field name="word">september</field>
+<field name="word">hierzu</field>
+<field name="word">standort</field>
+<field name="word">gestellt</field>
+<field name="word">räumlichkeiten</field>
+<field name="word">künstleri</field>
+<field name="word">betrachten</field>
 <field name="word">bedingungen</field>
-<field name="word">team</field>
-<field name="word">beschlie</field>
-<field name="word">quaten</field>
-<field name="word">gefunden</field>
-<field name="word">sofern</field>
-<field name="word">judith</field>
-<field name="word">nstler</field>
-<field name="word">nstlerinnen</field>
-<field name="word">abgestimmter</field>
-<field name="word">umziehen</field>
+<field name="word">künstlerinnen</field>
+<field name="word">fanden</field>
+<field name="word">dorthin</field>
+<field name="word">gezeigt</field>
 <field name="word">kulturplus</field>
+<field name="word">verlegen</field>
+<field name="word">folgenden</field>
+<field name="word">hatten</field>
+<field name="word">folgendes</field>
+<field name="word">halemweg</field>
+<field name="word">verein</field>
+<field name="word">gebäude</field>
+<field name="word">worden</field>
+<field name="word">zehnjähr</field>
+<field name="word">team</field>
+<field name="word">anfang</field>
+<field name="word">naumann</field>
+<field name="word">abgestimmter</field>
+<field name="word">voraussichtlich</field>
+<field name="word">realisieren</field>
+<field name="word">statt</field>
+<field name="word">nutzung</field>
+<field name="word">fand</field>
+<field name="word">zwei</field>
+<field name="word">etablierung</field>
+<field name="word">diesen</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">geeigneten</field>
+<field name="word">selbstständig</field>
+<field name="word">gemeinsamer</field>
+<field name="word">arbeiten</field>
+<field name="word">erfolgter</field>
+<field name="word">nonnendamm</field>
+<field name="word">gefunden</field>
+<field name="word">überlegungen</field>
+<field name="word">genseitig</field>
+<field name="word">erneut</field>
+<field name="word">stimmt</field>
+<field name="word">umsehen</field>
+<field name="word">nochmals</field>
+<field name="word">umstandes</field>
+<field name="word">fertigstellung</field>
+<field name="word">fern</field>
+<field name="word">verbleibenden</field>
+<field name="word">künstler</field>
+<field name="word">vorgehen</field>
+<field name="word">innen</field>
+<field name="word">aufgrund</field>
+<field name="word">künstlerhaus</field>
+<field name="word">konnte</field>
+<field name="word">damm</field>
+<field name="word">termin</field>
+<field name="word">bittet</field>
+<field name="word">gesamte</field>
+<field name="word">angeboten</field>
+<field name="word">spätestens</field>
+<field name="word">nunmehr</field>
+<field name="word">märz</field>
+<field name="word">verfügung</field>
+<field name="word">reinhard</field>
+<field name="word">umziehen</field>
+<field name="word">nendamm</field>
+<field name="word">ateliermöglichkeiten</field>
+<field name="word">mitglieder</field>
+<field name="word">hohenzollerndamm</field>
+<field name="word">ateliers</field>
+<field name="word">übrigen</field>
+<field name="word">weitere</field>
+<field name="word">können</field>
+<field name="word">entschieden</field>
+<field name="word">akzeptiert</field>
+<field name="word">gezogen</field>
+<field name="word">vornherein</field>
+<field name="word">scha</field>
+<field name="word">adäquaten</field>
+<field name="word">atelierräumen</field>
+<field name="word">konzeption</field>
+<field name="word">berichtet</field>
+<field name="word">nonne</field>
+<field name="word">hierbei</field>
   <field name="ausschuss">Bürgerdienste</field>
 <field name="ausschuss">Weiterbildung</field>
-  <field name="text_de"> 
-D
-ie BVV beschlie
-ß
-t
-:
+  <field name="text_de">Die BVV hat in ihrer Sitzung am 
+16.05.2013
+ folgenden Beschluss gefasst:
  
-Die Ateliers von Kulturplus e. V. am Hohenzollerndamm 174-177 sind zu erhalten, sofern nicht ein mit den K
-ü
-nstlerinnen abgestimmter Ort im Bezirk gefunden wird, an den das gesamte Team (7 K
-ü
-nstlerinnen und 1 K
-ü
-nstler) umziehen und an dem es unter ad
-ä
-quaten Bedingungen arbeiten kann.
+"Die Ateliers von Kulturplus e. V. am Hohenzollerndamm 174-177 sind zu erhalten, s
+o
+fern nicht ein mit den Künstlerinnen abgestimmter Ort im Bezirk gefunden wird, an den das gesamte Team (7 Künstlerinnen und 1 Künstler) umziehen und an dem es unter adäquaten Bedingungen arbeiten kann.
  
 Der BVV ist bis zum 
 31.07.2013
- zu berichten.
+ zu berichten."
  
  
-Judith St
-ü
-ckler
-Bezirksverordnetenvorsteherin
+Hierzu wird Folgendes berichtet:
+ 
+Aufgrund des Umstandes, dass das Gebäude Halemweg 26-28 für eine zehnjähr
+i
+ge Nutzung für den Verein Kulturplus e.V. nicht mehr zur Verfügung gestellt werden konnte, fanden erneut Überlegungen statt, eine Etablierung im Künstlerhaus No
+n
+nendamm 17 zu realisieren. Zwei Künstlerinnen hatten sich bereits von vornherein für diesen Standort entschieden und sind bereits dorthin gezogen. Mit den übrigen Künstler/innen fand ein gemeinsamer Vor-Ort-Termin Anfang September 2013 statt. Hierbei wurden dem Verein Kulturplus e.V. die Ateliermöglichkeiten im Nonnendamm gezeigt und nochmals angeboten. Bis auf zwei Künstlerinnen h
+a
+ben sich die übrigen Mitglieder von Kulturplus e.V. für Räumlichkeiten im Nonne
+n
+damm 17 entschieden und werden nach erfolgter Fertigstellung der Ateliers ihr Scha
+f
+fen voraussichtlich bis spätestens März 2014 dorthin verlegen können. Die verbleibenden zwei Künstleri
+n
+nen werden sich nunmehr selbstständig nach geeigneten Atelierräumen umsehen. Diese Konzeption und das weitere Vorgehen ist mit dem Verein Kulturplus abg
+e
+stimmt und g
+e
+genseitig akzeptiert worden. 
+ 
+Das Bezirksamt bittet die Bezirksverordnetenversammlung, den Beschluss damit als erledigt zu betrachten.
+ 
+ 
+Reinhard Naumann
+Bezirksbürgermeister
  </field> 
   <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4845&amp;options=4</field>  
   <field name="#words">3</field>  
-  <field name="#chars">422</field>  
+  <field name="#chars">1700</field>  
   <field name="parteien">3</field>   
 </doc></add>

@@ -15,6 +15,7 @@
 <field name="word">lüders</field>
 <field name="word">gewährleistet</field>
 <field name="word">worte</field>
+<field name="word">buchta</field>
 <field name="word">ungenügend</field>
 <field name="word">möge</field>
 <field name="word">hippe</field>
@@ -56,6 +57,7 @@
 <field name="word">genannten</field>
 <field name="word">gestaltungsprozess</field>
 <field name="word">anwendung</field>
+<field name="word">haushaltsausschusses</field>
 <field name="word">bürgerbeteiligung</field>
 <field name="word">verfahren</field>
 <field name="word">empfohlen</field>
@@ -70,6 +72,7 @@
 <field name="word">form</field>
 <field name="word">neutrale</field>
 <field name="word">umfang</field>
+<field name="word">francke</field>
 <field name="word">abstimmung</field>
 <field name="word">sowohl</field>
 <field name="word">bauen</field>
@@ -79,6 +82,7 @@
 <field name="word">ablehnung</field>
 <field name="word">beraten</field>
 <field name="word">beteiligten</field>
+<field name="word">bezirksverordnetenvorsteher</field>
 <field name="word">beteiligt</field>
 <field name="word">lichterfelde</field>
 <field name="word">zugleich</field>
@@ -88,6 +92,7 @@
 <field name="word">möglich</field>
 <field name="word">auffordern</field>
 <field name="word">http</field>
+<field name="word">rögner</field>
 <field name="word">charrette</field>
 <field name="word">ausreichend</field>
 <field name="word">charlottenburg</field>
@@ -145,11 +150,36 @@ Dem federführenden Ausschuss wird die Ablehnung des Antrags empfohlen.
  
  
 Hippe
-Ausschussvorsitzender</field> 
-  <field name="status">None</field>
+Ausschussvorsitzender
+ 
+----------------------------------------------------------------------------------------------------
+ 
+Der Antrag wurde am 
+28.11.2013
+ in der 34. Sitzung des Haushaltsausschusses beraten und bei einer Abstimmung mit 1 Ja- Stimme und 11 Nein-Stimmen bei keiner Enthaltung abgelehnt. 
+ 
+Der Bezirksverordnetenversammlung wird die Ablehnung des Antrags empfohlen.
+ 
+ 
+Buchta
+Ausschussvorsitzender
+ 
+--------------------------------------------------------------------------------
+ 
+Die BVV hat in ihrer 23. Sitzung am 
+11.12.2013
+ beschlossen:
+ 
+Der Antrag ist abgelehnt.
+ 
+ 
+Rögner-Francke
+Bezirksverordnetenvorsteher
+ </field> 
+  <field name="status">abgelehnt</field>
   
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4674&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1776</field>  
+  <field name="#chars">2397</field>  
   <field name="parteien">1</field>   
 </doc></add>

@@ -81,7 +81,7 @@ Der Antrag wird abgelehnt.
 28.08.2012
 Die Drucksache wird zurückgezogen.</field> 
   <field name="status">abgelehnt</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5041&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">936</field>  

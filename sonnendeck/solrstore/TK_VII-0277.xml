@@ -60,7 +60,7 @@ Die Stelle ist ein viel genutzter Übergang von Personen, um in den Fußweg "Am 
 in 
 Fußgängerüberweg macht auf Fußgänger aufmerksam und bietet gegenüber einer Ampel den Vorteil, dass der Verkehrsfluss nur bei Bedarf gebremst wird.</field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4376&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">723</field>  

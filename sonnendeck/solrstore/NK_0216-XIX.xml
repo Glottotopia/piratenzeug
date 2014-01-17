@@ -27,10 +27,10 @@
 <field name="word">rechtsabbiegenden</field>
 <field name="word">annahme</field>
   <field name="ausschuss">Verkehr</field>
-  <field name="text_de"> 11.7.0.0" />Die Bezirksverordnetenversammlung möge beschließen:Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme des Antrages in folgender Fassung:&#xa0;Das Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass an den Autobahnauffahrten Buschkrugallee und Britzer Damm für Radfahrer/innen eine sichtbare Warnung vor rechtsabbiegenden Fahrzeugen aufgestellt wird.&#xa0;&#xa0;
+  <field name="text_de"> 11.7.0.0" /&gt;Die Bezirksverordnetenversammlung möge beschließen:Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die Annahme des Antrages in folgender Fassung:&#xa0;Das Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass an den Autobahnauffahrten Buschkrugallee und Britzer Damm für Radfahrer/innen eine sichtbare Warnung vor rechtsabbiegenden Fahrzeugen aufgestellt wird.&#xa0;&#xa0;
 </field> 
   <field name="status">angenommen</field>
-  <field name="location">52.4573446,13.4488846</field>
+  <field name="location">52.44391,13.4557817</field>
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3839&amp;options=4</field>  
   <field name="#words">3</field>  
   <field name="#chars">425</field>  

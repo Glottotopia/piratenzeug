@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">CW_0744/4</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">Deutsche Seniorenmeisterschaften im Rettungsschwimmen</field>  
   <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
   <field name="partei">Piraten</field>
@@ -8,33 +8,241 @@
 <field name="partei">CDU</field>
 <field name="partei">Gruene</field>
 <field name="partei">Linke</field> 
-  <field name="word">aufnahme</field>
-<field name="word">ehrenamtliche</field>
-<field name="word">stückler</field>
+  <field name="word">insofern</field>
+<field name="word">andere</field>
+<field name="word">kontakt</field>
+<field name="word">gefasst</field>
+<field name="word">stehen</field>
 <field name="word">seniorenmeisterschaften</field>
+<field name="word">ganz</field>
+<field name="word">wären</field>
+<field name="word">größtmögliche</field>
+<field name="word">mich</field>
+<field name="word">hierzu</field>
+<field name="word">immer</field>
+<field name="word">vorfeld</field>
+<field name="word">unserer</field>
 <field name="word">unte</field>
+<field name="word">herzlich</field>
+<field name="word">weitere</field>
+<field name="word">elfi</field>
+<field name="word">bezirksstadträtin</field>
+<field name="word">betrachten</field>
+<field name="word">vertrauensvolle</field>
+<field name="word">unterstützt</field>
+<field name="word">spannungsfeld</field>
+<field name="word">könnte</field>
+<field name="word">frage</field>
+<field name="word">vorbereitung</field>
+<field name="word">geschehen</field>
+<field name="word">veröffentlichung</field>
+<field name="word">fachwissen</field>
+<field name="word">homepage</field>
+<field name="word">gute</field>
+<field name="word">über</field>
+<field name="word">kontakte</field>
+<field name="word">folgenden</field>
+<field name="word">meinheit</field>
+<field name="word">vereine</field>
+<field name="word">gerade</field>
+<field name="word">aushänge</field>
+<field name="word">doch</field>
+<field name="word">unterstützung</field>
+<field name="word">entstanden</field>
+<field name="word">lassen</field>
+<field name="word">passiert</field>
+<field name="word">förderung</field>
+<field name="word">gerichtet</field>
+<field name="word">einmal</field>
+<field name="word">lebens</field>
+<field name="word">rahmenbedi</field>
+<field name="word">unbändigen</field>
+<field name="word">ganzen</field>
+<field name="word">charlottenburg</field>
+<field name="word">würden</field>
+<field name="word">bezirklichen</field>
+<field name="word">sichtigenden</field>
+<field name="word">fokus</field>
+<field name="word">lösungen</field>
+<field name="word">jedoch</field>
+<field name="word">helferin</field>
+<field name="word">aufgenommen</field>
+<field name="word">kosten</field>
+<field name="word">ehrenamtliche</field>
+<field name="word">geschätzt</field>
+<field name="word">stützen</field>
+<field name="word">deutschen</field>
+<field name="word">setzen</field>
+<field name="word">ganisation</field>
+<field name="word">geantwortet</field>
+<field name="word">würde</field>
+<field name="word">hohen</field>
+<field name="word">hilfe</field>
+<field name="word">handelt</field>
+<field name="word">schreiben</field>
 <field name="word">ehrenamtsbörse</field>
+<field name="word">sport</field>
+<field name="word">bedauert</field>
+<field name="word">realisieren</field>
+<field name="word">gemeinten</field>
+<field name="word">sehr</field>
+<field name="word">schul</field>
+<field name="word">bekannt</field>
+<field name="word">hinaus</field>
+<field name="word">verständnis</field>
+<field name="word">unsere</field>
+<field name="word">tens</field>
+<field name="word">bereich</field>
+<field name="word">wohl</field>
+<field name="word">schuster</field>
+<field name="word">naumann</field>
+<field name="word">öffnung</field>
+<field name="word">bezirksamts</field>
+<field name="word">ansprechpartner</field>
+<field name="word">ebenso</field>
+<field name="word">verlässlicher</field>
+<field name="word">nichtmitgliedern</field>
+<field name="word">zusammenarbeit</field>
+<field name="word">fragen</field>
+<field name="word">wilmersdorf</field>
+<field name="word">ändern</field>
+<field name="word">stellt</field>
+<field name="word">heraus</field>
+<field name="word">bedingen</field>
+<field name="word">vereinsinterne</field>
+<field name="word">versuch</field>
+<field name="word">unserem</field>
+<field name="word">mitarbeitern</field>
+<field name="word">wäre</field>
+<field name="word">offizielle</field>
+<field name="word">dlrg</field>
+<field name="word">solch</field>
+<field name="word">möchte</field>
+<field name="word">ungemein</field>
+<field name="word">aufnahme</field>
+<field name="word">aber</field>
+<field name="word">tungsschwimmen</field>
+<field name="word">facility</field>
+<field name="word">landesverband</field>
+<field name="word">allge</field>
+<field name="word">projektle</field>
+<field name="word">finanzierenden</field>
+<field name="word">willen</field>
+<field name="word">gerne</field>
+<field name="word">verbunden</field>
+<field name="word">sinne</field>
+<field name="word">berück</field>
+<field name="word">aller</field>
+<field name="word">wirtscha</field>
+<field name="word">management</field>
+<field name="word">sportamt</field>
+<field name="word">rettungs</field>
+<field name="word">onseinheiten</field>
+<field name="word">arbeit</field>
+<field name="word">vorgaben</field>
+<field name="word">reinhard</field>
+<field name="word">besonders</field>
+<field name="word">bittet</field>
+<field name="word">werbung</field>
+<field name="word">beispiel</field>
+<field name="word">sondern</field>
+<field name="word">realisierbar</field>
+<field name="word">nehmen</field>
+<field name="word">versucht</field>
+<field name="word">zusa</field>
+<field name="word">zeigt</field>
+<field name="word">hoffe</field>
+<field name="word">familie</field>
+<field name="word">helfer</field>
+<field name="word">leider</field>
+<field name="word">beschlusses</field>
+<field name="word">darüber</field>
+<field name="word">zirk</field>
+<field name="word">rathaus</field>
+<field name="word">sicherlich</field>
+<field name="word">umsetzung</field>
+<field name="word">unverhältnis</field>
+<field name="word">problemen</field>
+<field name="word">projekt</field>
+<field name="word">bezirksleiter</field>
+<field name="word">wünschenswert</field>
+<field name="word">bedanken</field>
+<field name="word">sicherheitsdienstes</field>
+<field name="word">herausragende</field>
+<field name="word">anspruch</field>
+<field name="word">verfügung</field>
+<field name="word">stadträtin</field>
+<field name="word">konstruktiven</field>
+<field name="word">weiteres</field>
+<field name="word">freut</field>
+<field name="word">spendern</field>
+<field name="word">gesellschaft</field>
+<field name="word">jugend</field>
+<field name="word">talent</field>
+<field name="word">weiterhin</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">natürlich</field>
+<field name="word">gungen</field>
+<field name="word">zuständige</field>
+<field name="word">folgendes</field>
 <field name="word">rettungsschwimmen</field>
+<field name="word">mäßig</field>
+<field name="word">organisat</field>
+<field name="word">allen</field>
 <field name="word">veranstaltung</field>
+<field name="word">steht</field>
+<field name="word">mitglieder</field>
+<field name="word">beteiligten</field>
+<field name="word">tatsächlich</field>
+<field name="word">vorgenannten</field>
+<field name="word">obigen</field>
 <field name="word">helferinnen</field>
 <field name="word">zirkliche</field>
-<field name="word">könnte</field>
-<field name="word">stützen</field>
-<field name="word">geschehen</field>
-<field name="word">judith</field>
-<field name="word">beispiel</field>
-<field name="word">beschließ</field>
-<field name="word">aushänge</field>
-<field name="word">helfer</field>
-<field name="word">rathaus</field>
-<field name="word">werbung</field>
-<field name="word">bezirksverordnetenvorsteherin</field>
+<field name="word">fachämtern</field>
+<field name="word">aufruf</field>
+<field name="word">können</field>
+<field name="word">jektleiter</field>
+<field name="word">anforderungen</field>
+<field name="word">fühlen</field>
+<field name="word">herrn</field>
+<field name="word">allerdings</field>
+<field name="word">betr</field>
+<field name="word">überhaupt</field>
+<field name="word">dafür</field>
+<field name="word">hierbei</field>
+<field name="word">etwas</field>
+<field name="word">einzubringen</field>
+<field name="word">unser</field>
+<field name="word">aspekten</field>
+<field name="word">kostendeckend</field>
+<field name="word">unterstützen</field>
+<field name="word">finanzkräftigen</field>
+<field name="word">betreuung</field>
+<field name="word">folgt</field>
+<field name="word">probleme</field>
+<field name="word">tung</field>
+<field name="word">sponsoren</field>
+<field name="word">jantzen</field>
+<field name="word">renamtsbörse</field>
+<field name="word">abermals</field>
+<field name="word">berichtet</field>
+<field name="word">versicherungsschutz</field>
+<field name="word">ihren</field>
+<field name="word">schule</field>
 <field name="word">deutsche</field>
+<field name="word">serer</field>
+<field name="word">hierfür</field>
+<field name="word">gemachte</field>
+<field name="word">vorliegende</field>
+<field name="word">erfolg</field>
+<field name="word">organisi</field>
+<field name="word">gremien</field>
+<field name="word">bezirkspolitik</field>
   
   <field name="text_de"> 
-Die BVV beschließ
-t
-:
+Die BVV hat in ihrer Sitzung am 
+19.09.2013
+ folgenden Beschluss gefasst:
  
 Das Bezirksamt wird ersucht, die Werbung für ehrenamtliche Helfer und Helferinnen für die Deutsche Seniorenmeisterschaften im Rettungsschwimmen 2014 zu unte
 r
@@ -47,13 +255,101 @@ Der BVV ist bis zum
  zu berichten.
  
  
-Judith Stückler
-Bezirksverordnetenvorsteherin
+Hierzu wird Folgendes berichtet:
+ 
+Das Bezirksamt hat im Sinne des obigen Beschlusses mit der Bezirks- sowie der Projektle
+i
+tung DSM 2014 der Deutschen Lebens-Rettungs-Gesellschaft Landesverband Berlin e. V., B
+e
+zirk Charlottenburg-Wilmersdorf, Kontakt aufgenommen. 
+ 
+Mit Schreiben vom 
+20.11.2013
+ hat der Bezirksleiter wie folgt geantwortet:
+ 
+". 
+es freut uns als DLRG ungemein, dass die Deutschen Seniorenmeisterschaften im Re
+t
+tungsschwimmen (DSM) 2014 so im Fokus der Bezirkspolitik stehen, dass auch über den betr. BVV-Beschluss versucht wird, die größtmögliche Unterstützung für unser Projekt zu organisi
+e
+ren. Zeigt dies doch wie sehr die Arbeit der DLRG in den bezirklichen Gremien und Organisat
+i
+onseinheiten bekannt ist und geschätzt wird. Nur durch solch gute und vertrauensvolle Zusa
+m
+me
+n
+arbeit mit dem Bezirksamt, von dem wir uns nicht nur durch den Bezirksbürgermeister und die zuständige Stadträtin für Jugend, Familie, Schule und Sport, sondern insbesondere von allen beteiligten Fachämtern (Schul- und Sportamt, Facility Management) und ihren Mitarbeitern be
+s
+tens unterstützt fühlen, können wir die Veranstaltung überhaupt realisieren. Das Bezirksamt steht uns immer bei allen Fragen und Problemen als verlässlicher Ansprechpartner mit dem Willen zu konstruktiven Lösungen zur Verfügung. Hierfür möchte ich mich gerade an dieser Ste
+l
+le noch einmal herzlich bedanken.
+ 
+Der nun vorliegende BVV-Beschluss zur Veröffentlichung der DSM 2014 im Rahmen der E
+h
+renamtsbörse ist sicherlich ebenso aus diesem unbändigen Willen heraus entstanden, unsere Veranstaltung zu unterstützen und zu einem Erfolg für die DLRG, aber gerade auch für den ganzen Bezirk Charlottenburg-Wilmersdorf werden zu lassen.
+ 
+In der Umsetzung stellt er uns jedoch vor Probleme, da es sich bei den DSM 2014 um eine re
+i
+ne vereinsinterne Veranstaltung handelt. Eine Öffnung 
+der Veranstaltung für die Allge
+meinheit oder ebenso andere Vereine, würde besonders im Bereich des Sicherheitsdienstes ganz and
+e
+re Anforderungen bedingen, die bei so einer
+ Veranstaltung mit unverhältnis
+mäßig hohen, für uns nicht zu finanzierenden Kosten verbunden wären. Darüber hinaus stellt sich auch bei allen Nichtmitgliedern die Frage nach dem Versicherungsschutz, wenn im Rahmen der Vorbereitung oder Betreuung der Veranstaltung etwas passiert.
+ 
+Insofern ist der auf unserer Homepage gemachte Aufruf, sich als Helferin oder Helfer in die O
+r
+ganisation der DSM 2014 einzubringen, natürlich nur an DLRG-Mitglieder gerichtet.
+ 
+Dies kann bedauert werden, ist aber unter den vorgenannten Aspekten leider nicht zu ändern. Ich hoffe, dass Sie dafür Verständnis haben. Sehr wohl möchte ich mich abermals für die gute Zusammenarbeit und den gut gemeinten Versuch die DSM 2014 noch mehr zu unterstützen bedanken. Gerne würden wir auch weitere Hilfe in Anspruch nehmen und setzen hierbei auf offizielle Kontakte zu finanzkräftigen Spendern und Sponsoren, sowie weiteres Unterstützung
+s
+talent und Fachwissen des Bezirksamts und der BVV-Mitglieder, um kostendeckend wirtscha
+f
+ten zu können. Es wäre allerdings wünschenswert, wenn im Vorfeld Kontakt zu unserem Pr
+o
+jektleiter Herrn Schuster oder mir aufgenommen wird, damit eine Förderung der DLRG und u
+n
+serer DSM 2014 i
+m Spannungsfeld aller zu berück
+sichtigenden Vorgaben und Rahmenbedi
+n
+gungen tatsächlich realisierbar wird.
+"
+ 
+Das Bezirksamt wird diese herausragende Veranstaltung weiterhin unte
+r
+stützen und bittet, den Beschluss als erledigt zu betrachten.
+ 
+ 
+ 
+ 
+Reinhard Naumann
+              
+              
+              
+              
+              
+              
+              
+              
+Elfi Jantzen
+Bezirksbürgermeister
+              
+              
+              
+              
+              
+              
+              
+              
+Bezirksstadträtin
+ 
  </field> 
   <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=5012&amp;options=4</field>  
   <field name="#words">5</field>  
-  <field name="#chars">435</field>  
+  <field name="#chars">4257</field>  
   <field name="parteien">5</field>   
 </doc></add>

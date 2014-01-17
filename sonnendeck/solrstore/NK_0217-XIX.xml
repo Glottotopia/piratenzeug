@@ -8,25 +8,24 @@
 <field name="partei">Gruene</field> 
   <field name="word">köllnische</field>
 <field name="word">ablehnung</field>
-<field name="word">fassung</field>
+<field name="word">beschließen</field>
 <field name="word">zuständigen</field>
 <field name="word">antrages</field>
+<field name="word">fassung</field>
 <field name="word">sichere</field>
 <field name="word">querungsmöglichkeit</field>
 <field name="word">folgender</field>
 <field name="word">empfiehlt</field>
 <field name="word">heide</field>
+<field name="word">möge</field>
 <field name="word">sonnenallee</field>
   <field name="ausschuss">Verkehr</field>
-  <field name="text_de">Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die 
-Ablehnung
- des Antrages in folgender Fassung:
- 
-Das Bezirksamt wird gebeten, sich bei den zuständigen Stellen für eine sichere Querungsmöglichkeit der Sonnenallee am S-Bhf. Köllnische Heide einzusetzen.</field> 
+  <field name="text_de"> 11.7.0.0" /&gt;Die Bezirksverordnetenversammlung möge beschließen:Der Ausschuss empfiehlt der Bezirksverordnetenversammlung die Ablehnung des Antrages in folgender Fassung:&#xa0;Das Bezirksamt wird gebeten, sich bei den zuständigen Stellen für eine sichere Querungsmöglichkeit der Sonnenallee am S-Bhf. Köllnische Heide einzusetzen.
+</field> 
   <field name="status">angenommen</field>
-  <field name="location">52.487274,13.4271007</field>
+  <field name="location">52.4874914,13.4265066</field>
   <field name="url">http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3840&amp;options=4</field>  
   <field name="#words">3</field>  
-  <field name="#chars">265</field>  
+  <field name="#chars">332</field>  
   <field name="parteien">3</field>   
 </doc></add>

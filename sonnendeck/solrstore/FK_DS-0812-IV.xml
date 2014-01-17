@@ -19,10 +19,10 @@
 <field name="word">erkrankt</field>
 <field name="word">zustä</field>
 <field name="word">zusammen</field>
-<field name="word">verbund</field>
 <field name="word">gesundheit</field>
 <field name="word">wegen</field>
 <field name="word">solchen</field>
+<field name="word">rbund</field>
 <field name="word">polizei</field>
 <field name="word">straß</field>
 <field name="word">polizeidirektion</field>
@@ -40,6 +40,7 @@
 <field name="word">derar</field>
 <field name="word">situationen</field>
 <field name="word">offensichtlich</field>
+<field name="word">antragsteller</field>
 <field name="word">möge</field>
 <field name="word">anderem</field>
 <field name="word">herausgefunden</field>
@@ -51,10 +52,12 @@
 <field name="word">menschen</field>
 <field name="word">grundbedü</field>
 <field name="word">troffenen</field>
+<field name="word">gesik</field>
 <field name="word">entsprechendes</field>
 <field name="word">unangenehm</field>
 <field name="word">begrü</field>
 <field name="word">nimmt</field>
+<field name="word">zurückgezogen</field>
 <field name="word">jobcenter</field>
 <field name="word">ffentlichkeit</field>
 <field name="word">ndung</field>
@@ -83,15 +86,15 @@
 <field name="ausschuss">Gesundheit</field>
   <field name="text_de">Die Bezirksverordnetenversammlung möge beschließen:
  
-Das Bezirksamt wird beauftragt, zusammen mit dem Gerontopsychiatrisch-
-Geriatrischen Verbund Friedrichshain-Kreuzberg stationä
+Das Bezirksamt wird beauftragt, zusammen mit dem Gerontopsychiatrisch-Geriatrischen Ve
+rbund Friedrichshain-Kreuzberg stationä
 re Pflegeeinrichtungen zu ü
 berzeugen, derartige Schutzrä
 ume fü
-r Menschen, die im Bezirk orientierungslos angetroffen werden und offensichtlich an Demenz erkrankt sind, anzubieten und wegen der Nutzung
- 
-diesbezü
-glich ein entsprechendes Amtshilfeersuchen an die zustä
+r Menschen, die im Bezirk orientierungslos angetroffen werden und offensichtlich an Demenz erkrankt sind, anzubieten und wegen der Nutzung diesbezü
+glich e
+i
+n entsprechendes Amtshilfeersuchen an die zustä
 ndige Polizeidirektion 5 zu richten.
 Begrü
 ndung:
@@ -123,11 +126,15 @@ Die Bezirksverordnetenversammlung beschließt:
  
 Überweisung
 : Ausschuss für Soziales, JobCenter und Bürgerdienste, Ausschuss für Gesundheit und Inklusion ff.
+ 
+GesIk 
+12.12.2013
+Die Drucksache wird vom Antragsteller zurückgezogen. 
  </field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5604&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">1383</field>  
+  <field name="#chars">1457</field>  
   <field name="parteien">1</field>   
 </doc></add>

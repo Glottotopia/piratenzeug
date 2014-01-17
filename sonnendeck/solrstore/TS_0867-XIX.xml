@@ -5,14 +5,77 @@
   <field name="bezirk">Tempelhof_Schöneberg</field>  
   <field name="partei">Piraten</field>
 <field name="partei">Linke</field> 
+  <field name="word">aufnahme</field>
+<field name="word">jeweils</field>
+<field name="word">dringlichkeitsliste</field>
+<field name="word">maßnahmen</field>
+<field name="word">angemeldet</field>
+<field name="word">bestimmt</field>
+<field name="word">abarbeitung</field>
+<field name="word">bitte</field>
+<field name="word">kriterien</field>
+<field name="word">weisen</field>
+<field name="word">jahresraten</field>
+<field name="word">welches</field>
+<field name="word">welcher</field>
+<field name="word">angemeldeten</field>
+<field name="word">schon</field>
+<field name="word">mitteln</field>
+<field name="word">gesamtsumme</field>
+<field name="word">geplant</field>
+<field name="word">überbezirklichen</field>
+<field name="word">zuweisung</field>
+<field name="word">senats</field>
+<field name="word">zeitrahmen</field>
+<field name="word">welchen</field>
+<field name="word">bezirken</field>
+<field name="word">letzten</field>
+<field name="word">über</field>
+<field name="word">auflisten</field>
+<field name="word">schulgebäude</field>
+<field name="word">müssen</field>
+<field name="word">zugewiesen</field>
+<field name="word">wann</field>
+<field name="word">investitionsmittel</field>
+<field name="word">sanierungsbedarf</field>
+<field name="word">anmeldung</field>
+<field name="word">genehmigung</field>
+<field name="word">beabsichtigt</field>
+<field name="word">fragen</field>
+<field name="word">jahren</field>
+<field name="word">liste</field>
+<field name="word">reihenfolge</field>
+<field name="word">dringlichkeit</field>
+<field name="word">überbezirkliche</field>
+<field name="word">drei</field>
+<field name="word">vorarbeiten</field>
+<field name="word">höhe</field>
+<field name="word">einzelbeträgen</field>
+<field name="word">anmeldungen</field>
+<field name="word">genehmigt</field>
+<field name="word">gegenüber</field>
+<field name="word">stand</field>
+<field name="word">absehen</field>
+<field name="word">gesamtvolumen</field>
+<field name="word">notwendig</field>
+<field name="word">restlichen</field>
+<field name="word">erfahrung</field>
   
-  
-  <field name="text_de"> 
+  <field name="text_de"> 
+Wir fragen das Bezirksamt:
+ 
+Welche 14 Schulgebäude weisen einen Sanierungsbedarf von jeweils über 5 Mio. € aus (bitte auflisten mit Einzelbeträgen/Gesamtsumme)?
+Welche Maßnahmen sind schon genehmigt, welche sind bereits angemeldet und welche müssen noch angemeldet werden?
+Nach welchen Kriterien bestimmt das Bezirksamt die Dringlichkeit und die Anmeldung auf die „überbezirkliche Dringlichkeitsliste“ (ÜDL) des Senats?
+Wann und nach welcher Reihenfolge beabsichtigt das Bezirksamt die Anmeldung der restlichen Maßnahmen auf der „überbezirklichen Dringlichkeitsliste“ (ÜDL)?
+Welche Anmeldungen sind für 2014 geplant und welche Vorarbeiten sind dazu notwendig?
+In welcher Höhe wurden Investitionsmittel über die „ÜDL“ in den letzten drei Jahren (2010 - 2012) den Bezirken zugewiesen / welches Gesamtvolumen von angemeldeten Maßnahmen stand dem gegenüber?
+Welche Zeitrahmen kann man aus Erfahrung mit anderen Anmeldungen für die Abarbeitung von Maßnahmen, die 2014 neu angemeldet werden, absehen (Anmeldung, Aufnahme auf Liste, Genehmigung von Mitteln, Zuweisung von Jahresraten)?
  </field> 
   <field name="status">None</field>
   
   <field name="url">http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/vo020.asp?VOLFDNR=4663&amp;options=4</field>  
   <field name="#words">2</field>  
-  <field name="#chars">3</field>  
+  <field name="#chars">1083</field>  
   <field name="parteien">2</field>   
 </doc></add>

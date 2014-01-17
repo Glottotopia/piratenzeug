@@ -312,7 +312,7 @@ rmationen, wie sich diese 2.000 zusammensetzen wird. Es sind nur Spekulationen, 
  
  </field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/vo020.asp?VOLFDNR=5169&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">4766</field>  

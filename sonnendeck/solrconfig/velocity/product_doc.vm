@@ -1,8 +1,3 @@
-#**
- *  Render a hit representing a Product
- *  assumed to have a field called "name"
- *#
-
 <div class="result-title"><b>$doc.getFieldValue('titel')</b>
 <span class="mlt">  
 #if($params.getBool('mlt', false) == false)
@@ -18,12 +13,18 @@
     <div>
     <small><a target="_map" href="http://maps.google.com/?q=$store&amp;source=embed">Larger Map</a></small>
     </div></div>
+    <div name="markerinfo" >
+	<input type="hidden" name="location" value="$store"/>
+	<input type="hidden" name="title"  value="#field('titel')"/>
+	<input type="hidden" name="link"  value="#"/>
+    </div>
 #end
 <div>Id: #field('id')</div>
 <div>Typ: #field('typ')</div>
 <div>Titel: #field('titel')</div> 
 <div>Bezirk: #field('bezirk')</div>
 <div>Partei: #field('partei')</div>
+<div>Status: <span class="#field('status')">#field('status')</span></div>
 <div>ALLRis: <a href="#field('url')"> #field('url') </a></div>
 
 

@@ -1,6 +1,6 @@
 <add><doc>
   <field name="id">TK_VII/0473</field>  
-  <field name="typ">Stellungnahme</field>  
+  <field name="typ">Antrag</field>  
   <field name="titel">Soziale Mischung an der Fanny-Zobel-Straße</field>  
   <field name="bezirk">Treptow_Köpenick</field>  
   <field name="partei">Piraten</field> 
@@ -127,7 +127,7 @@ Die Schaffung von sozial verträglichen Mietwohnungen im Rahmen der Umsetzung ei
 Der Investor kann seine Vermarktungsstrategie entsprechend überarbeiten und den zahlungskräftigen, zukünftigen Bewohnern so die Möglichkeit schaffen, nicht die Gentrifizierung voran zu treiben, sondern durch einen höheren Kaufpreis eine "gesunde Bevölkerungsmischung" mit zu finanzieren. Wenn ein Drittel der Wohnfläche nicht realisierbar sein sollte, mag sich der Investor überlegen, ob er es zumindest für einen Teil der Fläche realisieren kann und welchen Teil er für geeignet hält.
  </field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4572&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">1770</field>  

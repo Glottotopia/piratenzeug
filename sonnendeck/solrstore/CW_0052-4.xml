@@ -211,7 +211,7 @@ Das Bezirksamt bittet, den Beschluss als erledigt zu betrachten.
 Naumann
  </field> 
   <field name="status">angenommen</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4316&amp;options=4</field>  
   <field name="#words">5</field>  
   <field name="#chars">2411</field>  

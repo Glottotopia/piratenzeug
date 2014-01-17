@@ -1,42 +1,85 @@
 <add><doc>
   <field name="id">CW_0560/4</field>  
-  <field name="typ">Antrag</field>  
+  <field name="typ">Vorlage_zur_Kenntnisnahme</field>  
   <field name="titel">alt: Vorschrift des Landeskrankenhausgesetzes umsetzen neu: Berichte der Patientenfürsprecherinnen und Patientenfürsprecher im Internet veröffentlichen</field>  
   <field name="bezirk">Charlottenburg_Wilmersdorf</field>  
   <field name="partei">Piraten</field> 
-  <field name="word">vorschrift</field>
-<field name="word">bezirksverordnetenvorsteherin</field>
-<field name="word">ckler</field>
+  <field name="word">berichte</field>
+<field name="word">vorschrift</field>
+<field name="word">reinhard</field>
+<field name="word">carsten</field>
+<field name="word">patientenfürsprecher</field>
+<field name="word">patientenfürsprecherinnen</field>
+<field name="word">anzusehen</field>
+<field name="word">veröffentlicht</field>
 <field name="word">umzusetzen</field>
-<field name="word">landeskrankenhausgesetz</field>
-<field name="word">beschlie</field>
-<field name="word">gefordert</field>
-<field name="word">judith</field>
+<field name="word">innen</field>
+<field name="word">erfahrungsberichte</field>
+<field name="word">internet</field>
+<field name="word">koordinierungsstelle</field>
+<field name="word">homepage</field>
+<field name="word">bezirksbürgermeister</field>
+<field name="word">naumann</field>
+<field name="word">planungs</field>
+<field name="word">jährlich</field>
+<field name="word">landeskranken</field>
+<field name="word">teilt</field>
+<field name="word">folgendes</field>
+<field name="word">zukünftig</field>
+<field name="word">bittet</field>
+<field name="word">hausgesetz</field>
+<field name="word">bezirksstadtrat</field>
+<field name="word">worden</field>
+<field name="word">engelmann</field>
+<field name="word">soziales</field>
+<field name="word">internetadresse</field>
+<field name="word">abteilung</field>
+<field name="word">gesundheit</field>
+<field name="word">bezirksamtes</field>
   <field name="ausschuss">Soziales</field>
-  <field name="text_de">D
-ie BVV beschlie
-ß
-t
+  <field name="text_de">Die BVV 
+hat 
+in ihrer Sitzung am 
+16.05
+.2013
+ Folgendes beschlossen
 :
  
-Das Bezirksamt wird auf gefordert, die Vorschrift des 
-§ 
-30 Abs. 3 S. 4 und 5 Landeskrankenhausgesetz umzusetzen.
+Das Bezirksamt wird aufgefordert, die Vorschrift de
+s
+ § 30 Abs. 3 S. 4 und 5 Landeskranken
+-
+hausgesetz umzusetzen.
  
 Der BVV ist bis zum 
 31.10.2013
  zu berichten.
  
+Das Bezirksamt 
+teilt 
+mit, dass die Erfahrungsberichte 2012 der Patientenfürsprecherinnen und Patientenfürsprecher im Internet auf der Homepage des Bezirksamtes, Abteilung Soziales und Gesundheit, Planungs- und Koordinierungsstelle - Patientenfürsprecher/-innen veröffentlicht worden sind.
  
-Judith St
-ü
-ckler
-Bezirksverordnetenvorsteherin
+Zukünftig werden die Berichte jährlich unter dieser Internetadresse veröffentlicht.
+ 
+Das Bezirksamt bittet, den Beschluss als erledigt anzusehen.
+ 
+ 
+ 
+Reinhard Naumann
+              
+              
+              
+Carsten Engelmann
+Bezirksbürgermeister
+              
+              
+              
+Bezirksstadtrat
  </field> 
   <field name="status">angenommen</field>
   
   <field name="url">http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/vo020.asp?VOLFDNR=4824&amp;options=4</field>  
   <field name="#words">1</field>  
-  <field name="#chars">243</field>  
+  <field name="#chars">851</field>  
   <field name="parteien">1</field>   
 </doc></add>

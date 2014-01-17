@@ -235,7 +235,7 @@ Rögner-Francke
 Bezirksverordnetenvorsteher
  </field> 
   <field name="status">angenommen</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/vo020.asp?VOLFDNR=4360&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2780</field>  

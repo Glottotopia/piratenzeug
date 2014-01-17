@@ -167,7 +167,7 @@ weiterhin die Zufahrt garantieren. Die Installierung von Klapppollern
 wäre damit ebenso im Sinne der Deutschen Bahn und dient dazu, diese
 für eine Wiedereröfnung des Durchgangs zu gewinnen.</field> 
   <field name="status">None</field>
-  <field name="location"></field>
+  
   <field name="url">http://www.berlin.de/ba-mitte/bvv-online/vo020.asp?VOLFDNR=5161&amp;options=4</field>  
   <field name="#words">1</field>  
   <field name="#chars">2235</field>  

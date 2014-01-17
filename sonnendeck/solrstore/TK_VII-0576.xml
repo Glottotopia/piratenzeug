@@ -103,7 +103,7 @@
 <field name="word">ziel</field>
 <field name="word">herzustellen</field>
 <field name="word">veranstaltungen</field>
-  
+  <field name="ausschuss">Bürgerdienste</field>
   <field name="text_de">Die Bezirksverordnetenversammlung Treptow-Köpenick von Berlin möge beschließen:
  
 Dem Bezirksamt wird empfohlen, in Zusammenarbeit mit der zuständigen Senatsverwaltung in der Straße An der Wuhlheide für die nördliche, stadteinwärts führende Fahrtrichtung zwischen der Straße zum FEZ und der Lichtzeichenanlage an der Einmündung der Weiskopffstraße auf der rechten Spur eine Angebotsstreifen/Schutzstreifen für Radfahrerinnen und Radfahrer herzustellen.
@@ -122,7 +122,7 @@ längs zur Fahrtrichtung genutzt und ist ausreichend breit, um neben den parkend
 Diese Strecke ist Teil des Hauptroutennetzes. Die Herstellungskosten wären nur durch Abmarkieren gering.
  </field> 
   <field name="status">None</field>
-  <field name="location">52.4576752,13.5433012</field>
+  <field name="location">52.4578402,13.5420345</field>
   <field name="url">http://www.berlin.de/ba-treptow-koepenick/bvv-online/vo020.asp?VOLFDNR=4675&amp;options=4</field>  
   <field name="#words">2</field>  
   <field name="#chars">1615</field>  
