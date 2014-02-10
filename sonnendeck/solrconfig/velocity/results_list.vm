@@ -11,11 +11,12 @@
   #end
 
 #else 
+
+#if($queryOpts != "spatial")
   #foreach($doc in $response.results)
-    #parse("hit.vm")
-    ## Can get an extremely simple view of the doc
-    ## which might be nicer for debugging
-    ##parse("hit_plain.vm")
+    #parse("hit.vm") 
+  #end
+
   #end
 
 #end

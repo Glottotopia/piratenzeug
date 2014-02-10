@@ -527,3 +527,29 @@ div.tag span.value{
 .angenommen{ 
     color:darkgreen;       
 }
+
+/*.mydivicon{
+    width:2px !important;
+    height:2px !important; 
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 6px;
+    color: orange;
+}
+
+.gruene{
+    border-bottom-color: red;
+}
+
+.cdu{
+    border-right-color: black;
+}
+
+.linke{
+    border-left-color: pink;
+}
+
+.gruene{
+    border-top-color: green;
+}
+ */
