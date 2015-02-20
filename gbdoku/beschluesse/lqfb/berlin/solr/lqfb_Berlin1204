@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin1204</field>
+    <field name="title">I want chilli</field>
+    <field name="date">3 Jahrs 4 Monaten 11 Tagen 12:57:39</field>
+    <field name="area">Sandkasten / Spielwiese</field>
+    <field name="regelwerk">Schnellverfahren </field>
+    <field name="result">cross.png</field>
+    <field name="yes">8</field>
+    <field name="no">1</field>
+    <field name="abstention">20</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1203</field>
+    <field name="text">lasagne is boringthe chilli will be really hot</field>
+    <field name="bb">[div class="draft_content wiki"][p]lasagne is boring[/p]
+[p]the chilli will be really hot[/p]
+[/div]</field>
+    </add></doc>

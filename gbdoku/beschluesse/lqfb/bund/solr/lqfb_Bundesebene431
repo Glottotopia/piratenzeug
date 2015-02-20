@@ -1,0 +1,25 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene431</field>
+    <field name="title">Angaben zur Restlaufzeit von Initiativen verständlicher angeben</field>
+    <field name="date">4 Jahrs 5 Monaten 24 Tagen 01:45:35</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">320</field>
+    <field name="no">57</field>
+    <field name="abstention">45</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Antragstext:Die angegebene Restlaufzeit für Initiativen im LiquidFeedback soll zukünftig in für Menschen besser lesbarer Form angegeben werden.Mögliche alternative Darstellungsweisen wären z.B.:das konkrete Ablaufdatum mit Uhrzeit11.12.2013 14:15:16 Uhr (noch 12 Stunden)Optimalerweise kann der Nutzer selbst in den Einstellungen wählen, welche der möglichen Anzeigearten er bevorzugt.&nbsp;Begründung:Eine Angabe der relativen Restlaufzeit ist sehr ungünstig. Sie bezieht sich auf den Zeitpunkt des letzen Aufrufs der entsprechenden Seite, so dass es allein dadurch zu Fehlern kommen kann.Vielen ist auch eine absolute Zeitangabe gebräuchlicher, da man mit Datum und Uhrzeit in der Regel besser umgehen kann aus mit einem Countdown der über mehrere Tage geht und auf die Mikrosekunde genau angegeben wird. Die derzeitige Form (z.B: &quot;2 days 11:20:59.910361&quot;) ist für Menschen nur schwer lesbar.</field>
+    <field name="bb">[div class="draft_content wiki"][p][b]Antragstext:[/b][br /] Die angegebene Restlaufzeit für Initiativen im LiquidFeedback soll zukünftig in für Menschen besser lesbarer Form angegeben werden.[/p]
+[p]Mögliche alternative Darstellungsweisen wären z.B.:[/p]
+[ul][li]das konkrete Ablaufdatum mit Uhrzeit[/li]
+[li]11.12.2013 14:15:16 Uhr (noch 12 Stunden)[/li]
+[/ul]
+[p]Optimalerweise kann der Nutzer selbst in den Einstellungen wählen, welche der möglichen Anzeigearten er bevorzugt.[br /] [/p]
+[p][b]Begründung:[/b][/p]
+[ul][li]Eine Angabe der relativen Restlaufzeit ist sehr ungünstig. Sie bezieht sich auf den Zeitpunkt des letzen Aufrufs der entsprechenden Seite, so dass es allein dadurch zu Fehlern kommen kann.[/li]
+[li]Vielen ist auch eine absolute Zeitangabe gebräuchlicher, da man mit Datum und Uhrzeit in der Regel besser umgehen kann aus mit einem Countdown der über mehrere Tage geht und auf die Mikrosekunde genau angegeben wird. Die derzeitige Form (z.B: &amp;quot;2 days 11:20:59.910361&amp;quot;) ist für Menschen nur schwer lesbar.[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

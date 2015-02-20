@@ -1,0 +1,26 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1377</field>
+    <field name="title">Aktive-ML nicht abschalten, aber Werbung für die Liste einstellen</field>
+    <field name="date">4 Jahrs 1 Monat 23 Tagen 10:50:00</field>
+    <field name="area">Sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">237</field>
+    <field name="no">57</field>
+    <field name="abstention">65</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1379 1376 1378</field>
+    <field name="text">AntragstextDie Verantwortlichen für die Webpräsenz der Piratenpartei mögen Hinweise auf die Aktive-ML als &quot;Hauptdiskussionsliste der Partei&quot; (wie besipielweisehierformuliert) entfernen und sie lediglich in derListenübersichtmit einer Warnung und einem Disclaimer in der Beschreibung belassen.BegründungDie Aktive-ML hat sich seit langem von ihrer Funktion als bundesweite Diskussionsliste gelöst und bietet stattdessen ein wildes Durcheinander aus emotionalisierten Flamewars, Getrolle und Selbstdarstellung Einzelner. Diese Liste offiziell als Anlaufpunkt für Außenstehende, Interessierte und Neumitglieder anzugeben ist kontraproduktiv und kann nur zu einem Abschreckeffekt führen.Der Alternativvorschlag, die Liste komplett abzuschalten, ist zumindest aus folgenden Gründen abzulehnen:Mit einer an Sicherheit grenzender Wahrscheinlichkeit werden Stimmen laut, die sich über &quot;Zensur&quot;, &quot;Meinungsunterdrückung&quot; und ähnliches beschweren;Ohne eine &quot;Trollwiese&quot; besteht die Gefahr, dass sich die aktivsten Teilnehmer eine andere Mailingliste für ihre Profilierung aussuchen, die bisher davon verschont blieb.ChangelogAnregung &quot;Warnung und Disclaimer&quot; umgesetzt</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Antragstext[/h2]
+[p]Die Verantwortlichen für die Webpräsenz der Piratenpartei mögen Hinweise auf die Aktive-ML als &amp;quot;Hauptdiskussionsliste der Partei&amp;quot; (wie besipielweise [a href="http://web.piratenpartei.de/mailingliste"]hier[/a] formuliert) entfernen und sie lediglich in der [a href="https://service.piratenpartei.de/mailman/listinfo"]Listenübersicht[/a] mit einer Warnung und einem Disclaimer in der Beschreibung belassen.[/p]
+[h2]Begründung[/h2]
+[p]Die Aktive-ML hat sich seit langem von ihrer Funktion als bundesweite Diskussionsliste gelöst und bietet stattdessen ein wildes Durcheinander aus emotionalisierten Flamewars, Getrolle und Selbstdarstellung Einzelner. Diese Liste offiziell als Anlaufpunkt für Außenstehende, Interessierte und Neumitglieder anzugeben ist kontraproduktiv und kann nur zu einem Abschreckeffekt führen.[br /][/p]
+[p]Der Alternativvorschlag, die Liste komplett abzuschalten, ist zumindest aus folgenden Gründen abzulehnen:[br /][/p]
+[ul][li]Mit einer an Sicherheit grenzender Wahrscheinlichkeit werden Stimmen laut, die sich über &amp;quot;Zensur&amp;quot;, &amp;quot;Meinungsunterdrückung&amp;quot; und ähnliches beschweren;[/li]
+[li]Ohne eine &amp;quot;Trollwiese&amp;quot; besteht die Gefahr, dass sich die aktivsten Teilnehmer eine andere Mailingliste für ihre Profilierung aussuchen, die bisher davon verschont blieb.[/li]
+[/ul]
+[h2]Changelog[/h2]
+[ul][li]Anregung &amp;quot;Warnung und Disclaimer&amp;quot; umgesetzt[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

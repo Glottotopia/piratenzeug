@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin42</field>
+    <field name="title">Aktionen sind Tagespolitik</field>
+    <field name="date">5 Jahrs 1 Monat 11 Tagen 19:29:05</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">16</field>
+    <field name="no">9</field>
+    <field name="abstention">35</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">17</field>
+    <field name="text">Es ist kein Themenbereich Aktionen nötig, da Aktionen Tagespolitik sind und somit durch den bereits existierenden Themenbereich &quot;Tagespolitik&quot; abgedeckt sind.Um dies klarzustellen sollte der Themenbereich &quot;Tagespolitik&quot; in &quot;Aktionen und Tagespolitik&quot; umbenannt werden.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Es ist kein Themenbereich Aktionen nötig, da Aktionen Tagespolitik sind und somit durch den bereits existierenden Themenbereich &amp;quot;Tagespolitik&amp;quot; abgedeckt sind.[/p]
+[p]Um dies klarzustellen sollte der Themenbereich &amp;quot;Tagespolitik&amp;quot; in &amp;quot;Aktionen und Tagespolitik&amp;quot; umbenannt werden.[/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin50</field>
+    <field name="title">Antrag und Erläuterung trennen</field>
+    <field name="date">5 Jahrs 27 Tagen 20:44:28</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">28</field>
+    <field name="no">20</field>
+    <field name="abstention">28</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">134 85</field>
+    <field name="text">Extra Feld für Erläuterungen anlegenErläuterungEs wäre Hilfreich wenn, es ein extra Feld für Erläuterungen gäbe, daß neben dem eigentlichen Text der Initiative angezeigt wird: Auf der einen Seite ist es wünschenwert Erläuterungen sofort mit dem Intitiativentext zu erhalten, statt zur Diskussion navigieren zu müssen. Auf der anderen Seite müssen Änderungen an den Erläuterungen nicht dokumentiert werden und Stimmen bei solchen Änderugen nicht neu verteilt werden.Am Ende soll als ein Feld für den eigentlichen Antrag stehen, dessen Veränderung dokumentiert wird, und über den im Wortlaut abgestimmt wird. Und ein weiteres unverbindliches Feld für Erläuterugen.</field>
+    <field name="bb">[div class="draft_content wiki"][p][i]Extra Feld für Erläuterungen anlegen[/i][/p]
+[h2]Erläuterung[/h2]
+[p]Es wäre Hilfreich wenn, es ein extra Feld für Erläuterungen gäbe, daß neben dem eigentlichen Text der Initiative angezeigt wird: Auf der einen Seite ist es wünschenwert Erläuterungen sofort mit dem Intitiativentext zu erhalten, statt zur Diskussion navigieren zu müssen. Auf der anderen Seite müssen Änderungen an den Erläuterungen nicht dokumentiert werden und Stimmen bei solchen Änderugen nicht neu verteilt werden.[/p]
+[p]Am Ende soll als ein Feld für den eigentlichen Antrag stehen, dessen Veränderung dokumentiert wird, und über den im Wortlaut abgestimmt wird. Und ein weiteres unverbindliches Feld für Erläuterugen.[/p]
+[/div]</field>
+    </add></doc>

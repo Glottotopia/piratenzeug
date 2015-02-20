@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene488</field>
+    <field name="title">&quot;Auto-Ablehnen&quot; für Schnellverfahren als Standard-Einstellung auswählen können</field>
+    <field name="date">4 Jahrs 5 Monaten 16 Tagen 09:53:06</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Änderung von Themenbereichen/Quoren/Fristen (einfache Mehrheit) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">115</field>
+    <field name="no">173</field>
+    <field name="abstention">143</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">750</field>
+    <field name="text">Es hat sich gezeigt, dass Anträge hier als »Schnellverfahren« eingestellt werden, für die dieses Regelwerk nicht vorgesehen ist. Um dem entgegenwirken zu können, beantrage ich , dass Nutzer in ihren Einstellungen festlegen können, dass Anträge im »Schnellverfahren« als Standard auf »Auto-Ablehnen« eingestellt werden.Kennzeichen von Liquid Feedback ist es,ohne Moderationauszukommen. Um dem Missbrauch von Regelwerken bereits innerhalb von Liquid Feedback ohne Moderation begegnen zu können, ist die beantragte regelwerksbezogene Einstellmöglichkeit »Auto-Ablehnen« sinnvoll.Da ich nicht weiß, ob und ggf. welche Änderungen das in der Software verursacht, möchte ich hier den Wunsch nach einer solchen Einstellungsmöglichkeit erfragen. Ich bitte die Entwickler, zu diesem Vorschlag ggf. auf der Diskussionsseite im Wiki Stellung zu nehmen.Zu der Anregung:Wenn eine Initiative abgelehnt wird, heißt das nicht, dass das Gegenteil beschlossen wurde. Ergebnis ist vielmehr, dass es keine (neue) Beschlusslage zum Inhalt der Initiative gibt.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Es hat sich gezeigt, dass Anträge hier als »Schnellverfahren« eingestellt werden, für die dieses Regelwerk nicht vorgesehen ist. Um dem entgegenwirken zu können, beantrage ich , dass Nutzer in ihren Einstellungen festlegen können, dass Anträge im »Schnellverfahren« als Standard auf »Auto-Ablehnen« eingestellt werden.[/p]
+[p]Kennzeichen von Liquid Feedback ist es, [b]ohne Moderation[/b] auszukommen. Um dem Missbrauch von Regelwerken bereits innerhalb von Liquid Feedback ohne Moderation begegnen zu können, ist die beantragte regelwerksbezogene Einstellmöglichkeit »Auto-Ablehnen« sinnvoll.[/p]
+[p]Da ich nicht weiß, ob und ggf. welche Änderungen das in der Software verursacht, möchte ich hier den Wunsch nach einer solchen Einstellungsmöglichkeit erfragen. Ich bitte die Entwickler, zu diesem Vorschlag ggf. auf der Diskussionsseite im Wiki Stellung zu nehmen.[/p]
+[p][b]Zu der Anregung:[/b] Wenn eine Initiative abgelehnt wird, heißt das nicht, dass das Gegenteil beschlossen wurde. Ergebnis ist vielmehr, dass es keine (neue) Beschlusslage zum Inhalt der Initiative gibt.[/p]
+[/div]</field>
+    </add></doc>

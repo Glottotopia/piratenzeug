@@ -1,0 +1,23 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin92</field>
+    <field name="title">Abstimmung beim Eilantrag verlängern</field>
+    <field name="date">5 Jahrs 2 Monaten 3 Tagen 06:53:45</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">30</field>
+    <field name="no">8</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Der Verlauf eines Eilantrages ist derzeit folgender:max. 1 Tag sammeln nötiger potentieller Unterstützer bei mindestens einer Initiative des Themas1 Tag Diskussion mit Möglichkeit der Initiatoren Anträge zu verändern1 Tag &quot;Einfrierzeit&quot;1 Tag EntabstimmungDie Dauer der Endabstimmung möge beim Eilantrag von einem auf zwei Tage erhöht werden, so dass sich eine Gesamtverfahrensdauer von 4-5 Tagen ergibt.Grund: Um keinen Eilantrag zu verpassen, müsste man sich täglich ins System einloggen. Das ist viel verlangt und ziemlich stressig &ndash; auch wenn Eilanträge nicht für jede Art von Entscheidung zugelassen sind. Durch eine Verdoppelung der Abstimmzeit erhöht sich die Gesamtverfahrensdauer nicht wesentlich, die Wahrscheinlichkeit eine interessante Eil-Abstimmung zu verpassen, kann je nach Nutzerverhalten aber deutlich sinken.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Der Verlauf eines Eilantrages ist derzeit folgender:[/p]
+[ul][li]max. 1 Tag sammeln nötiger potentieller Unterstützer bei mindestens einer Initiative des Themas[/li]
+[li]1 Tag Diskussion mit Möglichkeit der Initiatoren Anträge zu verändern[/li]
+[li]1 Tag &amp;quot;Einfrierzeit&amp;quot;[/li]
+[li]1 Tag Entabstimmung[/li]
+[/ul]
+[p]Die Dauer der Endabstimmung möge beim Eilantrag von einem auf zwei Tage erhöht werden, so dass sich eine Gesamtverfahrensdauer von 4-5 Tagen ergibt.[/p]
+[p]Grund: Um keinen Eilantrag zu verpassen, müsste man sich täglich ins System einloggen. Das ist viel verlangt und ziemlich stressig &amp;ndash; auch wenn Eilanträge nicht für jede Art von Entscheidung zugelassen sind. Durch eine Verdoppelung der Abstimmzeit erhöht sich die Gesamtverfahrensdauer nicht wesentlich, die Wahrscheinlichkeit eine interessante Eil-Abstimmung zu verpassen, kann je nach Nutzerverhalten aber deutlich sinken.[/p]
+[/div]</field>
+    </add></doc>

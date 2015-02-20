@@ -1,0 +1,25 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene793</field>
+    <field name="title">keine Einschränkung der Delegationsmöglichkeiten</field>
+    <field name="date">4 Jahrs 5 Monaten 21 Tagen 22:28:47</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">333</field>
+    <field name="no">33</field>
+    <field name="abstention">82</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">351</field>
+    <field name="text">AntagDie Möglichkeit, das eigene Stimmverhalten automatisiert mittels Delegation an das eines anderen Nutzers zu binden, soll nicht eingeschränkt werden.BegründungDass übertragenes Stimmgewicht nur im eigenen Sinne genutzt wird, lässt sich technisch nicht erzwingen. Ein Delegierter kann immer in einer Art und Weise abstimmen, die dem Willen des Delegierenden zuwider läuft. Hierbei kann der Delegierte sich auch ohne Weiterdelegation von einem Dritten beeinflussen lassen.BeispielDas jetzige Delegationssystem erlaubt jedem Teilnehmer des Systems, sein eigenes Stimmverhalten an das einer anderen Person zu binden. Jede Einschränkung des Delegationssystems würde diese Möglichkeit einschränken.Angenommen ein hypothetischer Abstimmender „Hugo“ erhält 30 Delegationen, von denen 20 unter Ausschluss der Weiterdelegation erteilt wurden. Hugo möchte nicht selbst entscheiden, sondern einem Experten „Erwin“ vertrauen. Hugo wird sich nun zwischen folgenden Optionen entscheiden müssen:a) Die Delegation an Erwin im System zu vermerken, und sich nicht weiter um das Thema zu kümmern. In diesem Falle stehen Hugo 10 Stimmen zur Weitergabe zur Verfügung.b) Erwin persönlich zu fragen, wie abzustimmen ist, oder Erwin gar seinen Login zu geben, damit dieser direkt für ihn abstimmen kann. In diesem Falle kann Hugo also faktisch 30 Stimmen weitergeben.Es wird folgendes deutlich: Wenn Hugo mehr Zeit aufwendet, in dem er Erwin persönlich (außerhalb des Systems) fragt, wie abzustimmen ist, dann kann Hugo dadurch praktisch 30 Stimen übertragen. Nutzt Hugo jedoch die Delegationsmöglichkeit des Systems, kann er nur noch 10 Stimmen übertragen. Leute, die mehr Zeit aufwenden, werden also stärker berücksichtigt.Genau das sollte aber vermieden werden.</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Antag[/h2]
+[p]Die Möglichkeit, das eigene Stimmverhalten automatisiert mittels Delegation an das eines anderen Nutzers zu binden, soll nicht eingeschränkt werden.[/p]
+[h2]Begründung[/h2]
+[p]Dass übertragenes Stimmgewicht nur im eigenen Sinne genutzt wird, lässt sich technisch nicht erzwingen. Ein Delegierter kann immer in einer Art und Weise abstimmen, die dem Willen des Delegierenden zuwider läuft. Hierbei kann der Delegierte sich auch ohne Weiterdelegation von einem Dritten beeinflussen lassen.[/p]
+[h3]Beispiel[/h3]
+[p]Das jetzige Delegationssystem erlaubt jedem Teilnehmer des Systems, sein eigenes Stimmverhalten an das einer anderen Person zu binden. Jede Einschränkung des Delegationssystems würde diese Möglichkeit einschränken.[/p]
+[p]Angenommen ein hypothetischer Abstimmender „Hugo“ erhält 30 Delegationen, von denen 20 unter Ausschluss der Weiterdelegation erteilt wurden. Hugo möchte nicht selbst entscheiden, sondern einem Experten „Erwin“ vertrauen. Hugo wird sich nun zwischen folgenden Optionen entscheiden müssen:[/p]
+[p]a) Die Delegation an Erwin im System zu vermerken, und sich nicht weiter um das Thema zu kümmern. In diesem Falle stehen Hugo 10 Stimmen zur Weitergabe zur Verfügung.[/p]
+[p]b) Erwin persönlich zu fragen, wie abzustimmen ist, oder Erwin gar seinen Login zu geben, damit dieser direkt für ihn abstimmen kann. In diesem Falle kann Hugo also faktisch 30 Stimmen weitergeben.[/p]
+[p]Es wird folgendes deutlich: Wenn Hugo mehr Zeit aufwendet, in dem er Erwin persönlich (außerhalb des Systems) fragt, wie abzustimmen ist, dann kann Hugo dadurch praktisch 30 Stimen übertragen. Nutzt Hugo jedoch die Delegationsmöglichkeit des Systems, kann er nur noch 10 Stimmen übertragen. Leute, die mehr Zeit aufwenden, werden also stärker berücksichtigt. [b]Genau das sollte aber vermieden werden.[/b][/p]
+[/div]</field>
+    </add></doc>

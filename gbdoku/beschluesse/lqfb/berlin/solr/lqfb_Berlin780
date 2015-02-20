@@ -1,0 +1,22 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin780</field>
+    <field name="title">Keine Änderung der Namen von Initiativen</field>
+    <field name="date">4 Jahrs 7 Monaten 23 Tagen 13:48:46</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Änderung von Themenbereichen/Quoren/Fristen </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">86</field>
+    <field name="no">6</field>
+    <field name="abstention">4</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">754</field>
+    <field name="text">AntragEs wurde bereits beschlossen, dass Namen von Initiativen nach dem Einstellen NICHT mehr geändert werden sollen (SieheBeschluss in Thema #119).Dieser Beschluss soll beibehalten werden.BegründungDer Name einer Initiative ist aus gutem Grund nicht änderbar: Nutzer, die eine Initiative gelesen oder unterstützt haben, möchten diese wiederfinden bzw. identifizieren können.Weiterhin ist zu berücksichtigen, dass sich bei einem Wachstum des Systems (bzw. einem Betrieb auf Bundesebene) die Anzahl von Initiativen stark erhöhen wird. Wenn ein Thema beispielsweise irgendwann 100 konkurrierende Initiativen enthält, und sich die Namen dieser Intiativen in der Diskussionsphase ständig ändern können, dann wird das Wiederfinden von Initiativen deutlich erschwert.Es ist immer möglich einen zusätzlichen Titel im Antragstext mittels Wiki-Syntax zu formatieren.</field>
+    <field name="bb">[div class="draft_content wiki"][h3]Antrag[/h3]
+[p]Es wurde bereits beschlossen, dass Namen von Initiativen nach dem Einstellen NICHT mehr geändert werden sollen (Siehe [a href="https://lqpp.de/be/initiative/show/337.html"]Beschluss in Thema #119[/a]).[/p]
+[p]Dieser Beschluss soll beibehalten werden.[/p]
+[h3]Begründung[/h3]
+[p]Der Name einer Initiative ist aus gutem Grund nicht änderbar: Nutzer, die eine Initiative gelesen oder unterstützt haben, möchten diese wiederfinden bzw. identifizieren können.[/p]
+[p]Weiterhin ist zu berücksichtigen, dass sich bei einem Wachstum des Systems (bzw. einem Betrieb auf Bundesebene) die Anzahl von Initiativen stark erhöhen wird. Wenn ein Thema beispielsweise irgendwann 100 konkurrierende Initiativen enthält, und sich die Namen dieser Intiativen in der Diskussionsphase ständig ändern können, dann wird das Wiederfinden von Initiativen deutlich erschwert.[/p]
+[p]Es ist immer möglich einen zusätzlichen Titel im Antragstext mittels Wiki-Syntax zu formatieren.[/p]
+[/div]</field>
+    </add></doc>

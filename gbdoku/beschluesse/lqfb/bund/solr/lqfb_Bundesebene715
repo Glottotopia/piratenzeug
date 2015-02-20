@@ -1,0 +1,20 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene715</field>
+    <field name="title">»Änderungen seit letztem Besuch« in der Zeitachse</field>
+    <field name="date">4 Jahrs 5 Monaten 11 Tagen 20:37:42</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Änderung von Themenbereichen/Quoren/Fristen (einfache Mehrheit) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">285</field>
+    <field name="no">127</field>
+    <field name="abstention">63</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">BeschreibungBisher kann man sich in der Zeitachse nur die Änderungen der letzten 24 Stunden oder Diejenigen seit einem bestimmten Datum anzeigen lassen. Eine in meinen Augen sinnvolle Erweiterung dieser Filterfunktion wäre eine Option in der Art von »Änderungen seit letztem Besuch« oder »Änderungen seit letzter Aktion«. Dieser Suchfilter ist beispielsweise aus Foren sehr bekannt, wird dort häufig verwendet und würde einem auch hier einiges an Gehirnschmalz ersparen, welches denn die letzte Änderung war, die man aktiv beobachtet hat.Bearbeite Themen sollen in der Themenübersicht über ein eindeutiges Flag gekennzeichnet werden. Dieses soll sich jedoch nicht thematisch mit dem aktuellen »neu«-Flag überschneiden, welches kürzlich eingestellte Themen hervorhebt (siehe auchdieser Eintrag auf der Diskussionsseite).BegründungDurch diese Funktion könnte man sehr leicht den Überblick behalten, was sich seit seinem letzten Besuch geändert hat. Dies würde nicht nur Zeit einsparen sondern auch dafür sorgen, dass man nicht versehentlich eine Änderung übersieht da man denkt, man habe sich das Thema bereits angesehen.</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Beschreibung[/h2]
+[p]Bisher kann man sich in der Zeitachse nur die Änderungen der letzten 24 Stunden oder Diejenigen seit einem bestimmten Datum anzeigen lassen. Eine in meinen Augen sinnvolle Erweiterung dieser Filterfunktion wäre eine Option in der Art von »Änderungen seit letztem Besuch« oder »Änderungen seit letzter Aktion«. Dieser Suchfilter ist beispielsweise aus Foren sehr bekannt, wird dort häufig verwendet und würde einem auch hier einiges an Gehirnschmalz ersparen, welches denn die letzte Änderung war, die man aktiv beobachtet hat.[/p]
+[p]Bearbeite Themen sollen in der Themenübersicht über ein eindeutiges Flag gekennzeichnet werden. Dieses soll sich jedoch nicht thematisch mit dem aktuellen »neu«-Flag überschneiden, welches kürzlich eingestellte Themen hervorhebt (siehe auch [a href="http://wiki.piratenpartei.de/LiquidFeedback/Themendiskussion/343#Diskussion"]dieser Eintrag auf der Diskussionsseite[/a]).[/p]
+[h2]Begründung[/h2]
+[p]Durch diese Funktion könnte man sehr leicht den Überblick behalten, was sich seit seinem letzten Besuch geändert hat. Dies würde nicht nur Zeit einsparen sondern auch dafür sorgen, dass man nicht versehentlich eine Änderung übersieht da man denkt, man habe sich das Thema bereits angesehen.[/p]
+[/div]</field>
+    </add></doc>

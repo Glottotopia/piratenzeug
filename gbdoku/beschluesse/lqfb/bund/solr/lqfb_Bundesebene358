@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene358</field>
+    <field name="title">Delegationen müssen erneuert werden III (360 Tage)</field>
+    <field name="date">4 Jahrs 5 Monaten 24 Tagen 23:04:08</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">212</field>
+    <field name="no">98</field>
+    <field name="abstention">188</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">413 465 357 356</field>
+    <field name="text">Ist: Derzeit ist die Gültigkeitsdauer von globalen Delegationen meinem Wissensstand nach nicht begrenzt. Selbst bei klassischen Delegiertensystemen werden die Delegierten nach einer gewissen Zeit neu gewählt. Das ist hier nicht der Fall.Problem: Eventuelle Karteileichen delegieren ihre Stimme auch nach z.B. 5 Jahren an eine Person die hierdurch ein höheres Stimmgewicht erhält. Prinzipiell ist hierfür natürlich jeder selbst verantwortlich, allerdings kann es durch Vergesslichkeit oder Desinteresse am System dazu führen das ungewollte Verzerrungen auftreten.Lösungsvorschlag 4: Alle Delegationen werden dem User im Reiter Delegationen angezeigt. Die Delegationen bekommen eine Gültigkeitsdauer von 360 Tagen. Die Gültigkeitsdauer wird dem User zu jeder Zeit angezeigt und ebenso zu jeder Zeit, kann der User, die Gültigkeitsdauer auf 360 Tage wieder heraufsetzen. Tut der User dies nicht, verfällt die Delegation automatisch nach Ablauf der Zeit.Eine Mail soll den Verfall der Delegation 30 Tage vorher ankündigen.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Ist: Derzeit ist die Gültigkeitsdauer von globalen Delegationen meinem Wissensstand nach nicht begrenzt. Selbst bei klassischen Delegiertensystemen werden die Delegierten nach einer gewissen Zeit neu gewählt. Das ist hier nicht der Fall.[/p]
+[p]Problem: Eventuelle Karteileichen delegieren ihre Stimme auch nach z.B. 5 Jahren an eine Person die hierdurch ein höheres Stimmgewicht erhält. Prinzipiell ist hierfür natürlich jeder selbst verantwortlich, allerdings kann es durch Vergesslichkeit oder Desinteresse am System dazu führen das ungewollte Verzerrungen auftreten.[/p]
+[p]Lösungsvorschlag 4: Alle Delegationen werden dem User im Reiter Delegationen angezeigt. Die Delegationen bekommen eine Gültigkeitsdauer von 360 Tagen. Die Gültigkeitsdauer wird dem User zu jeder Zeit angezeigt und ebenso zu jeder Zeit, kann der User, die Gültigkeitsdauer auf 360 Tage wieder heraufsetzen. Tut der User dies nicht, verfällt die Delegation automatisch nach Ablauf der Zeit.[/p]
+[p]Eine Mail soll den Verfall der Delegation 30 Tage vorher ankündigen.[/p]
+[/div]</field>
+    </add></doc>

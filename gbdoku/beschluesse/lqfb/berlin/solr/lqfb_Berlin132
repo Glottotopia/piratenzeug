@@ -1,0 +1,20 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin132</field>
+    <field name="title">Stylesheet-URL für Entwickler, fertige Skins für alle Benutzer</field>
+    <field name="date">5 Jahrs 1 Monat 6 Tagen 23:10:06</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">55</field>
+    <field name="no">8</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">102</field>
+    <field name="text">Für Entwickler soll es die Möglichkeit geben eine URL für ein eigenes Stylesheet anzugeben.Somit können Interessierte an Skins für LiquidFeedback arbeiten.Für &quot;normale&quot; Benutzer soll es nur die Möglichkeit geben aus fertigen und verifizierten Stylesheets auswählen zu können (sobald vorhanden).Beliebige Stylesheets per URL aus Drittquellen einstellen zu können ist sehr riskant, da per CSS die Oberfläche auch erheblich manipuliert werden kann.P.S.: Das Feature für Entwickler ist umgesetzt. Interessierte Entwickler können sich gerne an admins@lqpp.de wenden, um die Funktion freigeschaltet zu bekommen.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Für Entwickler soll es die Möglichkeit geben eine URL für ein eigenes Stylesheet anzugeben.[br /]
+Somit können Interessierte an Skins für LiquidFeedback arbeiten.[/p]
+[p]Für &amp;quot;normale&amp;quot; Benutzer soll es nur die Möglichkeit geben aus fertigen und verifizierten Stylesheets auswählen zu können (sobald vorhanden). [/p]
+[p]Beliebige Stylesheets per URL aus Drittquellen einstellen zu können ist sehr riskant, da per CSS die Oberfläche auch erheblich manipuliert werden kann.[/p]
+[p]P.S.: Das Feature für Entwickler ist umgesetzt. Interessierte Entwickler können sich gerne an admins@lqpp.de wenden, um die Funktion freigeschaltet zu bekommen.[/p]
+[/div]</field>
+    </add></doc>

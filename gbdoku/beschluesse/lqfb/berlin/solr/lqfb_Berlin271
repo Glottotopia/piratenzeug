@@ -1,0 +1,36 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin271</field>
+    <field name="title">LMV2010 Berlin - alle LMV Anträge in lqpp veröffentlichen - eigener Themenbereich 'LMV2010 Berlin'</field>
+    <field name="date">5 Jahrs 20 Tagen 22:54:05</field>
+    <field name="area">Organisatorisches</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">14</field>
+    <field name="no">25</field>
+    <field name="abstention">33</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">hoffe, das wurde noch nicht ähnlich gestellt. habe zumindest nix auf die schnelle gefunden.&nbsp;Um einen möglichst effiziente Abarbeitung der auf der LMV2010 gestellten Anträge zu gewährleisten, sollte die eingereichten Anträge in lqpp (in einen eigenen Themenbereich) eingestellt werden.&nbsp;Vielleicht könnte ja die Antragskommision (gibt es die???) einen eigenen 'user' haben und die Anträge geodnet einstellen.Zudem sollte sie auch so durchnummeriert sein, wie sie dann auf der LMV geplant sind abgearbeitet zu werden.Ich stecke in der Vorbereitung der LMV nicht so drin, darum kann es sein, dass ähnliches in anderer Form schon geplant ist und dieser Antrag damit hinfällig ist. Ich weiß auch nicht, ob das technisch aktuell umzusetzen ist.Die LMV Anträge werde ja andere sein als was hier aktuell im Testlauf von lqpp so als Trockenübung simuliert wird.&nbsp;&nbsp;mögliche Vorteile:jeder kann sie vorher lesen und diskutierendie LV Vorstandsmitglieder können eigenen Kommentare und Empfehlungen gebenman könnte Anträge ggf noch aufsplitten, zB über Satzungsversionen für jeden Paragraphen erstmal einzeln abstimmenman könnte ja die LMV Antragsteller neben der Antragskommision als CoInitiator einstellen, dann könnten sie die Anträge in einer Vorlaufzeit noch etwas ändern.die Anregungen könnten genutzt werden, um die problematischen Streitpunkte in jedem Antrag ersichtlich zu machenvielleicht könnten man eine Optimierungen der Anträge (übersichtlich, verständlich strukturiert) und Korrektur von Rechtschreibfehlern oder ggf juristische Vorprüfung damit verbinden.Im Prinzip dürften Anträge nur von der LMVAntragskommission in lqpp eingestellt werden und keine Alternativen Adhoc hinzugefügt werden dürfen.&nbsp;Es könnte für die betreffenden Anträge ja auch vorher eine Probeabstimmung in lqpp geben (die Woche vorher), so dass man die Ergebnisse mit denen derAbstimmung auf der LMV vergleichen kann und damit Rückschlüsse bekommt, inwiefern sich das Abstimmungsverhalten unterscheidet.Dieses müsste aber relativ schnell eingerichtet werden, da die Zeit davon läuft. Vielleicht kann man dieses auch für die nächste LMV Berlin vormerken.&nbsp;Zudem würde anhand der eigestellten Anträge vielleicht dem ein oder anderen ersichtlich, das da noch einer fehlt, den er dann stellen kann.&nbsp;&nbsp;&nbsp;Mein Kommentar zu Maha AnregungAuf der LMV müssen, sollen sowieso alle abstimmen. also gibt es kein Problem, wenn ein eigenständiger Themenbereich LMV2010 Berlin da ist, in dem per default alle PP_user Interessiert sind. LMV Anträge sind ja etwas anderes als die lqpp Anträge, die auf dieser Speilewiese (Testbetrieb) eingestellt werden.Zudem habe ich keine Lust, LMV anträge per Hand in den einzelnen Themenbereichen zu suchen. Zudem würde das testbetrieb ziemlich verwirren, da LMV Anträge ja etwas anders behandelt werden sollten (keine Alternativen einstellen können ohne diese der LMVAntragskommission??? vorher mitzuteilen)Es konterkariert gar nichts am aktuellen System, da LMV und LQPP erstmal zwei verschiedene Sachen sind.</field>
+    <field name="bb">[div class="draft_content wiki"][p]hoffe, das wurde noch nicht ähnlich gestellt. habe zumindest nix auf die schnelle gefunden.[br /] [/p]
+[p][i][b]Um einen möglichst effiziente Abarbeitung der auf der LMV2010 gestellten Anträge zu gewährleisten, sollte die eingereichten Anträge in lqpp (in einen eigenen Themenbereich) eingestellt werden.[/b][/i][br /] [/p]
+[p]Vielleicht könnte ja die Antragskommision (gibt es die???) einen eigenen 'user' haben und die Anträge geodnet einstellen. [i][b]Zudem sollte sie auch so durchnummeriert sein, wie sie dann auf der LMV geplant sind abgearbeitet zu werden.[/b][/i][/p]
+[p]Ich stecke in der Vorbereitung der LMV nicht so drin, darum kann es sein, dass ähnliches in anderer Form schon geplant ist und dieser Antrag damit hinfällig ist. Ich weiß auch nicht, ob das technisch aktuell umzusetzen ist.[/p]
+[p]Die LMV Anträge werde ja andere sein als was hier aktuell im Testlauf von lqpp so als Trockenübung simuliert wird.[br /] [br /] [/p]
+[p][b]mögliche Vorteile:[/b][/p]
+[ul][li]jeder kann sie vorher lesen und diskutieren[/li]
+[li]die LV Vorstandsmitglieder können eigenen Kommentare und Empfehlungen geben[/li]
+[li]man könnte Anträge ggf noch aufsplitten, zB über Satzungsversionen für jeden Paragraphen erstmal einzeln abstimmen[/li]
+[li]man könnte ja die LMV Antragsteller neben der Antragskommision als CoInitiator einstellen, dann könnten sie die Anträge in einer Vorlaufzeit noch etwas ändern.[/li]
+[li]die Anregungen könnten genutzt werden, um die problematischen Streitpunkte in jedem Antrag ersichtlich zu machen[/li]
+[li]vielleicht könnten man eine Optimierungen der Anträge (übersichtlich, verständlich strukturiert) und Korrektur von Rechtschreibfehlern oder ggf juristische Vorprüfung damit verbinden.[/li]
+[/ul]
+[p]Im Prinzip dürften Anträge nur von der LMVAntragskommission in lqpp eingestellt werden und keine Alternativen Adhoc hinzugefügt werden dürfen.[br /] [/p]
+[p]Es könnte für die betreffenden Anträge ja auch vorher eine Probeabstimmung in lqpp geben (die Woche vorher), so dass man die Ergebnisse mit denen derAbstimmung auf der LMV vergleichen kann und damit Rückschlüsse bekommt, inwiefern sich das Abstimmungsverhalten unterscheidet.[/p]
+[p]Dieses müsste aber relativ schnell eingerichtet werden, da die Zeit davon läuft. Vielleicht kann man dieses auch für die nächste LMV Berlin vormerken.[br /] [/p]
+[p]Zudem würde anhand der eigestellten Anträge vielleicht dem ein oder anderen ersichtlich, das da noch einer fehlt, den er dann stellen kann. [br /] [br /] [br /] [/p]
+[p][b]Mein Kommentar zu Maha Anregung[/b][/p]
+[p]Auf der LMV müssen, sollen sowieso alle abstimmen. also gibt es kein Problem, wenn ein eigenständiger Themenbereich LMV2010 Berlin da ist, in dem per default alle PP_user Interessiert sind. LMV Anträge sind ja etwas anderes als die lqpp Anträge, die auf dieser Speilewiese (Testbetrieb) eingestellt werden.[/p]
+[p]Zudem habe ich keine Lust, LMV anträge per Hand in den einzelnen Themenbereichen zu suchen. Zudem würde das testbetrieb ziemlich verwirren, da LMV Anträge ja etwas anders behandelt werden sollten (keine Alternativen einstellen können ohne diese der LMVAntragskommission??? vorher mitzuteilen) [/p]
+[p]Es konterkariert gar nichts am aktuellen System, da LMV und LQPP erstmal zwei verschiedene Sachen sind.[/p]
+[/div]</field>
+    </add></doc>

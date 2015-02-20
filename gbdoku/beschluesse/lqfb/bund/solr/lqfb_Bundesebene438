@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene438</field>
+    <field name="title">Captcha bei Clearingstelle ist unnötig</field>
+    <field name="date">4 Jahrs 5 Monaten 26 Tagen 05:57:59</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">301</field>
+    <field name="no">84</field>
+    <field name="abstention">41</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">253 118 156 160</field>
+    <field name="text">Das Captcha bei der Clearingstelle ist vollkommen unnötig.BegründungDer Referenzschlüssel hat einen Umfang von umgerechnet etwa 96 Bit, d.h. es gibt ca. 296mögliche Kombinationen. Ein Brute-Force-Angriff, bei dem eine Million Abfragen pro Sekunde durchgeführt werden würden, bräuchte unter der Annahme, dass 100.000 gültige Referenzschlüssel generiert wurden, durchschnittlich über 10 Milliarden Jahre. Daher kann das Captcha ersatzlos entfernt werden.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Das Captcha bei der Clearingstelle ist vollkommen unnötig.[/p]
+[h3]Begründung[/h3]
+[p]Der Referenzschlüssel hat einen Umfang von umgerechnet etwa 96 Bit, d.h. es gibt ca. 2[sup]96[/sup] mögliche Kombinationen. Ein Brute-Force-Angriff, bei dem eine Million Abfragen pro Sekunde durchgeführt werden würden, bräuchte unter der Annahme, dass 100.000 gültige Referenzschlüssel generiert wurden, durchschnittlich über 10 Milliarden Jahre. Daher kann das Captcha ersatzlos entfernt werden.[/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin323</field>
+    <field name="title">Vernetzung grafisch anzeigen</field>
+    <field name="date">5 Jahrs 8 Tagen 20:44:23</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">74</field>
+    <field name="no">20</field>
+    <field name="abstention">24</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">AntragEs soll ein Feature in Liquid Feedback integriert werden, dass grafisch ansprechend und möglichst leicht verständlich die Delegationsketten innerhalb eines Themenbereichs anzeigt.Details / Begründung / KommentarMan kann momentan nur mit viel Geklicke durch die Delegationensebenen herausfinden, wo eigentlich die Stimmen für/gegen Anträge herkommen und wie sie sich zusammensetzen. Ich stelle mir eine Art Netz vor, das mittels Pfeilen in verschiedenen Farben oder verschiedenen Stilen (gepunktet, fett, dünn...) für verschiedene Delegationsarten schnell einen Überblick gibt, wie die Delegationssituation in einem Themenbereich ist. Ich stelle mir das aber auch ziemlich anspruchsvoll zu programmieren vor, weshalb der Antrag unter Machbarkeitsvorbehalt steht.</field>
+    <field name="bb">[div class="draft_content wiki"][h1]Antrag[/h1]
+[p]Es soll ein Feature in Liquid Feedback integriert werden, dass grafisch ansprechend und möglichst leicht verständlich die Delegationsketten innerhalb eines Themenbereichs anzeigt.[/p]
+[h1]Details / Begründung / Kommentar[/h1]
+[p]Man kann momentan nur mit viel Geklicke durch die Delegationensebenen herausfinden, wo eigentlich die Stimmen für/gegen Anträge herkommen und wie sie sich zusammensetzen. Ich stelle mir eine Art Netz vor, das mittels Pfeilen in verschiedenen Farben oder verschiedenen Stilen (gepunktet, fett, dünn...) für verschiedene Delegationsarten schnell einen Überblick gibt, wie die Delegationssituation in einem Themenbereich ist. Ich stelle mir das aber auch ziemlich anspruchsvoll zu programmieren vor, weshalb der Antrag unter Machbarkeitsvorbehalt steht.[/p]
+[/div]</field>
+    </add></doc>

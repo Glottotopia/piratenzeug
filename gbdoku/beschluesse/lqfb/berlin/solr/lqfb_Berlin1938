@@ -1,0 +1,36 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin1938</field>
+    <field name="title">Öffentliche Bezirkshaushaltsrechnungen (BzVwG und ITDZ)</field>
+    <field name="date">2 Jahrs 6 Monaten 15 Tagen 09:11:04</field>
+    <field name="area">sonstige politische Themen</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">120</field>
+    <field name="no">3</field>
+    <field name="abstention">2</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Antrag an die AGH-FraktionDie Piratenfraktion Berlin wolle beschließen, folgende Anträge in das Abgeordnetenhaus einzubringen:(1) Bezirksverwaltungsgesetz - Öffentliche BezirkshaushaltsrechnungenDas Abgeordnetenhaus wolle beschließen, das Bezirksverwaltungsgesetz wie folgt zu ändern:§ 4 Haushaltsführung des Bezirks(alt)(3) 1Nach Schluss des Rechnungsjahres wird eine Bezirkshaushaltsrechnung aufgestellt. 2Das erwirtschaftete Abschlussergebnis wird auf die Globalsumme für den nächsten aufzustellenden Bezirkshaushaltsplan vorgetragen.§ 4 Haushaltsführung des Bezirks(neu)(3) 1Nach Schluss des Rechnungsjahres wird eine Bezirkshaushaltsrechnung aufgestellt. 2Die Bezirkshaushaltsrechnung wird der Öffentlichkeit zur Verfügung gestellt. 3Das erwirtschaftete Abschlussergebnis wird auf die Globalsumme für den nächsten aufzustellenden Bezirkshaushaltsplan vorgetragen.Begründungblubb blubb bier(2) Veröffentlichung der Bezirkhaushaltsrechnung durch das ITDZDas Abgeordnetenhaus wolle beschließen:Der Senat wird aufgefordert, dass ITDZ anzuweisen, die Bezirkshaushaltsrechnungen der Bezirke maschinenlesbar in einem offenen Format unter freier Lizenz im Open Data Portal der Stadt Berlin zu veröffentlichen.Begründungblubb blubb bierGlossar und LinksITDZ= IT-Dienstleistungszentrum Berlin, siehe auchhttp://www.itdz-berlin.de/BezirksverwaltungsgesetzOpen Data Portal</field>
+    <field name="bb">[div class="draft_content wiki"][h1]Antrag an die AGH-Fraktion[/h1]
+[p]Die Piratenfraktion Berlin wolle beschließen, folgende Anträge in das Abgeordnetenhaus einzubringen:[/p]
+[h2](1) Bezirksverwaltungsgesetz - Öffentliche Bezirkshaushaltsrechnungen[/h2]
+[p]Das Abgeordnetenhaus wolle beschließen, das Bezirksverwaltungsgesetz wie folgt zu ändern:[/p]
+[h4][i]§ 4 Haushaltsführung des Bezirks[/i] (alt)[/h4]
+[p][i](3) 1Nach Schluss des Rechnungsjahres wird eine Bezirkshaushaltsrechnung aufgestellt. 2Das erwirtschaftete Abschlussergebnis wird auf die Globalsumme für den nächsten aufzustellenden Bezirkshaushaltsplan vorgetragen.[/i][/p]
+[h4][i]§ 4 Haushaltsführung des Bezirks[/i] (neu)[/h4]
+[p][i](3) 1Nach Schluss des Rechnungsjahres wird eine Bezirkshaushaltsrechnung aufgestellt. 2[/i][b]Die Bezirkshaushaltsrechnung wird der Öffentlichkeit zur Verfügung gestellt. 3[/b][i]Das erwirtschaftete Abschlussergebnis wird auf die Globalsumme für den nächsten aufzustellenden Bezirkshaushaltsplan vorgetragen.[/i][/p]
+[h3]Begründung[/h3]
+[p][i]blubb blubb bier[/i][/p]
+[h2](2) Veröffentlichung der Bezirkhaushaltsrechnung durch das ITDZ[/h2]
+[p]Das Abgeordnetenhaus wolle beschließen:[/p]
+[p]Der Senat wird aufgefordert, dass ITDZ anzuweisen, die Bezirkshaushaltsrechnungen der Bezirke maschinenlesbar in einem offenen Format unter freier Lizenz im Open Data Portal der Stadt Berlin zu veröffentlichen.[/p]
+[h3]Begründung[/h3]
+[p][i]blubb blubb bier[/i][/p]
+[hr /]
+[h1]Glossar und Links[/h1]
+[ul][li][b]ITDZ[/b] = IT-Dienstleistungszentrum Berlin, siehe auch [a href="http://www.itdz-berlin.de/"]http://www.itdz-berlin.de/[/a][/li]
+[li][b][a href="http://gesetze.berlin.de/default.aspx?vpath=bibdata%2fges%2fBlnBzVwG%2fcont%2fBlnBzVwG.htm&amp;amp;mode=all&amp;amp;page=1"]Bezirksverwaltungsgesetz[/a][/b][/li]
+[li][b][a href="http://daten.berlin.de/"]Open Data Portal[/a][/b][/li]
+[/ul]
+[/div]</field>
+    </add></doc>

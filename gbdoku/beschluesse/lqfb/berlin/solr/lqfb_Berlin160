@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin160</field>
+    <field name="title">Weiterleitung nach dem Login</field>
+    <field name="date">5 Jahrs 1 Monat 8 Tagen 20:54:01</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">59</field>
+    <field name="no">3</field>
+    <field name="abstention">1</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">163</field>
+    <field name="text">Sofern man Link im Format https://lqpp.de/lf/initiative/show/XXX.html folgt und nicht eingeloggt ist, landet man nach dem Login auf der Startseite und &quot;vergisst&quot; dem gefolgtem Link.Dieses Thema fordert die eine direkte Weiterleitung zur ursprünglichen Seite nach dem Login.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Sofern man Link im Format https://lqpp.de/lf/initiative/show/XXX.html folgt und nicht eingeloggt ist, landet man nach dem Login auf der Startseite und &amp;quot;vergisst&amp;quot; dem gefolgtem Link.[/p]
+[p]Dieses Thema fordert die eine direkte Weiterleitung zur ursprünglichen Seite nach dem Login.[/p]
+[/div]</field>
+    </add></doc>

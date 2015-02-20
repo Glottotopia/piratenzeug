@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin166</field>
+    <field name="title">Für Hinweise auf fehlende Links etc. gibt es einen Bugtracker</field>
+    <field name="date">5 Jahrs 1 Monat 8 Tagen 20:54:34</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">46</field>
+    <field name="no">9</field>
+    <field name="abstention">1</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">161</field>
+    <field name="text">Kurzer Hinweis: Es gibt einen Bugtracker, in dem auf Probleme wie fehlende Links, Programmfehler etc. hingewiesen werden kann. Dieser findet sich unter:About &rArr; Diskussion, Support &amp; FAQ &rArr; FAQ &rArr;Wo kann ich Feedback zum Test geben?Direktlink zum Bugtracker:http://trac.public-software-group.org/projects/lf</field>
+    <field name="bb">[div class="draft_content wiki"][p]Kurzer Hinweis: Es gibt einen Bugtracker, in dem auf Probleme wie fehlende Links, Programmfehler etc. hingewiesen werden kann. Dieser findet sich unter:[/p]
+[p][b]About &amp;rArr; Diskussion, Support &amp;amp; FAQ &amp;rArr; FAQ &amp;rArr; [a href="http://wiki.piratenpartei.de/BE:Liquid_Democracy_Test/FAQ#Wo_kann_ich_Feedback_zum_Test_geben.3F"]Wo kann ich Feedback zum Test geben?[/a][/b][/p]
+[p]Direktlink zum Bugtracker: [a href="http://trac.public-software-group.org/projects/lf"]http://trac.public-software-group.org/projects/lf[/a][/p]
+[/div]</field>
+    </add></doc>

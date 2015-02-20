@@ -1,0 +1,20 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene280</field>
+    <field name="title">Verbannung von HTML und größeren Anhängen aus Mailinglisten der Piratenpartei</field>
+    <field name="date">4 Jahrs 5 Monaten 25 Tagen 05:21:53</field>
+    <field name="area">Sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">271</field>
+    <field name="no">57</field>
+    <field name="abstention">134</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">693 575 740 620</field>
+    <field name="text">Es ist weithin Konsens, dass HTML-Mails und (größere) Anhänge nicht auf Mailinglisten gehören. Dennoch geraten immer wieder nervige (und potentiell gefährliche) HTML-Formatierungen, Fotos, PDFs etc. auf die Liste. In den meisten Fällen dürfte das aus Versehen oder aus Unkenntnis geschehen.Es existieren vollwertige technische Lösungen:1. Die Listenadministratoren können Mailman so einreichten, dass HTML in Nurtext umgewandelt wird (&quot;convert text/html parts to plain text&quot;). 2. Mails ab einer gewissen Größe, z.B. 50 KB, kann die Auslieferung versagt werden (&quot;Maximum length in Kb of a message body&quot;). Der Absender wird automatisch benachrichtigt, falls seine Mail aufgrund ihrer Größe zurückgewiesen wurde.Die Mailinglisten werden dadurch in ihrer Funktionalität gestärkt. Auch von einem Lerneffekt bei den Nutzern ist auszugehen. Wo Dokumente oder HTML-Formatierung unerlässlich erscheinen, können diese mittels Verlinkung problemlos zugänglich gemacht werden.Mithin: Die Administratoren sollten beauftragt werden, die beiden genannten Änderungen auf Mailinglisten der Piratenpartei in die Tat umzusetzen.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Es ist weithin Konsens, dass HTML-Mails und (größere) Anhänge nicht auf Mailinglisten gehören. Dennoch geraten immer wieder nervige (und potentiell gefährliche) HTML-Formatierungen, Fotos, PDFs etc. auf die Liste. In den meisten Fällen dürfte das aus Versehen oder aus Unkenntnis geschehen.[/p]
+[p]Es existieren vollwertige technische Lösungen:[/p]
+[p]1. Die Listenadministratoren können Mailman so einreichten, dass HTML in Nurtext umgewandelt wird (&amp;quot;convert text/html parts to plain text&amp;quot;). 2. Mails ab einer gewissen Größe, z.B. 50 KB, kann die Auslieferung versagt werden (&amp;quot;Maximum length in Kb of a message body&amp;quot;). Der Absender wird automatisch benachrichtigt, falls seine Mail aufgrund ihrer Größe zurückgewiesen wurde.[/p]
+[p]Die Mailinglisten werden dadurch in ihrer Funktionalität gestärkt. Auch von einem Lerneffekt bei den Nutzern ist auszugehen. Wo Dokumente oder HTML-Formatierung unerlässlich erscheinen, können diese mittels Verlinkung problemlos zugänglich gemacht werden.[/p]
+[p]Mithin: Die Administratoren sollten beauftragt werden, die beiden genannten Änderungen auf Mailinglisten der Piratenpartei in die Tat umzusetzen.[/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin895</field>
+    <field name="title">Testinitiative zu Testzwecken</field>
+    <field name="date">4 Jahrs 6 Monaten 6 Tagen 08:52:39</field>
+    <field name="area">Sandkasten / Spielwiese</field>
+    <field name="regelwerk">Schnellverfahren </field>
+    <field name="result">cross.png</field>
+    <field name="yes">3</field>
+    <field name="no">6</field>
+    <field name="abstention">24</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Das ist der dritte Entwurfstext.Das ist eine Zeile dazwischen!Das ist ein weiterer Satz im Entwurf.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Das ist der dritte Entwurfstext.[/p]
+[p]Das ist eine Zeile dazwischen![/p]
+[p]Das ist ein weiterer Satz im Entwurf.[/p]
+[/div]</field>
+    </add></doc>

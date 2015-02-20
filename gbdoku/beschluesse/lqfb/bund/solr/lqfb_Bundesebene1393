@@ -1,0 +1,35 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1393</field>
+    <field name="title">Deaktivierung inaktiver Delegationen, Mitgliedschaften, etc.</field>
+    <field name="date">4 Jahrs 1 Monat 9 Tagen 13:25:38</field>
+    <field name="area">LiquidFeedback Weiterentwicklung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">177</field>
+    <field name="no">13</field>
+    <field name="abstention">41</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1397 1404 1396</field>
+    <field name="text">Nutzer, die sich 90 Tage lang nicht eingeloggt haben, sollen vom System nicht mehr berücksichtigt werden. Delegationen, Themenbereichsmitgliedschaften, &quot;Auto-Ablehnen&quot;-Einstellungen und vergleichbare Dinge werden automatisch inaktiv gesetzt.Nach 75 Tagen Inaktivität soll der Nutzer benachrichtigt und über dies System informiert werden. Meldet sich ein Nutzer nach einer Inaktivität von länger als 75 Tagen an, soll ihm eine Seite angezeigt werden, welche folgende Inhalte hat:Erklärung von Themenbereichsmitgliedschaften, Quoren und Delegationen, um Sicherzustellen, dass der Nutzer die Auswirkungen seiner Entscheidung kenntAuswahl, ob die Delegationen/Mitgliedschaften/etc.gelöscht werden solleninaktiv bleiben bzw. nach Ablauf der verbleibenden Frist deaktiviert werden sollen (Standard, erlaubt es kurz ins LQFB reinzuschauen und die Entscheidung später zu treffen)reaktiviert werden sollenMöglichkeit zum Abbestellen weiterer E-Mail-Benachrichtigungen, inkl. Hinweis, dass bei Inaktivität die Deaktivierung der Delegationen/Mitgliedschaften/etc. dann ohne weitere Benachrichtigung passiertÜbersicht über das Abstimmverhalten mittels Delegationen/Auto-Ablehnen, ggf. Auszug von durch Quorum knapp gescheiterter InitiativenBegründungWer absichtlich nur durch eine bewusst gewählte Delegation mitbestimmen und sich ansonsten heraushalten will, hat diese Möglichkeit, er muss sich lediglich alle 90 Tage anmelden und die weitere Gültigkeit der Delegation bestätigen. Dies ist absolut zumutbar.Nutzer, die leichtfertig oder zum Experimentieren eine Delegation vergeben und dann das Interesse am System verloren haben, können so aus dem System entfernt werden. Dies gilt ebenfalls für Nutzer, die ohne sich der Folgen bewusst zu sein z. B. über &quot;Auto-Ablehnen&quot; oder Themenbereichsmitgliedschaften Quoren erhöhen, obwohl sie längst inaktiv sind. Durch diese Bereinigung des Systems wird somit auch verhindert, dass inaktive Nutzer Quoren unerreichbar machen.Diese Regelungen stellen sicher, dass das LQFB langfristig nutzbar bleibt und reduzieren unüberlegte/leichtfertige Delegationen.KonflikteDiese Initiative geht weiter als die bereits beschlossene Initiative 904 [https://lqfb.piratenpartei.de/pp/initiative/show/904.html], welche mit Annahme dieses Themas obsolet würde. Die neusten Ereignisse und Diskussionen haben ein neues Bewusstsein für das Problem geweckt und gezeigt dass die bisherige Regelung nicht ausreichend ist. Ein Jahr, wie in Initiative 904 vorgesehen, ist schlichtweg zu lang. Diese Initiative unterscheidet sich außerdem dadurch, dass eine Reaktivierung einer ausdrücklichen Bestätigung (statt eines bloßen Einloggens) bedarf und der Nutzer über die Folgen sowie über die in seinem Namen erfolgten Abstimmungen aufgeklärt wird.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Nutzer, die sich 90 Tage lang nicht eingeloggt haben, sollen vom System nicht mehr berücksichtigt werden. Delegationen, Themenbereichsmitgliedschaften, &amp;quot;Auto-Ablehnen&amp;quot;-Einstellungen und vergleichbare Dinge werden automatisch inaktiv gesetzt.[/p]
+[p]Nach 75 Tagen Inaktivität soll der Nutzer benachrichtigt und über dies System informiert werden. Meldet sich ein Nutzer nach einer Inaktivität von länger als 75 Tagen an, soll ihm eine Seite angezeigt werden, welche folgende Inhalte hat:[/p]
+[ul][li]Erklärung von Themenbereichsmitgliedschaften, Quoren und Delegationen, um Sicherzustellen, dass der Nutzer die Auswirkungen seiner Entscheidung kennt[/li]
+[/ul]
+[ul][li]Auswahl, ob die Delegationen/Mitgliedschaften/etc.[ul][li]gelöscht werden sollen[/li]
+[li]inaktiv bleiben bzw. nach Ablauf der verbleibenden Frist deaktiviert werden sollen (Standard, erlaubt es kurz ins LQFB reinzuschauen und die Entscheidung später zu treffen)[/li]
+[li]reaktiviert werden sollen[/li]
+[/ul]
+[/li]
+[/ul]
+[ul][li]Möglichkeit zum Abbestellen weiterer E-Mail-Benachrichtigungen, inkl. Hinweis, dass bei Inaktivität die Deaktivierung der Delegationen/Mitgliedschaften/etc. dann ohne weitere Benachrichtigung passiert[/li]
+[/ul]
+[ul][li]Übersicht über das Abstimmverhalten mittels Delegationen/Auto-Ablehnen, ggf. Auszug von durch Quorum knapp gescheiterter Initiativen[/li]
+[/ul]
+[h2]Begründung[/h2]
+[p]Wer absichtlich nur durch eine bewusst gewählte Delegation mitbestimmen und sich ansonsten heraushalten will, hat diese Möglichkeit, er muss sich lediglich alle 90 Tage anmelden und die weitere Gültigkeit der Delegation bestätigen. Dies ist absolut zumutbar.[/p]
+[p]Nutzer, die leichtfertig oder zum Experimentieren eine Delegation vergeben und dann das Interesse am System verloren haben, können so aus dem System entfernt werden. Dies gilt ebenfalls für Nutzer, die ohne sich der Folgen bewusst zu sein z. B. über &amp;quot;Auto-Ablehnen&amp;quot; oder Themenbereichsmitgliedschaften Quoren erhöhen, obwohl sie längst inaktiv sind. Durch diese Bereinigung des Systems wird somit auch verhindert, dass inaktive Nutzer Quoren unerreichbar machen.[/p]
+[p]Diese Regelungen stellen sicher, dass das LQFB langfristig nutzbar bleibt und reduzieren unüberlegte/leichtfertige Delegationen.[/p]
+[h2]Konflikte[/h2]
+[p]Diese Initiative geht weiter als die bereits beschlossene Initiative 904 [https://lqfb.piratenpartei.de/pp/initiative/show/904.html], welche mit Annahme dieses Themas obsolet würde. Die neusten Ereignisse und Diskussionen haben ein neues Bewusstsein für das Problem geweckt und gezeigt dass die bisherige Regelung nicht ausreichend ist. Ein Jahr, wie in Initiative 904 vorgesehen, ist schlichtweg zu lang. Diese Initiative unterscheidet sich außerdem dadurch, dass eine Reaktivierung einer ausdrücklichen Bestätigung (statt eines bloßen Einloggens) bedarf und der Nutzer über die Folgen sowie über die in seinem Namen erfolgten Abstimmungen aufgeklärt wird.[/p]
+[/div]</field>
+    </add></doc>

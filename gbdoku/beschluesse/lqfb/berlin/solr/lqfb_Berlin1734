@@ -1,0 +1,20 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin1734</field>
+    <field name="title">Master im Liquid erstellen</field>
+    <field name="date">2 Jahrs 8 Monaten 7 Tagen 16:12:40</field>
+    <field name="area">Sandkasten / Spielwiese</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">19</field>
+    <field name="no">7</field>
+    <field name="abstention">7</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Antrag:Die Piratenfraktion möge folgenden Antrag in das Abgeordnetenhaus einbringen:Das Abgeordnetenhaus fordert den Senat auf, die Freie Universität zu verpflichten, Miriam Seyffarth für ihre Verdienste um zahlreiche Liquid-Initiativen ihren Master ohne weitere Prüfungsleistungen zu verleihen.Begründung:Sie hat es einfach verdient.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Antrag:[/p]
+[p]Die Piratenfraktion möge folgenden Antrag in das Abgeordnetenhaus einbringen:[/p]
+[p]Das Abgeordnetenhaus fordert den Senat auf, die Freie Universität zu verpflichten, Miriam Seyffarth für ihre Verdienste um zahlreiche Liquid-Initiativen ihren Master ohne weitere Prüfungsleistungen zu verleihen. [/p]
+[p]Begründung:[br /]
+Sie hat es einfach verdient.[/p]
+[/div]</field>
+    </add></doc>

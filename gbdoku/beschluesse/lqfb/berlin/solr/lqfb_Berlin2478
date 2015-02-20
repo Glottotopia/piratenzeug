@@ -1,0 +1,31 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin2478</field>
+    <field name="title">komplette Liste durch Präferenzwahl nach Schulze wählen</field>
+    <field name="date">2 Jahrs 5 Tagen 11:22:39</field>
+    <field name="area">Satzung, Parteistruktur und GO der LMV</field>
+    <field name="regelwerk">Schnellverfahren </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">132</field>
+    <field name="no">4</field>
+    <field name="abstention">1</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">2486 2485 2479 2475</field>
+    <field name="text">StrgC-StrgV i2445:Text der InitiativeEs wird das Wahlverfahren nach Schulze, entsprechend der Anlage A der Wahl- und Geschäftsordnung des Landesverbandes Berlin, verwendet.Technisch wird die Auszählung mit Ausnahme der Stichwahlen unter Verwendung des in der Programmiersprache Lua 5.1 geschriebenen Computerprogramms &quot;schulze-simple&quot; durchgeführt. Die Eingabedaten werden gemäß der Stimmzettel in einem öffentlichen Prozess erfasst. Eingaben und Ausgaben des Programms werden protokolliert und veröffentlicht.BegründungDas Präferenzwahlverfahren nach Schulze ist in der aktuell gültigen Wahl- und Geschäftsordnung des Landesverbandes Berlin in § 8.4. Absatz (3) für die Wahl einer Liste von Wahlvorschlägen bereits vorgesehen.Es ist sinnvoll die Liste zur Bundestagswahl in möglichst einem Wahlgang zu wählen. (Stichwahlen sind allerdings möglich)Das Wahlverfahren hat sich bei der Aufstellung der AGH-Liste bewährt und es macht taktisches Wählen quasi unmöglich und bildet dadurch den Willen der Wählenden optimal ab.Nachteile*Die Auszählung dauert, wie für alle Wahlverfahren, die eine komplette Liste wählen, relativ lange, summiert allerdings nicht so lange wie jeden Platz einzeln zu wählen (und kann massiv parallelisiert werden).*komplexer StimmzettelVorteile*quasi keine Möglichkeit zum taktischen Wählen*optimale Abbildung des Willen der Wählenden*bewährtes Verfahren (AGH-Liste / LQFB)*Eine Änderung der Wahlordnung müsste nicht diskutiert und abgestimmt werden, die Zeit am Samstag ist ohnehin knapp.</field>
+    <field name="bb">[div class="draft_content wiki"][p]StrgC-StrgV i2445: [/p]
+[h4]Text der Initiative[/h4]
+[p]Es wird das Wahlverfahren nach Schulze, entsprechend der Anlage A der Wahl- und Geschäftsordnung des Landesverbandes Berlin, verwendet. [/p]
+[p]Technisch wird die Auszählung mit Ausnahme der Stichwahlen unter Verwendung des in der Programmiersprache Lua 5.1 geschriebenen Computerprogramms &amp;quot;schulze-simple&amp;quot; durchgeführt. Die Eingabedaten werden gemäß der Stimmzettel in einem öffentlichen Prozess erfasst. Eingaben und Ausgaben des Programms werden protokolliert und veröffentlicht.[/p]
+[h4]Begründung[/h4]
+[p]Das Präferenzwahlverfahren nach Schulze ist in der aktuell gültigen Wahl- und Geschäftsordnung des Landesverbandes Berlin in § 8.4. Absatz (3) für die Wahl einer Liste von Wahlvorschlägen bereits vorgesehen.[/p]
+[p]Es ist sinnvoll die Liste zur Bundestagswahl in möglichst einem Wahlgang zu wählen. (Stichwahlen sind allerdings möglich)[/p]
+[p]Das Wahlverfahren hat sich bei der Aufstellung der AGH-Liste bewährt und es macht taktisches Wählen quasi unmöglich und bildet dadurch den Willen der Wählenden optimal ab.[/p]
+[h3]Nachteile[/h3]
+[p]*Die Auszählung dauert, wie für alle Wahlverfahren, die eine komplette Liste wählen, relativ lange, summiert allerdings nicht so lange wie jeden Platz einzeln zu wählen (und kann massiv parallelisiert werden).[br /]
+*komplexer Stimmzettel[/p]
+[h3]Vorteile[/h3]
+[p]*quasi keine Möglichkeit zum taktischen Wählen[br /]
+*optimale Abbildung des Willen der Wählenden[br /]
+*bewährtes Verfahren (AGH-Liste / LQFB)[br /]
+*Eine Änderung der Wahlordnung müsste nicht diskutiert und abgestimmt werden, die Zeit am Samstag ist ohnehin knapp.[/p]
+[/div]</field>
+    </add></doc>

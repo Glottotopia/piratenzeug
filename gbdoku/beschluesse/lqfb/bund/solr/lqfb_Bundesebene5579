@@ -1,0 +1,27 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene5579</field>
+    <field name="title">Benachrichtigung Neue Phase erreicht - Im Betreff benennen</field>
+    <field name="date">2 Jahrs 12 Tagen 14:25:57</field>
+    <field name="area">LiquidFeedback Weiterentwicklung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">165</field>
+    <field name="no">9</field>
+    <field name="abstention">7</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Zur Zeit versendet das System E-Mail-Benachrichtigungen mit dem Betreff:Piratenpartei-LiquidFeedback-BundThema hat die nächste Phase erreicht(Die Phase &quot;Eingefroren&quot; ist mir zum Beispiel völlig egal.) Um zu sehen, welche Phase dies ist, muss ich die Mail jedoch erst öffnen.Die Benachrichtigungs-Mails sollen so geändert werden, dass der Name der Phase im Betreff enthalten ist.Also so:[Piratenpartei-LiquidFeedback-Bund] Thema hat die Phase Abgebrochen erreicht[Piratenpartei-LiquidFeedback-Bund] Thema hat die Phase Diskussion erreicht[Piratenpartei-LiquidFeedback-Bund] Thema hat die Phase Eingefroren erreicht[Piratenpartei-LiquidFeedback-Bund] Thema hat die Phase Abstimmung erreicht[Piratenpartei-LiquidFeedback-Bund] Thema hat die Phase Abgeschlossen erreicht&nbsp;Ergänzung aus AnregungDie Phase finde ich wichtiger. Wenn man aber die Benachrichtigungs-Mails sowieso ändert, können gern auch Nummer und Anfang des Titels mit in den Mail-Betreff...</field>
+    <field name="bb">[div class="draft_content wiki"][p]Zur Zeit versendet das System E-Mail-Benachrichtigungen mit dem Betreff:[/p]
+[p][a href="Piratenpartei-LiquidFeedback-Bund"]Piratenpartei-LiquidFeedback-Bund[/a] Thema hat die nächste Phase erreicht[/p]
+[p](Die Phase &amp;quot;Eingefroren&amp;quot; ist mir zum Beispiel völlig egal.) Um zu sehen, welche Phase dies ist, muss ich die Mail jedoch erst öffnen.[/p]
+[p]Die Benachrichtigungs-Mails sollen so geändert werden, dass der Name der Phase im Betreff enthalten ist.[/p]
+[p]Also so:[/p]
+[p][[a href="Piratenpartei-LiquidFeedback-Bund"]Piratenpartei-LiquidFeedback-Bund[/a]] Thema hat die Phase Abgebrochen erreicht[/p]
+[p][[a href="Piratenpartei-LiquidFeedback-Bund"]Piratenpartei-LiquidFeedback-Bund[/a]] Thema hat die Phase Diskussion erreicht[/p]
+[p][[a href="Piratenpartei-LiquidFeedback-Bund"]Piratenpartei-LiquidFeedback-Bund[/a]] Thema hat die Phase Eingefroren erreicht[/p]
+[p][[a href="Piratenpartei-LiquidFeedback-Bund"]Piratenpartei-LiquidFeedback-Bund[/a]] Thema hat die Phase Abstimmung erreicht[/p]
+[p][[a href="Piratenpartei-LiquidFeedback-Bund"]Piratenpartei-LiquidFeedback-Bund[/a]] Thema hat die Phase Abgeschlossen erreicht[br /] [/p]
+[h2]Ergänzung aus Anregung[/h2]
+[p]Die Phase finde ich wichtiger. Wenn man aber die Benachrichtigungs-Mails sowieso ändert, können gern auch Nummer und Anfang des Titels mit in den Mail-Betreff...[/p]
+[/div]</field>
+    </add></doc>

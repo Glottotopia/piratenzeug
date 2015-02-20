@@ -1,0 +1,60 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin1013</field>
+    <field name="title">Neuwahl der Liste mittels Gesamtwahl durch Zustimmung für einen Listenplatz</field>
+    <field name="date">3 Jahrs 11 Monaten 21 Tagen 11:18:08</field>
+    <field name="area">Satzung, Parteistruktur und GO der LMV</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">cross.png</field>
+    <field name="yes">34</field>
+    <field name="no">28</field>
+    <field name="abstention">46</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1019 1011 1010 1012</field>
+    <field name="text">Die gesamte Liste wird in einem Wahlgang mit folgendem Verfahren neu gewählt:Formlose Kurzbeschreibung des Verfahrens:Jeder Kandidat wird auf dem Wahlzettel auf einen bestimmten Listenplatz oder &quot;kein Listenplatz&quot; gesetzt. Auf Platz 1 ist gewählt, wer die meisten Stimmen für Platz 1 erhalten hat. Auf Platz 2 ist gewählt, wer die meisten Stimmen für Platz 2 oder den höheren Platz 1 zusammen erhalten, auf Platz 3, wer die meisten Stimmen auf den Plätzen 1 bis 3 hat und so weiter.Gewählte Kandidaten fallen natürlich jeweils raus, und wie bisher kommen auch nur Kandidaten auf die Liste, die mit mehr Stimmen auf einen Listenplatz gesetzt wurden als auf &quot;kein Listenplatz&quot;.KurzbegründungDas Verfahren ist einfach, intuitiv, handauszählbar und entspricht sehr weitgehend der Einzelwahl durch Zustimmung für jeden Listenplatz.Ausführliche formale BeschreibungGesamtwahl durch Zustimmung für einen ListenplatzJeder Wähler erhält einen Stimmzettel in Form einer Tabelle. In der ersten Spalte steht der Name des Kandidaten, dann folgen so viele schmale Spalten zum Ankreuzen, wie es Kandidaten gibt, plus eine zusätzliche Spalte. Die schmalen Spalten sind von links nach rechts mit den Listenplätzen numeriert, Platz 1 befindet sich links. Am rechten Rand befindet sich die Spalte für “Kein Listenplatz”. Für jeden Kandidaten gibt es eine Zeile auf dem Stimmzettel. Die Reihenfolge der Kandidaten auf dem Stimmzettel wird durch Los ermittelt.Jeder Kandidat kann durch maximal ein Kreuz in seiner Zeile auf einen Listenplatz oder die Stelle “kein Listenplatz” gesetzt werden. Kein Kreuz in einer Zeile gilt als Enthaltung hinsichtlich der Frage, ob ein Kandidat auf die Liste kommt.Auf die Liste gewählt sind die Kandidaten, die mehr Stimmen auf einem beliebigen Listenplatz erhalten als Stimmen im Feld “kein Listenplatz”.Für den höchsten und ersten Listenplatz ist gewählt, wer die meisten Stimmen in der Spalte “Listenplatz 1” erhält.Für jeden weiteren Listenplatz gewählt ist der Kandidat, der für diesen oder einen höheren Listenplatz zusammen mehr Stimmen erhält als jeder andere noch nicht gewählte Kandidat für diesen oder einen höheren Listenplatz zusammengezählt.Bei Stimmengleichheit für einen Listenplatz werden für die gleichliegenden Kandidaten die Stimmen für den ersten bis zum letzten Platz ermittelt. Die Anzahl der Stimmen für einen bestimmten Platz ergibt sich dabei ebenfalls aus der Gesamtanzahl der Stimmen für diesen oder einen höheren Platz. Es gewinnt jeweils der Kandidat, der auf dem höchsten Listenplatz, auf dem sich die Stimmanteile unterscheiden, mehr Stimmen auf sich vereinigt als die anderen verbleibenden Kandidaten aus der Stichwahl.Bei absoluter Stimmengleichheit für alle Listenplätze setzt sich durch, wer weniger Stimmen im Feld “kein Listenplatz” auf sich vereinigt. Liegt dann noch Stimmengleichheit vor, entscheidet das Los.Nach Auflösung der Stimmengleichheit werden die Kandidaten als gewählt auf der Liste platziert und das Verfahren wird auf dem höchsten dann noch freien Listenplatz fortgesetzt.Ausführliche BegründungDas Verfahren ermöglicht es einem Wähler, für jeden Kandidaten einen Listenplatz direkt anzugeben. Damit kann ein Wähler seinen Willen präziser ausdrücken.Das Verfahren ist auch einfach nachvollziehbar und kann von von Hand nachgezählt werden.Das Verfahren ist vergleichsweise widerstandsfähig gegen taktisches Wählen und verhindert taktisches Kandidieren.Es kommt der für einzelne Parteiämter praktizierten Einzelwahl durch Zustimmung sehr gleich und legt eigentlich nur alle Wahlgänge zusammen.Vorteile gegenüber der Schulze-MethodeMan kann Kandidaten konkret für bestimmte Listenplätze wählenEs ist relativ einfach zu verstehen, welche Auswirkung ein Kreuz an einer Stelle hat (Das Ergebnis der Schulze-Methode ist nichtintuitiv)Das Ergebnis kann auch in der Praxis von Hand ermittelt werdenDie Beschreibung des Verfahrens ist deutlich einfacherEs werden keine Stichwahlen benötigtVorteile gegenüber EinzelwahlBewährte Wahl durch ZustimmungKein taktisches Kandidieren möglich oder erforderlichTaktisches Wählen fällt weniger ins Gewicht als bei nur einer StimmeKeine StichwahlenWeniger Fehler durch einen StimmzettelWeniger Drama auf der Versammlung, nervenschonendNur ein Wahlgang nötig - zeitsparender für die MitgliederHöhere Wahlbeteiligung und weniger Zufall im Ergebnis aufgrund TeilnehmerfluktuationNachteile gegenüber Einzelwahl:Kein Anpassen des Abstimmungsverhaltens aufgrund des Ausgangs vorheriger Wahlgänge möglichNachteile gegenüber der Schulze Methodekeine praktischen Nachteile zu erkennentheoretisch weniger resistent gegen taktisches Wählen</field>
+    <field name="bb">[div class="draft_content wiki"][p]Die gesamte Liste wird in einem Wahlgang mit folgendem Verfahren neu gewählt:[/p]
+[h2]Formlose Kurzbeschreibung des Verfahrens:[/h2]
+[p]Jeder Kandidat wird auf dem Wahlzettel auf einen bestimmten Listenplatz oder &amp;quot;kein Listenplatz&amp;quot; gesetzt. Auf Platz 1 ist gewählt, wer die meisten Stimmen für Platz 1 erhalten hat. Auf Platz 2 ist gewählt, wer die meisten Stimmen für Platz 2 oder den höheren Platz 1 zusammen erhalten, auf Platz 3, wer die meisten Stimmen auf den Plätzen 1 bis 3 hat und so weiter.[/p]
+[p]Gewählte Kandidaten fallen natürlich jeweils raus, und wie bisher kommen auch nur Kandidaten auf die Liste, die mit mehr Stimmen auf einen Listenplatz gesetzt wurden als auf &amp;quot;kein Listenplatz&amp;quot;.[/p]
+[h2]Kurzbegründung[/h2]
+[p]Das Verfahren ist einfach, intuitiv, handauszählbar und entspricht sehr weitgehend der Einzelwahl durch Zustimmung für jeden Listenplatz.[/p]
+[h2]Ausführliche formale Beschreibung[/h2]
+[p]Gesamtwahl durch Zustimmung für einen Listenplatz[/p]
+[p]Jeder Wähler erhält einen Stimmzettel in Form einer Tabelle. In der ersten Spalte steht der Name des Kandidaten, dann folgen so viele schmale Spalten zum Ankreuzen, wie es Kandidaten gibt, plus eine zusätzliche Spalte. Die schmalen Spalten sind von links nach rechts mit den Listenplätzen numeriert, Platz 1 befindet sich links. Am rechten Rand befindet sich die Spalte für “Kein Listenplatz”. Für jeden Kandidaten gibt es eine Zeile auf dem Stimmzettel. Die Reihenfolge der Kandidaten auf dem Stimmzettel wird durch Los ermittelt.[/p]
+[p]Jeder Kandidat kann durch maximal ein Kreuz in seiner Zeile auf einen Listenplatz oder die Stelle “kein Listenplatz” gesetzt werden. Kein Kreuz in einer Zeile gilt als Enthaltung hinsichtlich der Frage, ob ein Kandidat auf die Liste kommt.[/p]
+[p]Auf die Liste gewählt sind die Kandidaten, die mehr Stimmen auf einem beliebigen Listenplatz erhalten als Stimmen im Feld “kein Listenplatz”.[/p]
+[p]Für den höchsten und ersten Listenplatz ist gewählt, wer die meisten Stimmen in der Spalte “Listenplatz 1” erhält. [/p]
+[p]Für jeden weiteren Listenplatz gewählt ist der Kandidat, der für diesen oder einen höheren Listenplatz zusammen mehr Stimmen erhält als jeder andere noch nicht gewählte Kandidat für diesen oder einen höheren Listenplatz zusammengezählt.[/p]
+[p]Bei Stimmengleichheit für einen Listenplatz werden für die gleichliegenden Kandidaten die Stimmen für den ersten bis zum letzten Platz ermittelt. Die Anzahl der Stimmen für einen bestimmten Platz ergibt sich dabei ebenfalls aus der Gesamtanzahl der Stimmen für diesen oder einen höheren Platz. Es gewinnt jeweils der Kandidat, der auf dem höchsten Listenplatz, auf dem sich die Stimmanteile unterscheiden, mehr Stimmen auf sich vereinigt als die anderen verbleibenden Kandidaten aus der Stichwahl.[/p]
+[p]Bei absoluter Stimmengleichheit für alle Listenplätze setzt sich durch, wer weniger Stimmen im Feld “kein Listenplatz” auf sich vereinigt. Liegt dann noch Stimmengleichheit vor, entscheidet das Los.[/p]
+[p]Nach Auflösung der Stimmengleichheit werden die Kandidaten als gewählt auf der Liste platziert und das Verfahren wird auf dem höchsten dann noch freien Listenplatz fortgesetzt.[/p]
+[h2]Ausführliche Begründung[/h2]
+[p]Das Verfahren ermöglicht es einem Wähler, für jeden Kandidaten einen Listenplatz direkt anzugeben. Damit kann ein Wähler seinen Willen präziser ausdrücken.[/p]
+[p]Das Verfahren ist auch einfach nachvollziehbar und kann von von Hand nachgezählt werden.[/p]
+[p]Das Verfahren ist vergleichsweise widerstandsfähig gegen taktisches Wählen und verhindert taktisches Kandidieren.[/p]
+[p]Es kommt der für einzelne Parteiämter praktizierten Einzelwahl durch Zustimmung sehr gleich und legt eigentlich nur alle Wahlgänge zusammen.[/p]
+[h3]Vorteile gegenüber der Schulze-Methode[/h3]
+[ul][li]Man kann Kandidaten konkret für bestimmte Listenplätze wählen[/li]
+[li]Es ist relativ einfach zu verstehen, welche Auswirkung ein Kreuz an einer Stelle hat (Das Ergebnis der Schulze-Methode ist nichtintuitiv)[/li]
+[li]Das Ergebnis kann auch in der Praxis von Hand ermittelt werden[/li]
+[li]Die Beschreibung des Verfahrens ist deutlich einfacher[/li]
+[li]Es werden keine Stichwahlen benötigt[/li]
+[/ul]
+[h3]Vorteile gegenüber Einzelwahl[/h3]
+[ul][li]Bewährte Wahl durch Zustimmung[/li]
+[li]Kein taktisches Kandidieren möglich oder erforderlich[/li]
+[li]Taktisches Wählen fällt weniger ins Gewicht als bei nur einer Stimme[/li]
+[li]Keine Stichwahlen[/li]
+[li]Weniger Fehler durch einen Stimmzettel[/li]
+[li]Weniger Drama auf der Versammlung, nervenschonend[/li]
+[li]Nur ein Wahlgang nötig - zeitsparender für die Mitglieder[/li]
+[li]Höhere Wahlbeteiligung und weniger Zufall im Ergebnis aufgrund Teilnehmerfluktuation[/li]
+[/ul]
+[h2]Nachteile gegenüber Einzelwahl:[/h2]
+[ul][li]Kein Anpassen des Abstimmungsverhaltens aufgrund des Ausgangs vorheriger Wahlgänge möglich[/li]
+[/ul]
+[h2]Nachteile gegenüber der Schulze Methode[/h2]
+[ul][li]keine praktischen Nachteile zu erkennen[/li]
+[li]theoretisch weniger resistent gegen taktisches Wählen[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

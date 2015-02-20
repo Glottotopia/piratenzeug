@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin324</field>
+    <field name="title">Initiatoren entfernen</field>
+    <field name="date">5 Jahrs 1 Monat 2 Tagen 03:43:15</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">4</field>
+    <field name="no">14</field>
+    <field name="abstention">52</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">328</field>
+    <field name="text">Der Antrag fordert die Entfernung von allen Hinweisen auf den Initiator einer Initiative.Eine Initiative sollte an dem Wert Ihres textlichen Inhalts gemessen werden. Die Nennung der Autoren wirkt sich negativ auf die Entschlussfindung aus. Hier können gute Ideen an parteiinternen Machtkämpfen oder schlichten Meinungsverschiedenheiten persönlicher Natur scheitern.Außerdem wird dadurch der Datenschutz der Nutzer erhöht.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Der Antrag fordert die Entfernung von allen Hinweisen auf den Initiator einer Initiative.[/p]
+[p]Eine Initiative sollte an dem Wert Ihres textlichen Inhalts gemessen werden. Die Nennung der Autoren wirkt sich negativ auf die Entschlussfindung aus. Hier können gute Ideen an parteiinternen Machtkämpfen oder schlichten Meinungsverschiedenheiten persönlicher Natur scheitern.[/p]
+[p]Außerdem wird dadurch der Datenschutz der Nutzer erhöht.[/p]
+[/div]</field>
+    </add></doc>

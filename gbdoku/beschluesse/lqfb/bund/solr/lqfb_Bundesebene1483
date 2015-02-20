@@ -1,0 +1,62 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1483</field>
+    <field name="title">Transparent spenden</field>
+    <field name="date">3 Jahrs 11 Monaten 25 Tagen 17:13:52</field>
+    <field name="area">Sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">162</field>
+    <field name="no">16</field>
+    <field name="abstention">87</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1501</field>
+    <field name="text">Ich habe schon mehrfach für bestimmte Zwecke an die Piratenpartei gespendet und mich immer geärgert, dass ich nicht sehen konnte, wann und wo das Geld tatsächlich angekommen ist. Meine Spendenbereitschaft hat dadurch leider abgenommen. Ich möchte ein Verfahren vorschlagen, mit dem das Spendenwesen ohne großen Aufwand transparent gemacht wird, ohne die Anonymität der Spender zu gefährden. Jeder Spender kann selbst entscheiden, ob er das Verfahren anwendet oder nicht.&nbsp;Zweck-Tag:Um den Verwendungszweck einer Spende eindeutig zuordnen zu können, kann der Spender ein vordefiniertes Stichwort (ZweckTag) angeben. Eine Liste von gültigen Tags wird vom Bundesvorstand beschlossen. Auf Antrag können neue Tags hinzugefügt oder obsolete Tags entfernt werden. Die Liste der gültigen Tags wird in aktueller Form auf der Website veröffentlicht. Jeder Eingang einer Spenden mit einem gültigen ZweckTag wird sofort unter Angabe des Verwendungszwecks, des Betrags und des Eingangsdatums veröffentlicht. Weitere Angaben werden nicht veröffentlicht, um die Anonymität des Spenders zu wahren. Durch Verwendung des Stichworts 'ZweckTag' stimmt der Spender dieser Veröffentlichung zu. Die Veröffentlichung geschieht weitestgehend automatisiert (z.B. durch Extraktion der ZweckTags aus den elektronischen Kontoauszügen oder der Buchhaltung).Ungültige ZweckTags werden ignoriert. Wenn der Verwendungszweck nicht anders erkennbar ist, gilt die Spende als nicht zweckgebunden. In der Liste der gültigen Tags wird jeweils angegeben, was mit Geld passieren soll, dass für die Erfüllung des Zwecks nicht mehr benötigt wird. Rücküberweisungen finden nicht statt.Ein ZweckTag besteht aus der Zeichenfolge &quot;zwecktag&quot; gefolgt von 3-12 weiteren Zeichen. Dabei sind ausschließlich die Ziffern 0-9 und die Buchstaben a-z erlaubt. Großschreibung, Leerzeichen sowie Sonderzeichen werden einfach ignoriert.Beispiele:ZweckTag bpt11 = Spende für den Bundesparteitag 2011ZweckTag fsa = Spende für die nächste Freiheit Statt Angest DemoZweckTag om11 = Spende für die Open Mind 2011ZweckTag pradio = Spende für das Piratenradio&nbsp;Cash-Hash:Zusätzlich kann der Spender dem Verwendungszweck einen geheimen Erkennungscode (CashHash) hinzufügen. Jeder Eingang einer Spenden mit einem gültigen CashHash wird sofort unter Angabe des Codes, des Betrags und des Eingangsdatums veröffentlicht. Weitere Angaben werden nicht veröffentlicht, um die Anonymität des Spenders zu wahren. Durch Verwendung des Stichworts 'CashHash' stimmt der Spender dieser Veröffentlichung zu. Die Veröffentlichung kann auch hier weitestgehend automatisch erfolgen.Ein CashHash besteht aus der Zeichenfolge &quot;cashhash&quot; gefolgt von 12 weiteren Zeichen. Bei den weiteren Zeichen muss es sich abwechselnd um Ziffern (0-9) und Buchstaben (a-z) handeln. Großschreibung, Leerzeichen sowie Sonderzeichen werden einfach ignoriert.Beispiele:CashHash 3jf7s2mf7x8ocashhash5j9d6r3m9d7g&nbsp;Nebeneffekt:Solange der CashHash noch nicht veröffentlicht ist, ist er nur dem Spender bekannt. Es wäre also relativ einfach, ein Spendenportal aufzusetzen, in dem man als Spender eine gerade getätigte Überweisung mit seiner Person verbinden kann. Am Ende des Jahres könnte dann automatisch Spendenbescheinigungen erstellt werden. Außerdem könnte die Zuordnung der Spender für die Wahlkampfkostenrückerstattung automatisch erzeugt werden, was viel Zeit spartund wahrscheinlich weiteres Geld in die Kasse spült ;-)Zu den Anmerkungen:3006:Zweckgebundene Spenden existieren ja sowieso schon. Rücküberweisungen sollen hier nicht stattfinden. Das Ziel ist Zeitersparnis (und natürlich Transparenz). Ich habe oben entsprechende Änderungen eingebaut (unterstrichen). Werde auch mal schauen, was das Parteiengesetz zu zweckgebundenen Spenden sagt.Changelog:* Kommentar zu Anmerkung 3006, Ignorieren ungültiger ZweckTags, Tippfehler</field>
+    <field name="bb">[div class="draft_content wiki"][p][small][br /]
+Ich habe schon mehrfach für bestimmte Zwecke an die Piratenpartei gespendet und mich immer geärgert, dass ich nicht sehen konnte, wann und wo das Geld tatsächlich angekommen ist. Meine Spendenbereitschaft hat dadurch leider abgenommen. Ich möchte ein Verfahren vorschlagen, mit dem das Spendenwesen ohne großen Aufwand transparent gemacht wird, ohne die Anonymität der Spender zu gefährden. Jeder Spender kann selbst entscheiden, ob er das Verfahren anwendet oder nicht.[br /]
+[/small][br /] [/p]
+[h3]Zweck-Tag:[/h3]
+[p]Um den Verwendungszweck einer Spende eindeutig zuordnen zu können, kann der Spender ein vordefiniertes Stichwort (ZweckTag) angeben. Eine Liste von gültigen Tags wird vom Bundesvorstand beschlossen. Auf Antrag können neue Tags hinzugefügt oder obsolete Tags entfernt werden. Die Liste der gültigen Tags wird in aktueller Form auf der Website veröffentlicht. Jeder Eingang einer Spenden mit einem gültigen ZweckTag wird sofort unter Angabe des Verwendungszwecks, des Betrags und des Eingangsdatums veröffentlicht. Weitere Angaben werden nicht veröffentlicht, um die Anonymität des Spenders zu wahren. Durch Verwendung des Stichworts 'ZweckTag' stimmt der Spender dieser Veröffentlichung zu. Die Veröffentlichung geschieht weitestgehend automatisiert (z.B. durch Extraktion der ZweckTags aus den elektronischen Kontoauszügen oder der Buchhaltung).[/p]
+[p][small][br /]
+[u]Ungültige ZweckTags werden ignoriert. Wenn der Verwendungszweck nicht anders erkennbar ist, gilt die Spende als nicht zweckgebunden. In der Liste der gültigen Tags wird jeweils angegeben, was mit Geld passieren soll, dass für die Erfüllung des Zwecks nicht mehr benötigt wird. Rücküberweisungen finden nicht statt.[/u][br /]
+[/small] [small][br /]
+Ein ZweckTag besteht aus der Zeichenfolge &amp;quot;zwecktag&amp;quot; gefolgt von 3-12 weiteren Zeichen. Dabei sind ausschließlich die Ziffern 0-9 und die Buchstaben a-z erlaubt. Großschreibung, Leerzeichen sowie Sonderzeichen werden einfach ignoriert.[br /]
+[/small] [small][br /]
+Beispiele:[br /]
+[/small] [small][br /]
+ ZweckTag bpt11 = Spende für den Bundesparteitag 2011[br /]
+ ZweckTag fsa = Spende für die nächste Freiheit Statt Angest Demo[br /]
+ ZweckTag om11 = Spende für die Open Mind 2011[br /]
+ ZweckTag pradio = Spende für das Piratenradio[br /]
+[/small] [br /] [/p]
+[h3]Cash-Hash:[/h3]
+[p]Zusätzlich kann der Spender dem Verwendungszweck einen geheimen Erkennungscode (CashHash) hinzufügen. Jeder Eingang einer Spenden mit einem gültigen CashHash wird sofort unter Angabe des Codes, des Betrags und des Eingangsdatums veröffentlicht. Weitere Angaben werden nicht veröffentlicht, um die Anonymität des Spenders zu wahren. Durch Verwendung des Stichworts 'CashHash' stimmt der Spender dieser Veröffentlichung zu. Die Veröffentlichung kann auch hier weitestgehend automatisch erfolgen.[/p]
+[p][small][br /]
+Ein CashHash besteht aus der Zeichenfolge &amp;quot;cashhash&amp;quot; gefolgt von 12 weiteren Zeichen. Bei den weiteren Zeichen muss es sich abwechselnd um Ziffern (0-9) und Buchstaben (a-z) handeln. Großschreibung, Leerzeichen sowie Sonderzeichen werden einfach ignoriert.[br /]
+[/small] [small][br /]
+Beispiele:[br /]
+[/small] [small][br /]
+ CashHash 3jf7s2mf7x8o[br /]
+ cashhash5j9d6r3m9d7g[br /]
+[/small][br /] [/p]
+[h3]Nebeneffekt:[/h3]
+[p]Solange der CashHash noch nicht veröffentlicht ist, ist er nur dem Spender bekannt. Es wäre also relativ einfach, ein Spendenportal aufzusetzen, in dem man als Spender eine gerade getätigte Überweisung mit seiner Person verbinden kann. Am Ende des Jahres könnte dann automatisch Spendenbescheinigungen erstellt werden. Außerdem könnte die Zuordnung der Spender für die Wahlkampfkostenrückerstattung automatisch erzeugt werden, was viel Zeit spart[br /]
+und wahrscheinlich weiteres Geld in die Kasse spült ;-)[/p]
+[p][i] [/i][br /]
+[i] [/i][br /]
+[i] [/i][br /]
+[i] [/i][br /]
+[i] [/i][br /]
+[i] [/i][/p]
+[hr /]
+[p][small][br /]
+[b]Zu den Anmerkungen:[/b][br /]
+[/small] [small][br /]
+[b]3006:[/b] Zweckgebundene Spenden existieren ja sowieso schon. Rücküberweisungen sollen hier nicht stattfinden. Das Ziel ist Zeitersparnis (und natürlich Transparenz). Ich habe oben entsprechende Änderungen eingebaut ([u]unterstrichen[/u]). Werde auch mal schauen, was das Parteiengesetz zu zweckgebundenen Spenden sagt.[br /]
+[/small][/p]
+[p][small][br /]
+[b]Changelog:[/b][br /]
+[/small] [small][br /]
+ * Kommentar zu Anmerkung 3006, Ignorieren ungültiger ZweckTags, Tippfehler[br /]
+[/small][/p]
+[/div]</field>
+    </add></doc>

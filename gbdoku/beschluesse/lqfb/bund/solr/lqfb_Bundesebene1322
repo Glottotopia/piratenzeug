@@ -1,0 +1,27 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1322</field>
+    <field name="title">Funktionserweiterung Anzeige eigenes Abstimmungsergebnisse</field>
+    <field name="date">4 Jahrs 2 Monaten 12 Tagen 19:45:02</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">cross.png</field>
+    <field name="yes">102</field>
+    <field name="no">8</field>
+    <field name="abstention">207</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">MeinungsbildUnter Startseite ist eine neue Funktion „Eigene Abstimmungsergebnisse“ als neue Kategorie zu integrieren, die jedem die Übersicht über das eigene Abstimmverhalten ermöglicht. Das Abstimmergebnis beinhaltet das jeweilige Thema (Link), das Datum des Abschlusses der Phase Abstimmung und wird mit den verwendeten Symbolen lt. Abstimmdetails ergänzt. Diese Anzeige umfasst nur das eigene Abstimmverhalten und nicht das Abstimmverhalten bei Erteilung von Delegationen.Der Nutzer kann sich diese Übersicht durch die Eingabe eines frei wählbaren Zeitraumes (Datumsangabe von – bis) anzeigen lassen. *1)BegründungBisher ist Erstellung einer Übersicht über das eigene Abstimmverhalten anhand der vorhandenen Funktionen in Liquid Feedback für die Nutzer nicht möglich, nur über das Aufrufen des Themas und das Anklicken des Bereiches Abstimmdetails. Dies stellt ein langwieriges und kein komfortables Verfahren dar.BemerkungDiese Initiative entstammte einer Diskussion auf der Liquid-Talk-Liste. Bitte die weitere Initiative „Funktionserweiterung Anzeige Stimmverhalten bei Delegation“ https://lqfb.piratenpartei.de/pp/initiative/show/1323.html beachten.1) Die Anzeige des Bereichs begrenzt sich momentan durch die festgelegten Löschfristen des Bundesvorstandes lt. Beschluss vom 12.08.2010.AnregungenDie Möglichkeit das eigene Abstimmverhalten per Übersicht für andere einsichtbar zu gestalten, ist bereits in der Diskussion auf der LQFB-Talk-Liste aufgetreten und jetzt als Anregung umgesetzt. Ursprünglich sollte jeder Nutzer über die Möglichkeit per default entscheiden, aber es ist bereits jetzt anhand der Auswertung der Abstimmergebnisse möglich, sich eine Übersicht über das Stimmverhalten Dritter zu erstellen. Daher habe ich als Anregungen beide Möglichkeiten eingestellt, neben der per default, die generelle Möglichkeit für jeden Nutzer diese Übersicht auf der Startseite eines anderen Nutzers zu erstellen.Die Umsetzung der Anregungen in der Initiative richtet sich wiederum nach der Bewertung der Anregungen.</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Meinungsbild[/h2]
+[p]Unter Startseite ist eine neue Funktion „Eigene Abstimmungsergebnisse“ als neue Kategorie zu integrieren, die jedem die Übersicht über das eigene Abstimmverhalten ermöglicht. Das Abstimmergebnis beinhaltet das jeweilige Thema (Link), das Datum des Abschlusses der Phase Abstimmung und wird mit den verwendeten Symbolen lt. Abstimmdetails ergänzt. Diese Anzeige umfasst nur das eigene Abstimmverhalten und nicht das Abstimmverhalten bei Erteilung von Delegationen.[/p]
+[p]Der Nutzer kann sich diese Übersicht durch die Eingabe eines frei wählbaren Zeitraumes (Datumsangabe von – bis) anzeigen lassen. *1)[/p]
+[h2]Begründung[/h2]
+[p]Bisher ist Erstellung einer Übersicht über das eigene Abstimmverhalten anhand der vorhandenen Funktionen in Liquid Feedback für die Nutzer nicht möglich, nur über das Aufrufen des Themas und das Anklicken des Bereiches Abstimmdetails. Dies stellt ein langwieriges und kein komfortables Verfahren dar. [/p]
+[h2]Bemerkung[/h2]
+[p]Diese Initiative entstammte einer Diskussion auf der Liquid-Talk-Liste. Bitte die weitere Initiative „Funktionserweiterung Anzeige Stimmverhalten bei Delegation“ https://lqfb.piratenpartei.de/pp/initiative/show/1323.html beachten. [/p]
+[p]1) Die Anzeige des Bereichs begrenzt sich momentan durch die festgelegten Löschfristen des Bundesvorstandes lt. Beschluss vom 12.08.2010.[/p]
+[h2]Anregungen[/h2]
+[ul][li]Die Möglichkeit das eigene Abstimmverhalten per Übersicht für andere einsichtbar zu gestalten, ist bereits in der Diskussion auf der LQFB-Talk-Liste aufgetreten und jetzt als Anregung umgesetzt. Ursprünglich sollte jeder Nutzer über die Möglichkeit per default entscheiden, aber es ist bereits jetzt anhand der Auswertung der Abstimmergebnisse möglich, sich eine Übersicht über das Stimmverhalten Dritter zu erstellen. Daher habe ich als Anregungen beide Möglichkeiten eingestellt, neben der per default, die generelle Möglichkeit für jeden Nutzer diese Übersicht auf der Startseite eines anderen Nutzers zu erstellen. [/li]
+[li]Die Umsetzung der Anregungen in der Initiative richtet sich wiederum nach der Bewertung der Anregungen.[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

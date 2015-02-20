@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene801</field>
+    <field name="title">Benachrichtigungsfunktionen sinnvoll, Feature-Requests in den Bugtracker</field>
+    <field name="date">4 Jahrs 5 Monaten 27 Tagen 01:21:42</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">283</field>
+    <field name="no">110</field>
+    <field name="abstention">60</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">70 173 108 66</field>
+    <field name="text">Bezüglich des OpenSource-Projekts LiquidFeedback werden Fortentwicklungen in Bezug auf die Bedienoberfläche grundsätzlich gerne gesehen. Ebenso ist eine zukünftige Erweiterung um Benachrichtigungsmöglichkeiten wünschenswert.Entsprechende Feature-Requests sollten jedoch zukünftig direkt in denöffentlichen Bugtracker des Projektseintragen werden.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Bezüglich des OpenSource-Projekts LiquidFeedback werden Fortentwicklungen in Bezug auf die Bedienoberfläche grundsätzlich gerne gesehen. Ebenso ist eine zukünftige Erweiterung um Benachrichtigungsmöglichkeiten wünschenswert.[/p]
+[p]Entsprechende Feature-Requests sollten jedoch zukünftig direkt in den [a href="http://trac.public-software-group.org/projects/lf"]öffentlichen Bugtracker des Projekts[/a] eintragen werden.[/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin2111</field>
+    <field name="title">Der LaVo löst keine Probleme, die nicht da sind</field>
+    <field name="date">2 Jahrs 5 Monaten 21 Tagen 01:20:39</field>
+    <field name="area">sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">38</field>
+    <field name="no">45</field>
+    <field name="abstention">31</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">2102 2107 2108 2112 2103</field>
+    <field name="text">MeinungsbildDer Landesvorstand ist nicht dafür da Lösungen für Probleme zu erarbeiten, die es gar nicht gibt.BegründungWir wollen einen LaVo, der Zielorientiert arbeitet und an Dingen, die gut funktionieren nicht ohne Not etwas ändert.</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Meinungsbild[/h2]
+[p]Der Landesvorstand ist nicht dafür da Lösungen für Probleme zu erarbeiten, die es gar nicht gibt.[/p]
+[h2]Begründung[/h2]
+[p]Wir wollen einen LaVo, der Zielorientiert arbeitet und an Dingen, die gut funktionieren nicht ohne Not etwas ändert.[/p]
+[/div]</field>
+    </add></doc>

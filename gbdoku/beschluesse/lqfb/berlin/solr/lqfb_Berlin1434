@@ -1,0 +1,23 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin1434</field>
+    <field name="title">»Auto-Ablehnen« als Standard-Einstellung bei Themen mit Regelwerk »Schnellverfahren«</field>
+    <field name="date">3 Jahrs 12 Tagen 23:19:24</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">cross.png</field>
+    <field name="yes">27</field>
+    <field name="no">30</field>
+    <field name="abstention">34</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1436</field>
+    <field name="text">Es hat sich gezeigt, dass inzwischen in großer Zahl Anträge als »Schnellverfahren« eingestellt werden. Das wäre bei rechtzeitiger Einbringung der Themen meist vermeidbar. Diese große Zahl von Schnellverfahren aus der Fraktion im Abgeordnetenhaus verkehrt das Bottom-Up-Prinzip der fließenden Demokratie in ein Top-Down-Abnickverfahren. Um dem entgegenwirken zu können, beantrage ich , dass Nutzer in ihren Einstellungen festlegen können, dass Anträge im »Schnellverfahren« als Standard auf »Auto-Ablehnen« eingestellt werden.Außerdem soll die Grundeinstellung »Auto-Ablehnen« auf den Anzeigeseiten jeder davon betroffenen Initiative im Rahmen der Anzeige des persönlichen Interesses dargestellt werden (rote Hand).Kennzeichen von Liquid Feedback ist es, ohne Moderation auszukommen. Um dem Missbrauch von Regelwerken bereits innerhalb von Liquid Feedback ohne Moderation begegnen zu können, ist die beantragte regelwerksbezogene Einstellmöglichkeit »Auto-Ablehnen« sinnvoll.Da ich nicht weiß, ob und ggf. welche Änderungen das in der Software verursacht, möchte ich hier den Wunsch nach einer solchen Einstellungsmöglichkeit erfragen. Ich bitte die Entwickler, zu diesem Vorschlag ggf. auf der Diskussionsseite im Wiki Stellung zu nehmen.Zur Problematik einer Inkonsistenz in der bis heute verwendeten Version von LqFb siehe im übrigen:Initiative 1049 im Bundes-Liquid.zu Anregung1680:Du kannst die Grund-Einstellung »Auto-Ablehnen« zu jedem einzelnen Thema jederzeit aufheben. Das heißt: Die Grundeinstellung, die ja auch niemand so einstellen muss, dient vor allem dazu, Initiativen nicht einfach durchlaufen zu lassen, die man wegen der Kürze der Zeit nicht hat bedenken und erwägen können.Es sollte im übrigen in der Ansichtsseite der Initiative erkennbar sein, dass es wegen des gewählten Regelwerks eine aktivierte »Auto-Ablehnen«-Einstellung gibt. Um das sicherzustellen habe ich oben einen Absatz eingefügt.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Es hat sich gezeigt, dass inzwischen in großer Zahl Anträge als »Schnellverfahren« eingestellt werden. Das wäre bei rechtzeitiger Einbringung der Themen meist vermeidbar. Diese große Zahl von Schnellverfahren aus der Fraktion im Abgeordnetenhaus verkehrt das Bottom-Up-Prinzip der fließenden Demokratie in ein Top-Down-Abnickverfahren. Um dem entgegenwirken zu können, beantrage ich , dass Nutzer in ihren Einstellungen festlegen können, dass Anträge im »Schnellverfahren« als Standard auf »Auto-Ablehnen« eingestellt werden.[/p]
+[p]Außerdem soll die Grundeinstellung »Auto-Ablehnen« auf den Anzeigeseiten jeder davon betroffenen Initiative im Rahmen der Anzeige des persönlichen Interesses dargestellt werden (rote Hand).[/p]
+[p]Kennzeichen von Liquid Feedback ist es, ohne Moderation auszukommen. Um dem Missbrauch von Regelwerken bereits innerhalb von Liquid Feedback ohne Moderation begegnen zu können, ist die beantragte regelwerksbezogene Einstellmöglichkeit »Auto-Ablehnen« sinnvoll.[/p]
+[p]Da ich nicht weiß, ob und ggf. welche Änderungen das in der Software verursacht, möchte ich hier den Wunsch nach einer solchen Einstellungsmöglichkeit erfragen. Ich bitte die Entwickler, zu diesem Vorschlag ggf. auf der Diskussionsseite im Wiki Stellung zu nehmen.[/p]
+[p]Zur Problematik einer Inkonsistenz in der bis heute verwendeten Version von LqFb siehe im übrigen: [a href="https://lqfb.piratenpartei.de/pp/initiative/show/1049.html"]Initiative 1049 im Bundes-Liquid[/a].[/p]
+[p][b][i]zu Anregung [a href="http://be.pplf.de/a16680"]1680[/a]:[/i][/b][/p]
+[p]Du kannst die Grund-Einstellung »Auto-Ablehnen« zu jedem einzelnen Thema jederzeit aufheben. Das heißt: Die Grundeinstellung, die ja auch niemand so einstellen muss, dient vor allem dazu, Initiativen nicht einfach durchlaufen zu lassen, die man wegen der Kürze der Zeit nicht hat bedenken und erwägen können.[/p]
+[p]Es sollte im übrigen in der Ansichtsseite der Initiative erkennbar sein, dass es wegen des gewählten Regelwerks eine aktivierte »Auto-Ablehnen«-Einstellung gibt. Um das sicherzustellen habe ich oben einen Absatz eingefügt.[/p]
+[/div]</field>
+    </add></doc>

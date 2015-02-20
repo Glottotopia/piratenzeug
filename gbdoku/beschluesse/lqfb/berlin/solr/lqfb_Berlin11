@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin11</field>
+    <field name="title">Nicht angemeldeten Nutzern mehr Infos anzeigen</field>
+    <field name="date">5 Jahrs 1 Monat 12 Tagen 01:35:29</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">53</field>
+    <field name="no">9</field>
+    <field name="abstention">8</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Wenn ich nicht angemeldet bin und versuche eine Initiative aufzurufen erhalte ich nur folgende Meldung:Du musst eingeloggt sein, um das System zu benutzenSchön wäre es, wenn stattdessen der Name der Initiative ausgegeben wird, ggf. der Diskussionslink zur Initiative und ein Hinweis, dass das System aktuell nur Berliner Piraten zur Verfügung steht, mit Link auf den Mitgliedsantrag. ;)So könnte man auch bei Twitter/Facebook etc. bekannt geben, dass man eine Initiative unterstützt, ohne den Nicht-Piraten durch Links auf eine Fehlermeldung zu sehr vor den Kopf zu stoßen.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Wenn ich nicht angemeldet bin und versuche eine Initiative aufzurufen erhalte ich nur folgende Meldung:[/p]
+[p] Du musst eingeloggt sein, um das System zu benutzen[/p]
+[p]Schön wäre es, wenn stattdessen der Name der Initiative ausgegeben wird, ggf. der Diskussionslink zur Initiative und ein Hinweis, dass das System aktuell nur Berliner Piraten zur Verfügung steht, mit Link auf den Mitgliedsantrag. ;)[/p]
+[p]So könnte man auch bei Twitter/Facebook etc. bekannt geben, dass man eine Initiative unterstützt, ohne den Nicht-Piraten durch Links auf eine Fehlermeldung zu sehr vor den Kopf zu stoßen.[/p]
+[/div]</field>
+    </add></doc>

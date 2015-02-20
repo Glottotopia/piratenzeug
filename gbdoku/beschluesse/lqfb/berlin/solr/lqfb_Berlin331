@@ -1,0 +1,21 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin331</field>
+    <field name="title">Zusätzliche Barrierefreiheit</field>
+    <field name="date">5 Jahrs 7 Tagen 09:44:56</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">106</field>
+    <field name="no">5</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">329</field>
+    <field name="text">Die Drag&amp;Drop Abstimmung möge erhalten bleiben. Unabhängig davon sollen alle Funktionen des Systems barrierefrei nutzbar werden. Im Falle der Abstimmung müsste daher eine alternative Abstimmungsmöglichkeit geschaffen werden.AnmerkungenForderungen wie Barrierefreiheit halte ich für selbstverständlich. Es gibt einenAnforderungskatalog an die Software, der vom Vorstand als Arbeitsgrundlage beschlossen wurde. Ich bitte bei weiteren Forderungen diesen zu berücksichtigen und ggf. konkrete Änderungsvorschläge zu machen.Allgemeine Feature-Requests können auch in denBugtracker der Entwicklereingetragen werden.Ich bitte um Verständnis, dass die ursprünglichen und auch zukünftige Entwickler nicht sofort jeden Wunsch umsetzen können. Features implementieren wir ehrenamtlich. Handelt es sich nicht um Konfigurationseinstellungen der Software, dann muss real Arbeit aufgewendet werden. Das tun wir in unserer Freizeit, und letztendlich auch mit dem Ziel eine Software zu erschaffen, die nicht nur in der Piratenpartei Anwendung finden kann. Interessierte, die sich an der Weiterentwicklung der Software beteiligen möchten, finden Informationen unterliquidfeedback.org.Selbstverständlich muss INNERHALB der Piratenpartei entschieden werden, welcheMindestanforderungenan eine einzusetzende Software gestellt werden. Barrierefreiheit halte ich für eine angemessene Forderung.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Die Drag&amp;amp;Drop Abstimmung möge erhalten bleiben. Unabhängig davon sollen alle Funktionen des Systems barrierefrei nutzbar werden. Im Falle der Abstimmung müsste daher eine alternative Abstimmungsmöglichkeit geschaffen werden.[/p]
+[h3]Anmerkungen[/h3]
+[p]Forderungen wie Barrierefreiheit halte ich für selbstverständlich. Es gibt einen [a href="http://wiki.piratenpartei.de/BE:Liquid_Democracy_-_Requirements"]Anforderungskatalog an die Software[/a], der vom Vorstand als Arbeitsgrundlage beschlossen wurde. Ich bitte bei weiteren Forderungen diesen zu berücksichtigen und ggf. konkrete Änderungsvorschläge zu machen.[/p]
+[p]Allgemeine Feature-Requests können auch in den [a href="http://trac.public-software-group.org/projects/lf"]Bugtracker der Entwickler[/a] eingetragen werden.[/p]
+[p]Ich bitte um Verständnis, dass die ursprünglichen und auch zukünftige Entwickler nicht sofort jeden Wunsch umsetzen können. Features implementieren wir ehrenamtlich. Handelt es sich nicht um Konfigurationseinstellungen der Software, dann muss real Arbeit aufgewendet werden. Das tun wir in unserer Freizeit, und letztendlich auch mit dem Ziel eine Software zu erschaffen, die nicht nur in der Piratenpartei Anwendung finden kann. Interessierte, die sich an der Weiterentwicklung der Software beteiligen möchten, finden Informationen unter [a href="http://liquidfeedback.org/"]liquidfeedback.org[/a].[/p]
+[p]Selbstverständlich muss INNERHALB der Piratenpartei entschieden werden, welche [b]Mindestanforderungen[/b] an eine einzusetzende Software gestellt werden. Barrierefreiheit halte ich für eine angemessene Forderung.[/p]
+[/div]</field>
+    </add></doc>

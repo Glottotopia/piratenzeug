@@ -1,0 +1,37 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene218</field>
+    <field name="title">Diskussionsplattform</field>
+    <field name="date">4 Jahrs 5 Monaten 23 Tagen 05:53:10</field>
+    <field name="area">Sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">157</field>
+    <field name="no">145</field>
+    <field name="abstention">90</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">437</field>
+    <field name="text">Ich habe vor kurzem ein kleineshttp://simpledebate.appspot.com/geschrieben, mit dem ganz simpel Pro- und Contra-Argumente zu Thesen gesammelt werden können, ohne dass sich die Befürworter und Gegner übertönen können (jedenfalls ist das die Idee):http://simpledebate.appspot.com/Nun ist das tool mMn von den Funktionen her schon komplett einsatzfähig, allerdings gibt es ein paar Punkte, die noch verbesserungswürdig sind:Die Plattform ist bei Google gehostetMan benötigt einen Google-Account um Beiträge zu schreiben.Ich möchte mit dieser Initiative erfragen, für wie sinnvoll ihr das Tool haltet, und obich mich bei der BundesIT darum bemühen soll, dass das Tool auf Piratenservern gehostet wird undich ein anderes Accountsystem implementieren soll.Wenn in ihr also das Tool nutzen wollt und ich die obigen zwei Punkte umsetzen soll, dann unterstützt diese Initiative. Ich werde nämlich keine Energie in etwas investieren, was keiner benutzen will.Das Tool darf jetzt natürlich auch schon benutzt werden (schließlich kann man sich ja bei Google Wegwerf-Accounts erstellen).AnmerkungenSimpleDebate eignet sich mMn sehr gut für die Diskussionen zu LF-Initiativen (siehe Diskussions-URL). Allerdings kann man es natürlich auch anderswo einsetzen, weswegen ich diese Initiative nicht unter &quot;Liquid-Feedback-Systembetrieb&quot; eingestellt habe.Ich habe die Diskussions-URL einfach mal auf die Startseite von SimpleDebate gesetzt, da man dort über den Sinn/Unsinn von SimpleDebate diskutieren soll. Falls jemand, die Probleme mit Google dennoch zu gravierend sind, darf sich dazu natürlich auch auf der Wiki-Seite äußern. Die werde ich natürlich auch verfolgen.zu den AnregungenFür die Integration in LF habe ich eine Konkurrenzinitiative gestartet.Ich denke OpenID ist eine sinnvolle Möglichkeit für ein Account-System. Ich werde denke ich das wählen, was am besten in die Pirateninfrastruktur passt. Da diese Initiative anscheinend auf positives Feedback stößt, werde ich demnächst dafür sowohl PiratenIT als auch LF-Entwickler kontaktieren.Kommentieren von Anregungen: Zunächst einmal gibt es ja keine &quot;Anregungen&quot; in SimpleDebate, wie in LF. Dafür gibt es aber Argumente (Pro-Argumente und Gegen-Argumente). Konstruktive Gegen-Argumente haben vermutlich einen ähnliche Effekt wie die Anregungen in LF. Jedes Argument selbst ist wieder eine These. Das heißt, wenn man auf das Argument klickt, so kann man Argumente für oder gegen das Argument hinzufügen. Diese Kommentarfunktion gibt es also bereits. Jetzt noch zu den Bewertungen: Wenn man eingeloggt, ist, dann kann man die Argumente bewerten. Diese Bewertung wird benutzt um (so wie bei Digg) gute Argumente weiter oben anzuzeigen. Die Bewertungen selbst werden abernichtangezeigt, weil der Nutzer sich durch dem Inhalt der Argumente eine Meinung bilden soll und nicht durch die abgegebenen Stimmen. Wenn man Abstimmergebnisse haben will, kann man ja immer noch LF benutzen und die Initiative ebenfalls in SimpleDebate einstellen. Ich habe bereits überlegt, ob ich eine Import-Funktion implementiere, mit der man einfach LF-Initiativen importieren kann.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Ich habe vor kurzem ein kleines [a href="Debattiertool"]http://simpledebate.appspot.com/[/a] geschrieben, mit dem ganz simpel Pro- und Contra-Argumente zu Thesen gesammelt werden können, ohne dass sich die Befürworter und Gegner übertönen können (jedenfalls ist das die Idee):[/p]
+[p][a href="http://simpledebate.appspot.com/"]http://simpledebate.appspot.com/[/a] [/p]
+[p]Nun ist das tool mMn von den Funktionen her schon komplett einsatzfähig, allerdings gibt es ein paar Punkte, die noch verbesserungswürdig sind:[/p]
+[ol][li]Die Plattform ist bei Google gehostet[/li]
+[li]Man benötigt einen Google-Account um Beiträge zu schreiben.[/li]
+[/ol]
+[p]Ich möchte mit dieser Initiative erfragen, für wie sinnvoll ihr das Tool haltet, und ob[/p]
+[ul][li]ich mich bei der BundesIT darum bemühen soll, dass das Tool auf Piratenservern gehostet wird und[/li]
+[li]ich ein anderes Accountsystem implementieren soll.[/li]
+[/ul]
+[p]Wenn in ihr also das Tool nutzen wollt und ich die obigen zwei Punkte umsetzen soll, dann unterstützt diese Initiative. Ich werde nämlich keine Energie in etwas investieren, was keiner benutzen will.[/p]
+[p]Das Tool darf jetzt natürlich auch schon benutzt werden (schließlich kann man sich ja bei Google Wegwerf-Accounts erstellen).[/p]
+[h3]Anmerkungen[/h3]
+[ul][li]SimpleDebate eignet sich mMn sehr gut für die Diskussionen zu LF-Initiativen (siehe Diskussions-URL). Allerdings kann man es natürlich auch anderswo einsetzen, weswegen ich diese Initiative nicht unter &amp;quot;Liquid-Feedback-Systembetrieb&amp;quot; eingestellt habe.[/li]
+[/ul]
+[ul][li]Ich habe die Diskussions-URL einfach mal auf die Startseite von SimpleDebate gesetzt, da man dort über den Sinn/Unsinn von SimpleDebate diskutieren soll. Falls jemand, die Probleme mit Google dennoch zu gravierend sind, darf sich dazu natürlich auch auf der Wiki-Seite äußern. Die werde ich natürlich auch verfolgen.[/li]
+[/ul]
+[h3]zu den Anregungen[/h3]
+[ul][li]Für die Integration in LF habe ich eine Konkurrenzinitiative gestartet.[/li]
+[li]Ich denke OpenID ist eine sinnvolle Möglichkeit für ein Account-System. Ich werde denke ich das wählen, was am besten in die Pirateninfrastruktur passt. Da diese Initiative anscheinend auf positives Feedback stößt, werde ich demnächst dafür sowohl PiratenIT als auch LF-Entwickler kontaktieren.[/li]
+[li]Kommentieren von Anregungen: Zunächst einmal gibt es ja keine &amp;quot;Anregungen&amp;quot; in SimpleDebate, wie in LF. Dafür gibt es aber Argumente (Pro-Argumente und Gegen-Argumente). Konstruktive Gegen-Argumente haben vermutlich einen ähnliche Effekt wie die Anregungen in LF. Jedes Argument selbst ist wieder eine These. Das heißt, wenn man auf das Argument klickt, so kann man Argumente für oder gegen das Argument hinzufügen. Diese Kommentarfunktion gibt es also bereits. Jetzt noch zu den Bewertungen: Wenn man eingeloggt, ist, dann kann man die Argumente bewerten. Diese Bewertung wird benutzt um (so wie bei Digg) gute Argumente weiter oben anzuzeigen. Die Bewertungen selbst werden aber [b]nicht[/b] angezeigt, weil der Nutzer sich durch dem Inhalt der Argumente eine Meinung bilden soll und nicht durch die abgegebenen Stimmen. Wenn man Abstimmergebnisse haben will, kann man ja immer noch LF benutzen und die Initiative ebenfalls in SimpleDebate einstellen. Ich habe bereits überlegt, ob ich eine Import-Funktion implementiere, mit der man einfach LF-Initiativen importieren kann.[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

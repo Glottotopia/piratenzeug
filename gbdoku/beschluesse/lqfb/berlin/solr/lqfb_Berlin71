@@ -1,0 +1,16 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin71</field>
+    <field name="title">Themen pro Seite einstellbar</field>
+    <field name="date">5 Jahrs 2 Monaten 4 Tagen 06:11:11</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">35</field>
+    <field name="no">4</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Funktion mit der man einstellen kann, wie viele Themen Pro Seite angezeigt werden.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Funktion mit der man einstellen kann, wie viele Themen Pro Seite angezeigt werden.[/p]
+[/div]</field>
+    </add></doc>

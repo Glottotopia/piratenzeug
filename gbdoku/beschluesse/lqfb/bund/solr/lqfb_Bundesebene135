@@ -1,0 +1,35 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene135</field>
+    <field name="title">Maschinenlesbarer Staat</field>
+    <field name="date">4 Jahrs 4 Monaten 27 Tagen 06:22:37</field>
+    <field name="area">Innen, Recht, Demokratie, Sicherheit</field>
+    <field name="regelwerk">Programmantrag </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">433</field>
+    <field name="no">28</field>
+    <field name="abstention">64</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">288</field>
+    <field name="text">Allgemeine ErläuterungDie Transparenz des Staatswesens, Teil 4 des Parteiprogramms, sollte klar auf eine maschinenlesbare Variante des Staats hinzielen.Erfasst sein sollte alle Daten und Akten mit öffentlichem Interesse. Erfasst werden sollen besonders durch das IFG (Informationsfreiheitsgesetz &rarr; http://bundesrecht.juris.de/ifg/) abgedeckte Daten.Technisch fordern wir die Bereitstellung von Möglichkeiten einzelne Daten zu suchen und abzurufen, über deren Veränderung informiert zu werden sowie Kopien von Datenbeständen (komplett oder auszugsweise) anzulegen. Es soll eine Möglichkeit gegeben sein, eine Historie abzubilden und so auch auf ältere Datensätze zuzugreifen, als wären sie der aktuelle Stand der Zeit.Entwurf für das ParteiprogrammUm die Transparenz des Staates zu fördern fordern wir eine frei zugängliche Programmierschnittstelle mit der auf alle Daten und Akten von öffentlichem Interesse des Staates und seiner Behörden zugegriffen werden kann. Diese Daten sollen unter anderem enthalten:GesetzesinitiativenAbstimmverhaltenStatistiken des Bundesamtes für StatistikDaten die durch das IFG abgedeckt werdenDaten des Umweltbundesamtes Dazu soll ein System eingerichtet werden in dem vom IFG betroffene Datensätze bei der Erfassung schon veröffentlicht und in das allgemeine System übertragen werden. Die Datenbanken sollen bei einem Treuhänder digital signiert abgelegt werden um eine behördliche Manipulation zu verhindern. Durch die Möglichkeit komplette Kopien der gesamten Datenbank zu laden ist eine zusätzliche Kontrolle durch interessierte Bürger zu schaffen.Der Zugriff soll über eine dem aktuellen Stand der Technik entsprechenden Schnittstelle automatisiert und ohne menschliches Zutuen möglich sein. Es muss eine Möglichkeit geben eine komplette und auszugsweise Kopie der Daten zu erhalten.Die Einführung des Systems soll stufenweise erfolgen. Besonders schwer zu erfassende Daten sollen in der ersten Phase nicht automatisch in das System eingepflegt werden. Später soll schon die Erfassung der Daten in einem System erfolgen, welches die nachfolgende Publizierung vereinfacht und automatisiert. ----ÄnderungenAngleichung an &quot;Automatisierte Transparenz des Staates&quot;Einbringung einiger VorschlägeTyposUmsetzung einiger Vorschläge</field>
+    <field name="bb">[div class="draft_content wiki"][h3]Allgemeine Erläuterung[/h3]
+[p]Die Transparenz des Staatswesens, Teil 4 des Parteiprogramms, sollte klar auf eine maschinenlesbare Variante des Staats hinzielen.[/p]
+[p]Erfasst sein sollte alle Daten und Akten mit öffentlichem Interesse. Erfasst werden sollen besonders durch das IFG (Informationsfreiheitsgesetz &amp;rarr; http://bundesrecht.juris.de/ifg/) abgedeckte Daten. [/p]
+[p]Technisch fordern wir die Bereitstellung von Möglichkeiten einzelne Daten zu suchen und abzurufen, über deren Veränderung informiert zu werden sowie Kopien von Datenbeständen (komplett oder auszugsweise) anzulegen. Es soll eine Möglichkeit gegeben sein, eine Historie abzubilden und so auch auf ältere Datensätze zuzugreifen, als wären sie der aktuelle Stand der Zeit.[/p]
+[h3]Entwurf für das Parteiprogramm[/h3]
+[p]Um die Transparenz des Staates zu fördern fordern wir eine frei zugängliche Programmierschnittstelle mit der auf alle Daten und Akten von öffentlichem Interesse des Staates und seiner Behörden zugegriffen werden kann. Diese Daten sollen unter anderem enthalten: [/p]
+[ul][li]Gesetzesinitiativen [/li]
+[li]Abstimmverhalten[/li]
+[li]Statistiken des Bundesamtes für Statistik[/li]
+[li]Daten die durch das IFG abgedeckt werden [/li]
+[li]Daten des Umweltbundesamtes Dazu soll ein System eingerichtet werden in dem vom IFG betroffene Datensätze bei der Erfassung schon veröffentlicht und in das allgemeine System übertragen werden. Die Datenbanken sollen bei einem Treuhänder digital signiert abgelegt werden um eine behördliche Manipulation zu verhindern. Durch die Möglichkeit komplette Kopien der gesamten Datenbank zu laden ist eine zusätzliche Kontrolle durch interessierte Bürger zu schaffen.[/li]
+[/ul]
+[p]Der Zugriff soll über eine dem aktuellen Stand der Technik entsprechenden Schnittstelle automatisiert und ohne menschliches Zutuen möglich sein. Es muss eine Möglichkeit geben eine komplette und auszugsweise Kopie der Daten zu erhalten.[/p]
+[p]Die Einführung des Systems soll stufenweise erfolgen. Besonders schwer zu erfassende Daten sollen in der ersten Phase nicht automatisch in das System eingepflegt werden. Später soll schon die Erfassung der Daten in einem System erfolgen, welches die nachfolgende Publizierung vereinfacht und automatisiert. ----[/p]
+[h3]Änderungen[/h3]
+[ul][li]Angleichung an &amp;quot;Automatisierte Transparenz des Staates&amp;quot;[/li]
+[li]Einbringung einiger Vorschläge[/li]
+[li]Typos[/li]
+[li]Umsetzung einiger Vorschläge [/li]
+[/ul]
+[/div]</field>
+    </add></doc>

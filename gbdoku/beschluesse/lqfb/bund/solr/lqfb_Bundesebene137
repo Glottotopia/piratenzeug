@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene137</field>
+    <field name="title">Bearbeitungshilfe für RocketWiki- / traditionelle Syntax</field>
+    <field name="date">4 Jahrs 5 Monaten 26 Tagen 00:10:17</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">283</field>
+    <field name="no">91</field>
+    <field name="abstention">33</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">140</field>
+    <field name="text">Um allen Initiatoren die Möglichkeit zu geben, schnell und effektiv ihre eingestellten Initiativen lesegerecht zu formatieren, mögen die Entwickler so schnell wie möglich, neben oder unter dem Textkasten entweder Hilfelinks oder gar eine eingebundene Hilfe für die RocketWiki- bzw. traditionelle Wiki-Syntax einstellen.(Beispielhaft hierfür ist die Hilfestellung zu den Regelwerken.)</field>
+    <field name="bb">[div class="draft_content wiki"][p]Um allen Initiatoren die Möglichkeit zu geben, schnell und effektiv ihre eingestellten Initiativen lesegerecht zu formatieren, mögen die Entwickler so schnell wie möglich, neben oder unter dem Textkasten entweder Hilfelinks oder gar eine eingebundene Hilfe für die RocketWiki- bzw. traditionelle Wiki-Syntax einstellen.[/p]
+[p](Beispielhaft hierfür ist die Hilfestellung zu den Regelwerken.)[/p]
+[/div]</field>
+    </add></doc>

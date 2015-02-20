@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene803</field>
+    <field name="title">Wiki-Diskussionslink für jedes Thema</field>
+    <field name="date">4 Jahrs 5 Monaten 25 Tagen 12:09:17</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">304</field>
+    <field name="no">77</field>
+    <field name="abstention">65</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">232 227 392 463</field>
+    <field name="text">AntragDie derzeitige Praxis, je Thema auf eine Wiki-Seite zu verweisen (Link &raquo;Diskussion zum Thema&laquo;) soll beibehalten werden. Hilfestellung oder ggf. ein automatisches Anlegen von Diskussionsseiten nach Vorlage ist grundsätzlich wünschenswert.BegründungEtherpad eignet sich nur bedingt für eine Diskussion mit vielen Teilnehmern. Im Wiki wird jede Änderung auf nachvollziehbarere Weise dokumentiert. Die Lizenz, unter der die erarbeiteten Texte zur Verfügung stehenist geklärt.</field>
+    <field name="bb">[div class="draft_content wiki"][h3]Antrag[/h3]
+[p]Die derzeitige Praxis, je Thema auf eine Wiki-Seite zu verweisen (Link &amp;raquo;Diskussion zum Thema&amp;laquo;) soll beibehalten werden. Hilfestellung oder ggf. ein automatisches Anlegen von Diskussionsseiten nach Vorlage ist grundsätzlich wünschenswert.[/p]
+[h3]Begründung[/h3]
+[p]Etherpad eignet sich nur bedingt für eine Diskussion mit vielen Teilnehmern. Im Wiki wird jede Änderung auf nachvollziehbarere Weise dokumentiert. Die Lizenz, unter der die erarbeiteten Texte zur Verfügung stehen [a href="http://wiki.piratenpartei.de/Piratenwiki:Lizenz"]ist geklärt[/a].[/p]
+[/div]</field>
+    </add></doc>

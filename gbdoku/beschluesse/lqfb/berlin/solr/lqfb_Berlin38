@@ -1,0 +1,21 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin38</field>
+    <field name="title">Bedingungen von Anträgen</field>
+    <field name="date">5 Jahrs 20 Tagen 20:56:08</field>
+    <field name="area">Organisatorisches</field>
+    <field name="regelwerk">Langzeitdiskussion (ca. 6 Monate) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">20</field>
+    <field name="no">6</field>
+    <field name="abstention">44</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">AntragDer Landesparteitag beschließe, dass auf dem Landesparteitag über Anträge, die durch andere Anträge bedingt sind erst abgestimmt wird, wenn über die bedingenden Anträge abgestimmt wurde. Jeder Antrag darf dabei andere Anträge als Bedingung anführen. Ein Antrag selbst darf sich aber nicht als Bedingung für andere Anträge anführen.Falls eine zyklische Abhängigkeit vorliegt, so muss abgestimmt werden über welchen Antrag der Anträge aus dem Zyklus als erstes abgestimmt wird, oder ob überhaupt über die Anträge abgestimmt werden soll.BegründungWenn ein Antrag A einen Antrag B bedingt, so bedeutet dies, dass Antrag B nur dann sinnvoll ist wenn entweder A beschlossen oder abgelehnt wurde. Somit ist es blödsinnig Antrag B vor Antrag A zu bearbeiten.Diese Regelung bietet auch nicht die Gefahr, dass man dadurch Anträge in der Antragsreihenfolge nach vorne mogeln kann, da man damit lediglich Anträge nach hinten verschieben kann und die Bedingungseigenschaft nur vom Antragsteller gesetzt werden darf.</field>
+    <field name="bb">[div class="draft_content wiki"][h1]Antrag[/h1]
+[p]Der Landesparteitag beschließe, dass auf dem Landesparteitag über Anträge, die durch andere Anträge bedingt sind erst abgestimmt wird, wenn über die bedingenden Anträge abgestimmt wurde. Jeder Antrag darf dabei andere Anträge als Bedingung anführen. Ein Antrag selbst darf sich aber nicht als Bedingung für andere Anträge anführen.[/p]
+[p]Falls eine zyklische Abhängigkeit vorliegt, so muss abgestimmt werden über welchen Antrag der Anträge aus dem Zyklus als erstes abgestimmt wird, oder ob überhaupt über die Anträge abgestimmt werden soll.[/p]
+[h1]Begründung[/h1]
+[p]Wenn ein Antrag A einen Antrag B bedingt, so bedeutet dies, dass Antrag B nur dann sinnvoll ist wenn entweder A beschlossen oder abgelehnt wurde. Somit ist es blödsinnig Antrag B vor Antrag A zu bearbeiten.[/p]
+[p]Diese Regelung bietet auch nicht die Gefahr, dass man dadurch Anträge in der Antragsreihenfolge nach vorne mogeln kann, da man damit lediglich Anträge nach hinten verschieben kann und die Bedingungseigenschaft nur vom Antragsteller gesetzt werden darf.[/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,16 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin102</field>
+    <field name="title">CSS-URL ins Profil für Skinentwicklung</field>
+    <field name="date">5 Jahrs 1 Monat 6 Tagen 23:07:22</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">15</field>
+    <field name="no">23</field>
+    <field name="abstention">25</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">132</field>
+    <field name="text">Auf der einen Seite kann jeder so bequem für sich sein eigenes Skin basteln. Wenn keine URL angegeben ist, wird halt das default skin geladen :)</field>
+    <field name="bb">[div class="draft_content wiki"][p]Auf der einen Seite kann jeder so bequem für sich sein eigenes Skin basteln. Wenn keine URL angegeben ist, wird halt das default skin geladen :)[/p]
+[/div]</field>
+    </add></doc>

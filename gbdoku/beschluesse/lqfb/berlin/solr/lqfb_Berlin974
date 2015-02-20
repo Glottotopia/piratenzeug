@@ -1,0 +1,49 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin974</field>
+    <field name="title">Präferenzvergabe auch in der Ablehnung, Zustimmung immer präferiert</field>
+    <field name="date">4 Jahrs 1 Monat 10 Tagen 18:08:48</field>
+    <field name="area">Satzung, Parteistruktur und GO der LMV</field>
+    <field name="regelwerk">sonstiger LMV-Beschluss </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">49</field>
+    <field name="no">10</field>
+    <field name="abstention">35</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">958</field>
+    <field name="text">DieseAnregungwird hier als Alternative Ini gestellt:AntragDas Verfahren derUrsprungs-Initiativewird so ergänzt, dass genauso viele Präferenzen bei Ablehnungen wie auch bei Zustimmung &quot;Ja&quot; angegeben werden können (z.B. 10 Stufen bei &quot;Zustimmung: Ja&quot;, 1 Stufe bei Enthaltung und 10 Stufen bei &quot;Zustimmung: Nein&quot;)Beispiel:_______________________________________________ Ja | Ent. | Nein_______________________________Kandidat A ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) | ( ) | ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )Kandidat B ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) | ( ) | ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )...Hierbei bleibt jedoch folgende Regelung erhalten:Kandidaten, die bezüglich der Frage der Zustimmung eine Ja-Stimme erhalten haben, gelten hierbei als präferiert gegenüber Kandidaten, bei denen die Frage der Zustimmung mit Nein oder Enthaltung beantwortet wurde. Weiterhin gelten Kandidaten, die bezüglich der Frage der Zustimmung eine Enthaltung erhalten haben, als präferiert gegenüber Kandidaten, bei denen die Frage der Zustimmung mit Nein beantwortet wurde. Ansonsten entscheidet die vom Wähler vorgegebene Präferenzreihenfolge.BegründungVorteileEine fehlende Präferenz-Wahl bei &quot;Nein&quot; kann taktisches Wählen erzwingen. Angenommen, man möchte Kandidat A, B und C ablehnen, falls jedoch alle 3 dennoch eine Mehrheit haben, will man A vor B und B vor C auf der Liste haben. Um das zu bewirken, wäre es sinnvoll, bei Kandidat A mit &quot;Ja&quot; (und niedriger Präferenz), bei B mit &quot;Enthaltung&quot; und bei C mit &quot;Nein&quot; zu stimmen. Man müsste also einem Kandidaten (A) zur Mehrheit bei den Ja-vs-Nein-Stimmen verhelfen, obwohl man ihn eigentlich ablehnt.DerStimmzettel ohne Nein-Präferenzdefiniert rund 90% der &quot;Ankreuzfläche&quot; für &quot;Ja&quot; und insgesamt nur 10% für &quot;Enthaltung&quot; und &quot;Nein&quot;. Er suggeriert damit optisch sehr stark, den Kandidaten eher zuzustimmen als abzulehnen (bzw. sich zu enthalten). Dieses Problem behebt diese alternative Initiative.NachteileEs gibt statt 20 nur 10 Präferenz-Möglichkeiten bei &quot;Ja&quot;. Möchte man mehr als 10 Kandidaten zustimmen, so muss man mind. 2 den gleichen Präferenzrang geben.Fragen und AntwortenZu den Nachteilen aus derUrsprungs-InitiativeDer Stimmzettel ist komplizierter zu erklärenDer hier vorgeschlagene Stimmzettel ist vom prinzipiellen Aufbau der gleiche wie ohne Nein-Präferenzen, nur die Anzahl der Ankreuzoptionen unterscheidet sich.Die Wähler werden nicht gehalten, nur den Kandidaten eine Ablehnung zu erteilen, die man tatsächlich für ungeeignet hält.Richtig, oder anders formuliert: Die Wähler werden gehalten, nur den Kandidaten eine Zustimmung zu erteilen, die man tatsächlich für geeignet hält.Die Liste könnte sehr kurz (oder leer) werden, wenn viele Abstimmenden einen Großteil ihrer persönlichen Präferenzreihenfolge im Bereich „Zustimmung: Nein“ vermerken.Dies ist aber auch bei fehlender Nein-Präferenz möglich. Auch dabei können viele Wähler viele Kandidaten ablehnen, so dass die Liste sehr kurz oder leer wird.Diese Initiative will aber nicht einen den Wählerwillen mit dem Design des Wahlzettels beeinflussen.Es sollte deutlich weniger Ablehnungsstufen als Zustimmungsstufen geben (aus dieser Anregung)Der Wahlzettel soll weder eine Ja- noch eine Nein-Option nahelegen. Das würde er tun, wenn es in einem Bereich mehr Ankreuzoptionen gibt als im anderen.Sollte es tatsächlich das Bedürfnis nach mehr als 10 Präferenzstufen geben, kann man auch jeweils 20 festlegen (und notfalls den Wahlzettel im Querformat oder als A3 drucken). Der Zahl 10 ist ja oben ein &quot;z.B.&quot; vorangestellt. Ich habe jetzt ein &quot;genauso viele&quot; hinzugefügt.----Nach Erreichen der &quot;Eingefroren&quot;-Phase weitere auf derDiskussionsseite.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Diese [a href="https://lqpp.de/be/suggestion/show/1188.html"]Anregung[/a] wird hier als Alternative Ini gestellt:[/p]
+[h1]Antrag[/h1]
+[p]Das Verfahren der [a href="https://lqpp.de/be/initiative/show/958.html"]Ursprungs-Initiative[/a] wird so ergänzt, dass genauso viele Präferenzen bei Ablehnungen wie auch bei Zustimmung &amp;quot;Ja&amp;quot; angegeben werden können (z.B. 10 Stufen bei &amp;quot;Zustimmung: Ja&amp;quot;, 1 Stufe bei Enthaltung und 10 Stufen bei &amp;quot;Zustimmung: Nein&amp;quot;) [/p]
+[p]Beispiel:[/p]
+[p][tt][br /]
+______________________________________________[u]_ Ja | Ent. | Nein [/u]_______________________________[br /]
+Kandidat A ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) | ( ) | ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )[br /]
+Kandidat B ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) | ( ) | ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )[br /]
+...[br /]
+[/tt][/p]
+[p]Hierbei bleibt jedoch folgende Regelung erhalten: [/p]
+[p]Kandidaten, die bezüglich der Frage der Zustimmung eine Ja-Stimme erhalten haben, gelten hierbei als präferiert gegenüber Kandidaten, bei denen die Frage der Zustimmung mit Nein oder Enthaltung beantwortet wurde. Weiterhin gelten Kandidaten, die bezüglich der Frage der Zustimmung eine Enthaltung erhalten haben, als präferiert gegenüber Kandidaten, bei denen die Frage der Zustimmung mit Nein beantwortet wurde. Ansonsten entscheidet die vom Wähler vorgegebene Präferenzreihenfolge. [/p]
+[h1]Begründung[/h1]
+[h2]Vorteile[/h2]
+[ul][li]Eine fehlende Präferenz-Wahl bei &amp;quot;Nein&amp;quot; kann taktisches Wählen erzwingen. Angenommen, man möchte Kandidat A, B und C ablehnen, falls jedoch alle 3 dennoch eine Mehrheit haben, will man A vor B und B vor C auf der Liste haben. Um das zu bewirken, wäre es sinnvoll, bei Kandidat A mit &amp;quot;Ja&amp;quot; (und niedriger Präferenz), bei B mit &amp;quot;Enthaltung&amp;quot; und bei C mit &amp;quot;Nein&amp;quot; zu stimmen. Man müsste also einem Kandidaten (A) zur Mehrheit bei den Ja-vs-Nein-Stimmen verhelfen, obwohl man ihn eigentlich ablehnt.[/li]
+[li]Der [a href="http://wiki.piratenpartei.de/Datei:Schulze-simple.ballot.pdf"]Stimmzettel ohne Nein-Präferenz[/a] definiert rund 90% der &amp;quot;Ankreuzfläche&amp;quot; für &amp;quot;Ja&amp;quot; und insgesamt nur 10% für &amp;quot;Enthaltung&amp;quot; und &amp;quot;Nein&amp;quot;. Er suggeriert damit optisch sehr stark, den Kandidaten eher zuzustimmen als abzulehnen (bzw. sich zu enthalten). Dieses Problem behebt diese alternative Initiative.[/li]
+[/ul]
+[h2]Nachteile[/h2]
+[ul][li]Es gibt statt 20 nur 10 Präferenz-Möglichkeiten bei &amp;quot;Ja&amp;quot;. Möchte man mehr als 10 Kandidaten zustimmen, so muss man mind. 2 den gleichen Präferenzrang geben.[/li]
+[/ul]
+[h2]Fragen und Antworten[/h2]
+[h3]Zu den Nachteilen aus der [a href="https://lqpp.de/be/initiative/show/958.html"]Ursprungs-Initiative[/a][/h3]
+[h4]Der Stimmzettel ist komplizierter zu erklären[/h4]
+[p]Der hier vorgeschlagene Stimmzettel ist vom prinzipiellen Aufbau der gleiche wie ohne Nein-Präferenzen, nur die Anzahl der Ankreuzoptionen unterscheidet sich.[/p]
+[h4]Die Wähler werden nicht gehalten, nur den Kandidaten eine Ablehnung zu erteilen, die man tatsächlich für ungeeignet hält.[/h4]
+[p]Richtig, oder anders formuliert: Die Wähler werden gehalten, nur den Kandidaten eine Zustimmung zu erteilen, die man tatsächlich für geeignet hält.[/p]
+[h4]Die Liste könnte sehr kurz (oder leer) werden, wenn viele Abstimmenden einen Großteil ihrer persönlichen Präferenzreihenfolge im Bereich „Zustimmung: Nein“ vermerken.[/h4]
+[p]Dies ist aber auch bei fehlender Nein-Präferenz möglich. Auch dabei können viele Wähler viele Kandidaten ablehnen, so dass die Liste sehr kurz oder leer wird.[/p]
+[p]Diese Initiative will aber nicht einen den Wählerwillen mit dem Design des Wahlzettels beeinflussen.[/p]
+[h4]Es sollte deutlich weniger Ablehnungsstufen als Zustimmungsstufen geben ([a href="https://lqpp.de/be/suggestion/show/1195.html"]aus dieser Anregung[/a])[/h4]
+[p]Der Wahlzettel soll weder eine Ja- noch eine Nein-Option nahelegen. Das würde er tun, wenn es in einem Bereich mehr Ankreuzoptionen gibt als im anderen.[/p]
+[p]Sollte es tatsächlich das Bedürfnis nach mehr als 10 Präferenzstufen geben, kann man auch jeweils 20 festlegen (und notfalls den Wahlzettel im Querformat oder als A3 drucken). Der Zahl 10 ist ja oben ein &amp;quot;z.B.&amp;quot; vorangestellt. Ich habe jetzt ein &amp;quot;genauso viele&amp;quot; hinzugefügt.[br /]
+----[br /]
+Nach Erreichen der &amp;quot;Eingefroren&amp;quot;-Phase weitere auf der [a href="http://wiki.piratenpartei.de/BE:LiquidFeedback_Themendiskussion/455"]Diskussionsseite[/a].[/p]
+[/div]</field>
+    </add></doc>

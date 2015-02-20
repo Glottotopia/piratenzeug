@@ -1,0 +1,45 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1399</field>
+    <field name="title">Hierarchie des individuellen Beteiligungsverhaltens – »Auto-Ablehnen«</field>
+    <field name="date">4 Jahrs 1 Monat 5 Tagen 10:54:31</field>
+    <field name="area">LiquidFeedback Weiterentwicklung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">113</field>
+    <field name="no">25</field>
+    <field name="abstention">79</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Hierarchie des individuellen BeteiligungsverhaltensFür die Delegationen innerhalb von LqFb soll folgende abweichende Hierarchisierung eingeführt werden:Hierarchie in der AbstimmungsphaseNeue Hierarchie:manuelle, eigene Abstimmung (höchste Priorität)Abstimmung durch Delegierten für das Einzel-Thema»Auto-Ablehnen«Abstimmung durch Delegierten für den ThemenbereichAbstimmung durch Global-Delegierten (niedrigste Priorität)Um diese neue Hierarchie nutzbar zu machen, muss die Funktion »Auto-Ablehnen« von der Koppelung mit dem Anmelden von Interesse für ein Thema gelöst werden, um den Einfluss einer themenbezogenen Delegation nicht zu schmälern.Da die Initiative einen stärkeren Eingriff in die Systemarchitektur von LqFb anstrebt, wird auf die Angabe eines Zeithorizonts für die Umsetzung verzichtet.Begründung und ErläuterungDiederzeitige Hierarchiein der Abstimmungsphase ist:manuelle, eigene Abstimmung (höchste Priorität)Abstimmung durch Delegierten für das Einzel-ThemaAbstimmung durch Delegierten für den ThemenbereichAbstimmung durch Global-Delegierten»Auto-Ablehnen« (niedrigste Priorität)Wenn »Auto-Ablehnen« bislang auf ein einzelnes Thema angewendet wird, ist diese Hierarchie nicht sinnvoll, da der eigene themenbezogene Wunsch »Auto-Ablehnen« durch alle Delegationen aufgehoben wird. Die Möglichkeit des »Auto-Ablehnens« wird dadurch praktisch ausgehebelt, da beliebige übergeordnete Delegationen in den themenbezogenen Wunsch des Teilnehmers hineingrätschen können.Wenn »Auto-Ablehnen« auf einen Themenbereich angewendet wird, ist die bestehende Hierachie ebenfalls nicht sinnvoll, da auch hier eine übergeordnete Delegation den Wunsch auf »Auto-Ablehnen« auszuhebeln vermag.Die von mir geänderte Initiative sorgt für ein konsistentes Verhalten, das dem Nutzer unmittelbar einsichtig ist. Es beseitigt die unlogische Konstellation, dass übergeordneten Delegationen den Ablehnungswunsch aushebeln können und schafft dennoch eine Lösung, die auch weiterhin eine sinnvolle themenbereichsbezogene Anwendung von »Auto-Ablehnen« ermöglicht.Warum diese Initiative im LqFb-System und nicht als Feature-Request im Bug-Tracker?Die Initiative strebt eine abstimmungsrelevante Änderung des Systemverhaltens an. Das geht über einen einfachen Feature-Request deutlich hinaus und sollte daher unter Beteiligung der Nutzer erörtert werden. Das gilt umso mehr, als das bisherige Systemverhalten inzwischen vielen Nutzern vertraut sein dürfte und eine Änderung daher auch eine Änderung im Nutzungsverhalten nach sich ziehen würde.Ich habe die Initiative geändert erneut eingebracht, da zwei aktuelle Abstimmungen die Debatte über das »Auto-Ablehnen« von neuem angefacht hat. Mir scheint es notwendig, hier eine bessere Übereinstimmung von tatsächlichem Systemverhalten und Verhaltensanmutung durch die Benutzeroberfläche zu erreichen.Ich lade herzlich ein, eine Gegen-Initiative einzubringen, die das bisherige Verhalten der Funktion auch im Benutzer-Interface korrekt wiedergibt.Ich habe im Sandkasten zwei Inititiaven/i1416und/i1417eingebracht, die das derzeitige Verhalten der Option »Auto-Ablehnen« unter bestimmten definierten Rahmenbedingungen austesten sollen. Ich bitte diese Initiativen zunächst zu unterstützen (um das Quorum zu erreichen) und dann für die Abstimmung einer der beschriebenenen Varianten zu wählen. Dem Sinn des Tests entspricht es auch, in der Diskussionsphase trotz eventuell bereits eingeschaltetem »Auto-Ablehnen« Delegationen auszusprechen und von den Delegierten Anregungen einzubringen.</field>
+    <field name="bb">[div class="draft_content wiki"][h1]Hierarchie des individuellen Beteiligungsverhaltens[/h1]
+[p]Für die Delegationen innerhalb von LqFb soll folgende abweichende Hierarchisierung eingeführt werden:[/p]
+[h2]Hierarchie in der Abstimmungsphase[/h2]
+[p][b]Neue Hierarchie:[/b][/p]
+[ul][li]manuelle, eigene Abstimmung (höchste Priorität) [br /][/li]
+[li]Abstimmung durch Delegierten für das Einzel-Thema[br /][/li]
+[li][b]»Auto-Ablehnen«[/b][br /][/li]
+[li]Abstimmung durch Delegierten für den Themenbereich[br /][/li]
+[li]Abstimmung durch Global-Delegierten (niedrigste Priorität)[br /][/li]
+[/ul]
+[p]Um diese neue Hierarchie nutzbar zu machen, muss die Funktion »Auto-Ablehnen« von der Koppelung mit dem Anmelden von Interesse für ein Thema gelöst werden, um den Einfluss einer themenbezogenen Delegation nicht zu schmälern.[/p]
+[p]Da die Initiative einen stärkeren Eingriff in die Systemarchitektur von LqFb anstrebt, wird auf die Angabe eines Zeithorizonts für die Umsetzung verzichtet.[/p]
+[hr /]
+[h2][i]Begründung und Erläuterung[/i][/h2]
+[p]Die [b]derzeitige Hierarchie[/b] in der Abstimmungsphase ist:[/p]
+[ul][li]manuelle, eigene Abstimmung (höchste Priorität)[br /][/li]
+[li]Abstimmung durch Delegierten für das Einzel-Thema[br /][/li]
+[li]Abstimmung durch Delegierten für den Themenbereich[br /][/li]
+[li]Abstimmung durch Global-Delegierten[br /][/li]
+[li][b][i]»Auto-Ablehnen« (niedrigste Priorität)[/i][/b][br /][/li]
+[/ul]
+[p]Wenn »Auto-Ablehnen« bislang auf ein einzelnes Thema angewendet wird, ist diese Hierarchie nicht sinnvoll, da der eigene themenbezogene Wunsch »Auto-Ablehnen« durch alle Delegationen aufgehoben wird. Die Möglichkeit des »Auto-Ablehnens« wird dadurch praktisch ausgehebelt, da beliebige übergeordnete Delegationen in den themenbezogenen Wunsch des Teilnehmers hineingrätschen können.[/p]
+[p]Wenn »Auto-Ablehnen« auf einen Themenbereich angewendet wird, ist die bestehende Hierachie ebenfalls nicht sinnvoll, da auch hier eine übergeordnete Delegation den Wunsch auf »Auto-Ablehnen« auszuhebeln vermag. [/p]
+[p]Die von mir geänderte Initiative sorgt für ein konsistentes Verhalten, das dem Nutzer unmittelbar einsichtig ist. Es beseitigt die unlogische Konstellation, dass übergeordneten Delegationen den Ablehnungswunsch aushebeln können und schafft dennoch eine Lösung, die auch weiterhin eine sinnvolle themenbereichsbezogene Anwendung von »Auto-Ablehnen« ermöglicht. [/p]
+[h2][i]Warum diese Initiative im LqFb-System und nicht als Feature-Request im Bug-Tracker?[/i][/h2]
+[p]Die Initiative strebt eine abstimmungsrelevante Änderung des Systemverhaltens an. Das geht über einen einfachen Feature-Request deutlich hinaus und sollte daher unter Beteiligung der Nutzer erörtert werden. Das gilt umso mehr, als das bisherige Systemverhalten inzwischen vielen Nutzern vertraut sein dürfte und eine Änderung daher auch eine Änderung im Nutzungsverhalten nach sich ziehen würde.[/p]
+[p]Ich habe die Initiative geändert erneut eingebracht, da zwei aktuelle Abstimmungen die Debatte über das »Auto-Ablehnen« von neuem angefacht hat. Mir scheint es notwendig, hier eine bessere Übereinstimmung von tatsächlichem Systemverhalten und Verhaltensanmutung durch die Benutzeroberfläche zu erreichen.[/p]
+[p][b][i]Ich lade herzlich ein, eine Gegen-Initiative einzubringen, die das bisherige Verhalten der Funktion auch im Benutzer-Interface korrekt wiedergibt.[/i][/b][/p]
+[hr /]
+[p]Ich habe im Sandkasten zwei Inititiaven [a href="http://pplf.de/i1416"]/i1416[/a] und [a href="http://pplf.de/i1417"]/i1417[/a] eingebracht, die das derzeitige Verhalten der Option »Auto-Ablehnen« unter bestimmten definierten Rahmenbedingungen austesten sollen. Ich bitte diese Initiativen zunächst zu unterstützen (um das Quorum zu erreichen) und dann für die Abstimmung einer der beschriebenenen Varianten zu wählen. Dem Sinn des Tests entspricht es auch, in der Diskussionsphase trotz eventuell bereits eingeschaltetem »Auto-Ablehnen« Delegationen auszusprechen und von den Delegierten Anregungen einzubringen.[/p]
+[/div]</field>
+    </add></doc>

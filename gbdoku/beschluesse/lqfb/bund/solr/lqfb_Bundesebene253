@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene253</field>
+    <field name="title">Technische Probleme an die passenden Stellen melden</field>
+    <field name="date">4 Jahrs 5 Monaten 26 Tagen 04:39:25</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">219</field>
+    <field name="no">163</field>
+    <field name="abstention">44</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">438 118 156 160</field>
+    <field name="text">Technische Probleme betreffend LF und der Clearingstelle sollten unverzüglich den Admins und Programmierern gemeldet werden, statt sie als politisches Problem im LF zu handhaben.Die Software Clearingstelle findet sich unterwo es einen Bugtracker und Kontakt zum Entwickler gibt, der Bugtracker von LiquidFeedback findet sich unter [http://trac.public-software-group.org/projects/lfKontakt zu Admins und Support gibt es unter [https://lqfb.piratenpartei.de/pp/index/about.html]</field>
+    <field name="bb">[div class="draft_content wiki"][p]Technische Probleme betreffend LF und der Clearingstelle sollten unverzüglich den Admins und Programmierern gemeldet werden, statt sie als politisches Problem im LF zu handhaben.[/p]
+[p]Die Software Clearingstelle findet sich unter [a href="http://github.com/alios/clearingstelle],"]wo es einen Bugtracker und Kontakt zum Entwickler gibt, der Bugtracker von LiquidFeedback findet sich unter [http://trac.public-software-group.org/projects/lf[/a][/p]
+[p]Kontakt zu Admins und Support gibt es unter [https://lqfb.piratenpartei.de/pp/index/about.html][/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,71 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene3130</field>
+    <field name="title">Konzept für die Antragsreihenfolge auf dem Bundesparteitag in Bochum</field>
+    <field name="date">2 Jahrs 8 Monaten 20 Tagen 23:45:20</field>
+    <field name="area">Satzung und Parteistruktur</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">269</field>
+    <field name="no">195</field>
+    <field name="abstention">180</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">KonzeptIdee: Prozess für eine sinnvolle Antragsbehandlung in BochumVorraussetzung:https://wiki.piratenpartei.de/Bundesparteitag_2011.2/Antragsportal/PA013Was wir bereits beschlossen haben:http://wiki.piratenpartei.de/Bundestagswahl_2013/WahlprogrammProzessStep 1: KonsolidierungWas haben wir? Welche Positionen? Welche Grundsätze?Tool: WikiEs wird im Wiki eine Unterseite geben, wo wir das, was wir haben und wollen und planen einfach mal sammeln. Dafür werden wir einen namespace beantragen, ähnlich wie ein Landesverband. Das ist quasi eine neue Antragsfabrik, diese jedoch ist unrettbar, unübersichtlich und wenig hilfreich für eine breite Debatte. Natürlich könnt ihr diese auch wieder nutzen, es erscheint jedoch sinnvoll eine bessere Strukturierung vorzunehmen.Begründung: In den letzten Jahren haben wir als Partei bereits viel erarbeitet. Es gibt Landeswahlprogramme, bereits eingereichte Anträge für andere Bundesparteitage, Anträge im LQFB und so weiter. Deswegen ist es wichtig erstmal einen Überblick zu bekommen, wo wir welche Arbeit bereits geleistet haben.Schritt 2 Lime-Survey (20. Juni)Tool: Lime-Survey =&rArr; Inhaltliche Gestaltung der Umfrage:https://ako.piratenpad.de/2Ziel: Antworten auf: Wie wollen wir in Bongs vorgehen? Welche Struktur? Welche Schwerpunkte? Wildcards? Erweitertes Losverfahrenhttps://lqfb.piratenpartei.de/pp/initiative/show/1864.html? ELWS-Verfahrenhttps://lqfb.piratenpartei.de/pp/initiative/show/2420.html? Regional- oder Themenkonferenzen? etc.Deadline: 4 Wochen Laufzeit, 3 ErinnerungsmailsBegründung: Die Umfrage soll sowohl organisatorische, wie auch inhaltliche Präferenzen der Mitglieder abfragen. Das ist zum einen Orientierung für die Mitglieder, als auch für den Bundesvorstand einen Parteitag zu gestalten, der maximal im Sinne der Partei ist.Schritt 3 KonferenzenTool: RealLife-Treffen, Stream, DokumentationZiel: Im Vorfeld debattieren, Argumente austauschen und festhalten, vernetzen, Texte und potentielle Anträge konsolidieren/verschmelzenDeadline: September sollen die Konferenzen stattfinden/August für die PlanungBegründung: Potentielle Anträge und Ideen sollten bei RealLife Treffen debattiert werden. Auch dienen die Konferenzen als Austausch für die Mitglieder, die gedenken nach Bochum zu fahren, um im Vorfeld bereits umfassend informiert zu sein und mit gängigen Argumente vertraut zu sein.Schritt 4 Antragsportal im Piratenwiki (offizielles Einreichen der Anträge)Tool: PiratenwikiZiel: Ein Schritt des öffentlichen Einreichens - Offizielle Plattform für Anträge (Öffnung Ende September)Begründung: Das Antragsportal wird erst nach der Debatten- und Konferenzphase freigeschalten. Die Gefahr, dass halbgare Anträge eingereicht werden, kann so etwas verringert werden. Die Antragseinreichung wird auf einen Montag reduziert. Ziel ist es, dass nur die Anträge, die wirklich gestellt werden sollen auch gestellt werden.Schritt 5 Priorisierung der eingereichten AnträgeTool: LimeSurveyZiel: Eine Priorisierung der eingereichten Anträge im Antragsportal über Approval Voting. (Eventuell Schulzemethode, die aber das letzte Mal leider nicht so funktionierte, wie gewünscht) Dafür gibt es einen Wiki-Bot.Begründung: Die Behandlungsreihenfolge zu bestimmen darf nicht alleinige Aufgabe des Buvos sein. Deswegen ist es zielführend die Priorisierung den Mitgliedern zu überlassen.Schritt 6 Tagesordnungs-Vorschläge des BuVosTool: Vorstandsportal/LimeSurvey/LQFBZiel: Debatte über Tagesordnungen/Vorschläge von anderen Tagesordnungen durch MitgliederDeadline: Veröffentlichung am 05.11.2012Begründung: Jedes Mitglied kann Tagesordnungen erstellen und zur Wahl am Tag des Bundesparteitages einreichen. Der Bundesvorstand wird ebenfalls Tagesordnungen vorschlagen, so dass frühzeitig eine Diskussion zu den Tagesordnungen beginnt.Schritt 7 Tagesordnungen abstimmenTool: Noch offenZiel: Die (hoffentlich zahlreich) eingereichten Tagesordnungsvorschläge zu priorisieren. Die erfolgreichsten 3 werden dem BPT dann zur Abstimmung vorgelegt.Deadline: 17.11.2012Begründung: Eine zentrale Idee dieses Konzeptes ist am Ende auf dem Bundesparteitag unterschiedliche Tagesordnungen zur Auswahl zu stellen, die unterschiedliche Schwerpunkt (Wirtschaft vs. Außenpolitik zum Beispiel), Formate (Tag 1 erst Satzung und Grundsätzliches Tag 2 konkrete Wahlprogrammanträge) oder Entstehungen (LQFB-Ergebnisse zB) haben.Bundesparteitag am 24./25. November in BochumBessere grafische Darstellung der Anträge auf der LeinwandKlarere Planung der Tagesordnungen (Block für Satzungsänderungsanträge z.B.)Antragsviewer mit Bewertungen der letzten MonateZeitplanEnde Mai Antragssammler geht ohnlineab 01.06.2012 LiquidFeedback-Start, um die Anträge bis zur Antragsfrist durchlaufen zu lassen06.5 LimeSurvey-Umfrage an TechnikSeptember KonferenzenEnde September 2012 Öffnung des Antragsportals24.10.2012 Antragsfrist (Einfrieren des Wiki)05.11.2012 TO-Vorschläge von BuVo/Antragskommission und Aufruf an Mitglieder selbst Tagesordnungen einzureichen17.11.2012 Abstimmung der Tagesordnungen24./25.11 Bundesparteitag in BochumBegründungDer kommende Parteitag in Bochum (24./25.11) stellt uns vor eine große Aufgabe: Wir wollen uns ein Wahlprogramm zur Bundestagswahl 2013 geben. Nur wie? Welche Schwerpunkte? Welche Inhalte? Welche Tools? Welche Prozesse? Das sollt natürlich ihr entscheiden. Der Bundesvorstand ist schließlich nur dafür gewählt worden, eine grobe Infrastruktur zur Verfügung zu stellen, in der ihr euch das Wahlprogramm gebt, was ihr euch geben wollt. Ich möchte euch hier eine Beta-Version einer Prozessidee vorstellen, welche ich die letzte Woche zusammen mit vielen klugen Menschen durchdacht habe, die sich mit der Thematik bereits befasst haben. Jetzt soll es in die nächste Runde gehen und mit der ganzen Partei diskutiert werden. Also kommentiert im Blog, im Pad oder schreibt Anregungen im LQFB. Wir haben schließlich keine Zeit!http://vorstand.piratenpartei.de/2012/05/10/wir-entwickeln-ein-wahlprogramm-beta/Die Grundidee des Konzeptes ist die Strukturierung der bisherigen Inhalte und die Debatte so früh als möglich zu eröffnen, eine Debatte über Struktur, Inhalt und auch Form. Also beteiligt euch rege.</field>
+    <field name="bb">[div class="draft_content wiki"][h4]Konzept[/h4]
+[p]Idee: Prozess für eine sinnvolle Antragsbehandlung in Bochum[/p]
+[p]Vorraussetzung: [a href="https://wiki.piratenpartei.de/Bundesparteitag_2011.2/Antragsportal/PA013"]https://wiki.piratenpartei.de/Bundesparteitag_2011.2/Antragsportal/PA013[/a][br /]
+Was wir bereits beschlossen haben: [a href="http://wiki.piratenpartei.de/Bundestagswahl_2013/Wahlprogramm"]http://wiki.piratenpartei.de/Bundestagswahl_2013/Wahlprogramm[/a][/p]
+[h3]Prozess[/h3]
+[h2]Step 1: Konsolidierung[/h2]
+[p]Was haben wir? Welche Positionen? Welche Grundsätze?[br /]
+Tool: Wiki[/p]
+[p]Es wird im Wiki eine Unterseite geben, wo wir das, was wir haben und wollen und planen einfach mal sammeln. Dafür werden wir einen namespace beantragen, ähnlich wie ein Landesverband. Das ist quasi eine neue Antragsfabrik, diese jedoch ist unrettbar, unübersichtlich und wenig hilfreich für eine breite Debatte. Natürlich könnt ihr diese auch wieder nutzen, es erscheint jedoch sinnvoll eine bessere Strukturierung vorzunehmen.[/p]
+[p]Begründung: In den letzten Jahren haben wir als Partei bereits viel erarbeitet. Es gibt Landeswahlprogramme, bereits eingereichte Anträge für andere Bundesparteitage, Anträge im LQFB und so weiter. Deswegen ist es wichtig erstmal einen Überblick zu bekommen, wo wir welche Arbeit bereits geleistet haben. [/p]
+[h2]Schritt 2 Lime-Survey (20. Juni)[/h2]
+[p]Tool: Lime-Survey =&amp;rArr; Inhaltliche Gestaltung der Umfrage: [a href="https://ako.piratenpad.de/2"]https://ako.piratenpad.de/2[/a][/p]
+[p]Ziel: Antworten auf: Wie wollen wir in Bongs vorgehen? Welche Struktur? Welche Schwerpunkte? Wildcards? Erweitertes Losverfahren [a href="https://lqfb.piratenpartei.de/pp/initiative/show/1864.html"]https://lqfb.piratenpartei.de/pp/initiative/show/1864.html[/a]? ELWS-Verfahren [a href="https://lqfb.piratenpartei.de/pp/initiative/show/2420.html"]https://lqfb.piratenpartei.de/pp/initiative/show/2420.html[/a]? Regional- oder Themenkonferenzen? etc.[/p]
+[p]Deadline: 4 Wochen Laufzeit, 3 Erinnerungsmails[/p]
+[p]Begründung: Die Umfrage soll sowohl organisatorische, wie auch inhaltliche Präferenzen der Mitglieder abfragen. Das ist zum einen Orientierung für die Mitglieder, als auch für den Bundesvorstand einen Parteitag zu gestalten, der maximal im Sinne der Partei ist.[/p]
+[h2]Schritt 3 Konferenzen[/h2]
+[p]Tool: RealLife-Treffen, Stream, Dokumentation[/p]
+[p]Ziel: Im Vorfeld debattieren, Argumente austauschen und festhalten, vernetzen, Texte und potentielle Anträge konsolidieren/verschmelzen [/p]
+[p]Deadline: September sollen die Konferenzen stattfinden/August für die Planung[/p]
+[p]Begründung: Potentielle Anträge und Ideen sollten bei RealLife Treffen debattiert werden. Auch dienen die Konferenzen als Austausch für die Mitglieder, die gedenken nach Bochum zu fahren, um im Vorfeld bereits umfassend informiert zu sein und mit gängigen Argumente vertraut zu sein. [/p]
+[h2]Schritt 4 Antragsportal im Piratenwiki (offizielles Einreichen der Anträge)[/h2]
+[p]Tool: Piratenwiki[/p]
+[p]Ziel: Ein Schritt des öffentlichen Einreichens - Offizielle Plattform für Anträge (Öffnung Ende September)[/p]
+[p]Begründung: Das Antragsportal wird erst nach der Debatten- und Konferenzphase freigeschalten. Die Gefahr, dass halbgare Anträge eingereicht werden, kann so etwas verringert werden. Die Antragseinreichung wird auf einen Montag reduziert. Ziel ist es, dass nur die Anträge, die wirklich gestellt werden sollen auch gestellt werden. [/p]
+[h2]Schritt 5 Priorisierung der eingereichten Anträge[/h2]
+[p]Tool: LimeSurvey[/p]
+[p]Ziel: Eine Priorisierung der eingereichten Anträge im Antragsportal über Approval Voting. (Eventuell Schulzemethode, die aber das letzte Mal leider nicht so funktionierte, wie gewünscht) Dafür gibt es einen Wiki-Bot.[/p]
+[p]Begründung: Die Behandlungsreihenfolge zu bestimmen darf nicht alleinige Aufgabe des Buvos sein. Deswegen ist es zielführend die Priorisierung den Mitgliedern zu überlassen. [/p]
+[h2]Schritt 6 Tagesordnungs-Vorschläge des BuVos[/h2]
+[p]Tool: Vorstandsportal/LimeSurvey/LQFB[/p]
+[p]Ziel: Debatte über Tagesordnungen/Vorschläge von anderen Tagesordnungen durch Mitglieder[/p]
+[p]Deadline: Veröffentlichung am 05.11.2012[/p]
+[p]Begründung: Jedes Mitglied kann Tagesordnungen erstellen und zur Wahl am Tag des Bundesparteitages einreichen. Der Bundesvorstand wird ebenfalls Tagesordnungen vorschlagen, so dass frühzeitig eine Diskussion zu den Tagesordnungen beginnt. [/p]
+[h2]Schritt 7 Tagesordnungen abstimmen[/h2]
+[p]Tool: Noch offen[/p]
+[p]Ziel: Die (hoffentlich zahlreich) eingereichten Tagesordnungsvorschläge zu priorisieren. Die erfolgreichsten 3 werden dem BPT dann zur Abstimmung vorgelegt.[/p]
+[p]Deadline: 17.11.2012[/p]
+[p]Begründung: Eine zentrale Idee dieses Konzeptes ist am Ende auf dem Bundesparteitag unterschiedliche Tagesordnungen zur Auswahl zu stellen, die unterschiedliche Schwerpunkt (Wirtschaft vs. Außenpolitik zum Beispiel), Formate (Tag 1 erst Satzung und Grundsätzliches Tag 2 konkrete Wahlprogrammanträge) oder Entstehungen (LQFB-Ergebnisse zB) haben. [/p]
+[h2]Bundesparteitag am 24./25. November in Bochum[/h2]
+[p]Bessere grafische Darstellung der Anträge auf der Leinwand[br /]
+Klarere Planung der Tagesordnungen (Block für Satzungsänderungsanträge z.B.)[br /]
+Antragsviewer mit Bewertungen der letzten Monate[/p]
+[h2]Zeitplan[/h2]
+[p]Ende Mai Antragssammler geht ohnline[br /]
+ab 01.06.2012 LiquidFeedback-Start, um die Anträge bis zur Antragsfrist durchlaufen zu lassen[br /]
+06.5 LimeSurvey-Umfrage an Technik[br /]
+September Konferenzen[br /]
+Ende September 2012 Öffnung des Antragsportals[br /]
+24.10.2012 Antragsfrist (Einfrieren des Wiki)[br /]
+05.11.2012 TO-Vorschläge von BuVo/Antragskommission und Aufruf an Mitglieder selbst Tagesordnungen einzureichen[br /]
+17.11.2012 Abstimmung der Tagesordnungen[br /]
+24./25.11 Bundesparteitag in Bochum[/p]
+[h2]Begründung[/h2]
+[p]Der kommende Parteitag in Bochum (24./25.11) stellt uns vor eine große Aufgabe: Wir wollen uns ein Wahlprogramm zur Bundestagswahl 2013 geben. Nur wie? Welche Schwerpunkte? Welche Inhalte? Welche Tools? Welche Prozesse? Das sollt natürlich ihr entscheiden. Der Bundesvorstand ist schließlich nur dafür gewählt worden, eine grobe Infrastruktur zur Verfügung zu stellen, in der ihr euch das Wahlprogramm gebt, was ihr euch geben wollt. Ich möchte euch hier eine Beta-Version einer Prozessidee vorstellen, welche ich die letzte Woche zusammen mit vielen klugen Menschen durchdacht habe, die sich mit der Thematik bereits befasst haben. Jetzt soll es in die nächste Runde gehen und mit der ganzen Partei diskutiert werden. Also kommentiert im Blog, im Pad oder schreibt Anregungen im LQFB. Wir haben schließlich keine Zeit![/p]
+[p][a href="http://vorstand.piratenpartei.de/2012/05/10/wir-entwickeln-ein-wahlprogramm-beta/"]http://vorstand.piratenpartei.de/2012/05/10/wir-entwickeln-ein-wahlprogramm-beta/[/a][/p]
+[p]Die Grundidee des Konzeptes ist die Strukturierung der bisherigen Inhalte und die Debatte so früh als möglich zu eröffnen, eine Debatte über Struktur, Inhalt und auch Form. Also beteiligt euch rege.[/p]
+[/div]</field>
+    </add></doc>

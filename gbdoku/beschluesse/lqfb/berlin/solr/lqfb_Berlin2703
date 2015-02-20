@@ -1,0 +1,37 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin2703</field>
+    <field name="title">OpenAntrag betreiben und ggf. um Kontaktmöglichkeit im Fließtext bitten</field>
+    <field name="date">1 Jahr 3 Monaten 23 Tagen 09:24:13</field>
+    <field name="area">Transparenz und Bürgerbeteiligung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">67</field>
+    <field name="no">7</field>
+    <field name="abstention">14</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">2695 2696 2702</field>
+    <field name="text">Antrag1) Den Fraktionen im AGH und den BVVen wird empfohlen, OpenAntrag einzusetzen.2) Den Fraktionen wird freigestellt, ob die Angabe des Namens und einer Kontaktmöglichkeit der antragstellenden Person erwünscht oder unerwünscht bzw. optional oder verpflichtend ist. Ihnen wird empfohlen, auf der Seite des Antragsformulars gut sichtbar darauf hinzuweisen und ggf. darüber zu informieren, wie mit Anträgen umgegangen wird, die die Bedingungen nicht erfüllen.Es kann dem Nutzer freigestellt werden, welche Art von Kontaktmöglichkeit er/sie vorzieht. Man kann zB auf eine parallel versandte Mail an die Fraktion verweisen, einen Twitternick o.ä. Emailadresse geht natürlich auch.3) Den Fraktionen wird empfohlen, Anträge, die den in 2) spezifizierten Präferenzen der Fraktion genügen, auf jeden Fall zu behandeln4) Den Fraktionen wird freigestellt, wie sie mit Anträgen, die den in 2) spezifizierten Präferenzen der Fraktion nicht genügen, umgehen5) Ein klar als Option gekennzeichnetes Feld zur Übermittlung der Mailadresse des Antragstellers an die jeweilige Fraktion soll unter dem Gesichtspunkt der Niedrigschwelligkeit vom Entwickler erbeten werden. NB:dies ist wohl schon in Arbeit. Sobald dieses Feature implementiert ist, kann auf die Bitte zur Kontaktmöglichkeit im Fließtext verzichtet werden.BegründungDer Haupteinwand gegen OpenAntrag scheint die sogenannte &quot;Zwangsanonymisierung&quot; zu sein. Dies scheint auf einem Missverständnis zu beruhen Auf http://scriptogr.am/openantrag/post/da-war-doch-noch-was-...-die-berliner-landtagsfraktion lese ich vom Betreiber:&ldquo;&quot;Das Tolle ist doch, dass es auch ohne das Feld geht. Die Leute schreiben einfach ihren Namen und Mail-Adresse mit in den Text oder reagieren auf Kommentare. Man könnte einen Hinweis anbringen á la &quot;Wenn Du magst kannst Du Deinen Namen und Mail-Adresse für Rückfragen in den Text schreiben&quot; ... aber sie tun es ja bereits!&quot;&ldquo;Der Betreiber scheint also keine Probleme damit zu haben, dass Leute in das Textfeld Kontaktdaten schreiben. Kontaktdaten werden nicht entfernt, und niemand wird gezwungen, seine Kontakdaten zu verschweigen.Wenn man nun an geeigneter Stelle kommuniziert, dass man auf einen Rückkanal wertlegt, werden die Antragssteller das wahrscheinlich berücksichtigen. Ein Rückkanal ist sinnvoll, um eventuelle Unklarheiten im Antragstext abzustimmen und ggf. weitergehende Informationen vom Antragsteller einzuholen.Eine technische Lösung, wie dies auch unter Aspekten des Datenschutzes zufriedenstellend gelöste werden kann, ist bereit in Arbeithttp://openantrag.de/feedback#836Mit Fließtext ist nicht der Antragstext, sondern das &quot;Anschreiben&quot; der Fraktion gemeint, es soll keine Aufforderung zum öffentlichen Übermitteln von Kontaktdaten geben.Die weiteren Probleme (Open Source etc) scheinen ausgeräumt, so dass eigentlich nichts mehr dem Betrieb entgegensteht&nbsp;AnregungenPunkt 2 umformulierenumgesetztSinn von Kontaktaufnahme darlegenumgesetztWiderspruch auflösenumgesetzt</field>
+    <field name="bb">[div class="draft_content wiki"][h3]Antrag[/h3]
+[p]1) Den Fraktionen im AGH und den BVVen wird empfohlen, OpenAntrag einzusetzen. [/p]
+[p]2) Den Fraktionen wird freigestellt, ob die Angabe des Namens und einer Kontaktmöglichkeit der antragstellenden Person erwünscht oder unerwünscht bzw. optional oder verpflichtend ist. Ihnen wird empfohlen, auf der Seite des Antragsformulars gut sichtbar darauf hinzuweisen und ggf. darüber zu informieren, wie mit Anträgen umgegangen wird, die die Bedingungen nicht erfüllen. [br /]
+Es kann dem Nutzer freigestellt werden, welche Art von Kontaktmöglichkeit er/sie vorzieht. Man kann zB auf eine parallel versandte Mail an die Fraktion verweisen, einen Twitternick o.ä. Emailadresse geht natürlich auch.[/p]
+[p]3) Den Fraktionen wird empfohlen, Anträge, die den in 2) spezifizierten Präferenzen der Fraktion genügen, auf jeden Fall zu behandeln[/p]
+[p]4) Den Fraktionen wird freigestellt, wie sie mit Anträgen, die den in 2) spezifizierten Präferenzen der Fraktion nicht genügen, umgehen[/p]
+[p]5) Ein klar als Option gekennzeichnetes Feld zur Übermittlung der Mailadresse des Antragstellers an die jeweilige Fraktion soll unter dem Gesichtspunkt der Niedrigschwelligkeit vom Entwickler erbeten werden. NB: [a href="http://openantrag.de/feedback#836"]dies ist wohl schon in Arbeit[/a]. Sobald dieses Feature implementiert ist, kann auf die Bitte zur Kontaktmöglichkeit im Fließtext verzichtet werden.[/p]
+[h3]Begründung [/h3]
+[p]Der Haupteinwand gegen OpenAntrag scheint die sogenannte &amp;quot;Zwangsanonymisierung&amp;quot; zu sein. Dies scheint auf einem Missverständnis zu beruhen Auf http://scriptogr.am/openantrag/post/da-war-doch-noch-was-...-die-berliner-landtagsfraktion lese ich vom Betreiber:[br /]
+&amp;ldquo;&amp;quot;Das Tolle ist doch, dass es auch ohne das Feld geht. Die Leute schreiben einfach ihren Namen und Mail-Adresse mit in den Text oder reagieren auf Kommentare. Man könnte einen Hinweis anbringen á la &amp;quot;Wenn Du magst kannst Du Deinen Namen und Mail-Adresse für Rückfragen in den Text schreiben&amp;quot; ... aber sie tun es ja bereits!&amp;quot;&amp;ldquo;[/p]
+[p]Der Betreiber scheint also keine Probleme damit zu haben, dass Leute in das Textfeld Kontaktdaten schreiben. Kontaktdaten werden nicht entfernt, und niemand wird gezwungen, seine Kontakdaten zu verschweigen.[/p]
+[p]Wenn man nun an geeigneter Stelle kommuniziert, dass man auf einen Rückkanal wertlegt, werden die Antragssteller das wahrscheinlich berücksichtigen. Ein Rückkanal ist sinnvoll, um eventuelle Unklarheiten im Antragstext abzustimmen und ggf. weitergehende Informationen vom Antragsteller einzuholen.[/p]
+[p]Eine technische Lösung, wie dies auch unter Aspekten des Datenschutzes zufriedenstellend gelöste werden kann, ist bereit in Arbeit [a href="http://openantrag.de/feedback#836"]http://openantrag.de/feedback#836[/a][/p]
+[p]Mit Fließtext ist nicht der Antragstext, sondern das &amp;quot;Anschreiben&amp;quot; der Fraktion gemeint, es soll keine Aufforderung zum öffentlichen Übermitteln von Kontaktdaten geben.[/p]
+[p]Die weiteren Probleme (Open Source etc) scheinen ausgeräumt, so dass eigentlich nichts mehr dem Betrieb entgegensteht[br /] [/p]
+[h3]Anregungen [/h3]
+[h2]Punkt 2 umformulieren[/h2]
+[p]umgesetzt[/p]
+[h2]Sinn von Kontaktaufnahme darlegen [/h2]
+[p]umgesetzt[/p]
+[h2]Widerspruch auflösen[/h2]
+[p]umgesetzt[/p]
+[/div]</field>
+    </add></doc>

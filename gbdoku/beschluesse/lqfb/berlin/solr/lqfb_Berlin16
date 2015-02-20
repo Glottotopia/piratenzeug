@@ -1,0 +1,16 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin16</field>
+    <field name="title">Alle Initiativen auf einen Blick</field>
+    <field name="date">5 Jahrs 1 Monat 11 Tagen 19:29:48</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_silver_2.png</field>
+    <field name="yes">32</field>
+    <field name="no">31</field>
+    <field name="abstention">6</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">21</field>
+    <field name="text">Es sollte eine Möglichkeit geben alle Initiativen unabhängig vom Themenbereich in einer großen Liste zu sehen.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Es sollte eine Möglichkeit geben alle Initiativen unabhängig vom Themenbereich in einer großen Liste zu sehen.[/p]
+[/div]</field>
+    </add></doc>

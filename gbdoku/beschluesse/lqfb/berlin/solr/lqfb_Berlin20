@@ -1,0 +1,16 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin20</field>
+    <field name="title">Ein weiterer Antrag</field>
+    <field name="date">5 Jahrs 2 Monaten 8 Tagen 00:31:17</field>
+    <field name="area">Sandkasten / Spielwiese</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">10</field>
+    <field name="no">10</field>
+    <field name="abstention">10</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">2 32 19 3</field>
+    <field name="text">Noch ein weiterer Antrag. Bitte alle Anträge dieses Themas unterstützen, damit man sehen kann, wie die Abstimmung funktioniert.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Noch ein weiterer Antrag. Bitte alle Anträge dieses Themas unterstützen, damit man sehen kann, wie die Abstimmung funktioniert.[/p]
+[/div]</field>
+    </add></doc>

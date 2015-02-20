@@ -1,0 +1,37 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin1007</field>
+    <field name="title">Remake und Bereinigung des Design berlin.piratenpartei.de</field>
+    <field name="date">4 Jahrs 1 Monat 2 Tagen 08:19:04</field>
+    <field name="area">Veröffentlichungen</field>
+    <field name="regelwerk">Veröffentlichung </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">64</field>
+    <field name="no">9</field>
+    <field name="abstention">2</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">AntragDas bereinigte und der aktuellen CI (corporate identity) angepasste Design unterblogtest.landesgeschaeftsstelle.desoll für den Berliner Blog unter http://berlin.piratenpartei.de verwendet werden.BegründungDas aktuelle Design des Berliner Blogs der Piraten hat einige konzeptionelle Schwächen, die an verschiedenen Stellen bemängelt wurden. Dazu passt das aktuelle Design, welches aus einem Template der Obama-Kampagne stammt und für den Europawahlkampf entwickelt wurde, immer weniger zu aktuellen Anforderungen an Lesbarkeit, Übersicht und Inhaltedarstellung passt.Für das geänderte Design war auch das aktuelle Blog-Template Grundlage. Die folgenden Punkte wurden unter Anderen bearbeitet und/oder hinzugefügt.einheitliche Fonts, Dekoration und Markup-Styleneues Farbschema in Richtung PiratenorangeÜberarbeitung des Headers (Mitmach-Link funktioniert nur auf der Testinstallation nicht)Überarbeitung des HauptmenusEinheitliches Design von FlächenelementenEinheitliches PagelayoutEntfernen von Metaelementen auf der Startseite (Übersicht)Überarbeiten von Metaelementen auf Einzelseiten (Postfooter, Signatur)Einfügen des Footer-MenusCustom 404-ErrorpageÜberarbeitung der Styles von Elementen in der SeitenleisteUmsetzungSollte die Initiative positiv beschieden werden, können dieBauftragten des LaVo für den Blogdie Änderungen umsetzen.ErläuterungenDas geänderte Design ermöglicht vor allem eine sinnvolle Neustrukturierung im Rahmen der Ideen von #konzeptkonzept (Beteiligt Katja, rka, Björn, Martin) für den Blog. Das Hauptmenu der Testinstallation ist schon dieser Struktur angepasst.Es ist darüber hinaus angedacht einen professionellen Relaunch des Designs zu machen, dass sich in die Entwicklung einer Berliner Design-Guideline einordnen soll. An dieser Stelle soll es nur um die aktuellen Änderungen und nicht um ein Meinungsbild zu Richtung der zukünftigen Online-Designvorgaben gehen.</field>
+    <field name="bb">[div class="draft_content wiki"][h3]Antrag[/h3]
+[p]Das bereinigte und der aktuellen CI (corporate identity) angepasste Design unter [a href="http://blogtest.landesgeschaeftsstelle.de"]blogtest.landesgeschaeftsstelle.de[/a] soll für den Berliner Blog unter http://berlin.piratenpartei.de verwendet werden. [/p]
+[h3]Begründung[/h3]
+[p]Das aktuelle Design des Berliner Blogs der Piraten hat einige konzeptionelle Schwächen, die an verschiedenen Stellen bemängelt wurden. Dazu passt das aktuelle Design, welches aus einem Template der Obama-Kampagne stammt und für den Europawahlkampf entwickelt wurde, immer weniger zu aktuellen Anforderungen an Lesbarkeit, Übersicht und Inhaltedarstellung passt. [/p]
+[p]Für das geänderte Design war auch das aktuelle Blog-Template Grundlage. Die folgenden Punkte wurden unter Anderen bearbeitet und/oder hinzugefügt.[/p]
+[ol][li]einheitliche Fonts, Dekoration und Markup-Style[/li]
+[li]neues Farbschema in Richtung Piratenorange[/li]
+[li]Überarbeitung des Headers (Mitmach-Link funktioniert nur auf der Testinstallation nicht)[/li]
+[li]Überarbeitung des Hauptmenus[/li]
+[li]Einheitliches Design von Flächenelementen[/li]
+[li]Einheitliches Pagelayout[/li]
+[li]Entfernen von Metaelementen auf der Startseite (Übersicht)[/li]
+[li]Überarbeiten von Metaelementen auf Einzelseiten (Postfooter, Signatur)[/li]
+[li]Einfügen des Footer-Menus [/li]
+[li]Custom 404-Errorpage[/li]
+[li]Überarbeitung der Styles von Elementen in der Seitenleiste[/li]
+[/ol]
+[h3]Umsetzung[/h3]
+[p]Sollte die Initiative positiv beschieden werden, können die [a href="http://wiki.piratenpartei.de/BE:Beauftragungen#Administration_Blog_berlin.piratenpartei.de"]Bauftragten des LaVo für den Blog[/a] die Änderungen umsetzen. [/p]
+[h3]Erläuterungen[/h3]
+[p]Das geänderte Design ermöglicht vor allem eine sinnvolle Neustrukturierung im Rahmen der Ideen von #konzeptkonzept (Beteiligt Katja, rka, Björn, Martin) für den Blog. Das Hauptmenu der Testinstallation ist schon dieser Struktur angepasst. [/p]
+[p]Es ist darüber hinaus angedacht einen professionellen Relaunch des Designs zu machen, dass sich in die Entwicklung einer Berliner Design-Guideline einordnen soll. An dieser Stelle soll es nur um die aktuellen Änderungen und nicht um ein Meinungsbild zu Richtung der zukünftigen Online-Designvorgaben gehen.[/p]
+[/div]</field>
+    </add></doc>

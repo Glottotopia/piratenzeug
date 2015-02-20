@@ -1,0 +1,21 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene440</field>
+    <field name="title">Vergleichbarste Nutzer des Themengebiets Anzeigen</field>
+    <field name="date">4 Jahrs 5 Monaten 17 Tagen 01:54:48</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">cross.png</field>
+    <field name="yes">127</field>
+    <field name="no">66</field>
+    <field name="abstention">249</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">785 387 385</field>
+    <field name="text">IdeeWenn man ein Themengebiet angeklickt hat, soll dort ein weiterer Reiter erscheinen. In diesem Reiter kann man Nutzer sehen, welche die ähnlichste Beteiligung in diesem Themenbereich aufweisen. Die Statistik soll auf Aktivitäten der letzten 14 Tage beruhen. Die Nutzer mit dem zum eigenen Verhalten ähnlichsten Verhalten sollen ganz oben stehen.BegründungDelegationen haben nur Sinn, wenn der Delegierte wirklich aktiv abstimmt. Richtig! Aber ein Mensch möchte in aller Regel in dem Stil vertreten werden, der dem Seinigen entspricht. Es ist aber nur in mühsamer Kleinarbeit möglich, so einen Delegierten zu finden - wenn man nicht das Glück hat, einen solchen persönlich zu kennen.OptimierungDie Aktivisten und Ähnlichsten werden in einem 2 - dreidimensionalen Map verlinkt. _Je weiter Oben der Avartar ist, desto aktiver ist der potentielle Delegierte. Je weiter links, desto ähnlicher ist das Verhalten dem eigenem.</field>
+    <field name="bb">[div class="draft_content wiki"][h1]Idee[/h1]
+[p]Wenn man ein Themengebiet angeklickt hat, soll dort ein weiterer Reiter erscheinen. In diesem Reiter kann man Nutzer sehen, welche die ähnlichste Beteiligung in diesem Themenbereich aufweisen. Die Statistik soll auf Aktivitäten der letzten 14 Tage beruhen. Die Nutzer mit dem zum eigenen Verhalten ähnlichsten Verhalten sollen ganz oben stehen.[/p]
+[h1]Begründung[/h1]
+[p]Delegationen haben nur Sinn, wenn der Delegierte wirklich aktiv abstimmt. Richtig! Aber ein Mensch möchte in aller Regel in dem Stil vertreten werden, der dem Seinigen entspricht. Es ist aber nur in mühsamer Kleinarbeit möglich, so einen Delegierten zu finden - wenn man nicht das Glück hat, einen solchen persönlich zu kennen. [/p]
+[h1]Optimierung[/h1]
+[p]Die Aktivisten und Ähnlichsten werden in einem 2 - dreidimensionalen Map verlinkt. _Je weiter Oben der Avartar ist, desto aktiver ist der potentielle Delegierte. Je weiter links, desto ähnlicher ist das Verhalten dem eigenem. [/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,37 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene5575</field>
+    <field name="title">Benachrichtigung über das Abstimm-Verhalten meines Delegierten</field>
+    <field name="date">2 Jahrs 14 Tagen 23:33:33</field>
+    <field name="area">LiquidFeedback Weiterentwicklung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">207</field>
+    <field name="no">3</field>
+    <field name="abstention">21</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Ein großes Problem bei der Benutzung von LQFB ist es, dass viele Nutzer ihre Delegation als Fire-and-Forget betreiben.Man merkt nicht, wenn der eigene Delegierte &quot;schlechte&quot; Abstimmungen tätigt.Viele Leute, die Delegationen erhalten, sind sogar selbst inaktiv und lassen Abstimmungen (und die delegierten Stimmen) einfach verfallen.Es soll daher eine Benachrichtung am Ende der Abstimm-Phase geben.&quot;Dein Delegierter hat in Deinem Namen für/gegenInitiativegestimmt.&quot;oder&quot;Dein Delegierter hat beim Thema...Deine Stimme verfallen lassen.&quot;Dies würde mehr Nutzer motivieren, ihre Delegationen zu überdenken und/oder mehr selbst abzustimmen.Zu den Anregungen:Weiterdelegation Diese Anregung erscheint mir unsinnig.Eine &quot;Weiterdelegation&quot; bestehtvöllig unabhängig von meiner Delegationmöglicherweise schon vor meiner Delegationhat mit der tatsächlichen Abstimmung nichts zu tunDurch &quot;Weiterdelegation&quot; wird einfach ein anderer zum Delegierten. In diesem Fall muss ich eben ggf. über das Abstimmverhalten dieses Mitglieds informiert werden.Opt-In oder Opt-Out Ja, in der Tat sind die E-Mail-Einstellungen jetzt schon einstellbar im Profil unter Einstellungen &rarr; Benachrichtigungseinstellungen. Ich persönlich fände es super, wenn das standardmäßig eingeschaltet wäre. (&quot;Opt-Out&quot;). Für die Nutzer am sinnvollsten ist es wohl, wenn alle Benachrichtigungen technisch gleich umgesetzt sind. Somit ist *Benachrichtungen Opt-In oder Opt-Out* eigentlich ein anderes Thema. Schön wäre es, wenn es das Feature erst einmal gäbe.Informationen sind irgendwie/irgendwo verfügbar Ja, super. Löst aber das Problem nicht, dass *inaktive* Mitglieder nicht informiert werden.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Ein großes Problem bei der Benutzung von LQFB ist es, dass viele Nutzer ihre Delegation als Fire-and-Forget betreiben.[/p]
+[p]Man merkt nicht, wenn der eigene Delegierte &amp;quot;schlechte&amp;quot; Abstimmungen tätigt.[/p]
+[p]Viele Leute, die Delegationen erhalten, sind sogar selbst inaktiv und lassen Abstimmungen (und die delegierten Stimmen) einfach verfallen.[/p]
+[p]Es soll daher eine Benachrichtung am Ende der Abstimm-Phase geben.[/p]
+[p]&amp;quot;Dein Delegierter hat in Deinem Namen für/gegen [a href="Initiative"]Initiative[/a] gestimmt.&amp;quot;[/p]
+[p] oder[/p]
+[p]&amp;quot;Dein Delegierter hat beim Thema [a href="..."]...[/a] Deine Stimme verfallen lassen.&amp;quot;[/p]
+[p]Dies würde mehr Nutzer motivieren, ihre Delegationen zu überdenken und/oder mehr selbst abzustimmen.[/p]
+[h2]Zu den Anregungen:[/h2]
+[ul][li]Weiterdelegation Diese Anregung erscheint mir unsinnig.[ul][li]Eine &amp;quot;Weiterdelegation&amp;quot; besteht[ul][li]völlig unabhängig von meiner Delegation[/li]
+[li]möglicherweise schon vor meiner Delegation[/li]
+[li]hat mit der tatsächlichen Abstimmung nichts zu tun[/li]
+[/ul]
+[/li]
+[li]Durch &amp;quot;Weiterdelegation&amp;quot; wird einfach ein anderer zum Delegierten. In diesem Fall muss ich eben ggf. über das Abstimmverhalten dieses Mitglieds informiert werden.[/li]
+[/ul]
+[/li]
+[/ul]
+[ul][li]Opt-In oder Opt-Out Ja, in der Tat sind die E-Mail-Einstellungen jetzt schon einstellbar im Profil unter Einstellungen &amp;rarr; Benachrichtigungseinstellungen. Ich persönlich fände es super, wenn das standardmäßig eingeschaltet wäre. (&amp;quot;Opt-Out&amp;quot;). Für die Nutzer am sinnvollsten ist es wohl, wenn alle Benachrichtigungen technisch gleich umgesetzt sind. Somit ist *Benachrichtungen Opt-In oder Opt-Out* eigentlich ein anderes Thema. Schön wäre es, wenn es das Feature erst einmal gäbe.[/li]
+[/ul]
+[ul][li]Informationen sind irgendwie/irgendwo verfügbar Ja, super. Löst aber das Problem nicht, dass *inaktive* Mitglieder nicht informiert werden.[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

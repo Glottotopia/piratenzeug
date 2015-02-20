@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin74</field>
+    <field name="title">RSS/Atom Feed</field>
+    <field name="date">5 Jahrs 2 Monaten 4 Tagen 07:17:55</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">34</field>
+    <field name="no">7</field>
+    <field name="abstention">2</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">68</field>
+    <field name="text">Es soll für jede Seite einen RSS/Atom-Feed geben, beispielsweise auch für Suchergebnisseiten.RSS- oder Atom Feeds sind viel flexibler als ein Twitterbot. So können Themen auf einfache weise durch yahoo Pipes genudelt werden, aber auch Twitterbots lassen sich mit RSS/Atom Feeds leicht selbst erstellen. Da RSS/Atom Feeds universal eingesetzt werden können, sollte diesem Format der Vorzug gegeben werden. http://de.wikipedia.org/wiki/Atom_(Format) http://de.wikipedia.org/wiki/RSS</field>
+    <field name="bb">[div class="draft_content wiki"][p]Es soll für jede Seite einen RSS/Atom-Feed geben, beispielsweise auch für Suchergebnisseiten.[/p]
+[p]RSS- oder Atom Feeds sind viel flexibler als ein Twitterbot. So können Themen auf einfache weise durch yahoo Pipes genudelt werden, aber auch Twitterbots lassen sich mit RSS/Atom Feeds leicht selbst erstellen. Da RSS/Atom Feeds universal eingesetzt werden können, sollte diesem Format der Vorzug gegeben werden. http://de.wikipedia.org/wiki/Atom_(Format) http://de.wikipedia.org/wiki/RSS[/p]
+[/div]</field>
+    </add></doc>

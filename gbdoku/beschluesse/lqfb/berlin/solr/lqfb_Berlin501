@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin501</field>
+    <field name="title">Information über Delegation durch Ereignisse in der Zeitachse</field>
+    <field name="date">4 Jahrs 11 Monaten 10 Tagen 05:06:29</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">74</field>
+    <field name="no">28</field>
+    <field name="abstention">1</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">500 536</field>
+    <field name="text">Die Zeitachse soll durch zwei neue Ereignisse ergänzt werden, die jeden Benutzer über die Wertung seiner delegierten Stimme informieren: &quot;Unterstützung durch Delegation&quot; und &quot;Unterstützung durch Delegation zurückgezogen&quot;.So hat jeder die Möglichkeit, über das Verhalten derjenigen, auf die er delegiert, informiert zu werden. Gleichzeitig kann er durch die Benutzung von Filtern verhindern, mit zu viel Informationen überladen zu werden. Eine explizite Mitteilung wäre möglich, sobald ein allgemeines Benachrichtigungssystem implementiert ist.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Die Zeitachse soll durch zwei neue Ereignisse ergänzt werden, die jeden Benutzer über die Wertung seiner delegierten Stimme informieren: &amp;quot;Unterstützung durch Delegation&amp;quot; und &amp;quot;Unterstützung durch Delegation zurückgezogen&amp;quot;.[/p]
+[p]So hat jeder die Möglichkeit, über das Verhalten derjenigen, auf die er delegiert, informiert zu werden. Gleichzeitig kann er durch die Benutzung von Filtern verhindern, mit zu viel Informationen überladen zu werden. Eine explizite Mitteilung wäre möglich, sobald ein allgemeines Benachrichtigungssystem implementiert ist.[/p]
+[/div]</field>
+    </add></doc>

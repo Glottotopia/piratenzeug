@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin119</field>
+    <field name="title">Bessere Anzeige von Abstimmergebnissen</field>
+    <field name="date">5 Jahrs 1 Monat 28 Tagen 22:28:23</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">12</field>
+    <field name="no">20</field>
+    <field name="abstention">16</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">139</field>
+    <field name="text">Ich hab mir grad das Ergebnis vonder Abstimmung bezüglich der Anzeige von Kontaktenangeschaut und das Ergebnis sieht auf den ersten Blick paradox aus, da die Option gewonnen hat, die weniger Ja-Stimmen und zusätzlich mehr Nein-Stimmen hat, gewonnen hatte.Ich denke der Grund liegt darin, dass manche für beide Optionen gestimmt haben (z.B. dark) und dabei die nun gewonnene Option bevorzugt haben. Dies ist aber nicht klar ersichtlich. Deswegen finde ich sollte die Anzeige des Abstimmergebnisse verbessert werden.Eine Möglichkeit wäre es, wenn man eine Tabelle für das Thema an sich erstellt, wo zu jeder Person die Reihenfolge aufgelistet ist, wie er gestimmt hat.Die Tabelle sollte dann natürlich abhängig von der Initative sortierbar sein, also dass man sich die Piraten in der Reihenfolge anzeigt, wie stark sie für die Initative gestimmt haben. Also zuerst die Piraten, deren erste pro-Stimme an die Ini ging. dann die Piraten deren zweite pro-Stimme an die Ini ging usw. und zum Schluss die Piraten, die die Ini am stärksten ablehnen.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Ich hab mir grad das Ergebnis von [a href="https://lqpp.de/lf/issue/show/49.html"]der Abstimmung bezüglich der Anzeige von Kontakten[/a] angeschaut und das Ergebnis sieht auf den ersten Blick paradox aus, da die Option gewonnen hat, die weniger Ja-Stimmen und zusätzlich mehr Nein-Stimmen hat, gewonnen hatte.[/p]
+[p]Ich denke der Grund liegt darin, dass manche für beide Optionen gestimmt haben (z.B. dark) und dabei die nun gewonnene Option bevorzugt haben. Dies ist aber nicht klar ersichtlich. Deswegen finde ich sollte die Anzeige des Abstimmergebnisse verbessert werden.[/p]
+[p]Eine Möglichkeit wäre es, wenn man eine Tabelle für das Thema an sich erstellt, wo zu jeder Person die Reihenfolge aufgelistet ist, wie er gestimmt hat. [/p]
+[p]Die Tabelle sollte dann natürlich abhängig von der Initative sortierbar sein, also dass man sich die Piraten in der Reihenfolge anzeigt, wie stark sie für die Initative gestimmt haben. Also zuerst die Piraten, deren erste pro-Stimme an die Ini ging. dann die Piraten deren zweite pro-Stimme an die Ini ging usw. und zum Schluss die Piraten, die die Ini am stärksten ablehnen.[/p]
+[/div]</field>
+    </add></doc>

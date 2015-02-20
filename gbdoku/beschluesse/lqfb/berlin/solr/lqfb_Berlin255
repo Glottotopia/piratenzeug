@@ -1,0 +1,19 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin255</field>
+    <field name="title">Anzeige über eigenen Abstimmungsstatus</field>
+    <field name="date">5 Jahrs 1 Monat 11 Tagen 08:48:00</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">45</field>
+    <field name="no">0</field>
+    <field name="abstention">11</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">In den Übersichtlisten und auch in der Initiative selber soll gut erkennbar (farblich, evtl. Icons) der Abstimmungsstatus angezeigt werden.Der Status kann sein: noch nicht abgestimmt; eine Delegation hat bereits abgestimmt; du hast schon abgestimmt.Hintergrund: Ich kann meine Stimme delegieren damit meine Meinung vertreten wird ohne dass ich sie selber äussern muss. Dies bedeutet aber auch dass ich mir sicher sein muss ob sie geäussert wurde. Daher ist die Anzeige ob ich durch Delegation oder selber abgestimmt habe erfoderlich.Die Hervorhebung dass ich noch nicht abgestimmt habe erleichtert einfach die Übersicht in der Themenliste.</field>
+    <field name="bb">[div class="draft_content wiki"][p]In den Übersichtlisten und auch in der Initiative selber soll gut erkennbar (farblich, evtl. Icons) der Abstimmungsstatus angezeigt werden.[/p]
+[p]Der Status kann sein: noch nicht abgestimmt; eine Delegation hat bereits abgestimmt; du hast schon abgestimmt.[/p]
+[p]Hintergrund: Ich kann meine Stimme delegieren damit meine Meinung vertreten wird ohne dass ich sie selber äussern muss. Dies bedeutet aber auch dass ich mir sicher sein muss ob sie geäussert wurde. Daher ist die Anzeige ob ich durch Delegation oder selber abgestimmt habe erfoderlich.[/p]
+[p]Die Hervorhebung dass ich noch nicht abgestimmt habe erleichtert einfach die Übersicht in der Themenliste.[/p]
+[/div]</field>
+    </add></doc>

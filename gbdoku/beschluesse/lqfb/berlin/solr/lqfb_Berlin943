@@ -1,0 +1,36 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin943</field>
+    <field name="title">Betrieb einer Mitmach-Datenbank</field>
+    <field name="date">4 Jahrs 2 Monaten 4 Tagen 10:08:38</field>
+    <field name="area">sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">80</field>
+    <field name="no">8</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">AntragDie Piratenpartei Deutschland Berlin betreibt zukünftig eine datenbankgestützte Webanwendung zur zentralen, öffentlichen und strukturierten Präsentation aller Termine des Landesverband mit der direkten Möglichkeit einen Mitmach-Wunsch auszudrücken.&nbsp;BegründungZur Zeit befinden sich Informationen über Veranstaltungen und andere Termine verstreut über diverse Wiki-Seiten sowie Google-Kalender. Für Aussenstehende, aber auch für viele Piraten, ist es sehr schwierig, sich zu informieren.Um hier Abhilfe zu schaffen, entwickeln einige Piraten zur Zeit eine entspreche Lösung unter dem Namen MitmachDB alsOpen-Source-Software. Der aktuelle Fortschritt kann auf derEntwicklungsumgebungverfolgt werden; Anregungen und Fehlerberichte können in denBugtrackereingetragen werden.Die Software soll die folgenden Fähigkeiten haben:Verwaltung von Terminen mit Klassifikation nach Region, Location, Veranstalter und AktionsformKartendarstellung (mittels OpenStreetMap-Einbindung)Direkte Mitmach-Möglichkeit (Kontaktaufnahme bzw. Anmelden für Veranstaltung per Webformular)Möglichkeit weitere Informationen vom Veranstalter anzufordern (z.B. Presse)Abruf von iCalendar-Streams, auch begrenzt auf Organisationseinheiten, Regionen oder AktionsformenTerminerinnerungen (E-Mail/SMS)Automatisch entstehende, veranstaltungsbezogene MailinglistenAutomatische Twitter-Meldungen über bevorstehende TermineFeingranulierte, benutzerbezogene Steuerung der Zugriffsrechte zur Pflege der TermineUnterstützung mehrstufiger OrganisationshierarchienUnterstützung einer baumartigen Regionen-Struktur (z.B. Deutschland / Berlin / Mitte)und viele mehr...Die aktuelle Projektplanung sieht vor, dass Ende Dezember eine Version der Software zur Verfügung steht, die diese Fähigkeiten weitgehend unterstützt.Diese Initiative wurde gestartet, um festzustellen, ob die Berliner Piraten eine solche Datenbank verwenden wollen und soll dem Vorstand als Entscheidungsvorlage dienen.</field>
+    <field name="bb">[div class="draft_content wiki"][h3]Antrag[/h3]
+[p][i]Die Piratenpartei Deutschland Berlin betreibt zukünftig eine datenbankgestützte Webanwendung zur zentralen, öffentlichen und strukturierten Präsentation aller Termine des Landesverband mit der direkten Möglichkeit einen Mitmach-Wunsch auszudrücken.[/i][br /] [/p]
+[h3]Begründung[/h3]
+[p]Zur Zeit befinden sich Informationen über Veranstaltungen und andere Termine verstreut über diverse Wiki-Seiten sowie Google-Kalender. Für Aussenstehende, aber auch für viele Piraten, ist es sehr schwierig, sich zu informieren.[/p]
+[p]Um hier Abhilfe zu schaffen, entwickeln einige Piraten zur Zeit eine entspreche Lösung unter dem Namen MitmachDB als [a href="http://bitbucket.org/darkbln/mitmachdb/"]Open-Source-Software[/a]. Der aktuelle Fortschritt kann auf der [a href="http://178.63.235.145/mitmachdb/"]Entwicklungsumgebung[/a] verfolgt werden; Anregungen und Fehlerberichte können in den [a href="http://bitbucket.org/darkbln/mitmachdb/issues?status=new&amp;amp;status=open"]Bugtracker[/a] eingetragen werden.[/p]
+[p]Die Software soll die folgenden Fähigkeiten haben:[/p]
+[ul][li]Verwaltung von Terminen mit Klassifikation nach Region, Location, Veranstalter und Aktionsform[/li]
+[li]Kartendarstellung (mittels OpenStreetMap-Einbindung)[/li]
+[li]Direkte Mitmach-Möglichkeit (Kontaktaufnahme bzw. Anmelden für Veranstaltung per Webformular)[/li]
+[li]Möglichkeit weitere Informationen vom Veranstalter anzufordern (z.B. Presse)[/li]
+[li]Abruf von iCalendar-Streams, auch begrenzt auf Organisationseinheiten, Regionen oder Aktionsformen[/li]
+[li]Terminerinnerungen (E-Mail/SMS)[/li]
+[li]Automatisch entstehende, veranstaltungsbezogene Mailinglisten[/li]
+[li]Automatische Twitter-Meldungen über bevorstehende Termine[/li]
+[li]Feingranulierte, benutzerbezogene Steuerung der Zugriffsrechte zur Pflege der Termine[/li]
+[li]Unterstützung mehrstufiger Organisationshierarchien[/li]
+[li]Unterstützung einer baumartigen Regionen-Struktur (z.B. Deutschland / Berlin / Mitte)[/li]
+[li]und viele mehr...[/li]
+[/ul]
+[p]Die aktuelle Projektplanung sieht vor, dass Ende Dezember eine Version der Software zur Verfügung steht, die diese Fähigkeiten weitgehend unterstützt.[/p]
+[p]Diese Initiative wurde gestartet, um festzustellen, ob die Berliner Piraten eine solche Datenbank verwenden wollen und soll dem Vorstand als Entscheidungsvorlage dienen.[/p]
+[/div]</field>
+    </add></doc>

@@ -1,0 +1,25 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1479</field>
+    <field name="title">ID-Dienst der Piraten-IT - Pseudonyme und Klarnamen</field>
+    <field name="date">4 Jahrs 24 Tagen 21:30:32</field>
+    <field name="area">Sonstige innerparteiliche Angelegenheiten</field>
+    <field name="regelwerk">Schnellverfahren </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">206</field>
+    <field name="no">7</field>
+    <field name="abstention">45</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">1478</field>
+    <field name="text">Zweck der InitiativeDie Bundes-IT plant einen ID-Dienst für Piraten, mit dem Piraten sich gegenüber anderen Diensten/Internet-Anwendungen als &quot;Pirat&quot; und optional als &quot;Pirat mit Klarnamen&quot; authentifizieren können.Verwendung von LF an dieser StelleDa die Bundes-IT auf der Aktiven &quot;Ende der Woche&quot; als Frist für Rückmeldungen genannt wurde hier ausnahmsweise im Schnellverfahren. Zustimmung zudieserInitiative bedeutet Zustimmung zur pseudonymen Variante mit derOPTIONALENMöglichkeit zur Verifizierung per Klarnamen.Mail der Bundes ITDie Bundes-IT möchte nun endlich den versprochenen ID-Dienst einrichten.Darüber werden Piraten sich gegenüber (internen und externen) Piratendiensten authentifizieren können. Damit könnte jeder der möchte für alle Piraten Dienste wie Umfragetools etc. unabhängig von der IT anbieten, ohne dass er Zugriff auf die Mitgliederdaten benötigt. Interessierte Piraten könnten sich über den ID-Dienst gesichert an diesen Diensten anmelden.Dabei gibt es zwei Möglichkeiten:a) Der Dienst wird von vorne herein pseudonym ausgelegt. In diesem Fall könnte ein Pirat einem Dienst gegenüber beweisen &quot;Ich bin Pirat, Mitglied im LV x, KV soundso&quot; - aber nicht seine konkrete Identität (Name, Mitgliedsnummer). Ein Pseudonum (dienstspezifisch) wäre vorhanden, sodass Betreiber &quot;ein Account pro Pirat&quot; durchsetzen können. Welche Angaben (Verbandsmitgliedschaften) übermittelt werden entscheidet natürlich der Pirat selbst!b) Der Dienst wird nicht-pseudonym ausgelegt. In diesem Fall könnte ein Pirat - wenn er dies ankreuzt, auch das wäre natürlich optional! - einem Dienst gegenüber auch seine konkrete Identität beweisen.Die Möglichkeit b) hat also folgende Unterschiede im Vergleich zu a):  &shy; Es müssen mehr Daten aus der Mitgliederdatenbank an den ID-Server übertragen werden  &shy; Es ist aufwändiger  (+) Die Piraten haben die Möglichkeit, ihre Identität Diensten zu zeigen, die das brauchen</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Zweck der Initiative[/h2]
+[p]Die Bundes-IT plant einen ID-Dienst für Piraten, mit dem Piraten sich gegenüber anderen Diensten/Internet-Anwendungen als &amp;quot;Pirat&amp;quot; und optional als &amp;quot;Pirat mit Klarnamen&amp;quot; authentifizieren können.[/p]
+[h2]Verwendung von LF an dieser Stelle[/h2]
+[p]Da die Bundes-IT auf der Aktiven &amp;quot;Ende der Woche&amp;quot; als Frist für Rückmeldungen genannt wurde hier ausnahmsweise im Schnellverfahren. Zustimmung zu [b]dieser[/b] Initiative bedeutet Zustimmung zur pseudonymen Variante mit der [b]OPTIONALEN[/b] Möglichkeit zur Verifizierung per Klarnamen.[/p]
+[h2]Mail der Bundes IT[/h2]
+[p]Die Bundes-IT möchte nun endlich den versprochenen ID-Dienst einrichten.Darüber werden Piraten sich gegenüber (internen und externen) Piratendiensten authentifizieren können. Damit könnte jeder der möchte für alle Piraten Dienste wie Umfragetools etc. unabhängig von der IT anbieten, ohne dass er Zugriff auf die Mitgliederdaten benötigt. Interessierte Piraten könnten sich über den ID-Dienst gesichert an diesen Diensten anmelden.[/p]
+[p]Dabei gibt es zwei Möglichkeiten:[/p]
+[p] a) Der Dienst wird von vorne herein pseudonym ausgelegt. In diesem Fall könnte ein Pirat einem Dienst gegenüber beweisen &amp;quot;Ich bin Pirat, Mitglied im LV x, KV soundso&amp;quot; - aber nicht seine konkrete Identität (Name, Mitgliedsnummer). Ein Pseudonum (dienstspezifisch) wäre vorhanden, sodass Betreiber &amp;quot;ein Account pro Pirat&amp;quot; durchsetzen können. Welche Angaben (Verbandsmitgliedschaften) übermittelt werden entscheidet natürlich der Pirat selbst![/p]
+[p] b) Der Dienst wird nicht-pseudonym ausgelegt. In diesem Fall könnte ein Pirat - wenn er dies ankreuzt, auch das wäre natürlich optional! - einem Dienst gegenüber auch seine konkrete Identität beweisen.[/p]
+[p]Die Möglichkeit b) hat also folgende Unterschiede im Vergleich zu a):  &amp;shy; Es müssen mehr Daten aus der Mitgliederdatenbank an den ID-Server übertragen werden  &amp;shy; Es ist aufwändiger  (+) Die Piraten haben die Möglichkeit, ihre Identität Diensten zu zeigen, die das brauchen[/p]
+[/div]</field>
+    </add></doc>

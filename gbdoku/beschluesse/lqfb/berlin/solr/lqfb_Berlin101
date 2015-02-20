@@ -1,0 +1,16 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin101</field>
+    <field name="title">webcal support</field>
+    <field name="date">5 Jahrs 1 Monat 7 Tagen 20:31:21</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">40</field>
+    <field name="no">19</field>
+    <field name="abstention">2</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Das System möge in der Lage sein, einen personalisierten authenifizierten Webcal Feed für die Einbindung in ical, mozilla calendar, etc. anbieten.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Das System möge in der Lage sein, einen personalisierten authenifizierten Webcal Feed für die Einbindung in ical, mozilla calendar, etc. anbieten.[/p]
+[/div]</field>
+    </add></doc>

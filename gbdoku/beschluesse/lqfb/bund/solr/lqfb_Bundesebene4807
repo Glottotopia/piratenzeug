@@ -1,0 +1,26 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene4807</field>
+    <field name="title">LiquidFeedback-Zugang nur für stimmberechtigte Mitglieder</field>
+    <field name="date">2 Jahrs 4 Monaten 21:00:37</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">470</field>
+    <field name="no">9</field>
+    <field name="abstention">20</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">AusgangslageDieNutzungsbedingungenvon LiquidFeedback sehen in Punkt 3.5 sowie 9.2 und 9.3 vor, das der Zugang zum Bundesliquid vom satzungsgemäßen Stimmrecht abhängig gemacht werden kann. Es gab bereits 2010 entsprechende Pläne, allerdings war die damalige Verwaltung technisch, logistisch und personell nicht in der Lage, so etwas abzubilden.AusblickSAGE funktioniert, die Gliederungen buchen fleißig, es ist inzwischen ohne Weiteres möglich, tagesaktuell zu ermitteln, wer stimmberechtigt ist und wer nicht. Mit der kommenden Einführung von sageCRM werden zahlreiche automagische Prozesse rund um LiquidFeedback (u.a. automagische Einladungen und Sperren) aktiviert. Damit ist erstmal eine zeitnahe Sperre (und Aktivierung) von Accounts abhängig von der Stimmberechtigung möglich, ohne das Personen manuell eingreifen müssen.MeinungsbildDer Zugang zur LiquidFeedback-Instanz des Bundesverbandes soll nur noch Piraten zur Verfügung stehen, die nach§4 (4) I Bundessatzungstimmberechtigt sind, d.h. mindestens einmal Beitrag gezahlt haben und mit weiteren Beiträgen nicht mehr als drei Monate im Rückstand sind.BegründungWer ins Liquid will, soll bitteschön auch seinen Beitrag zahlen.Anregungen&quot;Begründung ausbauen&quot;: Der aktuelle politische Wille der Piratenpartei ist, dass Meinungsbilder im LiquidFeedback keine Verbindlichkeit und damit insbesondere keine Vergleichbarkeit zu Parteitagsbeschlüssen haben. Die vorgeschlagene Erweiterung der Begründung würde aber genau das suggerieren. Die Anregung wird nicht umgesetzt.</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Ausgangslage [/h2]
+[p]Die [a href="https://lqfb.piratenpartei.de/lf/static/doc/useterms.html"]Nutzungsbedingungen[/a] von LiquidFeedback sehen in Punkt 3.5 sowie 9.2 und 9.3 vor, das der Zugang zum Bundesliquid vom satzungsgemäßen Stimmrecht abhängig gemacht werden kann. Es gab bereits 2010 entsprechende Pläne, allerdings war die damalige Verwaltung technisch, logistisch und personell nicht in der Lage, so etwas abzubilden.[/p]
+[h2]Ausblick [/h2]
+[p]SAGE funktioniert, die Gliederungen buchen fleißig, es ist inzwischen ohne Weiteres möglich, tagesaktuell zu ermitteln, wer stimmberechtigt ist und wer nicht. Mit der kommenden Einführung von sageCRM werden zahlreiche automagische Prozesse rund um LiquidFeedback (u.a. automagische Einladungen und Sperren) aktiviert. Damit ist erstmal eine zeitnahe Sperre (und Aktivierung) von Accounts abhängig von der Stimmberechtigung möglich, ohne das Personen manuell eingreifen müssen.[/p]
+[h2]Meinungsbild [/h2]
+[p][b]Der Zugang zur LiquidFeedback-Instanz des Bundesverbandes soll nur noch Piraten zur Verfügung stehen, die nach [a href="https://wiki.piratenpartei.de/Satzung#.C2.A7_4_-_Rechte_und_Pflichten_der_Piraten"]§4 (4) I Bundessatzung[/a] stimmberechtigt sind, d.h. mindestens einmal Beitrag gezahlt haben und mit weiteren Beiträgen nicht mehr als drei Monate im Rückstand sind.[/b][/p]
+[h2]Begründung [/h2]
+[p]Wer ins Liquid will, soll bitteschön auch seinen Beitrag zahlen.[/p]
+[h2]Anregungen [/h2]
+[ul][li]&amp;quot;Begründung ausbauen&amp;quot;: Der aktuelle politische Wille der Piratenpartei ist, dass Meinungsbilder im LiquidFeedback keine Verbindlichkeit und damit insbesondere keine Vergleichbarkeit zu Parteitagsbeschlüssen haben. Die vorgeschlagene Erweiterung der Begründung würde aber genau das suggerieren. Die Anregung wird nicht umgesetzt.[/li]
+[/ul]
+[/div]</field>
+    </add></doc>

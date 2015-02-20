@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin465</field>
+    <field name="title">Test</field>
+    <field name="date">5 Jahrs 9 Tagen 05:51:52</field>
+    <field name="area">Sandkasten / Spielwiese</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">22</field>
+    <field name="no">12</field>
+    <field name="abstention">27</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Test zum Überprüfen eines möglichen BugsEdit: Ich bearbeite den EntwurfEdit 2: Vermutung bestätigt: Ich habe den letzten Entwurf nicht angenommen, obwohl er von mir selbst stammt</field>
+    <field name="bb">[div class="draft_content wiki"][p]Test zum Überprüfen eines möglichen Bugs[/p]
+[p]Edit: Ich bearbeite den Entwurf[/p]
+[p]Edit 2: Vermutung bestätigt: Ich habe den letzten Entwurf nicht angenommen, obwohl er von mir selbst stammt[/p]
+[/div]</field>
+    </add></doc>

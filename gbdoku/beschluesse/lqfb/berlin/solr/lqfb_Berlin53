@@ -1,0 +1,20 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin53</field>
+    <field name="title">Themenübersicht um Anzeige 'Ich bin Unterstützer' oder 'Ich lehne das ab' erweitern</field>
+    <field name="date">5 Jahrs 1 Monat 10 Tagen 00:33:41</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">37</field>
+    <field name="no">13</field>
+    <field name="abstention">14</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Bei nur 10 Themen beginnt es langsam unübersichtlich zu werden. Wenn es zukünftig mehrere Hundert sind, wird Unterstützenswertes leicht übersehen.Daher wäre es doch schön wenn man diese Info gleich in der Übersicht hätte.Daher, als Hilfestellung für den Leser und evtl Unterstützer ein Info-Button:&nbsp;&rsaquo; Habe ich das letzesmal schon gelesen und unterstütze ich das??Leer / Grün / Grau / Rot für Ungelesen/Unterstützer/Neutral/Lehne ich ab</field>
+    <field name="bb">[div class="draft_content wiki"][p]Bei nur 10 Themen beginnt es langsam unübersichtlich zu werden. Wenn es zukünftig mehrere Hundert sind, wird Unterstützenswertes leicht übersehen.[br /]
+Daher wäre es doch schön wenn man diese Info gleich in der Übersicht hätte.[/p]
+[p]Daher, als Hilfestellung für den Leser und evtl Unterstützer ein Info-Button:[br /] [/p]
+[p]&amp;rsaquo; Habe ich das letzesmal schon gelesen und unterstütze ich das?? [/p]
+[p]Leer / Grün / Grau / Rot für Ungelesen/Unterstützer/Neutral/Lehne ich ab[/p]
+[/div]</field>
+    </add></doc>

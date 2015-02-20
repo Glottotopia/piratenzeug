@@ -1,0 +1,23 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene1006</field>
+    <field name="title">Möglichkeit bei Themen explizit nicht abzustimmen</field>
+    <field name="date">4 Jahrs 4 Monaten 23 Tagen 12:35:50</field>
+    <field name="area">LiquidFeedback Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">330</field>
+    <field name="no">30</field>
+    <field name="abstention">72</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Zur Zeit tauchen alle Themen für die man noch nicht abgestimmt hat in der Liste der Themenbereiche (als &quot;Noch abzustimmen: XX&quot;) auf.Manchmal möchte man bei einer Abstimmung aber explizit nicht selbst abstimmen, sondern seinen Delegierten abstimmen lassen.Dies führt dazu, dass neue Abstimmungen zu Themen im selben Themenbereich untergehen, weil die &quot;ignorierten&quot; Abstimmungen in der Liste der offenen Abstimmungen liegen bleiben.Wünschenswert wäre eine Funktion um eine Abstimmung als &quot;ich werde nicht selbst abstimmen&quot; zu markieren. Dies würde dazu führen, dass das Thema aus der Liste der noch abzustimmenden Themen verschwindet.Wenn man eine entsprechende Delegation hat und der Delegierte an dieser Abstimmung teilnimmt, wird die Stimme des Delegierten gewertet. Wenn keiner aus der Delegationskette an der Abstimmung teilnimmt, gilt die Stimme als nicht abgegeben.Ohne dieses Feature ist man fast gezwungen an jeder Abstimmung teilzunehmen, da man sonst den Überblick verliert.Diese Anregung ist auch im Bug Tracker eingetragen:http://trac.public-software-group.org/projects/lf/ticket/315</field>
+    <field name="bb">[div class="draft_content wiki"][p]Zur Zeit tauchen alle Themen für die man noch nicht abgestimmt hat in der Liste der Themenbereiche (als &amp;quot;Noch abzustimmen: XX&amp;quot;) auf.[/p]
+[p]Manchmal möchte man bei einer Abstimmung aber explizit nicht selbst abstimmen, sondern seinen Delegierten abstimmen lassen.[/p]
+[p]Dies führt dazu, dass neue Abstimmungen zu Themen im selben Themenbereich untergehen, weil die &amp;quot;ignorierten&amp;quot; Abstimmungen in der Liste der offenen Abstimmungen liegen bleiben.[/p]
+[p]Wünschenswert wäre eine Funktion um eine Abstimmung als &amp;quot;ich werde nicht selbst abstimmen&amp;quot; zu markieren. Dies würde dazu führen, dass das Thema aus der Liste der noch abzustimmenden Themen verschwindet.[/p]
+[p]Wenn man eine entsprechende Delegation hat und der Delegierte an dieser Abstimmung teilnimmt, wird die Stimme des Delegierten gewertet. Wenn keiner aus der Delegationskette an der Abstimmung teilnimmt, gilt die Stimme als nicht abgegeben.[/p]
+[p]Ohne dieses Feature ist man fast gezwungen an jeder Abstimmung teilzunehmen, da man sonst den Überblick verliert.[/p]
+[p]Diese Anregung ist auch im Bug Tracker eingetragen:[br /]
+http://trac.public-software-group.org/projects/lf/ticket/315[/p]
+[/div]</field>
+    </add></doc>

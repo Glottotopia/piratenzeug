@@ -1,0 +1,18 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene2382</field>
+    <field name="title">Überschrift &quot;Neue Anregung hinzufügen&quot; in &quot;Neue Anregung für Initiative '...' hinzufügen&quot; ändern.</field>
+    <field name="date">3 Jahrs 20 Tagen 13:01:55</field>
+    <field name="area">LiquidFeedback Weiterentwicklung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">184</field>
+    <field name="no">95</field>
+    <field name="abstention">63</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Beim Anschauen von Anregungen erfährt man durch eine Überschrift, wie sie hier vorgeschlagen wir, auf welche Initiative sie die Anregungen beziehen.Beim Anlegen ist das derzeit nicht der Fall, was zu Verwirrungen oder Fehlern führen kann, wenn man in mehreren Fenstern zugleich an verschiedenen Dingen arbeitet und möglicherweise noch unterbrochen wird. Die Nummer der Initiative im URL halte ich für keinen hinreichend klaren Hinweis.Aus meiner Sicht spricht nichts dagegen, in der Überschrift oder separat auch noch einen Link auf die Initiative anzubieten.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Beim Anschauen von Anregungen erfährt man durch eine Überschrift, wie sie hier vorgeschlagen wir, auf welche Initiative sie die Anregungen beziehen.[/p]
+[p]Beim Anlegen ist das derzeit nicht der Fall, was zu Verwirrungen oder Fehlern führen kann, wenn man in mehreren Fenstern zugleich an verschiedenen Dingen arbeitet und möglicherweise noch unterbrochen wird. Die Nummer der Initiative im URL halte ich für keinen hinreichend klaren Hinweis.[/p]
+[p]Aus meiner Sicht spricht nichts dagegen, in der Überschrift oder separat auch noch einen Link auf die Initiative anzubieten.[/p]
+[/div]</field>
+    </add></doc>

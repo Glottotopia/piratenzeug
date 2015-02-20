@@ -1,0 +1,17 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin317</field>
+    <field name="title">Delegation an Personen verweigern</field>
+    <field name="date">5 Jahrs 20 Tagen 22:55:52</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Standardverfahren (ca. 1 Monat) </field>
+    <field name="result">cross.png</field>
+    <field name="yes">10</field>
+    <field name="no">10</field>
+    <field name="abstention">65</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">318</field>
+    <field name="text">Ich möchte meine Stimme delegieren, wenn diese aber unter Umständen weiter delegiert wird, und der 3. oder 4. Person nicht vertraue, dann möchte ich dieser Person die delegation meiner Stimme entziehen können.Z.B. als Blacklist.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Ich möchte meine Stimme delegieren, wenn diese aber unter Umständen weiter delegiert wird, und der 3. oder 4. Person nicht vertraue, dann möchte ich dieser Person die delegation meiner Stimme entziehen können.[br /]
+Z.B. als Blacklist.[/p]
+[/div]</field>
+    </add></doc>

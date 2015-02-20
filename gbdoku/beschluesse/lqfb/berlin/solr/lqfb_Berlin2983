@@ -1,0 +1,38 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin2983</field>
+    <field name="title">Open Science</field>
+    <field name="date">5 Monaten 26 Tagen 21:58:55</field>
+    <field name="area">Bildung und Forschung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">41</field>
+    <field name="no">5</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">AntragDie Piratenpartei setzt sich dafür ein, dass neben den Endergebnissen wissenschaftlicher Forschung auch Rohdaten, Methoden und Fehlschläge veröffentlicht werden. Dies gilt insbesondere für die experimentellen Wissenschaften, aber nicht nur dort.  Rohdaten sollen in einem offenen, maschinenlesbaren Format veröffentlicht werden. Als Lizenz ist grundsätzlich CC-0 zu wählen. Methoden sollen im Quelltext vorliegen, falls eine Programmiersprache verwendet wurde. Anderenfalls sollen sie nach den Metadatastandards der jeweiligen Disziplin nach Möglichkeit maschinenlesbar beschrieben sein.&nbsp;ErläuterungRohdatenerlauben das Nachvollziehen der Analyse und das Aufdecken eventueller Fehler und Unstimmigkeiten. Ausserdem können die Rohdaten weiter analysiert und mit anderen Daten verknüpft werden. CC-0 erlaubt die problemlose Nachnutzung.Die Veröffentlichung vonMethoden, erlaubt in Verbindung mit den Rohdaten die Ergebnisse vollständig nachzuvollziehen. Bei Methoden ist einerseits an statistische oder andere mathematische Methoden zu denken, aber auch an die genaue Beschreibung von Versuchsaufbauten und -abläufen.Die Veröffentlichung soll explizit auch in den Fällen erfolgen, in denen kein wesentlicher theoretischer Fortschritt erzielt wurde (Fehlschlag: Bestätigung der Nullhypothese). Durch die Veröffentlichung dieser nicht erfolgreichen Ergebnisse kann vermieden werden, dass andere Wissenschaftler wieder und wieder erfolglos den gleichen Holzwegen folgen, weil eben noch nicht bekannt ist, dass es sich um einen Holzweg handelt.BegründungTeilhabe, Transparenz und so.In diesem Antrag soll erstmal ein grundsätzliches Ziel definiert werden. Darauf aufbauend können dann konkretere politische Forderungen im Hinblick auf Gesetzgebung oder Förderlandschaft formuliert werden.Linkswarum CC-0 für Daten? http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/Beispiel für Verknüpfung von Rohdaten und Methoden zur Nachvollziehbarkeit http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/ARM/ch5/arsenic_wells_switching.ipynbBeispiele für disziplinspezifische maschinenlesbare Metadaten für Methoden http://www.myexperiment.org/Warum die Veröffentlichung von Fehlschlägen wichtig ist http://de.wikipedia.org/wiki/Publikationsbias http://en.wikipedia.org/wiki/Drawer_effect#File_drawer_effectAnregungenChangelog</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Antrag[/h2]
+[p] Die Piratenpartei setzt sich dafür ein, dass neben den Endergebnissen wissenschaftlicher Forschung auch Rohdaten, Methoden und Fehlschläge veröffentlicht werden. Dies gilt insbesondere für die experimentellen Wissenschaften, aber nicht nur dort.  Rohdaten sollen in einem offenen, maschinenlesbaren Format veröffentlicht werden. Als Lizenz ist grundsätzlich CC-0 zu wählen. Methoden sollen im Quelltext vorliegen, falls eine Programmiersprache verwendet wurde. Anderenfalls sollen sie nach den Metadatastandards der jeweiligen Disziplin nach Möglichkeit maschinenlesbar beschrieben sein. [br /] [/p]
+[h2]Erläuterung[/h2]
+[ul][li][b]Rohdaten[/b] erlauben das Nachvollziehen der Analyse und das Aufdecken eventueller Fehler und Unstimmigkeiten. Ausserdem können die Rohdaten weiter analysiert und mit anderen Daten verknüpft werden. CC-0 erlaubt die problemlose Nachnutzung. [/li]
+[/ul]
+[ul][li]Die Veröffentlichung von [b]Methoden[/b], erlaubt in Verbindung mit den Rohdaten die Ergebnisse vollständig nachzuvollziehen. Bei Methoden ist einerseits an statistische oder andere mathematische Methoden zu denken, aber auch an die genaue Beschreibung von Versuchsaufbauten und -abläufen. [/li]
+[/ul]
+[ul][li]Die Veröffentlichung soll explizit auch in den Fällen erfolgen, in denen kein wesentlicher theoretischer Fortschritt erzielt wurde ([b]Fehlschlag[/b]: Bestätigung der Nullhypothese). Durch die Veröffentlichung dieser nicht erfolgreichen Ergebnisse kann vermieden werden, dass andere Wissenschaftler wieder und wieder erfolglos den gleichen Holzwegen folgen, weil eben noch nicht bekannt ist, dass es sich um einen Holzweg handelt.[/li]
+[/ul]
+[h2]Begründung [/h2]
+[p]Teilhabe, Transparenz und so.[/p]
+[p]In diesem Antrag soll erstmal ein grundsätzliches Ziel definiert werden. Darauf aufbauend können dann konkretere politische Forderungen im Hinblick auf Gesetzgebung oder Förderlandschaft formuliert werden.[/p]
+[h2]Links [/h2]
+[ul][li]warum CC-0 für Daten? http://blog.datadryad.org/2011/10/05/why-does-dryad-use-cc0/[/li]
+[/ul]
+[ul][li]Beispiel für Verknüpfung von Rohdaten und Methoden zur Nachvollziehbarkeit http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/ARM/ch5/arsenic_wells_switching.ipynb[/li]
+[/ul]
+[ul][li]Beispiele für disziplinspezifische maschinenlesbare Metadaten für Methoden http://www.myexperiment.org/[/li]
+[/ul]
+[ul][li]Warum die Veröffentlichung von Fehlschlägen wichtig ist http://de.wikipedia.org/wiki/Publikationsbias http://en.wikipedia.org/wiki/Drawer_effect#File_drawer_effect[/li]
+[/ul]
+[h2]Anregungen [/h2]
+[h2]Changelog [/h2]
+[/div]</field>
+    </add></doc>

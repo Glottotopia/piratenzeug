@@ -1,0 +1,32 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin2682</field>
+    <field name="title">OpenAntrag erst testen, wenn Showstopper beseitigt.</field>
+    <field name="date">1 Jahr 4 Monaten 29 Tagen 14:02:29</field>
+    <field name="area">Transparenz und Bürgerbeteiligung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">41</field>
+    <field name="no">5</field>
+    <field name="abstention">15</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">2681</field>
+    <field name="text">Kriterien für den Betrieb von OpenantragOpenantrag erst einsetzen, wennZwangsanonymisierung entfernt istEinbindung in die Fraktionsprozesse da ist.Openantrag durch die Partei betreiben wird.Openantrag unter einer anerkannten Open Source Lizenz veröffentlicht wurde.Der Openantrag Source evaluiert wurde.Openantrag mit den Kriterien der OpenData Agenda des Landes Berlin konform ist.Begründung:Openantrag ist im Moment nicht für die Fraktion brauchbar.Es ist in keinster weise mit der Bestehenden Infrastruktur (Ticketsystem, lqfb, Pardok, ADOS) vernetzt und würde eine Parallelwelt darstellen, in der alles doppelt gepflegt werden muss. Dies verursacht Aufwand und Kosten, auch verbraucht es Arbeitskraft, die letztendlich vom Steuerzahler bezahlt werden muss, bzw. die vom politischen Output der Fraktion abgeht.Auch der Versuch, durch den Einsatz eines Systems mit Zwangsanonymisierung Fakten zu schaffen, ist abzulehen. Demokratie lebt partizipatorischen Prozessen, in einem System mit Zwangsanonymisierung ist eine Partizipation des Antragstellers an der Weiterentwicklung des Antrags in lqfb, Fraktion, Ausschüssen u.ä. Ausgeschlossen.Openantrag liegt nicht im Quellcode vor, eine Nutzung widerspricht daher einem Parteitagsbeschluss von Bingen.Der Einsatz von Openantrag ist kontrovers. Am Beispiel der Einführung von lqfb lässt sich erkennen, wie fatal es ist, wenn ein System nicht vollständig akzeptiert ist.Openantrag erst fit machen, dann Einsetzen!</field>
+    <field name="bb">[div class="draft_content wiki"][h1]Kriterien für den Betrieb von Openantrag [/h1]
+[h2]Openantrag erst einsetzen, wenn [/h2]
+[ul][li]Zwangsanonymisierung entfernt ist [/li]
+[li]Einbindung in die Fraktionsprozesse da ist. [/li]
+[li]Openantrag durch die Partei betreiben wird.[/li]
+[li]Openantrag unter einer anerkannten Open Source Lizenz veröffentlicht wurde.[/li]
+[li]Der Openantrag Source evaluiert wurde.[/li]
+[li]Openantrag mit den Kriterien der OpenData Agenda des Landes Berlin konform ist.[/li]
+[/ul]
+[h2]Begründung:[/h2]
+[p]Openantrag ist im Moment nicht für die Fraktion brauchbar. [/p]
+[ul][li]Es ist in keinster weise mit der Bestehenden Infrastruktur (Ticketsystem, lqfb, Pardok, ADOS) vernetzt und würde eine Parallelwelt darstellen, in der alles doppelt gepflegt werden muss. Dies verursacht Aufwand und Kosten, auch verbraucht es Arbeitskraft, die letztendlich vom Steuerzahler bezahlt werden muss, bzw. die vom politischen Output der Fraktion abgeht.[/li]
+[li]Auch der Versuch, durch den Einsatz eines Systems mit Zwangsanonymisierung Fakten zu schaffen, ist abzulehen. Demokratie lebt partizipatorischen Prozessen, in einem System mit Zwangsanonymisierung ist eine Partizipation des Antragstellers an der Weiterentwicklung des Antrags in lqfb, Fraktion, Ausschüssen u.ä. Ausgeschlossen.[/li]
+[li]Openantrag liegt nicht im Quellcode vor, eine Nutzung widerspricht daher einem Parteitagsbeschluss von Bingen.[/li]
+[li]Der Einsatz von Openantrag ist kontrovers. Am Beispiel der Einführung von lqfb lässt sich erkennen, wie fatal es ist, wenn ein System nicht vollständig akzeptiert ist.[/li]
+[/ul]
+[p]Openantrag erst fit machen, dann Einsetzen![/p]
+[/div]</field>
+    </add></doc>

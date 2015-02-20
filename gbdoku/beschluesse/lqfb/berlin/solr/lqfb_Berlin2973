@@ -1,0 +1,43 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin2973</field>
+    <field name="title">Update auf Liquid Feedback 3.0</field>
+    <field name="date">6 Monaten 3 Tagen 15:55:31</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">50</field>
+    <field name="no">2</field>
+    <field name="abstention">4</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives">2988</field>
+    <field name="text">AntragstextDer Landesvorstand möge beschließen:* DasVersionsupdate 3.0der vom Landesverband zur Willensbildung benutzten SoftwareLiquid Feedback, wird auf die Berlin zugehörigen Instanzen auf der PlattformLQPP.deeingespielt. Hierzu zählen die Instanz des Landesverbandes, als auch die Instanzen der Bezirke.* Das Update wird so durchgeführt, dass eine Bereitstellung zum 01.10.14 als Ziel markiert ist.* Ein Beitrag über die wichtigsten Änderungen und Neuheiten wird über die Kanäle der Piratenpartei zur Verfügung gestellt und alle Mitglieder werden per Mail nach erfolgreicher Absolvierung des Prozesses informiert. Schulungen im Umgang werden zu gegebener Zeit angeboten und parallel zur Vorbereitung der SMV angeboten.*Eine Testteilnahme (keine Instanz der Piratenpartei) ist hier möglich.&nbsp;&nbsp;BegründungDie neue Version der Software überezugt durch bessere Übersicht, Struktur und Anordnung. Die Oberfläche nimmt den user &quot;leichter an die Hand&quot; und führt durch die jeweiligen Punkte. Ein Update ist nicht zwingend aber sinnvoll, zumal diese Version höchstwahrscheinlich auch in der SMV zum Zuge kommen wird, wenn auf der nächsten Mitgliederversammlung der Bugfix &quot;Streichung der Softwareversion in der Geschäftsordnung&quot; beschlossen wird.&nbsp;&nbsp;Quellen / Links / Verweise*Umlaufbeschluss - vertagt auf nächste LaVoSi&nbsp;Changelog** Change - Datum auf 01.10.14 erhöht nach Rücksprache mti Admins, realisitscher Termin. Evtl Zeitpuffer, wenn Alternativini gewinnt.** Der Changelog dient der Übersicht über vorgenommene Änderungen (DS)&nbsp;AnregungenIch möchte eine Einführung einer neuen Version nicht daran orientieren, wieviel gerade los ist, oder zu $Zeitraum los sein könnte. Ich möchte sie ferner auch nicht an einen &quot;Geburtstag&quot; knüpfen, geschweige die Admins während Weihnachten und Neujahr damit belasten, nur weil der LV Happy Birthday hat.Natürlich stehe ich in Kontakt mit denjenigen, die das umsetzen müssen. Sollten mir unsere Admins sagen, &quot;Lieber Denis, etwas zu sportlich. Mach mal den 01.10.&quot; Okay, dann passe ich die Ini an. Aus meiner Sicht: Je eher wir das Update angehen, umso besser.Wer verfolgt, wie sich Initiativen, die ich einbringe häufig weiterentwickeln, der wird auch hier nicht enttäuscht werden. Neue Informationen und Erfordernisse werden bis zum Einfrieren auch eingearbeitet. Ich bin zuversichtlich, dass mir das durch die Betreuung des Geschäftsbereiches auch gelingt.Zu dem Aspekt Schulungen: An der Funktionalität und dem grundlegenden Prinzip der Software hat sich nur wenig geändert. Es geht hier eher mehr um das Redesign des Frontend, welches sich deutlich vom derzeitigen Stand abhebt. Schulungen können also bereits jetzt jederzeit organisiert werden und sind vom Releasedatum nicht abhängig. Wer diese Version kann, der kann auch 3.0</field>
+    <field name="bb">[div class="draft_content wiki"][hr /]
+[h4]Antragstext [/h4]
+[hr /]
+[p]Der Landesvorstand möge beschließen:[/p]
+[p]* Das [a href="https://twitter.com/liquidfeedback"]Versionsupdate 3.0[/a] der vom Landesverband zur Willensbildung benutzten Software [a href="http://liquidfeedback.org/"]Liquid Feedback[/a], wird auf die Berlin zugehörigen Instanzen auf der Plattform [a href="https://lqpp.de"]LQPP.de[/a] eingespielt. Hierzu zählen die Instanz des Landesverbandes, als auch die Instanzen der Bezirke.[/p]
+[p]* Das Update wird so durchgeführt, dass eine Bereitstellung zum 01.10.14 als Ziel markiert ist.[/p]
+[p]* Ein Beitrag über die wichtigsten Änderungen und Neuheiten wird über die Kanäle der Piratenpartei zur Verfügung gestellt und alle Mitglieder werden per Mail nach erfolgreicher Absolvierung des Prozesses informiert. Schulungen im Umgang werden zu gegebener Zeit angeboten und parallel zur Vorbereitung der SMV angeboten.[/p]
+[p]* [a href="http://dev.liquidfeedback.org/lf3/"]Eine Testteilnahme (keine Instanz der Piratenpartei) ist hier möglich.[/a][br /] [br /] [/p]
+[hr /]
+[h4]Begründung [/h4]
+[hr /]
+[p]Die neue Version der Software überezugt durch bessere Übersicht, Struktur und Anordnung. Die Oberfläche nimmt den user &amp;quot;leichter an die Hand&amp;quot; und führt durch die jeweiligen Punkte. Ein Update ist nicht zwingend aber sinnvoll, zumal diese Version höchstwahrscheinlich auch in der SMV zum Zuge kommen wird, wenn auf der nächsten Mitgliederversammlung der Bugfix &amp;quot;Streichung der Softwareversion in der Geschäftsordnung&amp;quot; beschlossen wird. [br /] [br /] [/p]
+[hr /]
+[h4]Quellen / Links / Verweise [/h4]
+[hr /]
+[p]* [a href="http://wiki.piratenpartei.de/BE:Beschlussantrag_Umlaufbeschluss/2014-07-17/04#"]Umlaufbeschluss - vertagt auf nächste LaVoSi[/a][br /] [/p]
+[hr /]
+[h4]Changelog [/h4]
+[hr /]
+[p]** Change - Datum auf 01.10.14 erhöht nach Rücksprache mti Admins, realisitscher Termin. Evtl Zeitpuffer, wenn Alternativini gewinnt.[/p]
+[p]** Der Changelog dient der Übersicht über vorgenommene Änderungen (DS) [br /] [/p]
+[hr /]
+[h4]Anregungen[/h4]
+[hr /]
+[p]Ich möchte eine Einführung einer neuen Version nicht daran orientieren, wieviel gerade los ist, oder zu $Zeitraum los sein könnte. Ich möchte sie ferner auch nicht an einen &amp;quot;Geburtstag&amp;quot; knüpfen, geschweige die Admins während Weihnachten und Neujahr damit belasten, nur weil der LV Happy Birthday hat. [/p]
+[p]Natürlich stehe ich in Kontakt mit denjenigen, die das umsetzen müssen. Sollten mir unsere Admins sagen, &amp;quot;Lieber Denis, etwas zu sportlich. Mach mal den 01.10.&amp;quot; Okay, dann passe ich die Ini an. Aus meiner Sicht: Je eher wir das Update angehen, umso besser.[/p]
+[p]Wer verfolgt, wie sich Initiativen, die ich einbringe häufig weiterentwickeln, der wird auch hier nicht enttäuscht werden. Neue Informationen und Erfordernisse werden bis zum Einfrieren auch eingearbeitet. Ich bin zuversichtlich, dass mir das durch die Betreuung des Geschäftsbereiches auch gelingt. [/p]
+[p]Zu dem Aspekt Schulungen: An der Funktionalität und dem grundlegenden Prinzip der Software hat sich nur wenig geändert. Es geht hier eher mehr um das Redesign des Frontend, welches sich deutlich vom derzeitigen Stand abhebt. Schulungen können also bereits jetzt jederzeit organisiert werden und sind vom Releasedatum nicht abhängig. Wer diese Version kann, der kann auch 3.0[/p]
+[/div]</field>
+    </add></doc>

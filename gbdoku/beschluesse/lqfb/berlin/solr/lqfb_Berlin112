@@ -1,0 +1,16 @@
+<doc><add>
+    <field name="ID">lqfb_Berlin112</field>
+    <field name="title">Zahlen in Klammer</field>
+    <field name="date">5 Jahrs 2 Monaten 17:47:20</field>
+    <field name="area">Liquid Democracy Systembetrieb</field>
+    <field name="regelwerk">Eilantrag (ca. 4-5 Tage) </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">51</field>
+    <field name="no">3</field>
+    <field name="abstention">0</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">Nach dem Durchlesen von Initiativen, klicke ich immer auf den &quot;Anregungen&quot;-Tab und oft ist dieser Klick (und der zurück) überflüssig, weil noch gar keine Anregungen existieren. Es sollte hinter dem Wort &quot;Anregungen&quot; in Klammern die Zahl der zur Initiative vorhandenen Anregungen angezeigt werden.</field>
+    <field name="bb">[div class="draft_content wiki"][p]Nach dem Durchlesen von Initiativen, klicke ich immer auf den &amp;quot;Anregungen&amp;quot;-Tab und oft ist dieser Klick (und der zurück) überflüssig, weil noch gar keine Anregungen existieren. Es sollte hinter dem Wort &amp;quot;Anregungen&amp;quot; in Klammern die Zahl der zur Initiative vorhandenen Anregungen angezeigt werden.[/p]
+[/div]</field>
+    </add></doc>

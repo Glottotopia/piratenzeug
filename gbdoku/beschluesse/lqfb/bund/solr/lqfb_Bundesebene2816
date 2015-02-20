@@ -1,0 +1,33 @@
+<doc><add>
+    <field name="ID">lqfb_Bundesebene2816</field>
+    <field name="title">Kategorisierung von Themen und Initiativen durch Tags</field>
+    <field name="date">2 Jahrs 9 Monaten 19 Tagen 18:57:16</field>
+    <field name="area">LiquidFeedback Weiterentwicklung</field>
+    <field name="regelwerk">Meinungsbild / Beschlussvorlage </field>
+    <field name="result">award_star_gold_2.png</field>
+    <field name="yes">283</field>
+    <field name="no">52</field>
+    <field name="abstention">35</field>
+    <field name="organ">LQFB</field>
+    <field name="competinginitiatives"></field>
+    <field name="text">IdeeDas LQFB-System soll um ein Tagging-Verfahren zur Einordnung und zur Suche von Themen und Initiativen erweitert werden. Folgende Eigenschaften soll das Tagging haben:GrundaufbauJeder Benutzer beliebigeTagsvergeben. Die Tags sind Freitext ohne Leerzeichen.Die Themen und Alternativen können über die Tags und über Kombinationen von Tags gesucht und gefiltert werden. Dabei wird die Gewichtung des Tags für die Initiative berücksichtigt.Die Darstellung der Tags zu einer Initiative sollte über eineTag-Clouderfolgen.DetailsEs kann aus allen bereits existierenden (eigenen und fremden) Tags ausgewählt werden.Die Namen der Themenbereiche sind automatisch vordefinierte Tags für die Themen im jeweiligen Bereich.Es wird gespeichert, welcher Nutzer welche Tags gesetzt hat.Je mehr Nutzer ein bestimmtes Tag einer Initiative zuordnen desto wichtiger wird dieses Tag für die Initiative.Die Zuordnung von Tags kann unabhängig von derPhasedes Themas erfolgen. D.h. auch abgeschlossene oder abgebrochene Themen können noch mit Tags versehen werden.Ziel des VorschlagsJe länger das System läuft und je mehr Piraten sich beteiligen, desto häufiger kommt es zu Wiederholungen bei Themen. Dies kann unabsichtlich oder absichtlich passieren. Ein Tagging bietet sowohl Autoren von neuen Themen als auch Lesern die Möglichkeit semantisch verwandte Themen zu finden.AnregungenAnregungen kommentiere ich im Wiki (siehe Link oben). Anregungen, welche konkrete Vorschläge zur Änderung des Textes machen, haben größere Chancen von mir integriert zu werden :-)</field>
+    <field name="bb">[div class="draft_content wiki"][h2]Idee [/h2]
+[p]Das LQFB-System soll um ein Tagging-Verfahren zur Einordnung und zur Suche von Themen und Initiativen erweitert werden. Folgende Eigenschaften soll das Tagging haben:[/p]
+[h3]Grundaufbau [/h3]
+[ul][li]Jeder Benutzer beliebige [a href="http://de.wikipedia.org/wiki/Tag_%28Informatik%29"]Tags[/a] vergeben. Die Tags sind Freitext ohne Leerzeichen.[/li]
+[li]Die Themen und Alternativen können über die Tags und über Kombinationen von Tags gesucht und gefiltert werden. Dabei wird die Gewichtung des Tags für die Initiative berücksichtigt.[/li]
+[li]Die Darstellung der Tags zu einer Initiative sollte über eine [a href="http://de.wikipedia.org/w/index.php?title=Tag_cloud"]Tag-Cloud[/a] erfolgen. [/li]
+[/ul]
+[h3]Details [/h3]
+[ul][li]Es kann aus allen bereits existierenden (eigenen und fremden) Tags ausgewählt werden.[/li]
+[li]Die Namen der Themenbereiche sind automatisch vordefinierte Tags für die Themen im jeweiligen Bereich.[/li]
+[li]Es wird gespeichert, welcher Nutzer welche Tags gesetzt hat.[/li]
+[li]Je mehr Nutzer ein bestimmtes Tag einer Initiative zuordnen desto wichtiger wird dieses Tag für die Initiative.[/li]
+[li]Die Zuordnung von Tags kann unabhängig von der [a href="http://wiki.piratenpartei.de/AG_Liquid_Democracy/Anforderungen/Themen#Phasen"]Phase[/a] des Themas erfolgen. D.h. auch abgeschlossene oder abgebrochene Themen können noch mit Tags versehen werden.[/li]
+[/ul]
+[h2]Ziel des Vorschlags [/h2]
+[p]Je länger das System läuft und je mehr Piraten sich beteiligen, desto häufiger kommt es zu Wiederholungen bei Themen. Dies kann unabsichtlich oder absichtlich passieren. Ein Tagging bietet sowohl Autoren von neuen Themen als auch Lesern die Möglichkeit semantisch verwandte Themen zu finden. [/p]
+[h2]Anregungen [/h2]
+[p]Anregungen kommentiere ich im Wiki (siehe Link oben). Anregungen, welche konkrete Vorschläge zur Änderung des Textes machen, haben größere Chancen von mir integriert zu werden :-)[/p]
+[/div]</field>
+    </add></doc>
