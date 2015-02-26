@@ -15,21 +15,23 @@
 </span>
 </div>
  
-<div>Id: #field('id')</div>
+
 ## <div>Typ: #field('typ')</div>
-<div>Date: #field('Date')</div> 
+## <div>Date: #field('Date')</div> 
 ## <div>Titel: #field('title')</div> 
 ## <div>Text: #field('text')</div> 
-<div>Regelwerk: #field('regelwerk')</div> 
-<div>Ergebnis: #field('result')</div> 
-<div>ja: #field('yes')</div> 
-<div>nein: #field('no')</div> 
-<div>ja: #field('yespercentage')%</div> 
-<div>nein: #field('nopercentage')%</div> 
-<div>Enthaltung: #field('abstention')</div> 
-<div>Organ: #field('organ')</div> 
-<div>Konkurrierende Initiative: #field('competinginitiatives')</div> 
-<div>Text: 
+<div><span>#field('organ')</span><span>#field('unit')</span> <span>(#field('id'))</span></div> 
+<div><span>#field('area')</span><span>#field('regelwerk')</span></div>  
+
+<div>
+<span>ja: #field('yes')</span> <span> (#field('yespercentage')%)</span> 
+<span>nein: #field('no')</span> <span> (#field('nopercentage')%)</span> 
+<span>Enthaltung: #field('abstention')</span> 
+</div>
+<div>#field('result')</div> 
+<div>Konkurrierende Initiativen: #field('competinginitiatives')</div> 
+
+<div> 
 $doc.getFieldValue('bb').replace('[','<').replace(']','>')
 
 ## #field('bb').replace('[','<').replace(']','>')
