@@ -7,6 +7,8 @@
 #macro(param $key)$request.params.get($key)#end
 
 #macro(url_root)/solr#end
+## #macro(url_root)/athagram/solr#end
+
 
 ## TODO: s/url_for_solr/url_for_core/ and s/url_root/url_for_solr/
 #macro(core_name)$request.core.name#end
@@ -19,9 +21,10 @@
 
 #macro(debug)#if($request.params.get('debugQuery'))&debugQuery=true#end#end
 
-#macro(boostPrice)#if($request.params.get('bf') == 'price')&bf=price#end#end        
+## #macro(boostPrice)#if($request.params.get('bf') == 'price')&bf=price#end#end        
 
 #macro(annotate)#if($request.params.get('annotateBrowse'))&annotateBrowse=true#end#end
+#macro(admin)#if($request.params.get('admin'))&admin=true#end#end
 
 #macro(annTitle $msg)#if($annotate == true)title="$msg"#end#end
 
@@ -33,7 +36,7 @@
 
 #macro(sort $p)#if($p)#foreach($s in $p)&sort=$esc.url($s)#end#end#end
 
-#macro(lensNoQ)?#if($request.params.getParams('fq') and $list.size($request.params.getParams('fq')) > 0)&#fqs($request.params.getParams('fq'))#end#sort($request.params.getParams('sort'))#debug#boostPrice#annotate#spatial#qOpts#group#end
+#macro(lensNoQ)?#if($request.params.getParams('fq') and $list.size($request.params.getParams('fq')) > 0)&#fqs($request.params.getParams('fq'))#end#sort($request.params.getParams('sort'))#debug#annotate#spatial#qOpts#group#admin#end
 #macro(lens)#lensNoQ#q#end
         
 
@@ -41,7 +44,7 @@
 
 #macro(url_for_start $start)#url_for_home#lens&start=$start#end
 
-#macro(url_for_filters $p)#url_for_home?#q#boostPrice#spatial#qOpts#if($list.size($p) > 0)&#fqs($p)#end#debug#end
+#macro(url_for_filters $p)#url_for_home?#q#spatial#qOpts#if($list.size($p) > 0)&#fqs($p)#end#debug#admin#end
 
 #macro(url_for_nested_facet_query $field)#url_for_home#lens&fq=$esc.url($field)#end
 
@@ -95,9 +98,15 @@
 #end
 
 
-#macro(display_facet_range $field, $display, $fieldName, $start, $end, $gap, $before, $after)
-  <span class="facet-field">$display</span>
-    <ul>
+#macro(display_facet_range $field, $display, $fieldName, $start, $end, $gap, $before, $after) 
+
+      <div>
+<span class="togglebutton"  name="show" id="$fieldName" onClick="toggleFacets('ul$fieldName')">&#x25BE;&#x25B4;</span>
+      <span class="facet-field">$display</span>
+	 
+      
+  
+    <ul id="ul$fieldName" name="facetul" style="display:none;">
     #if($before && $before != "")
       #set($value = "[* TO " + "#format_value($start)" + "}")
       #set($facetURL = "#url_for_facet_range_filter($fieldName, $value)")
@@ -116,7 +125,10 @@
       #set($facetURL = "#url_for_facet_range_filter($fieldName, $value)")
       <li><a href="$facetURL">More than #format_value($end)</a> ($after)</li>
     #end
-    </ul>
+
+      </ul>
+	</div> 
+
 #end
 
 ## $pivots is a list of facet_pivot
@@ -173,3 +185,5 @@ $math.toDouble($math.add($inval,$gapval))##
 $math.add($inval,$gapval)##
 #end
 #end
+
+

@@ -20,7 +20,7 @@
 ##             Boost by Price
 ##           </input>
 ##         </span>
-##       #parse("query_spatial.vm")
+      #parse("query_spatial.vm")
 ##       #parse("query_group.vm")
 ##       </div>
   </div>
