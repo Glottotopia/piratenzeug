@@ -1,0 +1,109 @@
+<add><doc>
+<field name="id">tau-830-25</field>  
+<field name="name">Nts'ą̈' dihnih?</field> 
+<field name="language">Upper_Tanana</field> 
+<field name="iso639-3">tau</field> 
+<field name="vernacularsentence">Nts'ą̈' dihnih?</field>  
+<field name="translatedsentence">How do I say it</field>
+<field name="author">UTOLAF12Jul1201-001</field>
+<field name="aadgID">UTOLAF12Jul1201-001</field>
+<field name="lg">Upper Tanana</field>
+<field name="dialect">Northway</field>
+<field name="recordingname">UTOLAF12Jul1201</field>
+<field name="recordingdate">July 12, 2012</field>
+<field name="anlalink"></field>
+<field name="editedbyspeaker">False</field>
+<field name="editedbylinguist">False</field>
+<field name="rejectedbyspeaker">False</field>
+<field name="speaker">Avis Sam</field>
+<field name="source"></field>
+<field name="recordinglinguist">Olga Lovick</field>
+<field name="texttype">elicited, storyboard</field> 
+<!-- Join --> 
+<field name="vernacularword">Nts'ą̈'</field>
+<field name="vernacularword">dihnih</field> 
+<field name="translatedword">I</field>
+<field name="translatedword">How</field>
+<field name="translatedword">say</field>
+<field name="translatedword">it</field>
+<field name="translatedword">do</field> 
+<field name="participant_roles">manner</field> 
+<field name="gloss">1SG</field>
+<field name="gloss">IPFV</field>
+<field name="gloss">CLF</field>
+<field name="gloss">how</field>
+<field name="gloss">say</field>
+<field name="gloss">SBJ</field>
+<field name="gloss">Ø</field>
+<field name="gloss">CNJ</field>
+<field name="gloss">QUAL</field>
+<field name="lingex">[div class="item xlevel0"] 
+ [div class="label"]Nts'ą̈' dihnih?[/div]
+  [div class="children"]
+   [div class="item xlevel1"] 
+ [div class="label"]nts'ą̈' dihnih[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]nts'ą̈'[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]nts'ą̈'[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]how[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]dihnih[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]d-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]QUAL-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]Ø.CNJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]IPFV-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ih-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]1SG.SBJ:Ø.CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]nih[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]say[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]</field>  
+<field name="location">63.1377,-142.5244</field>  
+<field name="words">2</field>  
+<field name="chars">15</field>  
+</doc></add>

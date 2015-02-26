@@ -1,0 +1,256 @@
+<add><doc>
+<field name="id">tau-830-28</field>  
+<field name="name">Ay ay tl'aan k'at'eey dahda' tuu shyiit tashtahteel.</field> 
+<field name="language">Upper_Tanana</field> 
+<field name="iso639-3">tau</field> 
+<field name="vernacularsentence">Ay ay tl'aan k'at'eey dahda' tuu shyiit tashtahteel.</field>  
+<field name="translatedsentence">And then the river wouldn't have carried me along.</field>
+<field name="author">UTOLAF12Jul1201-001</field>
+<field name="aadgID">UTOLAF12Jul1201-001</field>
+<field name="lg">Upper Tanana</field>
+<field name="dialect">Northway</field>
+<field name="recordingname">UTOLAF12Jul1201</field>
+<field name="recordingdate">July 12, 2012</field>
+<field name="anlalink"></field>
+<field name="editedbyspeaker">False</field>
+<field name="editedbylinguist">False</field>
+<field name="rejectedbyspeaker">False</field>
+<field name="speaker">Avis Sam</field>
+<field name="source"></field>
+<field name="recordinglinguist">Olga Lovick</field>
+<field name="texttype">elicited, storyboard</field> 
+<!-- Join --> 
+<field name="vernacularword">Ay</field>
+<field name="vernacularword">ay</field>
+<field name="vernacularword">tl'aan</field>
+<field name="vernacularword">k'at'eey</field>
+<field name="vernacularword">dahda'</field>
+<field name="vernacularword">tuu</field>
+<field name="vernacularword">shyiit</field>
+<field name="vernacularword">tashtahteel</field> 
+<field name="translatedword">And</field>
+<field name="translatedword">then</field>
+<field name="translatedword">carried</field>
+<field name="translatedword">wouldn't</field>
+<field name="translatedword">me</field>
+<field name="translatedword">have</field>
+<field name="translatedword">the</field>
+<field name="translatedword">river</field>
+<field name="translatedword">along</field> 
+<field name="coordination">AND</field>
+<field name="participant_roles">time</field>
+<field name="participant_roles">path</field> 
+<field name="gloss">and</field>
+<field name="gloss">Ł</field>
+<field name="gloss">FUT</field>
+<field name="gloss">ANIM</field>
+<field name="gloss">1SG</field>
+<field name="gloss">INCEP</field>
+<field name="gloss">IPFV</field>
+<field name="gloss">CNJ</field>
+<field name="gloss">CLF</field>
+<field name="gloss">NEG</field>
+<field name="gloss">carry</field>
+<field name="gloss">water</field>
+<field name="gloss">SBJ</field>
+<field name="gloss">downriver</field>
+<field name="gloss">in</field>
+<field name="gloss">not</field>
+<field name="gloss">OBJ</field>
+<field name="gloss">3SG</field>
+<field name="gloss">PRFX</field>
+<field name="gloss">GH</field>
+<field name="lingex">[div class="item xlevel0"] 
+ [div class="label"]Ay ay tl'aan k'at'eey dahda' tuu shyiit tashtahteel.[/div]
+  [div class="children"]
+   [div class="item xlevel1"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]ay tl'aan[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]tl'aan[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tl'aan[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]k'at'eey dahda'[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]not[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]dahda'[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]dah-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]PRFX-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]da'[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]downriver[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]tuu shyiit tashtahteel.[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]tuu[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tuu[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]water[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]shyiit[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]shyiit[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]in[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]tashtahteel[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ta-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]water-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]sh-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]1SG.OBJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]3SG.SBJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]t-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]INCEP-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]aa-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]GH.CNJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]IPFV-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]h-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]Ł.CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]teel[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]carry.ANIM.FUT.NEG[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]</field>  
+<field name="location">63.1377,-142.5244</field>  
+<field name="words">8</field>  
+<field name="chars">52</field>  
+</doc></add>

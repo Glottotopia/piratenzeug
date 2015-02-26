@@ -1,0 +1,232 @@
+<add><doc>
+<field name="id">tau-830-43</field>  
+<field name="name">Tädn eh John, "Än ti'uhhaay nts'ą̈' tsät uhttheel."</field> 
+<field name="language">Upper_Tanana</field> 
+<field name="iso639-3">tau</field> 
+<field name="vernacularsentence">Tädn eh John, "Än ti'uhhaay nts'ą̈' tsät uhttheel."</field>  
+<field name="translatedsentence">One night John: "I want to go out and chop wood."</field>
+<field name="author">UTOLAF12Jul1201-001</field>
+<field name="aadgID">UTOLAF12Jul1201-001</field>
+<field name="lg">Upper Tanana</field>
+<field name="dialect">Northway</field>
+<field name="recordingname">UTOLAF12Jul1201</field>
+<field name="recordingdate">July 12, 2012</field>
+<field name="anlalink"></field>
+<field name="editedbyspeaker">False</field>
+<field name="editedbylinguist">False</field>
+<field name="rejectedbyspeaker">False</field>
+<field name="speaker">Avis Sam</field>
+<field name="source"></field>
+<field name="recordinglinguist">Olga Lovick</field>
+<field name="texttype">elicited, storyboard</field> 
+<!-- Join --> 
+<field name="vernacularword">Tädn</field>
+<field name="vernacularword">eh</field>
+<field name="vernacularword">John</field>
+<field name="vernacularword">Än</field>
+<field name="vernacularword">ti'uhhaay</field>
+<field name="vernacularword">nts'ą̈'</field>
+<field name="vernacularword">tsät</field>
+<field name="vernacularword">uhttheel</field> 
+<field name="translatedword">and</field>
+<field name="translatedword">I</field>
+<field name="translatedword">One</field>
+<field name="translatedword">chop</field>
+<field name="translatedword">to</field>
+<field name="translatedword">wood</field>
+<field name="translatedword">want</field>
+<field name="translatedword">night</field>
+<field name="translatedword">go</field>
+<field name="translatedword">John</field>
+<field name="translatedword">out</field> 
+<field name="modality">modality</field>
+<field name="coordination">AND</field> 
+<field name="gloss">and</field>
+<field name="gloss">OPT</field>
+<field name="gloss">1SG</field>
+<field name="gloss">CLF</field>
+<field name="gloss">J</field>
+<field name="gloss">chop</field>
+<field name="gloss">go</field>
+<field name="gloss">wood</field>
+<field name="gloss">REL</field>
+<field name="gloss">night</field>
+<field name="gloss">SBJ</field>
+<field name="gloss">Ø</field>
+<field name="gloss">SG</field>
+<field name="gloss">out</field>
+<field name="lingex">[div class="item xlevel0"] 
+ [div class="label"]Tädn eh John, "Än ti'uhhaay nts'ą̈' tsät uhttheel."[/div]
+  [div class="children"]
+   [div class="item xlevel1"] 
+ [div class="label"]tädn eh John[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]tädn[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tädn[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]night[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]eh[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]eh[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]John[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]John[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]J.[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]än ti'uhhaay nts'ą̈' [ts'ät tih] tsät uhttheel[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]än[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]än[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]out[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]ti'uhhaay[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ti-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]out-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]u-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]OPT-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ih-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]1SG.SBJ.Ø-CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]haayh[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]SG.go.OPT[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]-V[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]-REL[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]nts'ą̈'[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]nts'ą̈'[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]tsät[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tsät[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]wood[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]uhttheel[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]u-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]OPT-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ih-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]1SG.SBJ:Ø.CLF[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ttheeł[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]chop.OPT[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]-V[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]-REL[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]</field>  
+<field name="location">63.1377,-142.5244</field>  
+<field name="words">8</field>  
+<field name="chars">51</field>  
+</doc></add>

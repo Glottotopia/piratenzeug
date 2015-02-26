@@ -1,0 +1,133 @@
+<add><doc>
+<field name="id">tau-830-24</field>  
+<field name="name">Ut'ah kitdagnnąy.</field> 
+<field name="language">Upper_Tanana</field> 
+<field name="iso639-3">tau</field> 
+<field name="vernacularsentence">Ut'ah kitdagnnąy.</field>  
+<field name="translatedsentence">I fall over</field>
+<field name="author">UTOLAF12Jul1201-001</field>
+<field name="aadgID">UTOLAF12Jul1201-001</field>
+<field name="lg">Upper Tanana</field>
+<field name="dialect">Northway</field>
+<field name="recordingname">UTOLAF12Jul1201</field>
+<field name="recordingdate">July 12, 2012</field>
+<field name="anlalink"></field>
+<field name="editedbyspeaker">False</field>
+<field name="editedbylinguist">False</field>
+<field name="rejectedbyspeaker">False</field>
+<field name="speaker">Avis Sam</field>
+<field name="source"></field>
+<field name="recordinglinguist">Olga Lovick</field>
+<field name="texttype">elicited, storyboard</field> 
+<!-- Join --> 
+<field name="vernacularword">Ut'ah</field>
+<field name="vernacularword">kitdagnnąy</field> 
+<field name="translatedword">I</field>
+<field name="translatedword">over</field>
+<field name="translatedword">fall</field> 
+ 
+<field name="gloss">SBJ</field>
+<field name="gloss">OBJ</field>
+<field name="gloss">INCEP</field>
+<field name="gloss">IPFV</field>
+<field name="gloss">over</field>
+<field name="gloss">L</field>
+<field name="gloss">QUAL</field>
+<field name="gloss">fall</field>
+<field name="gloss">foot</field>
+<field name="gloss">1SG</field>
+<field name="gloss">3SG</field>
+<field name="gloss">CNJ</field>
+<field name="gloss">CLF</field>
+<field name="gloss">GH</field>
+<field name="lingex">[div class="item xlevel0"] 
+ [div class="label"]Ut'ah kitdagnnąy.[/div]
+  [div class="children"]
+   [div class="item xlevel1"] 
+ [div class="label"]ut'ah kitdagnnąy[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]ut'ah[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]u-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]3SG.OBJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]t'ah[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]over[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]kitdagnnąy[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ki-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]foot-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]t-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]INCEP-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]d-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]QUAL-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]aa-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]GH.CNJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]IPFV-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ag-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]1SG.SBJ:L.CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]nąy[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]fall[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]</field>  
+<field name="location">63.1377,-142.5244</field>  
+<field name="words">2</field>  
+<field name="chars">17</field>  
+</doc></add>

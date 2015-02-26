@@ -1,0 +1,43 @@
+#**
+ *  Called for each matching document but then
+ *  calls one of product_doc, join_doc or richtext_doc
+ *  depending on which fields the doc has
+ *#
+
+#set($docId = $doc.getFieldValue('id'))
+
+<div class="result-document">
+<div class="result-title"><b>$doc.getFieldValue('title')</b>
+<span class="mlt">  
+#if($params.getBool('mlt', false) == false)
+    <a href="#lensNoQ&q=id:$docId&mlt=true">&Auml;hnliche Antr&auml;ge</a>
+#end
+</span>
+</div>
+ 
+<div>Id: #field('id')</div>
+## <div>Typ: #field('typ')</div>
+<div>Date: #field('Date')</div> 
+## <div>Titel: #field('title')</div> 
+## <div>Text: #field('text')</div> 
+<div>Regelwerk: #field('regelwerk')</div> 
+<div>Ergebnis: #field('result')</div> 
+<div>ja: #field('yes')</div> 
+<div>nein: #field('no')</div> 
+<div>ja: #field('yespercentage')%</div> 
+<div>nein: #field('nopercentage')%</div> 
+<div>Enthaltung: #field('abstention')</div> 
+<div>Organ: #field('organ')</div> 
+<div>Konkurrierende Initiative: #field('competinginitiatives')</div> 
+<div>Text: 
+$doc.getFieldValue('bb').replace('[','<').replace(']','>')
+
+## #field('bb').replace('[','<').replace(']','>')
+</div> 
+## <div>Bezirk: #field('bezirk')</div>
+## <div>Partei: #field('partei')</div>
+## <div>Status: <span class="#field('status')">#field('status')</span></div>
+## <div>ALLRis: <a href="#field('url')"> #field('url') </a></div>
+#parse('debug.vm')
+
+</div>

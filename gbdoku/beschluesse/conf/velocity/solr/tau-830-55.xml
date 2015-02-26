@@ -1,0 +1,170 @@
+<add><doc>
+<field name="id">tau-830-55</field>  
+<field name="name">Ay tl'aan mänh shyiit ta'altth'ät.</field> 
+<field name="language">Upper_Tanana</field> 
+<field name="iso639-3">tau</field> 
+<field name="vernacularsentence">Ay tl'aan mänh shyiit ta'altth'ät.</field>  
+<field name="translatedsentence">And then she falls into the lake.</field>
+<field name="author">UTOLAF12Jul1201-001</field>
+<field name="aadgID">UTOLAF12Jul1201-001</field>
+<field name="lg">Upper Tanana</field>
+<field name="dialect">Northway</field>
+<field name="recordingname">UTOLAF12Jul1201</field>
+<field name="recordingdate">July 12, 2012</field>
+<field name="anlalink"></field>
+<field name="editedbyspeaker">False</field>
+<field name="editedbylinguist">False</field>
+<field name="rejectedbyspeaker">False</field>
+<field name="speaker">Avis Sam</field>
+<field name="source"></field>
+<field name="recordinglinguist">Olga Lovick</field>
+<field name="texttype">elicited, storyboard</field> 
+<!-- Join --> 
+<field name="vernacularword">Ay</field>
+<field name="vernacularword">tl'aan</field>
+<field name="vernacularword">mänh</field>
+<field name="vernacularword">shyiit</field>
+<field name="vernacularword">ta'altth'ät</field> 
+<field name="translatedword">And</field>
+<field name="translatedword">then</field>
+<field name="translatedword">into</field>
+<field name="translatedword">lake</field>
+<field name="translatedword">falls</field>
+<field name="translatedword">she</field>
+<field name="translatedword">the</field> 
+<field name="coordination">AND</field>
+<field name="participant_roles">time</field> 
+<field name="gloss">and</field>
+<field name="gloss">into</field>
+<field name="gloss">fall</field>
+<field name="gloss">lake</field>
+<field name="gloss">L</field>
+<field name="gloss">water</field>
+<field name="gloss">PFV</field>
+<field name="gloss">SBJ</field>
+<field name="gloss">3SG</field>
+<field name="gloss">CNJ</field>
+<field name="gloss">CLF</field>
+<field name="gloss">GH</field>
+<field name="lingex">[div class="item xlevel0"] 
+ [div class="label"]Ay tl'aan mänh shyiit ta'altth'ät.[/div]
+  [div class="children"]
+   [div class="item xlevel1"] 
+ [div class="label"]ay tl'aan[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ay[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]tl'aan[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tl'aan[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]and[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]mänh shyiit ta'altth'ät[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]mänh[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]mänh[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]lake[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]shyiit[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]shyiit[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]into[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]ta'altth'ät[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ta-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]into.water-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]3SG.SBJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]aa-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]GH.CNJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]į-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]PFV-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]l-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]L.CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]tth'ät[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]fall[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]</field>  
+<field name="location">63.1377,-142.5244</field>  
+<field name="words">5</field>  
+<field name="chars">34</field>  
+</doc></add>

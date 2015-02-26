@@ -1,0 +1,266 @@
+<add><doc>
+<field name="id">tau-830-27</field>  
+<field name="name">K'at'eey tsät įįttheel de' k'at'eey tuu shyiit tatagntth'äl.</field> 
+<field name="language">Upper_Tanana</field> 
+<field name="iso639-3">tau</field> 
+<field name="vernacularsentence">K'at'eey tsät įįttheel de' k'at'eey tuu shyiit tatagntth'äl.</field>  
+<field name="translatedsentence">If you had not cut wood, then I would not have fallen into the water.</field>
+<field name="author">UTOLAF12Jul1201-001</field>
+<field name="aadgID">UTOLAF12Jul1201-001</field>
+<field name="lg">Upper Tanana</field>
+<field name="dialect">Northway</field>
+<field name="recordingname">UTOLAF12Jul1201</field>
+<field name="recordingdate">July 12, 2012</field>
+<field name="anlalink"></field>
+<field name="editedbyspeaker">False</field>
+<field name="editedbylinguist">False</field>
+<field name="rejectedbyspeaker">False</field>
+<field name="speaker">Avis Sam</field>
+<field name="source"></field>
+<field name="recordinglinguist">Olga Lovick</field>
+<field name="texttype">elicited, storyboard</field> 
+<!-- Join --> 
+<field name="vernacularword">K'at'eey</field>
+<field name="vernacularword">tsät</field>
+<field name="vernacularword">įįttheel</field>
+<field name="vernacularword">de'</field>
+<field name="vernacularword">k'at'eey</field>
+<field name="vernacularword">tuu</field>
+<field name="vernacularword">shyiit</field>
+<field name="vernacularword">tatagntth'äl</field> 
+<field name="translatedword">then</field>
+<field name="translatedword">cut</field>
+<field name="translatedword">would</field>
+<field name="translatedword">I</field>
+<field name="translatedword">into</field>
+<field name="translatedword">had</field>
+<field name="translatedword">water</field>
+<field name="translatedword">wood</field>
+<field name="translatedword">have</field>
+<field name="translatedword">not</field>
+<field name="translatedword">you</field>
+<field name="translatedword">fallen</field>
+<field name="translatedword">the</field>
+<field name="translatedword">If</field> 
+<field name="participant_roles">condition</field>
+<field name="participant_roles">time</field>
+<field name="sentence_type">complex</field> 
+<field name="gloss">water</field>
+<field name="gloss">FUT</field>
+<field name="gloss">1SG</field>
+<field name="gloss">INCEP</field>
+<field name="gloss">IPFV</field>
+<field name="gloss">NEG</field>
+<field name="gloss">CLF</field>
+<field name="gloss">2SG</field>
+<field name="gloss">L</field>
+<field name="gloss">chop</field>
+<field name="gloss">SBJ</field>
+<field name="gloss">wood</field>
+<field name="gloss">fall</field>
+<field name="gloss">not</field>
+<field name="gloss">Ø</field>
+<field name="gloss">GH</field>
+<field name="gloss">CNJ</field>
+<field name="gloss">into</field>
+<field name="gloss">if</field>
+<field name="lingex">[div class="item xlevel0"] 
+ [div class="label"]K'at'eey tsät įįttheel de' k'at'eey tuu shyiit tatagntth'äl.[/div]
+  [div class="children"]
+   [div class="item xlevel1"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]not[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]tsät įįttheel[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]tsät[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tsät[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]wood[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]įįttheel[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]i-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]NEG-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]į-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]2SG.SBJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]Ø.CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ttheel[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]chop.NEG[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]de'[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]de'[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]de'[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]if[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]k'at'eey[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]not[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel1"] 
+ [div class="label"]tuu shyiit tatagntth'äl[/div]
+  [div class="children"]
+   [div class="item xlevel2"] 
+ [div class="label"]tuu[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]tuu[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]water[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]shyiit[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]shyiit[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]into[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+[div class="item xlevel2"] 
+ [div class="label"]tatagntth'äl[/div]
+  [div class="children"]
+   [div class="item xlevel3"] 
+ [div class="label"]ta-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]into.water-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]t-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]INCEP-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]aa-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]GH.CNJ-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]Ø-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]IPFV-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]ag-[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]1SG.SBJ:L.CLF-[/div]
+  [/div]
+[div class="item xlevel3"] 
+ [div class="label"]tth'äl[/div]
+  [div class="children"]
+   
+  [/div]  
+ [div class="translation"]fall.FUT.NEG[/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]
+  [/div]  
+ [div class="translation"] [/div]
+  [/div]</field>  
+<field name="location">63.1377,-142.5244</field>  
+<field name="words">8</field>  
+<field name="chars">60</field>  
+</doc></add>
