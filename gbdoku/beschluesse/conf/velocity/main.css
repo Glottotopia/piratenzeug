@@ -237,9 +237,9 @@ position:relative;
   top: -25px;  
 }
 
-.result-document:nth-child(2n+1) {
+/*.result-document:nth-child(2n+1) {
   background-color: #cEbF97;
-}
+}*/
 
 
 .selected-facet-field {
@@ -972,7 +972,10 @@ a{
 line-height:120%;
 }
 
-.draft_content{
-    max-height:400px;
+.draft_content, .draft{
+    max-height:200px;
     overflow-y:auto;
+    background: #fec;
+    padding:5px;
+    font-size:70%;
 }

@@ -6,6 +6,9 @@
 
 #set($docId = $doc.getFieldValue('id'))
 
+#set($yespercentage = $doc.getFieldValue('yespercentage'))
+#set($nopercentage = $doc.getFieldValue('nopercentage'))
+
 <div class="result-document">
 <div class="result-title"><b>$doc.getFieldValue('title')</b>
 <span class="mlt">  
@@ -20,16 +23,31 @@
 ## <div>Date: #field('Date')</div> 
 ## <div>Titel: #field('title')</div> 
 ## <div>Text: #field('text')</div> 
-<div><span>#field('organ')</span><span>#field('unit')</span> <span>(#field('id'))</span></div> 
-<div><span>#field('area')</span><span>#field('regelwerk')</span></div>  
+<div>
+## <span>#field('organ')</span>
+## <span>#field('unit')</span> 
+<div>
+<span>#field('area')</span>&mdash;<span>#field('regelwerk')</span>
+</div>  
+<span>#field('id')</span>
+<span>(#field('result'))</span> 
+<div>Konkurrierende Initiativen: #field('competinginitiatives')</div> 
+</div> 
+
+<div> 
+<div>
+    <div title="#field('yes')($yespercentage%)" style="width:$yespercentage%;background:green;display:inline-block;font-size:20%;" >&nbsp;</div>
+    
+</div> 
+<div>
+    <div title="#field('no')($nopercentage%)" style="width:$nopercentage%;background:red;display:inline-block;font-size:20%;">&nbsp;</div>
+    
+</div>
 
 <div>
-<span>ja: #field('yes')</span> <span> (#field('yespercentage')%)</span> 
-<span>nein: #field('no')</span> <span> (#field('nopercentage')%)</span> 
-<span>Enthaltung: #field('abstention')</span> 
+<span>Enthaltung: #field('abstention')</span> </div>
 </div>
-<div>#field('result')</div> 
-<div>Konkurrierende Initiativen: #field('competinginitiatives')</div> 
+
 
 <div> 
 $doc.getFieldValue('bb').replace('[','<').replace(']','>')
