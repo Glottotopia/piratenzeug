@@ -926,14 +926,21 @@
        <str name="rows">10</str>
        <str name="fl">* score</str>
  
-       <str name="mlt.qf"> 
-          text^2.0 title^3.0  
+ 
+	
+       
+       <str name="mlt.qf">
+          text^0.5  word^10.0  
        </str>
-       <str name="mlt.fl">text</str>
-       <int name="mlt.count">3</int>
-       <str name="mlt.mintf">2</str>
-       <str name="mlt.mindf">2</str>
+       <str name="mlt.fl">word</str>
+       <int name="mlt.count">3</int> 
+
+	<str name="mlt.mintf">1</str>
+
+	<str name="mlt.mindf">1</str>
+
 	<str name="mlt.boost">true</str>
+	
 
        <!-- Faceting defaults -->
        <str name="facet">on</str>  

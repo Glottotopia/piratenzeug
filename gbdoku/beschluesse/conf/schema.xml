@@ -120,6 +120,9 @@
     <field name="area" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="unit" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="regelwerk" type="string" indexed="true" stored="true" multiValued="true"/>
+    
+    <field name="word" type="string"  indexed="true" stored="true" multiValued="true" termVectors="true"/>
+    
     <field name="result" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="yes"  type="float" indexed="true" stored="true"/>
     <field name="no"  type="float" indexed="true" stored="true"/>
